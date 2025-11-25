@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EPG Viewer</title>
+  <style>
+    body { font-family: sans-serif; margin: 20px; }
+    select, button { padding: 6px; margin: 4px 0; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 4px 6px; font-size: 14px; }
+    th { background: #f5f5f5; }
+  </style>
+</head>
+<body>
+  <h1>EPG Viewer (IST)</h1>
+
+  <label for="channelSelect">Channel:</label>
+  <select id="channelSelect"></select>
+  <button id="loadBtn">Load Schedule</button>
+
+  <p id="status"></p>
+
+  <table id="epgTable">
+    <thead>
+      <tr>
+        <th>Start (IST)</th>
+        <th>Stop (IST)</th>
+        <th>Title</th>
+        <th>Sub-title</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    const BASE = "https://kunani1.github.io/epg-1";
+
+    const channelSelect = document.getElementById("channelSelect");
+    const statusEl = document.getElementById("status");
+    const tbody = document.querySelector("#epgTable tbody");
+    const loadBtn = document.getElementById("loadBtn");
+
+    async function loadChannels() {
+      statusEl.textContent = "Loading channels...";
+      try {
+        const res = await fetch(`${BASE}/channels.json`);
+        const channels = await res.json();
+        channelSelect.innerHTML = "";
+        for (const ch of channels) {
+          const opt = document.createElement("option");
+          opt.value = ch.channel;
+          opt.textContent = `${ch.channel} (${ch.count} programmes)`;
+          channelSelect.appendChild(opt);
+        }
+        statusEl.textContent = `Loaded ${channels.length} channels.`;
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent = "Failed to load channels.";
+      }
+    }
+
+    async function loadChannelEPG() {
+      const channelId = channelSelect.value;
+      if (!channelId) return;
+      statusEl.textContent = `Loading EPG for channel ${channelId}...`;
+      tbody.innerHTML = "";
+      try {
+        const res = await fetch(`${BASE}/epg/${channelId}.json`);
+        const epg = await res.json();
+        for (const p of epg) {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${p.start}</td>
+            <td>${p.stop}</td>
+            <td>${p.title}</td>
+            <td>${p.subTitle || ""}</td>
+          `;
+          tbody.appendChild(tr);
+        }
+        statusEl.textContent = `Loaded ${epg.length} programmes for channel ${channelId}.`;
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent = "Failed to load EPG.";
+      }
+    }
+
+    loadBtn.addEventListener("click", loadChannelEPG);
+    loadChannels();
+  </script>
+</body>
+</html>

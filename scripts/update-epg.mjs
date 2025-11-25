@@ -3,10 +3,7 @@ import fs from "fs";
 import path from "path";
 import zlib from "zlib";
 
-const EPG_SOURCES = [
-  "https://tsepg.cf/jio.xml.gz",
-  "http://tsepg.cf/epg.xml.gz",
-];
+const EPG_URL = "https://tsepg.cf/jio.xml.gz";
 
 function stripTags(s) {
   return s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
@@ -102,11 +99,11 @@ function parseEPGProgrammes(xml) {
   return programmes;
 }
 
-async function downloadAndParseEPG(url) {
-  console.log("Downloading:", url);
-  const res = await fetch(url);
+async function downloadAndParseEPG() {
+  console.log("Downloading:", EPG_URL);
+  const res = await fetch(EPG_URL);
   if (!res.ok) {
-    throw new Error(`Download failed (${url}): ${res.status} ${res.statusText}`);
+    throw new Error(`Download failed: ${res.status} ${res.statusText}`);
   }
 
   const arrayBuffer = await res.arrayBuffer();
@@ -118,7 +115,7 @@ async function downloadAndParseEPG(url) {
 
   console.log("Parsing XML…");
   const programmes = parseEPGProgrammes(xmlText);
-  console.log(`Parsed programmes from ${url}: ${programmes.length}`);
+  console.log(`Parsed programmes: ${programmes.length}`);
 
   return programmes;
 }
@@ -141,19 +138,8 @@ function ensureDir(dir) {
 
 async function main() {
   try {
-    const allProgrammes = [];
-    const sourcesMeta = [];
-
-    // download+parse all sources
-    for (const url of EPG_SOURCES) {
-      const programmes = await downloadAndParseEPG(url);
-      allProgrammes.push(...programmes);
-      sourcesMeta.push({ url, count: programmes.length });
-    }
-
-    console.log("Total merged programmes:", allProgrammes.length);
-
-    const byChannel = groupByChannel(allProgrammes);
+    const programmes = await downloadAndParseEPG();
+    const byChannel = groupByChannel(programmes);
 
     const outRoot = path.join(process.cwd(), "public");
     const epgDir = path.join(outRoot, "epg");
@@ -181,11 +167,11 @@ async function main() {
     // meta info
     const meta = {
       lastUpdate: new Date().toISOString(),
-      totalProgrammes: allProgrammes.length,
+      totalProgrammes: programmes.length,
       totalChannels: channelsIndex.length,
       timeZone: "Asia/Kolkata (IST, UTC+5:30)",
       note: "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps.",
-      sources: sourcesMeta,
+      source: EPG_URL
     };
     fs.writeFileSync(
       path.join(outRoot, "meta.json"),

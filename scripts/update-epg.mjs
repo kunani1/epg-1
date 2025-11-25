@@ -9,7 +9,63 @@ function stripTags(s) {
   return s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 }
 
-// Parse XMLTV <programme> entries (similar to your worker)
+// Parse XMLTV timestamp → Date (UTC)
+// Supports: "YYYYMMDDHHMMSS", "YYYYMMDDHHMMSS Z", "YYYYMMDDHHMMSS +0530", "YYYYMMDDHHMMSS+0530"
+function parseXmltvTime(ts) {
+  if (!ts) return null;
+  ts = String(ts).trim();
+
+  // Match base datetime + optional timezone part
+  const m = ts.match(/^(\d{14})(?:\s*([+-]\d{2}:?\d{2}|[+-]\d{4}|Z))?/i);
+  if (!m) return null;
+
+  const dt = m[1];
+  const tz = m[2] ?? null;
+
+  const y = Number(dt.slice(0, 4));
+  const mo = Number(dt.slice(4, 6)) - 1;
+  const d = Number(dt.slice(6, 8));
+  const h = Number(dt.slice(8, 10));
+  const min = Number(dt.slice(10, 12));
+  const s = Number(dt.slice(12, 14));
+
+  // Start as if time is in UTC
+  let utcMillis = Date.UTC(y, mo, d, h, min, s);
+
+  if (tz && tz.toUpperCase() !== "Z") {
+    // "+0530", "+05:30", "-0100", etc.
+    const tzClean = tz.replace(":", "");
+    const sign = tzClean[0] === "-" ? -1 : 1;
+    const hh = Number(tzClean.slice(1, 3));
+    const mm = Number(tzClean.slice(3, 5));
+    const offsetMinutes = sign * (hh * 60 + mm);
+    // Convert local-with-offset → UTC
+    utcMillis -= offsetMinutes * 60 * 1000;
+  }
+
+  return new Date(utcMillis);
+}
+
+// Convert XMLTV timestamp string → "YYYY-MM-DD HH:MM:SS IST"
+function formatTimeIST(originalTs) {
+  const dateUtc = parseXmltvTime(originalTs);
+  if (!dateUtc) return originalTs || "";
+
+  // IST = UTC + 5:30
+  const istMillis = dateUtc.getTime() + 5.5 * 3600 * 1000;
+  const ist = new Date(istMillis);
+
+  const yyyy = ist.getFullYear();
+  const mm = String(ist.getMonth() + 1).padStart(2, "0");
+  const dd = String(ist.getDate()).padStart(2, "0");
+  const hh = String(ist.getHours()).padStart(2, "0");
+  const mi = String(ist.getMinutes()).padStart(2, "0");
+  const ss = String(ist.getSeconds()).padStart(2, "0");
+
+  return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss} IST`;
+}
+
+// Parse XMLTV <programme> entries and convert times to IST
 function parseEPGProgrammes(xml) {
   const programmes = [];
   const progRegex = /<programme\b([^>]*)>([\s\S]*?)<\/programme>/gi;
@@ -27,9 +83,14 @@ function parseEPGProgrammes(xml) {
       /<(?:sub-title|sub_title)[^>]*>([\s\S]*?)<\/(?:sub-title|sub_title)>/i
     );
 
+    const startRaw = attrs.start ?? "";
+    const stopRaw = attrs.stop ?? "";
+
     programmes.push({
-      start: attrs.start ?? "",
-      stop: attrs.stop ?? "",
+      startRaw,
+      stopRaw,
+      start: formatTimeIST(startRaw), // IST formatted string
+      stop: formatTimeIST(stopRaw),   // IST formatted string
       channel: attrs.channel ?? attrs["channel"] ?? "",
       title: titleMatch ? stripTags(titleMatch[1]).trim() : "Untitled",
       subTitle: subtitleMatch ? stripTags(subtitleMatch[1]).trim() : ""
@@ -87,14 +148,13 @@ async function main() {
 
     const channelsIndex = [];
 
-    console.log("Writing per-channel JSON files…");
+    console.log("Writing per-channel JSON files (with IST times)...");
     for (const [channelId, list] of byChannel.entries()) {
       const outPath = path.join(epgDir, `${channelId}.json`);
       fs.writeFileSync(outPath, JSON.stringify(list, null, 2), "utf8");
       channelsIndex.push({ channel: channelId, count: list.length });
     }
 
-    // Sort channel index for convenience
     channelsIndex.sort((a, b) => a.channel.localeCompare(b.channel));
 
     // channels index
@@ -109,6 +169,8 @@ async function main() {
       lastUpdate: new Date().toISOString(),
       totalProgrammes: programmes.length,
       totalChannels: channelsIndex.length,
+      timeZone: "Asia/Kolkata (IST, UTC+5:30)",
+      note: "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps.",
       source: EPG_URL
     };
     fs.writeFileSync(

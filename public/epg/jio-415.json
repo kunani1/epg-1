@@ -253,12 +253,21 @@
   },
   {
     "startRaw": "20251125183000",
-    "stopRaw": "20251125193000",
+    "stopRaw": "20251125192200",
     "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
+    "stop": "2025-11-26 00:52:00 IST",
     "channel": "jio-415",
     "title": "Devaru Bekagiddare",
     "subTitle": "Ranganna adopts a baby who is the sole survivor of a road accident and names him Appu. When Ranganna dies, a devastated Appu looks for his biological family."
+  },
+  {
+    "startRaw": "20251125192200",
+    "stopRaw": "20251125193000",
+    "start": "2025-11-26 00:52:00 IST",
+    "stop": "2025-11-26 01:00:00 IST",
+    "channel": "jio-415",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
   },
   {
     "startRaw": "20251125193000",
@@ -271,12 +280,30 @@
   },
   {
     "startRaw": "20251125203000",
-    "stopRaw": "20251125233000",
+    "stopRaw": "20251125224500",
     "start": "2025-11-26 02:00:00 IST",
+    "stop": "2025-11-26 04:15:00 IST",
+    "channel": "jio-415",
+    "title": "Raja Ko Rani Se Pyar Ho Gaya",
+    "subTitle": "A man raised to believe in fairy tales falls in love with a woman he saved from drowning. He goes to great lengths to win the affection of this woman, who he believes to be a mermaid princess."
+  },
+  {
+    "startRaw": "20251125224500",
+    "stopRaw": "20251125232400",
+    "start": "2025-11-26 04:15:00 IST",
+    "stop": "2025-11-26 04:54:00 IST",
+    "channel": "jio-415",
+    "title": "Ramayan",
+    "subTitle": "Lord Rama strives to overcome various challenges in order to defeat the evil forces and rescue his wife, Sita, from Ravana."
+  },
+  {
+    "startRaw": "20251125232400",
+    "stopRaw": "20251125233000",
+    "start": "2025-11-26 04:54:00 IST",
     "stop": "2025-11-26 05:00:00 IST",
     "channel": "jio-415",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
   },
   {
     "startRaw": "20251125233000",

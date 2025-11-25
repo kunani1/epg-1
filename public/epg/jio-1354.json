@@ -338,8 +338,8 @@
     "start": "2025-11-25 06:00:00 IST",
     "stop": "2025-11-25 06:30:00 IST",
     "channel": "jio-1354",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+    "title": "TWR Premdhara",
+    "subTitle": "A religious leader sheds light on various biblical teachings and principles whilst encouraging the devotees to reflect on the same."
   },
   {
     "startRaw": "20251125010000",
@@ -604,26 +604,44 @@
   },
   {
     "startRaw": "20251125183000",
-    "stopRaw": "20251125213000",
+    "stopRaw": "20251125204500",
     "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
+    "stop": "2025-11-26 02:15:00 IST",
     "channel": "jio-1354",
     "title": "Dabangg 3",
     "subTitle": "Chulbul Pandey, a corrupt police officer, leads a happy life with his wife and family. However, when his past enemy returns to wreak havoc, he must protect his loved ones from harm."
   },
   {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
+    "startRaw": "20251125204500",
+    "stopRaw": "20251125212800",
+    "start": "2025-11-26 02:15:00 IST",
+    "stop": "2025-11-26 02:58:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251125212800",
+    "stopRaw": "20251125234000",
+    "start": "2025-11-26 02:58:00 IST",
+    "stop": "2025-11-26 05:10:00 IST",
     "channel": "jio-1354",
     "title": "Sri Rama Rajyam",
     "subTitle": "Lord Rama rescues his wife, Sita, from Ravana and returns to Ayodhya. However, due to an unexpected turn of events, he exiles Sita, after which she faces several challenges."
   },
   {
-    "startRaw": "20251126003000",
+    "startRaw": "20251125234000",
+    "stopRaw": "20251126002700",
+    "start": "2025-11-26 05:10:00 IST",
+    "stop": "2025-11-26 05:57:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251126002700",
     "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
+    "start": "2025-11-26 05:57:00 IST",
     "stop": "2025-11-26 06:30:00 IST",
     "channel": "jio-1354",
     "title": "Teleshopping",

@@ -1,0 +1,632 @@
+[
+  {
+    "startRaw": "20251124190000",
+    "stopRaw": "20251124203600",
+    "start": "2025-11-25 00:30:00 IST",
+    "stop": "2025-11-25 02:06:00 IST",
+    "channel": "210",
+    "title": "Speed Kills",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124203600",
+    "stopRaw": "20251124220000",
+    "start": "2025-11-25 02:06:00 IST",
+    "stop": "2025-11-25 03:30:00 IST",
+    "channel": "210",
+    "title": "Giallo",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124220000",
+    "stopRaw": "20251124232400",
+    "start": "2025-11-25 03:30:00 IST",
+    "stop": "2025-11-25 04:54:00 IST",
+    "channel": "210",
+    "title": "Modern Times",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124232400",
+    "stopRaw": "20251125005000",
+    "start": "2025-11-25 04:54:00 IST",
+    "stop": "2025-11-25 06:20:00 IST",
+    "channel": "210",
+    "title": "Land of the Bears",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125005000",
+    "stopRaw": "20251125023300",
+    "start": "2025-11-25 06:20:00 IST",
+    "stop": "2025-11-25 08:03:00 IST",
+    "channel": "210",
+    "title": "Wild for the Night",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125023300",
+    "stopRaw": "20251125043100",
+    "start": "2025-11-25 08:03:00 IST",
+    "stop": "2025-11-25 10:01:00 IST",
+    "channel": "210",
+    "title": "The Company You Keep",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125043100",
+    "stopRaw": "20251125061800",
+    "start": "2025-11-25 10:01:00 IST",
+    "stop": "2025-11-25 11:48:00 IST",
+    "channel": "210",
+    "title": "The November Man",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125061800",
+    "stopRaw": "20251125082200",
+    "start": "2025-11-25 11:48:00 IST",
+    "stop": "2025-11-25 13:52:00 IST",
+    "channel": "210",
+    "title": "Angels &amp; Demons",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125082200",
+    "stopRaw": "20251125101200",
+    "start": "2025-11-25 13:52:00 IST",
+    "stop": "2025-11-25 15:42:00 IST",
+    "channel": "210",
+    "title": "Serena",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125101200",
+    "stopRaw": "20251125115700",
+    "start": "2025-11-25 15:42:00 IST",
+    "stop": "2025-11-25 17:27:00 IST",
+    "channel": "210",
+    "title": "Side Effects",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125115700",
+    "stopRaw": "20251125134900",
+    "start": "2025-11-25 17:27:00 IST",
+    "stop": "2025-11-25 19:19:00 IST",
+    "channel": "210",
+    "title": "Passengers",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125134900",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 19:19:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
+    "channel": "210",
+    "title": "Texas Killing Fields",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125171900",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:49:00 IST",
+    "channel": "210",
+    "title": "The Thomas Crown Affair",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125171900",
+    "stopRaw": "20251125191200",
+    "start": "2025-11-25 22:49:00 IST",
+    "stop": "2025-11-26 00:42:00 IST",
+    "channel": "210",
+    "title": "The Silence of the Lambs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124190000",
+    "stopRaw": "20251124203600",
+    "start": "2025-11-25 00:30:00 IST",
+    "stop": "2025-11-25 02:06:00 IST",
+    "channel": "210",
+    "title": "Speed Kills",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124203600",
+    "stopRaw": "20251124220000",
+    "start": "2025-11-25 02:06:00 IST",
+    "stop": "2025-11-25 03:30:00 IST",
+    "channel": "210",
+    "title": "Giallo",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124220000",
+    "stopRaw": "20251124232400",
+    "start": "2025-11-25 03:30:00 IST",
+    "stop": "2025-11-25 04:54:00 IST",
+    "channel": "210",
+    "title": "Modern Times",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124232400",
+    "stopRaw": "20251125005000",
+    "start": "2025-11-25 04:54:00 IST",
+    "stop": "2025-11-25 06:20:00 IST",
+    "channel": "210",
+    "title": "Land of the Bears",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125005000",
+    "stopRaw": "20251125023300",
+    "start": "2025-11-25 06:20:00 IST",
+    "stop": "2025-11-25 08:03:00 IST",
+    "channel": "210",
+    "title": "Wild for the Night",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125023300",
+    "stopRaw": "20251125043100",
+    "start": "2025-11-25 08:03:00 IST",
+    "stop": "2025-11-25 10:01:00 IST",
+    "channel": "210",
+    "title": "The Company You Keep",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125043100",
+    "stopRaw": "20251125061800",
+    "start": "2025-11-25 10:01:00 IST",
+    "stop": "2025-11-25 11:48:00 IST",
+    "channel": "210",
+    "title": "The November Man",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125061800",
+    "stopRaw": "20251125082200",
+    "start": "2025-11-25 11:48:00 IST",
+    "stop": "2025-11-25 13:52:00 IST",
+    "channel": "210",
+    "title": "Angels &amp; Demons",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125082200",
+    "stopRaw": "20251125101200",
+    "start": "2025-11-25 13:52:00 IST",
+    "stop": "2025-11-25 15:42:00 IST",
+    "channel": "210",
+    "title": "Serena",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125101200",
+    "stopRaw": "20251125115700",
+    "start": "2025-11-25 15:42:00 IST",
+    "stop": "2025-11-25 17:27:00 IST",
+    "channel": "210",
+    "title": "Side Effects",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125115700",
+    "stopRaw": "20251125134900",
+    "start": "2025-11-25 17:27:00 IST",
+    "stop": "2025-11-25 19:19:00 IST",
+    "channel": "210",
+    "title": "Passengers",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125134900",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 19:19:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
+    "channel": "210",
+    "title": "Texas Killing Fields",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125171900",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:49:00 IST",
+    "channel": "210",
+    "title": "The Thomas Crown Affair",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125171900",
+    "stopRaw": "20251125191200",
+    "start": "2025-11-25 22:49:00 IST",
+    "stop": "2025-11-26 00:42:00 IST",
+    "channel": "210",
+    "title": "The Silence of the Lambs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124190000",
+    "stopRaw": "20251124203600",
+    "start": "2025-11-25 00:30:00 IST",
+    "stop": "2025-11-25 02:06:00 IST",
+    "channel": "210",
+    "title": "Speed Kills",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124203600",
+    "stopRaw": "20251124220000",
+    "start": "2025-11-25 02:06:00 IST",
+    "stop": "2025-11-25 03:30:00 IST",
+    "channel": "210",
+    "title": "Giallo",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124220000",
+    "stopRaw": "20251124232400",
+    "start": "2025-11-25 03:30:00 IST",
+    "stop": "2025-11-25 04:54:00 IST",
+    "channel": "210",
+    "title": "Modern Times",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124232400",
+    "stopRaw": "20251125005000",
+    "start": "2025-11-25 04:54:00 IST",
+    "stop": "2025-11-25 06:20:00 IST",
+    "channel": "210",
+    "title": "Land of the Bears",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125005000",
+    "stopRaw": "20251125023300",
+    "start": "2025-11-25 06:20:00 IST",
+    "stop": "2025-11-25 08:03:00 IST",
+    "channel": "210",
+    "title": "Wild for the Night",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125023300",
+    "stopRaw": "20251125043100",
+    "start": "2025-11-25 08:03:00 IST",
+    "stop": "2025-11-25 10:01:00 IST",
+    "channel": "210",
+    "title": "The Company You Keep",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125043100",
+    "stopRaw": "20251125061800",
+    "start": "2025-11-25 10:01:00 IST",
+    "stop": "2025-11-25 11:48:00 IST",
+    "channel": "210",
+    "title": "The November Man",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125061800",
+    "stopRaw": "20251125082200",
+    "start": "2025-11-25 11:48:00 IST",
+    "stop": "2025-11-25 13:52:00 IST",
+    "channel": "210",
+    "title": "Angels &amp; Demons",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125082200",
+    "stopRaw": "20251125101200",
+    "start": "2025-11-25 13:52:00 IST",
+    "stop": "2025-11-25 15:42:00 IST",
+    "channel": "210",
+    "title": "Serena",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125101200",
+    "stopRaw": "20251125115700",
+    "start": "2025-11-25 15:42:00 IST",
+    "stop": "2025-11-25 17:27:00 IST",
+    "channel": "210",
+    "title": "Side Effects",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125115700",
+    "stopRaw": "20251125134900",
+    "start": "2025-11-25 17:27:00 IST",
+    "stop": "2025-11-25 19:19:00 IST",
+    "channel": "210",
+    "title": "Passengers",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125134900",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 19:19:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
+    "channel": "210",
+    "title": "Texas Killing Fields",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125171900",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:49:00 IST",
+    "channel": "210",
+    "title": "The Thomas Crown Affair",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125171900",
+    "stopRaw": "20251125191200",
+    "start": "2025-11-25 22:49:00 IST",
+    "stop": "2025-11-26 00:42:00 IST",
+    "channel": "210",
+    "title": "The Silence of the Lambs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124190000",
+    "stopRaw": "20251124203600",
+    "start": "2025-11-25 00:30:00 IST",
+    "stop": "2025-11-25 02:06:00 IST",
+    "channel": "210",
+    "title": "Speed Kills",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124203600",
+    "stopRaw": "20251124220000",
+    "start": "2025-11-25 02:06:00 IST",
+    "stop": "2025-11-25 03:30:00 IST",
+    "channel": "210",
+    "title": "Giallo",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124220000",
+    "stopRaw": "20251124232400",
+    "start": "2025-11-25 03:30:00 IST",
+    "stop": "2025-11-25 04:54:00 IST",
+    "channel": "210",
+    "title": "Modern Times",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124232400",
+    "stopRaw": "20251125005000",
+    "start": "2025-11-25 04:54:00 IST",
+    "stop": "2025-11-25 06:20:00 IST",
+    "channel": "210",
+    "title": "Land of the Bears",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125005000",
+    "stopRaw": "20251125023300",
+    "start": "2025-11-25 06:20:00 IST",
+    "stop": "2025-11-25 08:03:00 IST",
+    "channel": "210",
+    "title": "Wild for the Night",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125023300",
+    "stopRaw": "20251125043100",
+    "start": "2025-11-25 08:03:00 IST",
+    "stop": "2025-11-25 10:01:00 IST",
+    "channel": "210",
+    "title": "The Company You Keep",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125043100",
+    "stopRaw": "20251125061800",
+    "start": "2025-11-25 10:01:00 IST",
+    "stop": "2025-11-25 11:48:00 IST",
+    "channel": "210",
+    "title": "The November Man",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125061800",
+    "stopRaw": "20251125082200",
+    "start": "2025-11-25 11:48:00 IST",
+    "stop": "2025-11-25 13:52:00 IST",
+    "channel": "210",
+    "title": "Angels &amp; Demons",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125082200",
+    "stopRaw": "20251125101200",
+    "start": "2025-11-25 13:52:00 IST",
+    "stop": "2025-11-25 15:42:00 IST",
+    "channel": "210",
+    "title": "Serena",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125101200",
+    "stopRaw": "20251125115700",
+    "start": "2025-11-25 15:42:00 IST",
+    "stop": "2025-11-25 17:27:00 IST",
+    "channel": "210",
+    "title": "Side Effects",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125115700",
+    "stopRaw": "20251125134900",
+    "start": "2025-11-25 17:27:00 IST",
+    "stop": "2025-11-25 19:19:00 IST",
+    "channel": "210",
+    "title": "Passengers",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125134900",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 19:19:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
+    "channel": "210",
+    "title": "Texas Killing Fields",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125171900",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:49:00 IST",
+    "channel": "210",
+    "title": "The Thomas Crown Affair",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125171900",
+    "stopRaw": "20251125191200",
+    "start": "2025-11-25 22:49:00 IST",
+    "stop": "2025-11-26 00:42:00 IST",
+    "channel": "210",
+    "title": "The Silence of the Lambs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124190000",
+    "stopRaw": "20251124203600",
+    "start": "2025-11-25 00:30:00 IST",
+    "stop": "2025-11-25 02:06:00 IST",
+    "channel": "210",
+    "title": "Speed Kills",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124203600",
+    "stopRaw": "20251124220000",
+    "start": "2025-11-25 02:06:00 IST",
+    "stop": "2025-11-25 03:30:00 IST",
+    "channel": "210",
+    "title": "Giallo",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124220000",
+    "stopRaw": "20251124232400",
+    "start": "2025-11-25 03:30:00 IST",
+    "stop": "2025-11-25 04:54:00 IST",
+    "channel": "210",
+    "title": "Modern Times",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251124232400",
+    "stopRaw": "20251125005000",
+    "start": "2025-11-25 04:54:00 IST",
+    "stop": "2025-11-25 06:20:00 IST",
+    "channel": "210",
+    "title": "Land of the Bears",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125005000",
+    "stopRaw": "20251125023300",
+    "start": "2025-11-25 06:20:00 IST",
+    "stop": "2025-11-25 08:03:00 IST",
+    "channel": "210",
+    "title": "Wild for the Night",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125023300",
+    "stopRaw": "20251125043100",
+    "start": "2025-11-25 08:03:00 IST",
+    "stop": "2025-11-25 10:01:00 IST",
+    "channel": "210",
+    "title": "The Company You Keep",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125043100",
+    "stopRaw": "20251125061800",
+    "start": "2025-11-25 10:01:00 IST",
+    "stop": "2025-11-25 11:48:00 IST",
+    "channel": "210",
+    "title": "The November Man",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125061800",
+    "stopRaw": "20251125082200",
+    "start": "2025-11-25 11:48:00 IST",
+    "stop": "2025-11-25 13:52:00 IST",
+    "channel": "210",
+    "title": "Angels &amp; Demons",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125082200",
+    "stopRaw": "20251125101200",
+    "start": "2025-11-25 13:52:00 IST",
+    "stop": "2025-11-25 15:42:00 IST",
+    "channel": "210",
+    "title": "Serena",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125101200",
+    "stopRaw": "20251125115700",
+    "start": "2025-11-25 15:42:00 IST",
+    "stop": "2025-11-25 17:27:00 IST",
+    "channel": "210",
+    "title": "Side Effects",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125115700",
+    "stopRaw": "20251125134900",
+    "start": "2025-11-25 17:27:00 IST",
+    "stop": "2025-11-25 19:19:00 IST",
+    "channel": "210",
+    "title": "Passengers",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125134900",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 19:19:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
+    "channel": "210",
+    "title": "Texas Killing Fields",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125171900",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:49:00 IST",
+    "channel": "210",
+    "title": "The Thomas Crown Affair",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125171900",
+    "stopRaw": "20251125191200",
+    "start": "2025-11-25 22:49:00 IST",
+    "stop": "2025-11-26 00:42:00 IST",
+    "channel": "210",
+    "title": "The Silence of the Lambs",
+    "subTitle": ""
+  }
+]

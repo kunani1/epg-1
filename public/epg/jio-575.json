@@ -505,20 +505,173 @@
   },
   {
     "startRaw": "20251125225700",
-    "stopRaw": "20251126105700",
+    "stopRaw": "20251126003000",
     "start": "2025-11-26 04:27:00 IST",
-    "stop": "2025-11-26 16:27:00 IST",
+    "stop": "2025-11-26 06:00:00 IST",
     "channel": "jio-575",
     "title": "Man, Woman, Wild",
     "subTitle": "Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources."
   },
   {
-    "startRaw": "20251126105700",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 16:27:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
+    "startRaw": "20251126003000",
+    "stopRaw": "20251126013000",
+    "start": "2025-11-26 06:00:00 IST",
+    "stop": "2025-11-26 07:00:00 IST",
+    "channel": "jio-575",
+    "title": "Gold Rush",
+    "subTitle": "Rick bets his season on firing up Monster Red and Tony's dredge suffers a major setback. Meanwhile, the McCaughans break out a crazy contraption."
+  },
+  {
+    "startRaw": "20251126013000",
+    "stopRaw": "20251126023000",
+    "start": "2025-11-26 07:00:00 IST",
+    "stop": "2025-11-26 08:00:00 IST",
+    "channel": "jio-575",
+    "title": "Facing The Unknown",
+    "subTitle": "An adventurer embarks on admission, traversing diverse unknown regions, exploring the place with minimal support and gears."
+  },
+  {
+    "startRaw": "20251126023000",
+    "stopRaw": "20251126033000",
+    "start": "2025-11-26 08:00:00 IST",
+    "stop": "2025-11-26 09:00:00 IST",
+    "channel": "jio-575",
+    "title": "Dual Survival Mexico",
+    "subTitle": "Two people embark on an adventure to put their survival skills to the test, by traversing harsh environments and overcoming challenges."
+  },
+  {
+    "startRaw": "20251126033000",
+    "stopRaw": "20251126043000",
+    "start": "2025-11-26 09:00:00 IST",
+    "stop": "2025-11-26 10:00:00 IST",
+    "channel": "jio-575",
+    "title": "Man vs. Wild",
+    "subTitle": "Bear Grylls reveals survival tactics for deserted island situations. He shows how to locate food and water sources in a harsh, isolated setting."
+  },
+  {
+    "startRaw": "20251126043000",
+    "stopRaw": "20251126053000",
+    "start": "2025-11-26 10:00:00 IST",
+    "stop": "2025-11-26 11:00:00 IST",
     "channel": "jio-575",
     "title": "Man, Woman, Wild",
     "subTitle": "Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources."
+  },
+  {
+    "startRaw": "20251126053000",
+    "stopRaw": "20251126063000",
+    "start": "2025-11-26 11:00:00 IST",
+    "stop": "2025-11-26 12:00:00 IST",
+    "channel": "jio-575",
+    "title": "Gold Rush",
+    "subTitle": "Rick's season rides on his first week of sluicing at Vegas Valley. Meanwhile, Parker confronts his bad decisions and targets a trusted location."
+  },
+  {
+    "startRaw": "20251126063000",
+    "stopRaw": "20251126073000",
+    "start": "2025-11-26 12:00:00 IST",
+    "stop": "2025-11-26 13:00:00 IST",
+    "channel": "jio-575",
+    "title": "Man vs. Wild",
+    "subTitle": "Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way."
+  },
+  {
+    "startRaw": "20251126073000",
+    "stopRaw": "20251126083000",
+    "start": "2025-11-26 13:00:00 IST",
+    "stop": "2025-11-26 14:00:00 IST",
+    "channel": "jio-575",
+    "title": "Discovery Hindi",
+    "subTitle": "The professional survivalists strive to get the better of the treacherous uninhabitated region of Colombia while focusing on the peculiarity of the locations."
+  },
+  {
+    "startRaw": "20251126083000",
+    "stopRaw": "20251126093000",
+    "start": "2025-11-26 14:00:00 IST",
+    "stop": "2025-11-26 15:00:00 IST",
+    "channel": "jio-575",
+    "title": "Marooned With Ed Stafford",
+    "subTitle": "Ed is stranded in the rainforest surroundings of Venezuela and tries to cope for 10 days without food, water or even a knife."
+  },
+  {
+    "startRaw": "20251126093000",
+    "stopRaw": "20251126103000",
+    "start": "2025-11-26 15:00:00 IST",
+    "stop": "2025-11-26 16:00:00 IST",
+    "channel": "jio-575",
+    "title": "Man vs. Wild",
+    "subTitle": "Bear Grylls ventures into Zambia's wilderness for a survival challenge. He faces and overcomes some of the world's most powerful river rapids."
+  },
+  {
+    "startRaw": "20251126103000",
+    "stopRaw": "20251126113000",
+    "start": "2025-11-26 16:00:00 IST",
+    "stop": "2025-11-26 17:00:00 IST",
+    "channel": "jio-575",
+    "title": "Discovery Hindi",
+    "subTitle": "The Colombian-Mexican version of Dual Survival."
+  },
+  {
+    "startRaw": "20251126113000",
+    "stopRaw": "20251126123000",
+    "start": "2025-11-26 17:00:00 IST",
+    "stop": "2025-11-26 18:00:00 IST",
+    "channel": "jio-575",
+    "title": "Dual Survival Mexico",
+    "subTitle": "Two people embark on an adventure to put their survival skills to the test, by traversing harsh environments and overcoming challenges."
+  },
+  {
+    "startRaw": "20251126123000",
+    "stopRaw": "20251126133000",
+    "start": "2025-11-26 18:00:00 IST",
+    "stop": "2025-11-26 19:00:00 IST",
+    "channel": "jio-575",
+    "title": "Man vs. Wild",
+    "subTitle": "Bear will have to skin and disembowel a camel in an attempt to stay alive as he wonders if he will learn to deal with the hardships and the disgusting taste of the camel."
+  },
+  {
+    "startRaw": "20251126133000",
+    "stopRaw": "20251126143000",
+    "start": "2025-11-26 19:00:00 IST",
+    "stop": "2025-11-26 20:00:00 IST",
+    "channel": "jio-575",
+    "title": "Marooned With Ed Stafford",
+    "subTitle": "Ed Stafford is stranded in northern Thailand and attempts to survive there alone for 10 days without food, water or even a knife."
+  },
+  {
+    "startRaw": "20251126143000",
+    "stopRaw": "20251126153000",
+    "start": "2025-11-26 20:00:00 IST",
+    "stop": "2025-11-26 21:00:00 IST",
+    "channel": "jio-575",
+    "title": "Man vs. Wild",
+    "subTitle": "Adventurer Bear Grylls's camera crew follows him as he treks to the ends of the Earth, often going to extremes to film his journeys."
+  },
+  {
+    "startRaw": "20251126153000",
+    "stopRaw": "20251126163000",
+    "start": "2025-11-26 21:00:00 IST",
+    "stop": "2025-11-26 22:00:00 IST",
+    "channel": "jio-575",
+    "title": "Survivor Australia",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126163000",
+    "stopRaw": "20251126173000",
+    "start": "2025-11-26 22:00:00 IST",
+    "stop": "2025-11-26 23:00:00 IST",
+    "channel": "jio-575",
+    "title": "Naked and Afraid",
+    "subTitle": "Two survivalists seek redemption in the Mexican jungle and deal with torrential rain. However, an accident with a machete threatens to send them home early."
+  },
+  {
+    "startRaw": "20251126173000",
+    "stopRaw": "20251126182959",
+    "start": "2025-11-26 23:00:00 IST",
+    "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-575",
+    "title": "Naked and Afraid",
+    "subTitle": "Several pairs of total strangers have to survive the extreme environment and dangerous wildlife of the wilderness, naked and afraid."
   }
 ]

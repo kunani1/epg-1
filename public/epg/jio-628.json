@@ -950,13 +950,22 @@
     "start": "2025-11-26 06:30:00 IST",
     "stop": "2025-11-26 07:00:00 IST",
     "channel": "jio-628",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+    "title": "TeleShopping",
+    "subTitle": "Check out this fun home-shopping show that highlights exclusive products available only on TV! Discover cool items, get the scoop on their features, and find your next must-have!"
   },
   {
     "startRaw": "20251126013000",
-    "stopRaw": "20251126023000",
+    "stopRaw": "20251126020000",
     "start": "2025-11-26 07:00:00 IST",
+    "stop": "2025-11-26 07:30:00 IST",
+    "channel": "jio-628",
+    "title": "Olimayamana Ethirkaalam",
+    "subTitle": "Various subject matter experts provides a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life."
+  },
+  {
+    "startRaw": "20251126020000",
+    "stopRaw": "20251126023000",
+    "start": "2025-11-26 07:30:00 IST",
     "stop": "2025-11-26 08:00:00 IST",
     "channel": "jio-628",
     "title": "Olimayamana Ethirkaalam",

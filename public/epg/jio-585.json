@@ -415,12 +415,21 @@
   },
   {
     "startRaw": "20251125183000",
-    "stopRaw": "20251125193000",
+    "stopRaw": "20251125184800",
     "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
+    "stop": "2025-11-26 00:18:00 IST",
     "channel": "jio-585",
     "title": "Fear Files",
     "subTitle": "Stories of the paranormal unfold through accounts of individuals who claim to have encountered mysterious and supernatural events, delving into the fear of the unknown."
+  },
+  {
+    "startRaw": "20251125184800",
+    "stopRaw": "20251125193000",
+    "start": "2025-11-26 00:18:00 IST",
+    "stop": "2025-11-26 01:00:00 IST",
+    "channel": "jio-585",
+    "title": "YOLO Hits",
+    "subTitle": "A comprehensive compilation of popular songs composed by renowned artists is played in succession to entertain the listeners."
   },
   {
     "startRaw": "20251125193000",
@@ -469,17 +478,8 @@
   },
   {
     "startRaw": "20251126003000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-585",
-    "title": "YOLO Hits",
-    "subTitle": "A comprehensive compilation of popular songs composed by renowned artists is played in succession to entertain the listeners."
-  },
-  {
-    "startRaw": "20251126013000",
     "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:00:00 IST",
+    "start": "2025-11-26 06:00:00 IST",
     "stop": "2025-11-26 08:00:00 IST",
     "channel": "jio-585",
     "title": "FOMO Tunes",

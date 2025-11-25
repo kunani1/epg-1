@@ -316,12 +316,21 @@
   },
   {
     "startRaw": "20251124234100",
-    "stopRaw": "20251125010000",
+    "stopRaw": "20251125003100",
     "start": "2025-11-25 05:11:00 IST",
-    "stop": "2025-11-25 06:30:00 IST",
+    "stop": "2025-11-25 06:01:00 IST",
     "channel": "jio-638",
     "title": "Filler",
     "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251125003100",
+    "stopRaw": "20251125010000",
+    "start": "2025-11-25 06:01:00 IST",
+    "stop": "2025-11-25 06:30:00 IST",
+    "channel": "jio-638",
+    "title": "TWR Premdhara",
+    "subTitle": "Get ready to indulge in the ultimate shopping experience from your couch! This show is perfect for all you shopaholics who love scoring deals without leaving home."
   },
   {
     "startRaw": "20251125010000",
@@ -329,8 +338,8 @@
     "start": "2025-11-25 06:30:00 IST",
     "stop": "2025-11-25 07:00:00 IST",
     "channel": "jio-638",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+    "title": "Calvary Swar",
+    "subTitle": "A renowned religious scholar delivers a discourse describing Jesus's crucifixion and encourages followers to lead a pious life."
   },
   {
     "startRaw": "20251125013000",
@@ -577,21 +586,39 @@
   },
   {
     "startRaw": "20251125183000",
-    "stopRaw": "20251125213000",
+    "stopRaw": "20251125204900",
     "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
+    "stop": "2025-11-26 02:19:00 IST",
     "channel": "jio-638",
     "title": "Dabangg 3",
     "subTitle": "Chulbul Pandey, a corrupt police officer, leads a happy life with his wife and family. However, when his past enemy returns to wreak havoc, he must protect his loved ones from harm."
   },
   {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
+    "startRaw": "20251125204900",
+    "stopRaw": "20251125213100",
+    "start": "2025-11-26 02:19:00 IST",
+    "stop": "2025-11-26 03:01:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251125213100",
+    "stopRaw": "20251125234300",
+    "start": "2025-11-26 03:01:00 IST",
+    "stop": "2025-11-26 05:13:00 IST",
     "channel": "jio-638",
     "title": "Sri Rama Rajyam",
     "subTitle": "Lord Rama rescues his wife, Sita, from Ravana and returns to Ayodhya. However, due to an unexpected turn of events, he exiles Sita, after which she faces several challenges."
+  },
+  {
+    "startRaw": "20251125234300",
+    "stopRaw": "20251126003000",
+    "start": "2025-11-26 05:13:00 IST",
+    "stop": "2025-11-26 06:00:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251126003000",

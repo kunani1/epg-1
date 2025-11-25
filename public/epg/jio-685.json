@@ -172,111 +172,210 @@
   },
   {
     "startRaw": "20251124213000",
-    "stopRaw": "20251125003000",
+    "stopRaw": "20251124233000",
     "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
+    "stop": "2025-11-25 05:00:00 IST",
     "channel": "jio-685",
     "title": "Movie",
     "subTitle": "Bringing the best in television."
   },
   {
-    "startRaw": "20251125003000",
+    "startRaw": "20251124233000",
+    "stopRaw": "20251125002500",
+    "start": "2025-11-25 05:00:00 IST",
+    "stop": "2025-11-25 05:55:00 IST",
+    "channel": "jio-685",
+    "title": "Patanjali Yog - By Yogrishi Swami Ramdev",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125002500",
+    "stopRaw": "20251125010000",
+    "start": "2025-11-25 05:55:00 IST",
+    "stop": "2025-11-25 06:30:00 IST",
+    "channel": "jio-685",
+    "title": "Shri Krishnaleela",
+    "subTitle": "Krishna manufactures a storm as Kansa's henchmen embark on their mission to murder the infants in Brajabhumi. Subsequently, Brishabhanu goes to Nandraj's house along with Kirti."
+  },
+  {
+    "startRaw": "20251125010000",
+    "stopRaw": "20251125013000",
+    "start": "2025-11-25 06:30:00 IST",
+    "stop": "2025-11-25 07:00:00 IST",
+    "channel": "jio-685",
+    "title": "Shri Krishnaleela",
+    "subTitle": "Krishna manufactures a storm as Kansa's henchmen embark on their mission to murder the infants in Brajabhumi. Subsequently, Brishabhanu goes to Nandraj's house along with Kirti."
+  },
+  {
+    "startRaw": "20251125013000",
+    "stopRaw": "20251125020000",
+    "start": "2025-11-25 07:00:00 IST",
+    "stop": "2025-11-25 07:30:00 IST",
+    "channel": "jio-685",
+    "title": "Shri Krishnaleela",
+    "subTitle": "Krishna manufactures a storm as Kansa's henchmen embark on their mission to murder the infants in Brajabhumi. Subsequently, Brishabhanu goes to Nandraj's house along with Kirti."
+  },
+  {
+    "startRaw": "20251125020000",
+    "stopRaw": "20251125023000",
+    "start": "2025-11-25 07:30:00 IST",
+    "stop": "2025-11-25 08:00:00 IST",
+    "channel": "jio-685",
+    "title": "Shri Krishnaleela",
+    "subTitle": "Krishna manufactures a storm as Kansa's henchmen embark on their mission to murder the infants in Brajabhumi. Subsequently, Brishabhanu goes to Nandraj's house along with Kirti."
+  },
+  {
+    "startRaw": "20251125023000",
     "stopRaw": "20251125033000",
-    "start": "2025-11-25 06:00:00 IST",
+    "start": "2025-11-25 08:00:00 IST",
     "stop": "2025-11-25 09:00:00 IST",
     "channel": "jio-685",
-    "title": "Movie",
+    "title": "Sakaler Sure",
     "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251125033000",
-    "stopRaw": "20251125063000",
+    "stopRaw": "20251125035800",
     "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125192600",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:56:00 IST",
-    "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125192600",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 00:56:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
+    "stop": "2025-11-25 09:28:00 IST",
     "channel": "jio-685",
     "title": "Bedeni Jyotsnar Amar Prem",
-    "subTitle": "Vikram shares his predicament with Ashok and arranges a clandestine meeting with Jyotsna. However, Rajmata discovers Vikram's plan, while Domru mocks the waiting Jyotsna."
+    "subTitle": "A princess is raised in a tribal community as a snake charmer. Later, she falls in love with a prince and their journey towards restoring his monarchy is met with innumerable challenges."
   },
   {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
+    "startRaw": "20251125035800",
+    "stopRaw": "20251125062100",
+    "start": "2025-11-25 09:28:00 IST",
+    "stop": "2025-11-25 11:51:00 IST",
+    "channel": "jio-685",
+    "title": "Mejo Bou",
+    "subTitle": "Barun's father forces him to marry Sampa, a colleague from a middle-class background. After the marriage, Barun creates problems for his new wife and damages her reputation."
+  },
+  {
+    "startRaw": "20251125062100",
+    "stopRaw": "20251125085300",
+    "start": "2025-11-25 11:51:00 IST",
+    "stop": "2025-11-25 14:23:00 IST",
+    "channel": "jio-685",
+    "title": "Abhimaan",
+    "subTitle": "After disowning his daughter years ago, an elderly businessman now seeks the help of his grandson to mend his relationship with her."
+  },
+  {
+    "startRaw": "20251125085300",
+    "stopRaw": "20251125112900",
+    "start": "2025-11-25 14:23:00 IST",
+    "stop": "2025-11-25 16:59:00 IST",
+    "channel": "jio-685",
+    "title": "Cheetah",
+    "subTitle": "Jaimal, a gangster, kills Amar's family. To everyone' surprise, the latter survives, wakes from coma and seeks revenge."
+  },
+  {
+    "startRaw": "20251125112900",
+    "stopRaw": "20251125140000",
+    "start": "2025-11-25 16:59:00 IST",
+    "stop": "2025-11-25 19:30:00 IST",
+    "channel": "jio-685",
+    "title": "Beder Meye Josna",
+    "subTitle": "A prince, bitten by a snake, is saved by the healer Josna, who falls ill in the process. Recovered, she demands his hand in marriage, leading to a royal tug-of-war for love."
+  },
+  {
+    "startRaw": "20251125140000",
+    "stopRaw": "20251125143000",
+    "start": "2025-11-25 19:30:00 IST",
+    "stop": "2025-11-25 20:00:00 IST",
+    "channel": "jio-685",
+    "title": "Bedeni Jyotsnar Amar Prem",
+    "subTitle": "A princess is raised in a tribal community as a snake charmer. Later, she falls in love with a prince and their journey towards restoring his monarchy is met with innumerable challenges."
+  },
+  {
+    "startRaw": "20251125143000",
+    "stopRaw": "20251125150000",
+    "start": "2025-11-25 20:00:00 IST",
+    "stop": "2025-11-25 20:30:00 IST",
     "channel": "jio-685",
     "title": "Shriman Bhagoban Das",
     "subTitle": ""
   },
   {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
+    "startRaw": "20251125150000",
+    "stopRaw": "20251125153000",
+    "start": "2025-11-25 20:30:00 IST",
+    "stop": "2025-11-25 21:00:00 IST",
     "channel": "jio-685",
     "title": "S.I.T",
     "subTitle": "The Special Investigative Team is led in West Bengal, India, by DCP Indrajit Basak who strives to resolve complex crimes and fulfil his duties to his family."
   },
   {
-    "startRaw": "20251125210000",
+    "startRaw": "20251125153000",
+    "stopRaw": "20251125163000",
+    "start": "2025-11-25 21:00:00 IST",
+    "stop": "2025-11-25 22:00:00 IST",
+    "channel": "jio-685",
+    "title": "Sonar Jalshaghar",
+    "subTitle": "Talented young children showcase their musical inclinations with riveting performances to enthral the audiences and the judges."
+  },
+  {
+    "startRaw": "20251125163000",
+    "stopRaw": "20251125170000",
+    "start": "2025-11-25 22:00:00 IST",
+    "stop": "2025-11-25 22:30:00 IST",
+    "channel": "jio-685",
+    "title": "Shriman Bhagoban Das",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125170000",
+    "stopRaw": "20251125182959",
+    "start": "2025-11-25 22:30:00 IST",
+    "stop": "2025-11-25 23:59:59 IST",
+    "channel": "jio-685",
+    "title": "Satarupa",
+    "subTitle": "Dr. Rupa unintentionally causes Shatadal's memory loss, leading him to see her as his only kin. Later, they fall for each other but when his past returns, he forgets her."
+  },
+  {
+    "startRaw": "20251125183000",
+    "stopRaw": "20251125192400",
+    "start": "2025-11-26 00:00:00 IST",
+    "stop": "2025-11-26 00:54:00 IST",
+    "channel": "jio-685",
+    "title": "Satarupa",
+    "subTitle": "Dr. Rupa unintentionally causes Shatadal's memory loss, leading him to see her as his only kin. Later, they fall for each other but when his past returns, he forgets her."
+  },
+  {
+    "startRaw": "20251125192400",
+    "stopRaw": "20251125195800",
+    "start": "2025-11-26 00:54:00 IST",
+    "stop": "2025-11-26 01:28:00 IST",
+    "channel": "jio-685",
+    "title": "Bedeni Jyotsnar Amar Prem",
+    "subTitle": "A princess is raised in a tribal community as a snake charmer. Later, she falls in love with a prince and their journey towards restoring his monarchy is met with innumerable challenges."
+  },
+  {
+    "startRaw": "20251125195800",
+    "stopRaw": "20251125203200",
+    "start": "2025-11-26 01:28:00 IST",
+    "stop": "2025-11-26 02:02:00 IST",
+    "channel": "jio-685",
+    "title": "Shriman Bhagoban Das",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251125203200",
+    "stopRaw": "20251125210200",
+    "start": "2025-11-26 02:02:00 IST",
+    "stop": "2025-11-26 02:32:00 IST",
+    "channel": "jio-685",
+    "title": "S.I.T",
+    "subTitle": "The Special Investigative Team is led in West Bengal, India, by DCP Indrajit Basak who strives to resolve complex crimes and fulfil his duties to his family."
+  },
+  {
+    "startRaw": "20251125210200",
     "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:30:00 IST",
+    "start": "2025-11-26 02:32:00 IST",
     "stop": "2025-11-26 03:00:00 IST",
     "channel": "jio-685",
     "title": "Bedeni Jyotsnar Amar Prem",
-    "subTitle": "Vikram shares his predicament with Ashok and arranges a clandestine meeting with Jyotsna. However, Rajmata discovers Vikram's plan, while Domru mocks the waiting Jyotsna."
+    "subTitle": "A princess is raised in a tribal community as a snake charmer. Later, she falls in love with a prince and their journey towards restoring his monarchy is met with innumerable challenges."
   },
   {
     "startRaw": "20251125213000",
@@ -284,26 +383,17 @@
     "start": "2025-11-26 03:00:00 IST",
     "stop": "2025-11-26 05:00:00 IST",
     "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Pratibad",
+    "subTitle": "A fierce fighter against injustice strives to help his middle-class family make ends meet. His dedication lands him a job as a police officer, where he tackles large-scale problems with determination."
   },
   {
     "startRaw": "20251125233000",
-    "stopRaw": "20251126002600",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:56:00 IST",
-    "channel": "jio-685",
-    "title": "Patanjali Yog - By Yogrishi Swami Ramdev",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126002600",
     "stopRaw": "20251126010000",
-    "start": "2025-11-26 05:56:00 IST",
+    "start": "2025-11-26 05:00:00 IST",
     "stop": "2025-11-26 06:30:00 IST",
     "channel": "jio-685",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Patanjali Yog by Yog Rishi Swami Ramdev",
+    "subTitle": "Renowned Indian spiritual leader Swami Ramdev delivers demonstrations of various yoga poses and exercises for a healthy life."
   },
   {
     "startRaw": "20251126010000",

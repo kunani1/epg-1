@@ -352,21 +352,39 @@
   },
   {
     "startRaw": "20251125183000",
-    "stopRaw": "20251125210000",
+    "stopRaw": "20251125203700",
     "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
+    "stop": "2025-11-26 02:07:00 IST",
     "channel": "jio-1358",
     "title": "Takatak",
     "subTitle": "Two sisters, Kamakshi and Minakshi, live a carefree life. While Kamakshi is married to a porn addict, her sister Minakshi is trapped in a love triangle."
   },
   {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
+    "startRaw": "20251125203700",
+    "stopRaw": "20251125205900",
+    "start": "2025-11-26 02:07:00 IST",
+    "stop": "2025-11-26 02:29:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251125205900",
+    "stopRaw": "20251125232000",
+    "start": "2025-11-26 02:29:00 IST",
+    "stop": "2025-11-26 04:50:00 IST",
     "channel": "jio-1358",
     "title": "Andhala Marto Dola",
     "subTitle": "Bringing the best in cinema."
+  },
+  {
+    "startRaw": "20251125232000",
+    "stopRaw": "20251125233000",
+    "start": "2025-11-26 04:50:00 IST",
+    "stop": "2025-11-26 05:00:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251125233000",

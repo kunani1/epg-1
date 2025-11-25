@@ -217,17 +217,26 @@
   },
   {
     "startRaw": "20251125190000",
-    "stopRaw": "20251126000000",
+    "stopRaw": "20251125212200",
     "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
+    "stop": "2025-11-26 02:52:00 IST",
     "channel": "jio-185",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Commando 2",
+    "subTitle": "A four-member task force sets out on the trail of a money launderer, Vicky Chaddha. However, the mission goes sideways when one of the members gets shot."
   },
   {
-    "startRaw": "20251126000000",
+    "startRaw": "20251125212200",
+    "stopRaw": "20251126003000",
+    "start": "2025-11-26 02:52:00 IST",
+    "stop": "2025-11-26 06:00:00 IST",
+    "channel": "jio-185",
+    "title": "Don: The Chase Begins Again",
+    "subTitle": "A high-stakes secret operation requires a hillbilly look-alike to take Mark Don Donald's place as an elusive drug trafficker with too many targets on his back."
+  },
+  {
+    "startRaw": "20251126003000",
     "stopRaw": "20251126013000",
-    "start": "2025-11-26 05:30:00 IST",
+    "start": "2025-11-26 06:00:00 IST",
     "stop": "2025-11-26 07:00:00 IST",
     "channel": "jio-185",
     "title": "Movie",

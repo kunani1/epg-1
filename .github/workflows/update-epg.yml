@@ -1,0 +1,40 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours
+  workflow_dispatch:        # allow manual run
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # allow pushing back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run EPG update script
+        run: npm run update-epg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "kunani1"
+          git config user.email "kunanisaitarun55@gmail.com"
+          git add public
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update EPG data"
+            git push
+          fi

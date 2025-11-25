@@ -1,0 +1,9 @@
+{
+  "name": "epg-static",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update-epg": "node scripts/update-epg.mjs"
+  },
+  "dependencies": {}
+}

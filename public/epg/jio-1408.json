@@ -1,212 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123184500",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:15:00 IST",
-    "channel": "jio-1408",
-    "title": "World Reporter",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251123184500",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:15:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Meet The Editors",
-    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-1408",
-    "title": "News Night With Arun Kumar",
-    "subTitle": "Host Dr Arun Kumar provides in-depth insights into some of the latest news and key developments on a range of issues of public and national interest."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Debate With Smruthy",
-    "subTitle": "Smruthy Paruthikad hosts a lively panel where experts debate current events and analyse pressing national issues, offering diverse perspectives."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123220000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 03:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Big Headlines With Sujaya Parvathy",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251123220000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 03:30:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Good Evening With Sujaya Parvathy",
-    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124002500",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 05:55:00 IST",
-    "channel": "jio-1408",
-    "title": "Meet The Editors",
-    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
-  },
-  {
-    "startRaw": "20251124002500",
-    "stopRaw": "20251124010000",
-    "start": "2025-11-24 05:55:00 IST",
-    "stop": "2025-11-24 06:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Good Morning Reporter",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
-  },
-  {
-    "startRaw": "20251124010000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 06:30:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Coffee With Arun",
-    "subTitle": "Host Arun provides a detailed report on major questions and issues concerning Kerala through discussions, interviews and public opinions."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Breaking Hours",
-    "subTitle": "The anchor presents the most important social, political and economic news and developments from the nation around the world."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124080000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 13:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Round Up",
-    "subTitle": "The host presents a round-up of updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251124080000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:30:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Top 30 News",
-    "subTitle": "The host quickly covers 30 current national issues across communal, political and economic areas, giving brief updates on each."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-1408",
-    "title": "News Today",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-1408",
-    "title": "News Buzz",
-    "subTitle": "The host presents a detailed report on various issues that are prevalent in the society and provides information on relevant current events."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Good Evening With Sujaya Parvathy",
-    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Top 30 News",
-    "subTitle": "The host quickly covers 30 current national issues across communal, political and economic areas, giving brief updates on each."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Debate With Arun / Sujaya / Smruthy",
-    "subTitle": "The host features a panel of experts from diverse fields as they share insights and opposing views on key issues shaping the world today."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Meet The Editors",
-    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-1408",
-    "title": "News Night With Arun / Sujaya / Smruthy",
-    "subTitle": "The host features experts as they weigh in on the latest news as well as key developments, offering deep insights and diverse perspectives on issues shaping the nation."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Big Headlines With Sujaya Parvathy",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-1408",
-    "title": "Witness",
-    "subTitle": "The host provides detailed insights into significant updates concerning various crime-related news stories from around the country."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124180000",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:30:00 IST",
-    "channel": "jio-1408",
-    "title": "Top Fifty",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124180000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-1408",
-    "title": "Good Night Reporter",
-    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124184500",
     "start": "2025-11-25 00:00:00 IST",
@@ -616,6 +409,213 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-1408",
+    "title": "Good Night Reporter",
+    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126184500",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:15:00 IST",
+    "channel": "jio-1408",
+    "title": "World Reporter",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251126184500",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:15:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Meet The Editors",
+    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-1408",
+    "title": "News Night With Arun Kumar",
+    "subTitle": "Host Dr Arun Kumar provides in-depth insights into some of the latest news and key developments on a range of issues of public and national interest."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Debate With Smruthy",
+    "subTitle": "Smruthy Paruthikad hosts a lively panel where experts debate current events and analyse pressing national issues, offering diverse perspectives."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Big Headlines With Sujaya Parvathy",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Good Evening With Sujaya Parvathy",
+    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127002500",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:55:00 IST",
+    "channel": "jio-1408",
+    "title": "Meet The Editors",
+    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
+  },
+  {
+    "startRaw": "20251127002500",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 05:55:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Good Morning Reporter",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Coffee With Arun",
+    "subTitle": "Host Arun provides a detailed report on major questions and issues concerning Kerala through discussions, interviews and public opinions."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Breaking Hours",
+    "subTitle": "The anchor presents the most important social, political and economic news and developments from the nation around the world."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Round Up",
+    "subTitle": "The host presents a round-up of updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Top 30 News",
+    "subTitle": "The host quickly covers 30 current national issues across communal, political and economic areas, giving brief updates on each."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-1408",
+    "title": "News Today",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-1408",
+    "title": "News Buzz",
+    "subTitle": "The host presents a detailed report on various issues that are prevalent in the society and provides information on relevant current events."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Good Evening With Sujaya Parvathy",
+    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance."
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Top 30 News",
+    "subTitle": "The host quickly covers 30 current national issues across communal, political and economic areas, giving brief updates on each."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Debate With Arun / Sujaya / Smruthy",
+    "subTitle": "The host features a panel of experts from diverse fields as they share insights and opposing views on key issues shaping the world today."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Meet The Editors",
+    "subTitle": "The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-1408",
+    "title": "News Night With Arun / Sujaya / Smruthy",
+    "subTitle": "The host features experts as they weigh in on the latest news as well as key developments, offering deep insights and diverse perspectives on issues shaping the nation."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Big Headlines With Sujaya Parvathy",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-1408",
+    "title": "Witness",
+    "subTitle": "The host provides detailed insights into significant updates concerning various crime-related news stories from around the country."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-1408",
+    "title": "Top Fifty",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-1408",
     "title": "Good Night Reporter",
     "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region."

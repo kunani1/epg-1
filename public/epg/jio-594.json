@@ -1,320 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123190000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:30:00 IST",
-    "channel": "jio-594",
-    "title": "Kishanbhaiya Sirsawale",
-    "subTitle": "A renowned religious expert presents readings from religious texts, providing insightful interpretations by leading hymns with devotees."
-  },
-  {
-    "startRaw": "20251123190000",
-    "stopRaw": "20251123200000",
-    "start": "2025-11-24 00:30:00 IST",
-    "stop": "2025-11-24 01:30:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251123200000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:30:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-594",
-    "title": "Pujya Didi Maa Ritambharaji",
-    "subTitle": "A religious leader gives a discourse based on sacred scriptures and encourages devotees to embrace the path of spirituality."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123220000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 03:30:00 IST",
-    "channel": "jio-594",
-    "title": "Giri Bapu",
-    "subTitle": "Giri Bapu, a religious leader, recites the Shiv Katha describing the pastimes of Lord Shiva and also emphasises the right way of living."
-  },
-  {
-    "startRaw": "20251123220000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:30:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-594",
-    "title": "Pujya Sanjeev Krishna Thakurji",
-    "subTitle": "A revered spiritual leader provides insightful interpretations on Hinduism, leading devotees to embrace righteousness and lead a virtuous life."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123223300",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:03:00 IST",
-    "channel": "jio-594",
-    "title": "Jinchandraji Maharaj",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123223300",
-    "stopRaw": "20251123224000",
-    "start": "2025-11-24 04:03:00 IST",
-    "stop": "2025-11-24 04:10:00 IST",
-    "channel": "jio-594",
-    "title": "Aarti",
-    "subTitle": "Several priests and devotees gather together in a religious ceremony to worship the deities by performing various rituals and singing devotional hymns."
-  },
-  {
-    "startRaw": "20251123224000",
-    "stopRaw": "20251123225000",
-    "start": "2025-11-24 04:10:00 IST",
-    "stop": "2025-11-24 04:20:00 IST",
-    "channel": "jio-594",
-    "title": "Chalisa",
-    "subTitle": "A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them, dispelling all negative energy and bad luck."
-  },
-  {
-    "startRaw": "20251123225000",
-    "stopRaw": "20251123230000",
-    "start": "2025-11-24 04:20:00 IST",
-    "stop": "2025-11-24 04:30:00 IST",
-    "channel": "jio-594",
-    "title": "Mantra",
-    "subTitle": "Revered religious figures intone devotional chants and melodious hymns, offering reverence to the Almighty and seeking divine grace."
-  },
-  {
-    "startRaw": "20251123230000",
-    "stopRaw": "20251123231500",
-    "start": "2025-11-24 04:30:00 IST",
-    "stop": "2025-11-24 04:45:00 IST",
-    "channel": "jio-594",
-    "title": "Darshnam",
-    "subTitle": "A devout Hindu priest recites mantras and chants in the presence of devotees, who hope to win the blessings of the Almighty."
-  },
-  {
-    "startRaw": "20251123231500",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:45:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-594",
-    "title": "Ved Vani",
-    "subTitle": "Various religious leaders, scholars and priests perform ritual prayers and recite the four Vedas with a group of devotees."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-594",
-    "title": "Yog Rishi Swami Ramdevji",
-    "subTitle": "A religious leader offers spiritual insights through yoga and health tips, promoting wellness and inner peace with a focus on natural remedies and self-care practices."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124011000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 06:40:00 IST",
-    "channel": "jio-594",
-    "title": "Aartiya and Chalisa",
-    "subTitle": "A priest performs a holy ritual in obeisance of the Almighty and chants a devotional hymn in praise of Lord Hanuman at a temple."
-  },
-  {
-    "startRaw": "20251124011000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:40:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-594",
-    "title": "Swami Dr. Ramkamal Das Vedanti Ji",
-    "subTitle": "A religious leader, Swami Dr Ramkamal Das Vedanti, educates devotees on various aspects of spirituality as well as religion and urges them to reflect on it."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124015000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 07:20:00 IST",
-    "channel": "jio-594",
-    "title": "Gaurishi Swami Shriduttsharnanandji Santvani Pravachan",
-    "subTitle": "A religious leader gives a discourse on the teachings from the scriptures and urges the devotees to walk the path of righteousness."
-  },
-  {
-    "startRaw": "20251124015000",
-    "stopRaw": "20251124021000",
-    "start": "2025-11-24 07:20:00 IST",
-    "stop": "2025-11-24 07:40:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124021000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:40:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124025000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 08:20:00 IST",
-    "channel": "jio-594",
-    "title": "Yog Rishi Swami Ramdevji",
-    "subTitle": "A religious leader offers spiritual insights through yoga and health tips, promoting wellness and inner peace with a focus on natural remedies and self-care practices."
-  },
-  {
-    "startRaw": "20251124025000",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 08:20:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-594",
-    "title": "Shradhey Acharya Balkrishnaji Ayurved Darshan",
-    "subTitle": "A religious expert sheds light on the history and significance of various Ayurvedic treatments and remedies that help to maintain a healthy lifestyle."
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-594",
-    "title": "Pujya Pandokhar Dham Sarkar (Guruji)",
-    "subTitle": "A religious leader delivers a discourse on the teachings from the holy scriptures and urges the devotees to follow the path of righteousness."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124140000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 19:30:00 IST",
-    "channel": "jio-594",
-    "title": "Yamuna Aarti",
-    "subTitle": "Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs."
-  },
-  {
-    "startRaw": "20251124140000",
-    "stopRaw": "20251124141000",
-    "start": "2025-11-24 19:30:00 IST",
-    "stop": "2025-11-24 19:40:00 IST",
-    "channel": "jio-594",
-    "title": "Pujya Pawandasji Maharaj",
-    "subTitle": "A religious leader delivers a spiritual discourse based on sacred texts to the devotees and urges them to lead a righteous life."
-  },
-  {
-    "startRaw": "20251124141000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:40:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124145000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 20:20:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124145000",
-    "stopRaw": "20251124151000",
-    "start": "2025-11-24 20:20:00 IST",
-    "stop": "2025-11-24 20:40:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124151000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:40:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-594",
-    "title": "Swami Krishananandji Maharaj",
-    "subTitle": "Religious speaker Swami Krishananandji Maharaj preaches the Word of God to devotees while guiding them to lead a spiritual life."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124165000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:20:00 IST",
-    "channel": "jio-594",
-    "title": "Pujya Sadguru Swami Nityaswarupdasji",
-    "subTitle": "A religious leader delivers a discourse on various teachings and principles from Hindu scriptures and urges followers to reflect on the same."
-  },
-  {
-    "startRaw": "20251124165000",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:20:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-594",
-    "title": "Aastha Bhajan Special",
-    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-594",
-    "title": "Pujya Ramesh Bhai Oza (Bhaishree)",
-    "subTitle": ""
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124190000",
     "start": "2025-11-25 00:00:00 IST",
@@ -940,6 +625,321 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 22:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-594",
+    "title": "Kishanbhaiya Sirsawale",
+    "subTitle": "A renowned religious expert presents readings from religious texts, providing insightful interpretations by leading hymns with devotees."
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-594",
+    "title": "Pujya Didi Maa Ritambharaji",
+    "subTitle": "A religious leader gives a discourse based on sacred scriptures and encourages devotees to embrace the path of spirituality."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126223300",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:03:00 IST",
+    "channel": "jio-594",
+    "title": "Jinchandraji Maharaj",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126223300",
+    "stopRaw": "20251126224000",
+    "start": "2025-11-27 04:03:00 IST",
+    "stop": "2025-11-27 04:10:00 IST",
+    "channel": "jio-594",
+    "title": "Aarti",
+    "subTitle": "Several priests and devotees gather together in a religious ceremony to worship the deities by performing various rituals and singing devotional hymns."
+  },
+  {
+    "startRaw": "20251126224000",
+    "stopRaw": "20251126225000",
+    "start": "2025-11-27 04:10:00 IST",
+    "stop": "2025-11-27 04:20:00 IST",
+    "channel": "jio-594",
+    "title": "Chalisa",
+    "subTitle": "A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them, dispelling all negative energy and bad luck."
+  },
+  {
+    "startRaw": "20251126225000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:20:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-594",
+    "title": "Mantra",
+    "subTitle": "Revered religious figures intone devotional chants and melodious hymns, offering reverence to the Almighty and seeking divine grace."
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126231500",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 04:45:00 IST",
+    "channel": "jio-594",
+    "title": "Darshnam",
+    "subTitle": "A devout Hindu priest recites mantras and chants in the presence of devotees, who hope to win the blessings of the Almighty."
+  },
+  {
+    "startRaw": "20251126231500",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:45:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-594",
+    "title": "Ved Vani",
+    "subTitle": "Various religious leaders, scholars and priests perform ritual prayers and recite the four Vedas with a group of devotees."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-594",
+    "title": "Yog Rishi Swami Ramdevji",
+    "subTitle": "A religious leader offers spiritual insights through yoga and health tips, promoting wellness and inner peace with a focus on natural remedies and self-care practices."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127011000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:40:00 IST",
+    "channel": "jio-594",
+    "title": "Aartiya and Chalisa",
+    "subTitle": "A priest performs a holy ritual in obeisance of the Almighty and chants a devotional hymn in praise of Lord Hanuman at a temple."
+  },
+  {
+    "startRaw": "20251127011000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:40:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-594",
+    "title": "Swami Dr. Ramkamal Das Vedanti Ji",
+    "subTitle": "A religious leader, Swami Dr Ramkamal Das Vedanti, educates devotees on various aspects of spirituality as well as religion and urges them to reflect on it."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127015000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:20:00 IST",
+    "channel": "jio-594",
+    "title": "Gaurishi Swami Shriduttsharnanandji Santvani Pravachan",
+    "subTitle": "A religious leader gives a discourse on the teachings from the scriptures and urges the devotees to walk the path of righteousness."
+  },
+  {
+    "startRaw": "20251127015000",
+    "stopRaw": "20251127021000",
+    "start": "2025-11-27 07:20:00 IST",
+    "stop": "2025-11-27 07:40:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127021000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:40:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127025000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:20:00 IST",
+    "channel": "jio-594",
+    "title": "Yog Rishi Swami Ramdevji",
+    "subTitle": "A religious leader offers spiritual insights through yoga and health tips, promoting wellness and inner peace with a focus on natural remedies and self-care practices."
+  },
+  {
+    "startRaw": "20251127025000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:20:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-594",
+    "title": "Shradhey Acharya Balkrishnaji Ayurved Darshan",
+    "subTitle": "A religious expert sheds light on the history and significance of various Ayurvedic treatments and remedies that help to maintain a healthy lifestyle."
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-594",
+    "title": "Pujya Pandokhar Dham Sarkar (Guruji)",
+    "subTitle": "A religious leader delivers a discourse on the teachings from the holy scriptures and urges the devotees to follow the path of righteousness."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-594",
+    "title": "Yamuna Aarti",
+    "subTitle": "Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs."
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127141000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 19:40:00 IST",
+    "channel": "jio-594",
+    "title": "Pujya Pawandasji Maharaj",
+    "subTitle": "A religious leader delivers a spiritual discourse based on sacred texts to the devotees and urges them to lead a righteous life."
+  },
+  {
+    "startRaw": "20251127141000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:40:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127145000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:20:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127145000",
+    "stopRaw": "20251127151000",
+    "start": "2025-11-27 20:20:00 IST",
+    "stop": "2025-11-27 20:40:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127151000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:40:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-594",
+    "title": "Swami Krishananandji Maharaj",
+    "subTitle": "Religious speaker Swami Krishananandji Maharaj preaches the Word of God to devotees while guiding them to lead a spiritual life."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127165000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:20:00 IST",
+    "channel": "jio-594",
+    "title": "Pujya Sadguru Swami Nityaswarupdasji",
+    "subTitle": "A religious leader delivers a discourse on various teachings and principles from Hindu scriptures and urges followers to reflect on the same."
+  },
+  {
+    "startRaw": "20251127165000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:20:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-594",
+    "title": "Aastha Bhajan Special",
+    "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-594",
     "title": "Aastha Bhajan Special",
     "subTitle": "Religious leaders deliver enlightening discourses and sing devotional hymns to honour the Almighty and seek divine blessings."

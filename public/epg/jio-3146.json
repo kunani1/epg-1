@@ -1,140 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123201400",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:44:00 IST",
-    "channel": "jio-3146",
-    "title": "Super Netball",
-    "subTitle": "Premier netball league action."
-  },
-  {
-    "startRaw": "20251123201400",
-    "stopRaw": "20251123232800",
-    "start": "2025-11-24 01:44:00 IST",
-    "stop": "2025-11-24 04:58:00 IST",
-    "channel": "jio-3146",
-    "title": "FIBA 3x3 Basketball",
-    "subTitle": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments."
-  },
-  {
-    "startRaw": "20251123232800",
-    "stopRaw": "20251123235800",
-    "start": "2025-11-24 04:58:00 IST",
-    "stop": "2025-11-24 05:28:00 IST",
-    "channel": "jio-3146",
-    "title": "Women's Football Weekly",
-    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
-  },
-  {
-    "startRaw": "20251123235800",
-    "stopRaw": "20251124014600",
-    "start": "2025-11-24 05:28:00 IST",
-    "stop": "2025-11-24 07:16:00 IST",
-    "channel": "jio-3146",
-    "title": "WNBL Basketball",
-    "subTitle": "From John Cain Arena in Melbourne, Victoria, Australia."
-  },
-  {
-    "startRaw": "20251124014600",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 07:16:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-3146",
-    "title": "WNBL Basketball",
-    "subTitle": "From Red Energy Arena in Bendigo, Victoria, Australia."
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-3146",
-    "title": "WNBL Basketball",
-    "subTitle": "From State Basketball Centre in Wantirna South, Victoria, Australia."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124050000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 10:30:00 IST",
-    "channel": "jio-3146",
-    "title": "Women's Football Weekly",
-    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
-  },
-  {
-    "startRaw": "20251124050000",
-    "stopRaw": "20251124095100",
-    "start": "2025-11-24 10:30:00 IST",
-    "stop": "2025-11-24 15:21:00 IST",
-    "channel": "jio-3146",
-    "title": "FIBA 3x3 Basketball",
-    "subTitle": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments."
-  },
-  {
-    "startRaw": "20251124095100",
-    "stopRaw": "20251124102100",
-    "start": "2025-11-24 15:21:00 IST",
-    "stop": "2025-11-24 15:51:00 IST",
-    "channel": "jio-3146",
-    "title": "Women's Football Weekly",
-    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
-  },
-  {
-    "startRaw": "20251124102100",
-    "stopRaw": "20251124115600",
-    "start": "2025-11-24 15:51:00 IST",
-    "stop": "2025-11-24 17:26:00 IST",
-    "channel": "jio-3146",
-    "title": "Athletes Unlimited Pro Volleyball",
-    "subTitle": "From Alliant Energy Center in Madison, Wis."
-  },
-  {
-    "startRaw": "20251124115600",
-    "stopRaw": "20251124134100",
-    "start": "2025-11-24 17:26:00 IST",
-    "stop": "2025-11-24 19:11:00 IST",
-    "channel": "jio-3146",
-    "title": "Athletes Unlimited Pro Volleyball",
-    "subTitle": "From Alliant Energy Center in Madison, Wis."
-  },
-  {
-    "startRaw": "20251124134100",
-    "stopRaw": "20251124153600",
-    "start": "2025-11-24 19:11:00 IST",
-    "stop": "2025-11-24 21:06:00 IST",
-    "channel": "jio-3146",
-    "title": "Athletes Unlimited Pro Volleyball",
-    "subTitle": "From Alliant Energy Center in Madison, Wis."
-  },
-  {
-    "startRaw": "20251124153600",
-    "stopRaw": "20251124160600",
-    "start": "2025-11-24 21:06:00 IST",
-    "stop": "2025-11-24 21:36:00 IST",
-    "channel": "jio-3146",
-    "title": "Women's Football Weekly",
-    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
-  },
-  {
-    "startRaw": "20251124160600",
-    "stopRaw": "20251124180100",
-    "start": "2025-11-24 21:36:00 IST",
-    "stop": "2025-11-24 23:31:00 IST",
-    "channel": "jio-3146",
-    "title": "WNBL Basketball",
-    "subTitle": "From John Cain Arena in Melbourne, Victoria, Australia."
-  },
-  {
-    "startRaw": "20251124180100",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:31:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3146",
-    "title": "WNBL Basketball",
-    "subTitle": "From State Basketball Centre in Wantirna South, Victoria, Australia."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124190600",
     "start": "2025-11-25 00:00:00 IST",
@@ -412,5 +277,149 @@
     "channel": "jio-3146",
     "title": "Women's Football Weekly",
     "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126184200",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:12:00 IST",
+    "channel": "jio-3146",
+    "title": "Women's Football Weekly",
+    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
+  },
+  {
+    "startRaw": "20251126184200",
+    "stopRaw": "20251126223800",
+    "start": "2025-11-27 00:12:00 IST",
+    "stop": "2025-11-27 04:08:00 IST",
+    "channel": "jio-3146",
+    "title": "Disc Golf Pro Tour",
+    "subTitle": "From Rock Hill, S.C."
+  },
+  {
+    "startRaw": "20251126223800",
+    "stopRaw": "20251126230800",
+    "start": "2025-11-27 04:08:00 IST",
+    "stop": "2025-11-27 04:38:00 IST",
+    "channel": "jio-3146",
+    "title": "Women's Football Weekly",
+    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
+  },
+  {
+    "startRaw": "20251126230800",
+    "stopRaw": "20251126233800",
+    "start": "2025-11-27 04:38:00 IST",
+    "stop": "2025-11-27 05:08:00 IST",
+    "channel": "jio-3146",
+    "title": "Women's Football Weekly",
+    "subTitle": "Highlights from some of the best and most popular moments from the top division of women's football leagues in Italy, Germany and Netherlands."
+  },
+  {
+    "startRaw": "20251126233800",
+    "stopRaw": "20251127011600",
+    "start": "2025-11-27 05:08:00 IST",
+    "stop": "2025-11-27 06:46:00 IST",
+    "channel": "jio-3146",
+    "title": "Athletes Unlimited Pro Volleyball",
+    "subTitle": "From Alliant Energy Center in Madison, Wis."
+  },
+  {
+    "startRaw": "20251127011600",
+    "stopRaw": "20251127030300",
+    "start": "2025-11-27 06:46:00 IST",
+    "stop": "2025-11-27 08:33:00 IST",
+    "channel": "jio-3146",
+    "title": "Athletes Unlimited Pro Volleyball",
+    "subTitle": "From Alliant Energy Center in Madison, Wis."
+  },
+  {
+    "startRaw": "20251127030300",
+    "stopRaw": "20251127044600",
+    "start": "2025-11-27 08:33:00 IST",
+    "stop": "2025-11-27 10:16:00 IST",
+    "channel": "jio-3146",
+    "title": "Athletes Unlimited Pro Volleyball",
+    "subTitle": "From Alliant Energy Center in Madison, Wis."
+  },
+  {
+    "startRaw": "20251127044600",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:16:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From State Basketball Centre in Wantirna South, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127070100",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 12:31:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From John Cain Arena in Melbourne, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127070100",
+    "stopRaw": "20251127085600",
+    "start": "2025-11-27 12:31:00 IST",
+    "stop": "2025-11-27 14:26:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From Geelong Arena in North Geelong, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127085600",
+    "stopRaw": "20251127105800",
+    "start": "2025-11-27 14:26:00 IST",
+    "stop": "2025-11-27 16:28:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From Red Energy Arena in Bendigo, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127105800",
+    "stopRaw": "20251127125200",
+    "start": "2025-11-27 16:28:00 IST",
+    "stop": "2025-11-27 18:22:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "WNBL '25: Sydney vs. Southside Melb."
+  },
+  {
+    "startRaw": "20251127125200",
+    "stopRaw": "20251127143600",
+    "start": "2025-11-27 18:22:00 IST",
+    "stop": "2025-11-27 20:06:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From Geelong Arena in North Geelong, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127143600",
+    "stopRaw": "20251127162000",
+    "start": "2025-11-27 20:06:00 IST",
+    "stop": "2025-11-27 21:50:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From Centro Sportivo Peppino Vismara in Milano, Italy."
+  },
+  {
+    "startRaw": "20251127162000",
+    "stopRaw": "20251127182100",
+    "start": "2025-11-27 21:50:00 IST",
+    "stop": "2025-11-27 23:51:00 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From State Basketball Centre in Wantirna South, Victoria, Australia."
+  },
+  {
+    "startRaw": "20251127182100",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:51:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3146",
+    "title": "WNBL Basketball",
+    "subTitle": "From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia."
   }
 ]

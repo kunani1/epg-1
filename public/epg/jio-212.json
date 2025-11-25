@@ -1,338 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123190000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:30:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123190000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:30:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123200000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 01:30:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123200000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:30:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-212",
-    "title": "Earnings Q2 - Parag Thakkar / Dhana",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123220000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 03:30:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123220000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:30:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-212",
-    "title": "SUC",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123230000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:30:00 IST",
-    "channel": "jio-212",
-    "title": "South Central",
-    "subTitle": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects."
-  },
-  {
-    "startRaw": "20251123230000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:30:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124000000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 05:30:00 IST",
-    "channel": "jio-212",
-    "title": "TMS Weekend Edition",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124000000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:30:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-212",
-    "title": "BTS",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124010000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 06:30:00 IST",
-    "channel": "jio-212",
-    "title": "Beat the Street",
-    "subTitle": "The host and subject matter experts provide updates on important developments in the Indian stock market and give valuable investment tips."
-  },
-  {
-    "startRaw": "20251124010000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:30:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-212",
-    "title": "Your Trades",
-    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-212",
-    "title": "Market Café",
-    "subTitle": "The host provides a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-212",
-    "title": "The Market",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-212",
-    "title": "First Trade",
-    "subTitle": "THe host provides tips and latest updates from the stock market, including estimates, stock charts and future of the market."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-212",
-    "title": "ET NOW BNSN: The Stock Game",
-    "subTitle": "Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-212",
-    "title": "Markets @ Noon",
-    "subTitle": "The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124080000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 13:30:00 IST",
-    "channel": "jio-212",
-    "title": "The Newsroom",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
-  },
-  {
-    "startRaw": "20251124080000",
-    "stopRaw": "20251124090000",
-    "start": "2025-11-24 13:30:00 IST",
-    "stop": "2025-11-24 14:30:00 IST",
-    "channel": "jio-212",
-    "title": "Market Fatafat",
-    "subTitle": "The host invites a market expert to offer insights into the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251124090000",
-    "stopRaw": "20251124100000",
-    "start": "2025-11-24 14:30:00 IST",
-    "stop": "2025-11-24 15:30:00 IST",
-    "channel": "jio-212",
-    "title": "ET NOW Closing Trades",
-    "subTitle": "The hosts and subject matter experts discuss comprehensive compilations of sensex and nifty numbers and market trends in the current economy."
-  },
-  {
-    "startRaw": "20251124100000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:30:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-212",
-    "title": "Business Primetime",
-    "subTitle": "The host interacts with financial experts who share their insights on the stock market and provide in-depth analysis of trends."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124110000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:30:00 IST",
-    "channel": "jio-212",
-    "title": "BUDGET 2024 - Special",
-    "subTitle": "The host and subject matter experts provide a detailed understanding of the 2024 Union Budget and all its intricacies in order to keep the audience informed."
-  },
-  {
-    "startRaw": "20251124110000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:30:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-212",
-    "title": "News Now",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-212",
-    "title": "The Money Show",
-    "subTitle": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-212",
-    "title": "Startup Central",
-    "subTitle": "The host converses with business leaders from various start-ups about their experiences and a variety of other business related topics."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-212",
-    "title": "Your Trades",
-    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124140000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 19:30:00 IST",
-    "channel": "jio-212",
-    "title": "Rush Hour",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124140000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:30:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-212",
-    "title": "BUDGET 2024 - Special",
-    "subTitle": "The host and subject matter experts provide a detailed understanding of the 2024 Union Budget and all its intricacies in order to keep the audience informed."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-212",
-    "title": "India Tonight",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124160000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 21:30:00 IST",
-    "channel": "jio-212",
-    "title": "India Development Debate",
-    "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."
-  },
-  {
-    "startRaw": "20251124160000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:30:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-212",
-    "title": "Big Voices",
-    "subTitle": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-212",
-    "title": "The Money Show",
-    "subTitle": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-212",
-    "title": "IDFC First Bank Presents ET Now Leaders",
-    "subTitle": "The host showcases extraordinary success stories of businesses and leaders from all around the world who have achieved prominence."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124180000",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:30:00 IST",
-    "channel": "jio-212",
-    "title": "Your Trades",
-    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
-  },
-  {
-    "startRaw": "20251124180000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-212",
-    "title": "India Development Debate",
-    "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124190000",
     "start": "2025-11-25 00:00:00 IST",
@@ -976,6 +643,330 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-212",
+    "title": "India Development Debate",
+    "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-212",
+    "title": "Beat the Street",
+    "subTitle": "The host and subject matter experts provide updates on important developments in the Indian stock market and give valuable investment tips."
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-212",
+    "title": "India Tonight",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-212",
+    "title": "Startup Central",
+    "subTitle": "The host converses with business leaders from various start-ups about their experiences and a variety of other business related topics."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-212",
+    "title": "Your Trades",
+    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-212",
+    "title": "India Development Debate",
+    "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-212",
+    "title": "Beat the Street",
+    "subTitle": "The host and subject matter experts provide updates on important developments in the Indian stock market and give valuable investment tips."
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-212",
+    "title": "The Money Show",
+    "subTitle": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-212",
+    "title": "Big Voices",
+    "subTitle": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends."
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-212",
+    "title": "Startup Central",
+    "subTitle": "The host converses with business leaders from various start-ups about their experiences and a variety of other business related topics."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-212",
+    "title": "India Tonight",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-212",
+    "title": "Beat the Street",
+    "subTitle": "The host and subject matter experts provide updates on important developments in the Indian stock market and give valuable investment tips."
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-212",
+    "title": "Your Trades",
+    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-212",
+    "title": "Market Café",
+    "subTitle": "The host provides a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-212",
+    "title": "The Market",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-212",
+    "title": "First Trade",
+    "subTitle": "THe host provides tips and latest updates from the stock market, including estimates, stock charts and future of the market."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-212",
+    "title": "ET NOW BNSN: The Stock Game",
+    "subTitle": "Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares."
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-212",
+    "title": "Markets @ Noon",
+    "subTitle": "The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-212",
+    "title": "The Newsroom",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-212",
+    "title": "Market Fatafat",
+    "subTitle": "The host invites a market expert to offer insights into the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-212",
+    "title": "ET NOW Closing Trades",
+    "subTitle": "The hosts and subject matter experts discuss comprehensive compilations of sensex and nifty numbers and market trends in the current economy."
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-212",
+    "title": "Business Primetime",
+    "subTitle": "The host interacts with financial experts who share their insights on the stock market and provide in-depth analysis of trends."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-212",
+    "title": "Beat the Street",
+    "subTitle": "The host and subject matter experts provide updates on important developments in the Indian stock market and give valuable investment tips."
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-212",
+    "title": "Talent Superheroes",
+    "subTitle": "The host engages with top Indian executives and other subject matter experts in a discussion on talent acquisition across the country."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-212",
+    "title": "The Money Show",
+    "subTitle": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets."
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-212",
+    "title": "News Now",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-212",
+    "title": "Startup Central",
+    "subTitle": "The host converses with business leaders from various start-ups about their experiences and a variety of other business related topics."
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-212",
+    "title": "Your Trades",
+    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-212",
+    "title": "Rush Hour",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-212",
+    "title": "BUDGET 2024 - Special",
+    "subTitle": "The host and subject matter experts provide a detailed understanding of the 2024 Union Budget and all its intricacies in order to keep the audience informed."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-212",
+    "title": "India Tonight",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-212",
+    "title": "India Development Debate",
+    "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-212",
+    "title": "Big Voices",
+    "subTitle": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-212",
+    "title": "The Money Show",
+    "subTitle": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-212",
+    "title": "IDFC First Bank Presents ET Now Leaders",
+    "subTitle": "The host showcases extraordinary success stories of businesses and leaders from all around the world who have achieved prominence."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-212",
+    "title": "Your Trades",
+    "subTitle": "Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market."
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-212",
     "title": "India Development Debate",
     "subTitle": "The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India."

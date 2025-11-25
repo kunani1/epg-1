@@ -1,428 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123190000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:30:00 IST",
-    "channel": "jio-831",
-    "title": "Ground Zero",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123190000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:30:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123200000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 01:30:00 IST",
-    "channel": "jio-831",
-    "title": "Mhara Haryana",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
-  },
-  {
-    "startRaw": "20251123200000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:30:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-831",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-831",
-    "title": "Final Report",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-831",
-    "title": "Ground Zero",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123220000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 03:30:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251123220000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:30:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123230000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:30:00 IST",
-    "channel": "jio-831",
-    "title": "Ground Zero",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123230000",
-    "stopRaw": "20251123232600",
-    "start": "2025-11-24 04:30:00 IST",
-    "stop": "2025-11-24 04:56:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251123232600",
-    "stopRaw": "20251123235600",
-    "start": "2025-11-24 04:56:00 IST",
-    "stop": "2025-11-24 05:26:00 IST",
-    "channel": "jio-831",
-    "title": "Mhara Haryana",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
-  },
-  {
-    "startRaw": "20251123235600",
-    "stopRaw": "20251124002600",
-    "start": "2025-11-24 05:26:00 IST",
-    "stop": "2025-11-24 05:56:00 IST",
-    "channel": "jio-831",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251124002600",
-    "stopRaw": "20251124005600",
-    "start": "2025-11-24 05:56:00 IST",
-    "stop": "2025-11-24 06:26:00 IST",
-    "channel": "jio-831",
-    "title": "Khabar Changi Hai",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124005600",
-    "stopRaw": "20251124012600",
-    "start": "2025-11-24 06:26:00 IST",
-    "stop": "2025-11-24 06:56:00 IST",
-    "channel": "jio-831",
-    "title": "Ground Zero",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124012600",
-    "stopRaw": "20251124015600",
-    "start": "2025-11-24 06:56:00 IST",
-    "stop": "2025-11-24 07:26:00 IST",
-    "channel": "jio-831",
-    "title": "Sajri Saver",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124015600",
-    "stopRaw": "20251124022600",
-    "start": "2025-11-24 07:26:00 IST",
-    "stop": "2025-11-24 07:56:00 IST",
-    "channel": "jio-831",
-    "title": "Sajri Saver",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124022600",
-    "stopRaw": "20251124025600",
-    "start": "2025-11-24 07:56:00 IST",
-    "stop": "2025-11-24 08:26:00 IST",
-    "channel": "jio-831",
-    "title": "8 Vaje Punjab",
-    "subTitle": "The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab."
-  },
-  {
-    "startRaw": "20251124025600",
-    "stopRaw": "20251124032600",
-    "start": "2025-11-24 08:26:00 IST",
-    "stop": "2025-11-24 08:56:00 IST",
-    "channel": "jio-831",
-    "title": "Notout",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124032600",
-    "stopRaw": "20251124035600",
-    "start": "2025-11-24 08:56:00 IST",
-    "stop": "2025-11-24 09:26:00 IST",
-    "channel": "jio-831",
-    "title": "Majha Malwa Doaba",
-    "subTitle": "The host provides the latest information, advancements and developments on various issues in Majha, Malwa and Doaba regions."
-  },
-  {
-    "startRaw": "20251124035600",
-    "stopRaw": "20251124042600",
-    "start": "2025-11-24 09:26:00 IST",
-    "stop": "2025-11-24 09:56:00 IST",
-    "channel": "jio-831",
-    "title": "Special",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124042600",
-    "stopRaw": "20251124045600",
-    "start": "2025-11-24 09:56:00 IST",
-    "stop": "2025-11-24 10:26:00 IST",
-    "channel": "jio-831",
-    "title": "Sade Shahar Sade Pind",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251124045600",
-    "stopRaw": "20251124052600",
-    "start": "2025-11-24 10:26:00 IST",
-    "stop": "2025-11-24 10:56:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251124052600",
-    "stopRaw": "20251124055600",
-    "start": "2025-11-24 10:56:00 IST",
-    "stop": "2025-11-24 11:26:00 IST",
-    "channel": "jio-831",
-    "title": "Punjab Special",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Punjab."
-  },
-  {
-    "startRaw": "20251124055600",
-    "stopRaw": "20251124062600",
-    "start": "2025-11-24 11:26:00 IST",
-    "stop": "2025-11-24 11:56:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251124062600",
-    "stopRaw": "20251124065600",
-    "start": "2025-11-24 11:56:00 IST",
-    "stop": "2025-11-24 12:26:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251124065600",
-    "stopRaw": "20251124072600",
-    "start": "2025-11-24 12:26:00 IST",
-    "stop": "2025-11-24 12:56:00 IST",
-    "channel": "jio-831",
-    "title": "Mhara Haryana",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
-  },
-  {
-    "startRaw": "20251124072600",
-    "stopRaw": "20251124075600",
-    "start": "2025-11-24 12:56:00 IST",
-    "stop": "2025-11-24 13:26:00 IST",
-    "channel": "jio-831",
-    "title": "Punjab News",
-    "subTitle": "The host presents a roundup of the latest social, political and economic news updates and developments from across the state and nation."
-  },
-  {
-    "startRaw": "20251124075600",
-    "stopRaw": "20251124082600",
-    "start": "2025-11-24 13:26:00 IST",
-    "stop": "2025-11-24 13:56:00 IST",
-    "channel": "jio-831",
-    "title": "Advt / Filler",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124082600",
-    "stopRaw": "20251124092600",
-    "start": "2025-11-24 13:56:00 IST",
-    "stop": "2025-11-24 14:56:00 IST",
-    "channel": "jio-831",
-    "title": "Dopahar Debate",
-    "subTitle": "The host invites a panel of experts from different fields to discuss and share their perspectives on various key issues."
-  },
-  {
-    "startRaw": "20251124092600",
-    "stopRaw": "20251124095600",
-    "start": "2025-11-24 14:56:00 IST",
-    "stop": "2025-11-24 15:26:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251124095600",
-    "stopRaw": "20251124102600",
-    "start": "2025-11-24 15:26:00 IST",
-    "stop": "2025-11-24 15:56:00 IST",
-    "channel": "jio-831",
-    "title": "Mhara Haryana",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
-  },
-  {
-    "startRaw": "20251124102600",
-    "stopRaw": "20251124105600",
-    "start": "2025-11-24 15:56:00 IST",
-    "stop": "2025-11-24 16:26:00 IST",
-    "channel": "jio-831",
-    "title": "Majha Malwa Doaba",
-    "subTitle": "The host provides the latest information, advancements and developments on various issues in Majha, Malwa and Doaba regions."
-  },
-  {
-    "startRaw": "20251124105600",
-    "stopRaw": "20251124112600",
-    "start": "2025-11-24 16:26:00 IST",
-    "stop": "2025-11-24 16:56:00 IST",
-    "channel": "jio-831",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251124112600",
-    "stopRaw": "20251124115600",
-    "start": "2025-11-24 16:56:00 IST",
-    "stop": "2025-11-24 17:26:00 IST",
-    "channel": "jio-831",
-    "title": "5 Vaje Punjab",
-    "subTitle": "The host presents the latest news updates and major developments related to governance, social, economic and political matters from the state of Punjab."
-  },
-  {
-    "startRaw": "20251124115600",
-    "stopRaw": "20251124122600",
-    "start": "2025-11-24 17:26:00 IST",
-    "stop": "2025-11-24 17:56:00 IST",
-    "channel": "jio-831",
-    "title": "Sade Shahar Sade Pind",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251124122600",
-    "stopRaw": "20251124125600",
-    "start": "2025-11-24 17:56:00 IST",
-    "stop": "2025-11-24 18:26:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251124125600",
-    "stopRaw": "20251124132600",
-    "start": "2025-11-24 18:26:00 IST",
-    "stop": "2025-11-24 18:56:00 IST",
-    "channel": "jio-831",
-    "title": "Visa Live",
-    "subTitle": "The host provides detailed information and the latest updates on the visa process for Indian citizens, both domestically and abroad, live."
-  },
-  {
-    "startRaw": "20251124132600",
-    "stopRaw": "20251124135600",
-    "start": "2025-11-24 18:56:00 IST",
-    "stop": "2025-11-24 19:26:00 IST",
-    "channel": "jio-831",
-    "title": "Special",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124135600",
-    "stopRaw": "20251124142600",
-    "start": "2025-11-24 19:26:00 IST",
-    "stop": "2025-11-24 19:56:00 IST",
-    "channel": "jio-831",
-    "title": "Ground Zero",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124142600",
-    "stopRaw": "20251124145600",
-    "start": "2025-11-24 19:56:00 IST",
-    "stop": "2025-11-24 20:26:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251124145600",
-    "stopRaw": "20251124152600",
-    "start": "2025-11-24 20:26:00 IST",
-    "stop": "2025-11-24 20:56:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251124152600",
-    "stopRaw": "20251124155600",
-    "start": "2025-11-24 20:56:00 IST",
-    "stop": "2025-11-24 21:26:00 IST",
-    "channel": "jio-831",
-    "title": "Final Report",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124155600",
-    "stopRaw": "20251124162600",
-    "start": "2025-11-24 21:26:00 IST",
-    "stop": "2025-11-24 21:56:00 IST",
-    "channel": "jio-831",
-    "title": "Special",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124162600",
-    "stopRaw": "20251124165600",
-    "start": "2025-11-24 21:56:00 IST",
-    "stop": "2025-11-24 22:26:00 IST",
-    "channel": "jio-831",
-    "title": "22 Jile 22 Khabar",
-    "subTitle": "The host presents the latest and most important updates on governance, social, economic and political news, along with major developments from various districts."
-  },
-  {
-    "startRaw": "20251124165600",
-    "stopRaw": "20251124172600",
-    "start": "2025-11-24 22:26:00 IST",
-    "stop": "2025-11-24 22:56:00 IST",
-    "channel": "jio-831",
-    "title": "Not Out 100",
-    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
-  },
-  {
-    "startRaw": "20251124172600",
-    "stopRaw": "20251124175600",
-    "start": "2025-11-24 22:56:00 IST",
-    "stop": "2025-11-24 23:26:00 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251124175600",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:26:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-831",
-    "title": "Bhakda Masla",
-    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124190000",
     "start": "2025-11-25 00:00:00 IST",
@@ -1237,6 +814,438 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:26:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-831",
+    "title": "Bhakda Masla",
+    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-831",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-831",
+    "title": "Mhara Haryana",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-831",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-831",
+    "title": "Final Report",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-831",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-831",
+    "title": "Bhakda Masla",
+    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-831",
+    "title": "Bhakda Masla",
+    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-831",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126232600",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 04:56:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251126232600",
+    "stopRaw": "20251126235600",
+    "start": "2025-11-27 04:56:00 IST",
+    "stop": "2025-11-27 05:26:00 IST",
+    "channel": "jio-831",
+    "title": "Mhara Haryana",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
+  },
+  {
+    "startRaw": "20251126235600",
+    "stopRaw": "20251127002600",
+    "start": "2025-11-27 05:26:00 IST",
+    "stop": "2025-11-27 05:56:00 IST",
+    "channel": "jio-831",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251127002600",
+    "stopRaw": "20251127005600",
+    "start": "2025-11-27 05:56:00 IST",
+    "stop": "2025-11-27 06:26:00 IST",
+    "channel": "jio-831",
+    "title": "Khabar Changi Hai",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127005600",
+    "stopRaw": "20251127012600",
+    "start": "2025-11-27 06:26:00 IST",
+    "stop": "2025-11-27 06:56:00 IST",
+    "channel": "jio-831",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127012600",
+    "stopRaw": "20251127015600",
+    "start": "2025-11-27 06:56:00 IST",
+    "stop": "2025-11-27 07:26:00 IST",
+    "channel": "jio-831",
+    "title": "Sajri Saver",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127015600",
+    "stopRaw": "20251127022600",
+    "start": "2025-11-27 07:26:00 IST",
+    "stop": "2025-11-27 07:56:00 IST",
+    "channel": "jio-831",
+    "title": "Sajri Saver",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127022600",
+    "stopRaw": "20251127025600",
+    "start": "2025-11-27 07:56:00 IST",
+    "stop": "2025-11-27 08:26:00 IST",
+    "channel": "jio-831",
+    "title": "8 Vaje Punjab",
+    "subTitle": "The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab."
+  },
+  {
+    "startRaw": "20251127025600",
+    "stopRaw": "20251127032600",
+    "start": "2025-11-27 08:26:00 IST",
+    "stop": "2025-11-27 08:56:00 IST",
+    "channel": "jio-831",
+    "title": "Notout",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251127032600",
+    "stopRaw": "20251127035600",
+    "start": "2025-11-27 08:56:00 IST",
+    "stop": "2025-11-27 09:26:00 IST",
+    "channel": "jio-831",
+    "title": "Majha Malwa Doaba",
+    "subTitle": "The host provides the latest information, advancements and developments on various issues in Majha, Malwa and Doaba regions."
+  },
+  {
+    "startRaw": "20251127035600",
+    "stopRaw": "20251127042600",
+    "start": "2025-11-27 09:26:00 IST",
+    "stop": "2025-11-27 09:56:00 IST",
+    "channel": "jio-831",
+    "title": "Special",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127042600",
+    "stopRaw": "20251127045600",
+    "start": "2025-11-27 09:56:00 IST",
+    "stop": "2025-11-27 10:26:00 IST",
+    "channel": "jio-831",
+    "title": "Sade Shahar Sade Pind",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251127045600",
+    "stopRaw": "20251127052600",
+    "start": "2025-11-27 10:26:00 IST",
+    "stop": "2025-11-27 10:56:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127052600",
+    "stopRaw": "20251127055600",
+    "start": "2025-11-27 10:56:00 IST",
+    "stop": "2025-11-27 11:26:00 IST",
+    "channel": "jio-831",
+    "title": "Punjab Special",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Punjab."
+  },
+  {
+    "startRaw": "20251127055600",
+    "stopRaw": "20251127062600",
+    "start": "2025-11-27 11:26:00 IST",
+    "stop": "2025-11-27 11:56:00 IST",
+    "channel": "jio-831",
+    "title": "Bhakda Masla",
+    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251127062600",
+    "stopRaw": "20251127065600",
+    "start": "2025-11-27 11:56:00 IST",
+    "stop": "2025-11-27 12:26:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127065600",
+    "stopRaw": "20251127072600",
+    "start": "2025-11-27 12:26:00 IST",
+    "stop": "2025-11-27 12:56:00 IST",
+    "channel": "jio-831",
+    "title": "Mhara Haryana",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
+  },
+  {
+    "startRaw": "20251127072600",
+    "stopRaw": "20251127075600",
+    "start": "2025-11-27 12:56:00 IST",
+    "stop": "2025-11-27 13:26:00 IST",
+    "channel": "jio-831",
+    "title": "Punjab News",
+    "subTitle": "The host presents a roundup of the latest social, political and economic news updates and developments from across the state and nation."
+  },
+  {
+    "startRaw": "20251127075600",
+    "stopRaw": "20251127082600",
+    "start": "2025-11-27 13:26:00 IST",
+    "stop": "2025-11-27 13:56:00 IST",
+    "channel": "jio-831",
+    "title": "Advt / Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127082600",
+    "stopRaw": "20251127085600",
+    "start": "2025-11-27 13:56:00 IST",
+    "stop": "2025-11-27 14:26:00 IST",
+    "channel": "jio-831",
+    "title": "Dopahar Debate",
+    "subTitle": "The host invites a panel of experts from different fields to discuss and share their perspectives on various key issues."
+  },
+  {
+    "startRaw": "20251127085600",
+    "stopRaw": "20251127092600",
+    "start": "2025-11-27 14:26:00 IST",
+    "stop": "2025-11-27 14:56:00 IST",
+    "channel": "jio-831",
+    "title": "Advt / Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127092600",
+    "stopRaw": "20251127095600",
+    "start": "2025-11-27 14:56:00 IST",
+    "stop": "2025-11-27 15:26:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127095600",
+    "stopRaw": "20251127102600",
+    "start": "2025-11-27 15:26:00 IST",
+    "stop": "2025-11-27 15:56:00 IST",
+    "channel": "jio-831",
+    "title": "Mhara Haryana",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Haryana."
+  },
+  {
+    "startRaw": "20251127102600",
+    "stopRaw": "20251127105600",
+    "start": "2025-11-27 15:56:00 IST",
+    "stop": "2025-11-27 16:26:00 IST",
+    "channel": "jio-831",
+    "title": "Majha Malwa Doaba",
+    "subTitle": "The host provides the latest information, advancements and developments on various issues in Majha, Malwa and Doaba regions."
+  },
+  {
+    "startRaw": "20251127105600",
+    "stopRaw": "20251127112600",
+    "start": "2025-11-27 16:26:00 IST",
+    "stop": "2025-11-27 16:56:00 IST",
+    "channel": "jio-831",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251127112600",
+    "stopRaw": "20251127115600",
+    "start": "2025-11-27 16:56:00 IST",
+    "stop": "2025-11-27 17:26:00 IST",
+    "channel": "jio-831",
+    "title": "5 Vaje Punjab",
+    "subTitle": "The host presents the latest news updates and major developments related to governance, social, economic and political matters from the state of Punjab."
+  },
+  {
+    "startRaw": "20251127115600",
+    "stopRaw": "20251127122600",
+    "start": "2025-11-27 17:26:00 IST",
+    "stop": "2025-11-27 17:56:00 IST",
+    "channel": "jio-831",
+    "title": "Sade Shahar Sade Pind",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251127122600",
+    "stopRaw": "20251127125600",
+    "start": "2025-11-27 17:56:00 IST",
+    "stop": "2025-11-27 18:26:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127125600",
+    "stopRaw": "20251127132600",
+    "start": "2025-11-27 18:26:00 IST",
+    "stop": "2025-11-27 18:56:00 IST",
+    "channel": "jio-831",
+    "title": "Visa Live",
+    "subTitle": "The host provides detailed information and the latest updates on the visa process for Indian citizens, both domestically and abroad, live."
+  },
+  {
+    "startRaw": "20251127132600",
+    "stopRaw": "20251127135600",
+    "start": "2025-11-27 18:56:00 IST",
+    "stop": "2025-11-27 19:26:00 IST",
+    "channel": "jio-831",
+    "title": "Special",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127135600",
+    "stopRaw": "20251127142600",
+    "start": "2025-11-27 19:26:00 IST",
+    "stop": "2025-11-27 19:56:00 IST",
+    "channel": "jio-831",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127142600",
+    "stopRaw": "20251127145600",
+    "start": "2025-11-27 19:56:00 IST",
+    "stop": "2025-11-27 20:26:00 IST",
+    "channel": "jio-831",
+    "title": "Interview Special",
+    "subTitle": "The host invites prominent personalities and engages in a conversation with them on various topics as well as their life experiences."
+  },
+  {
+    "startRaw": "20251127145600",
+    "stopRaw": "20251127152600",
+    "start": "2025-11-27 20:26:00 IST",
+    "stop": "2025-11-27 20:56:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127152600",
+    "stopRaw": "20251127155600",
+    "start": "2025-11-27 20:56:00 IST",
+    "stop": "2025-11-27 21:26:00 IST",
+    "channel": "jio-831",
+    "title": "Final Report",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127155600",
+    "stopRaw": "20251127162600",
+    "start": "2025-11-27 21:26:00 IST",
+    "stop": "2025-11-27 21:56:00 IST",
+    "channel": "jio-831",
+    "title": "Special",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127162600",
+    "stopRaw": "20251127165600",
+    "start": "2025-11-27 21:56:00 IST",
+    "stop": "2025-11-27 22:26:00 IST",
+    "channel": "jio-831",
+    "title": "22 Jile 22 Khabar",
+    "subTitle": "The host presents the latest and most important updates on governance, social, economic and political news, along with major developments from various districts."
+  },
+  {
+    "startRaw": "20251127165600",
+    "stopRaw": "20251127172600",
+    "start": "2025-11-27 22:26:00 IST",
+    "stop": "2025-11-27 22:56:00 IST",
+    "channel": "jio-831",
+    "title": "Not Out 100",
+    "subTitle": "The host provides the latest information on the top 100 news stories on various political, economic and social issues in quick succession."
+  },
+  {
+    "startRaw": "20251127172600",
+    "stopRaw": "20251127175600",
+    "start": "2025-11-27 22:56:00 IST",
+    "stop": "2025-11-27 23:26:00 IST",
+    "channel": "jio-831",
+    "title": "Bhakda Masla",
+    "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251127175600",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:26:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-831",
     "title": "Bhakda Masla",
     "subTitle": "The host facilitates discussions and debates with various experts, who share their opinions on matters of national importance."

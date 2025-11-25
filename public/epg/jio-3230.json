@@ -1,176 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Aaj Ki Taaja Khabar",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Top 10 News",
-    "subTitle": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Public Affairs",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Morning News",
-    "subTitle": "The host provides an in-depth look at some of the latest news, current affairs and key developments on various topics of national and global concern."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Political News",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Special Bulletin",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Top 25 News",
-    "subTitle": "The host presents trending news stories and provides information on various social, political and economic issues of the day."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124060000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 11:30:00 IST",
-    "channel": "jio-3230",
-    "title": "World News",
-    "subTitle": "The host provides the latest updates, advancements and developments on various key issues and events taking place around the world."
-  },
-  {
-    "startRaw": "20251124060000",
-    "stopRaw": "20251124070000",
-    "start": "2025-11-24 11:30:00 IST",
-    "stop": "2025-11-24 12:30:00 IST",
-    "channel": "jio-3230",
-    "title": "Top 35",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124070000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:30:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Public Affairs",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Political News",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Special Bulletin",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124100000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 15:30:00 IST",
-    "channel": "jio-3230",
-    "title": "Top 250",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124100000",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 15:30:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-3230",
-    "title": "Bollywood News",
-    "subTitle": "The host collates and presents the latest news, sensational updates and information about new movies from the world of Bollywood."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Evening News",
-    "subTitle": "The host presents latest updates on top national and international news stories, developments and current affairs throughout various sectors of society."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Top 75",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Current Events",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-3230",
-    "title": "Sports News",
-    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3230",
-    "title": "Top 100",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124213000",
     "start": "2025-11-25 00:00:00 IST",
@@ -508,6 +337,177 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 22:00:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-3230",
+    "title": "Top 100",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Aaj Ki Taaja Khabar",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Top 10 News",
+    "subTitle": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Public Affairs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Morning News",
+    "subTitle": "The host provides an in-depth look at some of the latest news, current affairs and key developments on various topics of national and global concern."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Political News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Special Bulletin",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Top 25 News",
+    "subTitle": "The host presents trending news stories and provides information on various social, political and economic issues of the day."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-3230",
+    "title": "World News",
+    "subTitle": "The host provides the latest updates, advancements and developments on various key issues and events taking place around the world."
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-3230",
+    "title": "Top 35",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Public Affairs",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Political News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Special Bulletin",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-3230",
+    "title": "Top 250",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-3230",
+    "title": "Bollywood News",
+    "subTitle": "The host collates and presents the latest news, sensational updates and information about new movies from the world of Bollywood."
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Evening News",
+    "subTitle": "The host presents latest updates on top national and international news stories, developments and current affairs throughout various sectors of society."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Top 75",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Current Events",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-3230",
+    "title": "Sports News",
+    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-3230",
     "title": "Top 100",
     "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region."

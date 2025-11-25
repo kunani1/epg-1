@@ -1,221 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Headlines",
-    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Breaking News",
-    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-3189",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Top 10 News",
-    "subTitle": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Aapno Rajasthan",
-    "subTitle": "The host comprehensively delves into all the latest social, economic, sports and political updates from all over Rajasthan."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Fatafat news",
-    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Crime Bulletin",
-    "subTitle": "The host presents some of the latest and the most important crime-related news and updates from different parts of the country."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Hamari Virasat",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Chanakya Special",
-    "subTitle": "The host presents a detailed report on matters pertaining to politics, socioeconomic developments and current affairs around the world."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Sun Sarkar",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Bollywood News",
-    "subTitle": "The host collates and presents the latest news, sensational updates and information about new movies from the world of Bollywood."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Sports News",
-    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Entertainment",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Crime Bulletin",
-    "subTitle": "The host presents some of the latest and the most important crime-related news and updates from different parts of the country."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Aapno Rajasthan",
-    "subTitle": "The host comprehensively delves into all the latest social, economic, sports and political updates from all over Rajasthan."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Top 10 News",
-    "subTitle": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Fatafat news",
-    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Headlines",
-    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Breaking News",
-    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-3189",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-3189",
-    "title": "Hamari Virasat",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3189",
-    "title": "Sun Sarkar",
-    "subTitle": ""
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124193000",
     "start": "2025-11-25 00:00:00 IST",
@@ -643,6 +427,222 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:00:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-3189",
+    "title": "Sun Sarkar",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Headlines",
+    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Breaking News",
+    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-3189",
+    "title": "News Bulletin",
+    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Top 10 News",
+    "subTitle": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Aapno Rajasthan",
+    "subTitle": "The host comprehensively delves into all the latest social, economic, sports and political updates from all over Rajasthan."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Fatafat news",
+    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Crime Bulletin",
+    "subTitle": "The host presents some of the latest and the most important crime-related news and updates from different parts of the country."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Hamari Virasat",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Chanakya Special",
+    "subTitle": "The host presents a detailed report on matters pertaining to politics, socioeconomic developments and current affairs around the world."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Sun Sarkar",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Bollywood News",
+    "subTitle": "The host collates and presents the latest news, sensational updates and information about new movies from the world of Bollywood."
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Sports News",
+    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Entertainment",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Crime Bulletin",
+    "subTitle": "The host presents some of the latest and the most important crime-related news and updates from different parts of the country."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Aapno Rajasthan",
+    "subTitle": "The host comprehensively delves into all the latest social, economic, sports and political updates from all over Rajasthan."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Top 10 News",
+    "subTitle": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives."
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Fatafat news",
+    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Headlines",
+    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Breaking News",
+    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-3189",
+    "title": "News Bulletin",
+    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-3189",
+    "title": "Hamari Virasat",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-3189",
     "title": "Sun Sarkar",
     "subTitle": ""

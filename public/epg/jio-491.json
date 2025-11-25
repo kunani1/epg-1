@@ -1,329 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123190000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:30:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123190000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:30:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123200000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 01:30:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123200000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:30:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123220000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 03:30:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123220000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:30:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123230000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:30:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123230000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:30:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-491",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124010000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 06:30:00 IST",
-    "channel": "jio-491",
-    "title": "The Morning News",
-    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
-  },
-  {
-    "startRaw": "20251124010000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:30:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-491",
-    "title": "The Morning News",
-    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124020000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 07:30:00 IST",
-    "channel": "jio-491",
-    "title": "The Morning News",
-    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
-  },
-  {
-    "startRaw": "20251124020000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:30:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-491",
-    "title": "The Morning News",
-    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-491",
-    "title": "8 AM Metro Morning",
-    "subTitle": "The host sheds light on the latest news stories and significant developments from various fronts that impact people around the world."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-491",
-    "title": "The Morning News",
-    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-491",
-    "title": "10 AM Ground Reality",
-    "subTitle": "The host presents news updates and the latest information on social, political, cultural and economic issues of global significance."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-491",
-    "title": "11 AM Big Story",
-    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-491",
-    "title": "12 PM Ground Reality",
-    "subTitle": "The host presents detailed reports of various issues prevalent around the country, sharing crucial insights on current events."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-491",
-    "title": "Mirror @ 1 PM",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124090000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 14:30:00 IST",
-    "channel": "jio-491",
-    "title": "2 PM Mirror @ 2 PM",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "startRaw": "20251124090000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:30:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-491",
-    "title": "2 PM Mirror @ 2 PM",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-491",
-    "title": "3 PM Big Story",
-    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124110000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:30:00 IST",
-    "channel": "jio-491",
-    "title": "Mirror Live",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live."
-  },
-  {
-    "startRaw": "20251124110000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:30:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-491",
-    "title": "4:30 PM Superfast News",
-    "subTitle": "The host provides the latest news, current affairs and major developments of public interest from around the world and the country in quick succession."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124120000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 17:30:00 IST",
-    "channel": "jio-491",
-    "title": "5 PM Mirror Live",
-    "subTitle": "Journalists report the latest news stories and current events from different parts of the country and interview personalities connected to the same, live."
-  },
-  {
-    "startRaw": "20251124120000",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:30:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-491",
-    "title": "5:30 PM Mirror Live",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues while provides updates on important events, live."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-491",
-    "title": "Daily Mirror",
-    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124140000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 19:30:00 IST",
-    "channel": "jio-491",
-    "title": "News At 7",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124140000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:30:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-491",
-    "title": "Mirror Prime",
-    "subTitle": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-491",
-    "title": "The Urban Debate",
-    "subTitle": "The host conducts discussions with prominent personalities from various fields to seek insights about various socio-political matters."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-491",
-    "title": "9 PM Nation Tonight",
-    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-491",
-    "title": "Beyond The Headline",
-    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124180000",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:30:00 IST",
-    "channel": "jio-491",
-    "title": "9 PM Nation Tonight",
-    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
-  },
-  {
-    "startRaw": "20251124180000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-491",
-    "title": "News for Hearing Impaired",
-    "subTitle": "The host presents the latest political developments and socio-economic updates from India and around the world in sign language."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124193000",
     "start": "2025-11-25 00:00:00 IST",
@@ -823,6 +499,285 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-491",
+    "title": "News for Hearing Impaired",
+    "subTitle": "The host presents the latest political developments and socio-economic updates from India and around the world in sign language."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Urban Debate",
+    "subTitle": "The host conducts discussions with prominent personalities from various fields to seek insights about various socio-political matters."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-491",
+    "title": "Beyond The Headline",
+    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Urban Debate",
+    "subTitle": "The host conducts discussions with prominent personalities from various fields to seek insights about various socio-political matters."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-491",
+    "title": "9 PM Nation Tonight",
+    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-491",
+    "title": "Beyond The Headline",
+    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-491",
+    "title": "9 PM Nation Tonight",
+    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-491",
+    "title": "The Morning News",
+    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Morning News",
+    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-491",
+    "title": "The Morning News",
+    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Morning News",
+    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-491",
+    "title": "8 AM Metro Morning",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fronts that impact people around the world."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Morning News",
+    "subTitle": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-491",
+    "title": "10 AM Ground Reality",
+    "subTitle": "The host presents news updates and the latest information on social, political, cultural and economic issues of global significance."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-491",
+    "title": "11 AM Big Story",
+    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-491",
+    "title": "12 PM Ground Reality",
+    "subTitle": "The host presents detailed reports of various issues prevalent around the country, sharing crucial insights on current events."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-491",
+    "title": "Mirror @ 1 PM",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-491",
+    "title": "2 PM Mirror @ 2 PM",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-491",
+    "title": "2 PM Mirror @ 2 PM",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-491",
+    "title": "3 PM Big Story",
+    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-491",
+    "title": "Mirror Live",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live."
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-491",
+    "title": "4:30 PM Superfast News",
+    "subTitle": "The host provides the latest news, current affairs and major developments of public interest from around the world and the country in quick succession."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-491",
+    "title": "5 PM Mirror Live",
+    "subTitle": "Journalists report the latest news stories and current events from different parts of the country and interview personalities connected to the same, live."
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-491",
+    "title": "5:30 PM Mirror Live",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues while provides updates on important events, live."
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-491",
+    "title": "Daily Mirror",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-491",
+    "title": "News At 7",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-491",
+    "title": "Mirror Prime",
+    "subTitle": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-491",
+    "title": "The Urban Debate",
+    "subTitle": "The host conducts discussions with prominent personalities from various fields to seek insights about various socio-political matters."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-491",
+    "title": "9 PM Nation Tonight",
+    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-491",
+    "title": "Beyond The Headline",
+    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-491",
+    "title": "9 PM Nation Tonight",
+    "subTitle": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-491",
     "title": "News for Hearing Impaired",
     "subTitle": "The host presents the latest political developments and socio-economic updates from India and around the world in sign language."

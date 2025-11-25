@@ -1,221 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-2255",
-    "title": "National Bulletion",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Breaking News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Badi Khabar",
-    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Special News",
-    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Raftaar Samay Kahin Rajnitik Charcha",
-    "subTitle": "The host provides in-depth insights into some of the biggest news, events, and developments pertaining to the world of politics."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-2255",
-    "title": "National Bulletion",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Breaking News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Badi Khabar",
-    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Special News",
-    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Parsasan Or Apradh Janta Mange Jabab",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-2255",
-    "title": "National Bulletion",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Breaking News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Aamjan Ki Pukar Sarkar Ke Dawar",
-    "subTitle": "The host shares knowledge on the latest news updates regarding the socio-economical and political situation of India."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Raftaar Samay Kahin Rajnitik Charcha",
-    "subTitle": "The host provides in-depth insights into some of the biggest news, events, and developments pertaining to the world of politics."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Special News",
-    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Apradhon Ki Dastaan Raftaar Samay Ke Sath",
-    "subTitle": "The host provides an in-depth insight into the latest crime-related news, events and developments from across the country."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-2255",
-    "title": "National Bulletion",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Breaking News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Khabar 8 PM",
-    "subTitle": "The host presents the latest news, offering detailed analysis and updates on current events and important topics, engaging viewers with insightful opinions."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124163000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Parsasan Or Apradh Janta Mange Jabab",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country."
-  },
-  {
-    "startRaw": "20251124163000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:00:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-2255",
-    "title": "Apradhon Ki Dastaan Raftaar Samay Ke Sath",
-    "subTitle": "The host provides an in-depth insight into the latest crime-related news, events and developments from across the country."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-2255",
-    "title": "Aamjan Ki Pukar Sarkar Ke Dawar",
-    "subTitle": "The host shares knowledge on the latest news updates regarding the socio-economical and political situation of India."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124193000",
     "start": "2025-11-25 00:00:00 IST",
@@ -643,6 +427,222 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:00:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-2255",
+    "title": "Aamjan Ki Pukar Sarkar Ke Dawar",
+    "subTitle": "The host shares knowledge on the latest news updates regarding the socio-economical and political situation of India."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-2255",
+    "title": "National Bulletion",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Breaking News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Badi Khabar",
+    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Special News",
+    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Raftaar Samay Kahin Rajnitik Charcha",
+    "subTitle": "The host provides in-depth insights into some of the biggest news, events, and developments pertaining to the world of politics."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-2255",
+    "title": "National Bulletion",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Breaking News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Badi Khabar",
+    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Special News",
+    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Parsasan Or Apradh Janta Mange Jabab",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country."
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-2255",
+    "title": "National Bulletion",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Breaking News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Aamjan Ki Pukar Sarkar Ke Dawar",
+    "subTitle": "The host shares knowledge on the latest news updates regarding the socio-economical and political situation of India."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Raftaar Samay Kahin Rajnitik Charcha",
+    "subTitle": "The host provides in-depth insights into some of the biggest news, events, and developments pertaining to the world of politics."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Special News",
+    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Apradhon Ki Dastaan Raftaar Samay Ke Sath",
+    "subTitle": "The host provides an in-depth insight into the latest crime-related news, events and developments from across the country."
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-2255",
+    "title": "National Bulletion",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national significance."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Breaking News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Khabar 8 PM",
+    "subTitle": "The host presents the latest news, offering detailed analysis and updates on current events and important topics, engaging viewers with insightful opinions."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Parsasan Or Apradh Janta Mange Jabab",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country."
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-2255",
+    "title": "Apradhon Ki Dastaan Raftaar Samay Ke Sath",
+    "subTitle": "The host provides an in-depth insight into the latest crime-related news, events and developments from across the country."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-2255",
     "title": "Aamjan Ki Pukar Sarkar Ke Dawar",
     "subTitle": "The host shares knowledge on the latest news updates regarding the socio-economical and political situation of India."

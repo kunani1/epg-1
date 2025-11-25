@@ -1,437 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123185500",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Bharat 24",
-    "subTitle": "The host offers detailed insights into communal, political, social and economic concerns arising out of different regions across the nation."
-  },
-  {
-    "startRaw": "20251123185500",
-    "stopRaw": "20251123192500",
-    "start": "2025-11-24 00:25:00 IST",
-    "stop": "2025-11-24 00:55:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251123192500",
-    "stopRaw": "20251123195500",
-    "start": "2025-11-24 00:55:00 IST",
-    "stop": "2025-11-24 01:25:00 IST",
-    "channel": "jio-3226",
-    "title": "News @ 100",
-    "subTitle": "The host presents the latest updates and development surrounding socio-economic, political issues of significance in quick succession."
-  },
-  {
-    "startRaw": "20251123195500",
-    "stopRaw": "20251123202500",
-    "start": "2025-11-24 01:25:00 IST",
-    "stop": "2025-11-24 01:55:00 IST",
-    "channel": "jio-3226",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251123202500",
-    "stopRaw": "20251123205500",
-    "start": "2025-11-24 01:55:00 IST",
-    "stop": "2025-11-24 02:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Reporter",
-    "subTitle": "The host presents the latest news updates and developments from across India and provides information on current events."
-  },
-  {
-    "startRaw": "20251123205500",
-    "stopRaw": "20251123212500",
-    "start": "2025-11-24 02:25:00 IST",
-    "stop": "2025-11-24 02:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Uttar Pradesh 24",
-    "subTitle": "The host presents the latest political and socio-economic news, updates and developments taking place in and around Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251123212500",
-    "stopRaw": "20251123215500",
-    "start": "2025-11-24 02:55:00 IST",
-    "stop": "2025-11-24 03:25:00 IST",
-    "channel": "jio-3226",
-    "title": "10 Reporter",
-    "subTitle": "The host presents a detailed report on some of the latest and important news stories and updates from different parts of the world."
-  },
-  {
-    "startRaw": "20251123215500",
-    "stopRaw": "20251123222500",
-    "start": "2025-11-24 03:25:00 IST",
-    "stop": "2025-11-24 03:55:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251123222500",
-    "stopRaw": "20251123232500",
-    "start": "2025-11-24 03:55:00 IST",
-    "stop": "2025-11-24 04:55:00 IST",
-    "channel": "jio-3226",
-    "title": "News 50-50",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251123232500",
-    "stopRaw": "20251123235500",
-    "start": "2025-11-24 04:55:00 IST",
-    "stop": "2025-11-24 05:25:00 IST",
-    "channel": "jio-3226",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251123235500",
-    "stopRaw": "20251124002500",
-    "start": "2025-11-24 05:25:00 IST",
-    "stop": "2025-11-24 05:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Internet News",
-    "subTitle": "The host sheds light on some of the latest news, stories, incidents and events that went viral on social media platforms."
-  },
-  {
-    "startRaw": "20251124002500",
-    "stopRaw": "20251124005500",
-    "start": "2025-11-24 05:55:00 IST",
-    "stop": "2025-11-24 06:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Uttar Pradesh 24",
-    "subTitle": "The host presents the latest political and socio-economic news, updates and developments taking place in and around Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251124005500",
-    "stopRaw": "20251124012500",
-    "start": "2025-11-24 06:25:00 IST",
-    "stop": "2025-11-24 06:55:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251124012500",
-    "stopRaw": "20251124014500",
-    "start": "2025-11-24 06:55:00 IST",
-    "stop": "2025-11-24 07:15:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Bhakti",
-    "subTitle": "A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life."
-  },
-  {
-    "startRaw": "20251124014500",
-    "stopRaw": "20251124020000",
-    "start": "2025-11-24 07:15:00 IST",
-    "stop": "2025-11-24 07:30:00 IST",
-    "channel": "jio-3226",
-    "title": "Bhagya",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124020000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:30:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-3226",
-    "title": "Good Morning Hindustan",
-    "subTitle": "The host presents the latest news stories, important updates and developments from various spheres including politics, business and sports."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124025500",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 08:25:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251124025500",
-    "stopRaw": "20251124032500",
-    "start": "2025-11-24 08:25:00 IST",
-    "stop": "2025-11-24 08:55:00 IST",
-    "channel": "jio-3226",
-    "title": "News 50-50",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124032500",
-    "stopRaw": "20251124035500",
-    "start": "2025-11-24 08:55:00 IST",
-    "stop": "2025-11-24 09:25:00 IST",
-    "channel": "jio-3226",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251124035500",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:25:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-3226",
-    "title": "Subah - Subah",
-    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124045500",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 10:25:00 IST",
-    "channel": "jio-3226",
-    "title": "News Hour",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251124045500",
-    "stopRaw": "20251124052500",
-    "start": "2025-11-24 10:25:00 IST",
-    "stop": "2025-11-24 10:55:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251124052500",
-    "stopRaw": "20251124055500",
-    "start": "2025-11-24 10:55:00 IST",
-    "stop": "2025-11-24 11:25:00 IST",
-    "channel": "jio-3226",
-    "title": "MP &amp; CG Special",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to politics, finance, sports and entertainment news happening in India."
-  },
-  {
-    "startRaw": "20251124055500",
-    "stopRaw": "20251124062500",
-    "start": "2025-11-24 11:25:00 IST",
-    "stop": "2025-11-24 11:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Morning News Bulletin",
-    "subTitle": "The host provides the latest information, advancments and developments on significant matters affecting the lives of many individuals."
-  },
-  {
-    "startRaw": "20251124062500",
-    "stopRaw": "20251124070000",
-    "start": "2025-11-24 11:55:00 IST",
-    "stop": "2025-11-24 12:30:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Doctor",
-    "subTitle": "The host provides important updates about the health-related news such as preventive medicine and different medical procedures that are gaining popularity."
-  },
-  {
-    "startRaw": "20251124070000",
-    "stopRaw": "20251124072500",
-    "start": "2025-11-24 12:30:00 IST",
-    "stop": "2025-11-24 12:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Top 10",
-    "subTitle": "The host presents the top ten latest developments pertaining to the current affairs, social, economic and cultural updates of the day."
-  },
-  {
-    "startRaw": "20251124072500",
-    "stopRaw": "20251124080000",
-    "start": "2025-11-24 12:55:00 IST",
-    "stop": "2025-11-24 13:30:00 IST",
-    "channel": "jio-3226",
-    "title": "State News",
-    "subTitle": "The news anchors present the latest news headlines, stories, updates and developments in politics, current affairs and sports across the state."
-  },
-  {
-    "startRaw": "20251124080000",
-    "stopRaw": "20251124082500",
-    "start": "2025-11-24 13:30:00 IST",
-    "stop": "2025-11-24 13:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Uttar Pradesh 24",
-    "subTitle": "The host presents the latest political and socio-economic news, updates and developments taking place in and around Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251124082500",
-    "stopRaw": "20251124085500",
-    "start": "2025-11-24 13:55:00 IST",
-    "stop": "2025-11-24 14:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Internet News",
-    "subTitle": "The host sheds light on some of the latest news, stories, incidents and events that went viral on social media platforms."
-  },
-  {
-    "startRaw": "20251124085500",
-    "stopRaw": "20251124092500",
-    "start": "2025-11-24 14:25:00 IST",
-    "stop": "2025-11-24 14:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Filmi",
-    "subTitle": "The host sheds light on the latest releases and most trending news, updates, gossip and developments from the film industry."
-  },
-  {
-    "startRaw": "20251124092500",
-    "stopRaw": "20251124100100",
-    "start": "2025-11-24 14:55:00 IST",
-    "stop": "2025-11-24 15:31:00 IST",
-    "channel": "jio-3226",
-    "title": "Samachar Bulletin",
-    "subTitle": "News anchors present the latest stories, updates and developments in politics, society and economics from around the world."
-  },
-  {
-    "startRaw": "20251124100100",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:31:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-3226",
-    "title": "Special Story",
-    "subTitle": "The host presents latest updates and developments pertaining to the social, political and economic issues of the country and the state of Punjab."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124105500",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:25:00 IST",
-    "channel": "jio-3226",
-    "title": "News 50-50",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124105500",
-    "stopRaw": "20251124112500",
-    "start": "2025-11-24 16:25:00 IST",
-    "stop": "2025-11-24 16:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Up Special News",
-    "subTitle": "The host presents the latest information, advancements and developments on various issues across various sectors from the state of Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251124112500",
-    "stopRaw": "20251124120000",
-    "start": "2025-11-24 16:55:00 IST",
-    "stop": "2025-11-24 17:30:00 IST",
-    "channel": "jio-3226",
-    "title": "Badi Khabrein",
-    "subTitle": "The host provides the latest information, updates and developments on important issues that affect the lives of many individuals."
-  },
-  {
-    "startRaw": "20251124120000",
-    "stopRaw": "20251124122500",
-    "start": "2025-11-24 17:30:00 IST",
-    "stop": "2025-11-24 17:55:00 IST",
-    "channel": "jio-3226",
-    "title": "State Special",
-    "subTitle": "The host shares the latest developments in the state on issues across different frameworks and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124122500",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 17:55:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-3226",
-    "title": "News 100",
-    "subTitle": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124132500",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 18:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Ki Baat",
-    "subTitle": "The host presents the latest news updates and developments pertaining to political, social and economic issues in India."
-  },
-  {
-    "startRaw": "20251124132500",
-    "stopRaw": "20251124135500",
-    "start": "2025-11-24 18:55:00 IST",
-    "stop": "2025-11-24 19:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Desh Ki Awaz",
-    "subTitle": "The host delves into a discussion, featuring engaging dialogues on pressing social, political, economic, and cultural issues."
-  },
-  {
-    "startRaw": "20251124135500",
-    "stopRaw": "20251124141300",
-    "start": "2025-11-24 19:25:00 IST",
-    "stop": "2025-11-24 19:43:00 IST",
-    "channel": "jio-3226",
-    "title": "Top Agenda",
-    "subTitle": "Experts discuss the agenda of the day and current key issues that impact the common man and attempt to find the positives and negatives behind each story."
-  },
-  {
-    "startRaw": "20251124141300",
-    "stopRaw": "20251124142500",
-    "start": "2025-11-24 19:43:00 IST",
-    "stop": "2025-11-24 19:55:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Villagae",
-    "subTitle": "The host presents the latest rural news updates and developments with respect to politics, economy and other social issues."
-  },
-  {
-    "startRaw": "20251124142500",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 19:55:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-3226",
-    "title": "News-100",
-    "subTitle": "The host presents the top 100 major updates and developments pertaining to politics, society and economy from around the country."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124155500",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 21:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Rajya Ki Khabar",
-    "subTitle": "The host presents the latest news headlines, stories, updates and developments in politics, current affairs and sports across the states of India."
-  },
-  {
-    "startRaw": "20251124155500",
-    "stopRaw": "20251124163100",
-    "start": "2025-11-24 21:25:00 IST",
-    "stop": "2025-11-24 22:01:00 IST",
-    "channel": "jio-3226",
-    "title": "Hindustan Ki Baat",
-    "subTitle": "The host presents the latest news updates and developments pertaining to political, social and economic issues in India."
-  },
-  {
-    "startRaw": "20251124163100",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:01:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-3226",
-    "title": "Crime Seen",
-    "subTitle": "The presenter offers insights into active or past scenes of criminal activity and shares updates on the investigations conducted by local law enforcement agencies."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124172500",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 22:55:00 IST",
-    "channel": "jio-3226",
-    "title": "News 50-50",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124172500",
-    "stopRaw": "20251124175500",
-    "start": "2025-11-24 22:55:00 IST",
-    "stop": "2025-11-24 23:25:00 IST",
-    "channel": "jio-3226",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
-  },
-  {
-    "startRaw": "20251124175500",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:25:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3226",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124203000",
     "start": "2025-11-25 00:00:00 IST",
@@ -1204,5 +772,221 @@
     "channel": "jio-3226",
     "title": "Teleshopping",
     "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3226",
+    "title": "R Hindustan Tv News",
+    "subTitle": ""
   }
 ]

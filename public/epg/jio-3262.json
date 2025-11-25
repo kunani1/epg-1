@@ -1,113 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123194445",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:14:45 IST",
-    "channel": "jio-3262",
-    "title": "Varnapakittu",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123194445",
-    "stopRaw": "20251123214214",
-    "start": "2025-11-24 01:14:45 IST",
-    "stop": "2025-11-24 03:12:14 IST",
-    "channel": "jio-3262",
-    "title": "Aagneyam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123214214",
-    "stopRaw": "20251123235255",
-    "start": "2025-11-24 03:12:14 IST",
-    "stop": "2025-11-24 05:22:55 IST",
-    "channel": "jio-3262",
-    "title": "Ammayane Sathyam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123235255",
-    "stopRaw": "20251124022617",
-    "start": "2025-11-24 05:22:55 IST",
-    "stop": "2025-11-24 07:56:17 IST",
-    "channel": "jio-3262",
-    "title": "Kilukkam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124022617",
-    "stopRaw": "20251124041640",
-    "start": "2025-11-24 07:56:17 IST",
-    "stop": "2025-11-24 09:46:40 IST",
-    "channel": "jio-3262",
-    "title": "Raja Thanthram",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124041640",
-    "stopRaw": "20251124063346",
-    "start": "2025-11-24 09:46:40 IST",
-    "stop": "2025-11-24 12:03:46 IST",
-    "channel": "jio-3262",
-    "title": "Manasam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124063346",
-    "stopRaw": "20251124083756",
-    "start": "2025-11-24 12:03:46 IST",
-    "stop": "2025-11-24 14:07:56 IST",
-    "channel": "jio-3262",
-    "title": "Guru Sishyan",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124083756",
-    "stopRaw": "20251124110202",
-    "start": "2025-11-24 14:07:56 IST",
-    "stop": "2025-11-24 16:32:02 IST",
-    "channel": "jio-3262",
-    "title": "Minnaram",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124110202",
-    "stopRaw": "20251124133506",
-    "start": "2025-11-24 16:32:02 IST",
-    "stop": "2025-11-24 19:05:06 IST",
-    "channel": "jio-3262",
-    "title": "Varnapakittu",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124133506",
-    "stopRaw": "20251124153235",
-    "start": "2025-11-24 19:05:06 IST",
-    "stop": "2025-11-24 21:02:35 IST",
-    "channel": "jio-3262",
-    "title": "Aagneyam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124153235",
-    "stopRaw": "20251124174316",
-    "start": "2025-11-24 21:02:35 IST",
-    "stop": "2025-11-24 23:13:16 IST",
-    "channel": "jio-3262",
-    "title": "Ammayane Sathyam",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124174316",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:13:16 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3262",
-    "title": "Kilukkam",
-    "subTitle": ""
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124201639",
     "start": "2025-11-25 00:00:00 IST",
@@ -312,6 +204,114 @@
     "stop": "2025-11-26 23:59:59 IST",
     "channel": "jio-3262",
     "title": "Varnapakittu",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190612",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:36:12 IST",
+    "channel": "jio-3262",
+    "title": "Varnapakittu",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126190612",
+    "stopRaw": "20251126210341",
+    "start": "2025-11-27 00:36:12 IST",
+    "stop": "2025-11-27 02:33:41 IST",
+    "channel": "jio-3262",
+    "title": "Aagneyam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126210341",
+    "stopRaw": "20251126231422",
+    "start": "2025-11-27 02:33:41 IST",
+    "stop": "2025-11-27 04:44:22 IST",
+    "channel": "jio-3262",
+    "title": "Ammayane Sathyam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126231422",
+    "stopRaw": "20251127014744",
+    "start": "2025-11-27 04:44:22 IST",
+    "stop": "2025-11-27 07:17:44 IST",
+    "channel": "jio-3262",
+    "title": "Kilukkam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127014744",
+    "stopRaw": "20251127033807",
+    "start": "2025-11-27 07:17:44 IST",
+    "stop": "2025-11-27 09:08:07 IST",
+    "channel": "jio-3262",
+    "title": "Raja Thanthram",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127033807",
+    "stopRaw": "20251127055513",
+    "start": "2025-11-27 09:08:07 IST",
+    "stop": "2025-11-27 11:25:13 IST",
+    "channel": "jio-3262",
+    "title": "Manasam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127055513",
+    "stopRaw": "20251127075923",
+    "start": "2025-11-27 11:25:13 IST",
+    "stop": "2025-11-27 13:29:23 IST",
+    "channel": "jio-3262",
+    "title": "Guru Sishyan",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127075923",
+    "stopRaw": "20251127102329",
+    "start": "2025-11-27 13:29:23 IST",
+    "stop": "2025-11-27 15:53:29 IST",
+    "channel": "jio-3262",
+    "title": "Minnaram",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127102329",
+    "stopRaw": "20251127125633",
+    "start": "2025-11-27 15:53:29 IST",
+    "stop": "2025-11-27 18:26:33 IST",
+    "channel": "jio-3262",
+    "title": "Varnapakittu",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127125633",
+    "stopRaw": "20251127145402",
+    "start": "2025-11-27 18:26:33 IST",
+    "stop": "2025-11-27 20:24:02 IST",
+    "channel": "jio-3262",
+    "title": "Aagneyam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127145402",
+    "stopRaw": "20251127170443",
+    "start": "2025-11-27 20:24:02 IST",
+    "stop": "2025-11-27 22:34:43 IST",
+    "channel": "jio-3262",
+    "title": "Ammayane Sathyam",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127170443",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 22:34:43 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3262",
+    "title": "Kilukkam",
     "subTitle": ""
   }
 ]

@@ -1,626 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123190000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
-  },
-  {
-    "startRaw": "20251123190000",
-    "stopRaw": "20251123195533",
-    "start": "2025-11-24 00:30:00 IST",
-    "stop": "2025-11-24 01:25:33 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show"
-  },
-  {
-    "startRaw": "20251123195533",
-    "stopRaw": "20251123202552",
-    "start": "2025-11-24 01:25:33 IST",
-    "stop": "2025-11-24 01:55:52 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251123202552",
-    "stopRaw": "20251123210747",
-    "start": "2025-11-24 01:55:52 IST",
-    "stop": "2025-11-24 02:37:47 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
-  },
-  {
-    "startRaw": "20251123210747",
-    "stopRaw": "20251123211236",
-    "start": "2025-11-24 02:37:47 IST",
-    "stop": "2025-11-24 02:42:36 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251123211236",
-    "stopRaw": "20251123212001",
-    "start": "2025-11-24 02:42:36 IST",
-    "stop": "2025-11-24 02:50:01 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans"
-  },
-  {
-    "startRaw": "20251123212001",
-    "stopRaw": "20251123212543",
-    "start": "2025-11-24 02:50:01 IST",
-    "stop": "2025-11-24 02:55:43 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251123212543",
-    "stopRaw": "20251123222553",
-    "start": "2025-11-24 02:55:43 IST",
-    "stop": "2025-11-24 03:55:53 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251123222553",
-    "stopRaw": "20251123223051",
-    "start": "2025-11-24 03:55:53 IST",
-    "stop": "2025-11-24 04:00:51 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda"
-  },
-  {
-    "startRaw": "20251123223051",
-    "stopRaw": "20251123230957",
-    "start": "2025-11-24 04:00:51 IST",
-    "stop": "2025-11-24 04:39:57 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251123230957",
-    "stopRaw": "20251123233258",
-    "start": "2025-11-24 04:39:57 IST",
-    "stop": "2025-11-24 05:02:58 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251123233258",
-    "stopRaw": "20251123233908",
-    "start": "2025-11-24 05:02:58 IST",
-    "stop": "2025-11-24 05:09:08 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251123233908",
-    "stopRaw": "20251124003205",
-    "start": "2025-11-24 05:09:08 IST",
-    "stop": "2025-11-24 06:02:05 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251124003205",
-    "stopRaw": "20251124004959",
-    "start": "2025-11-24 06:02:05 IST",
-    "stop": "2025-11-24 06:19:59 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251124004959",
-    "stopRaw": "20251124012039",
-    "start": "2025-11-24 06:19:59 IST",
-    "stop": "2025-11-24 06:50:39 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251124012039",
-    "stopRaw": "20251124012123",
-    "start": "2025-11-24 06:50:39 IST",
-    "stop": "2025-11-24 06:51:23 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124012123",
-    "stopRaw": "20251124012740",
-    "start": "2025-11-24 06:51:23 IST",
-    "stop": "2025-11-24 06:57:40 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124012740",
-    "stopRaw": "20251124014653",
-    "start": "2025-11-24 06:57:40 IST",
-    "stop": "2025-11-24 07:16:53 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS"
-  },
-  {
-    "startRaw": "20251124014653",
-    "stopRaw": "20251124014658",
-    "start": "2025-11-24 07:16:53 IST",
-    "stop": "2025-11-24 07:16:58 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID"
-  },
-  {
-    "startRaw": "20251124014658",
-    "stopRaw": "20251124014742",
-    "start": "2025-11-24 07:16:58 IST",
-    "stop": "2025-11-24 07:17:42 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124014742",
-    "stopRaw": "20251124022258",
-    "start": "2025-11-24 07:17:42 IST",
-    "stop": "2025-11-24 07:52:58 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251124022258",
-    "stopRaw": "20251124022916",
-    "start": "2025-11-24 07:52:58 IST",
-    "stop": "2025-11-24 07:59:16 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-05",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124022916",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:59:16 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124035533",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 09:25:33 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show"
-  },
-  {
-    "startRaw": "20251124035533",
-    "stopRaw": "20251124042552",
-    "start": "2025-11-24 09:25:33 IST",
-    "stop": "2025-11-24 09:55:52 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251124042552",
-    "stopRaw": "20251124050747",
-    "start": "2025-11-24 09:55:52 IST",
-    "stop": "2025-11-24 10:37:47 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
-  },
-  {
-    "startRaw": "20251124050747",
-    "stopRaw": "20251124051236",
-    "start": "2025-11-24 10:37:47 IST",
-    "stop": "2025-11-24 10:42:36 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124051236",
-    "stopRaw": "20251124052001",
-    "start": "2025-11-24 10:42:36 IST",
-    "stop": "2025-11-24 10:50:01 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans"
-  },
-  {
-    "startRaw": "20251124052001",
-    "stopRaw": "20251124052543",
-    "start": "2025-11-24 10:50:01 IST",
-    "stop": "2025-11-24 10:55:43 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124052543",
-    "stopRaw": "20251124062553",
-    "start": "2025-11-24 10:55:43 IST",
-    "stop": "2025-11-24 11:55:53 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251124062553",
-    "stopRaw": "20251124063051",
-    "start": "2025-11-24 11:55:53 IST",
-    "stop": "2025-11-24 12:00:51 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda"
-  },
-  {
-    "startRaw": "20251124063051",
-    "stopRaw": "20251124070957",
-    "start": "2025-11-24 12:00:51 IST",
-    "stop": "2025-11-24 12:39:57 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251124070957",
-    "stopRaw": "20251124073258",
-    "start": "2025-11-24 12:39:57 IST",
-    "stop": "2025-11-24 13:02:58 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251124073258",
-    "stopRaw": "20251124073908",
-    "start": "2025-11-24 13:02:58 IST",
-    "stop": "2025-11-24 13:09:08 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124073908",
-    "stopRaw": "20251124083205",
-    "start": "2025-11-24 13:09:08 IST",
-    "stop": "2025-11-24 14:02:05 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251124083205",
-    "stopRaw": "20251124084959",
-    "start": "2025-11-24 14:02:05 IST",
-    "stop": "2025-11-24 14:19:59 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251124084959",
-    "stopRaw": "20251124092039",
-    "start": "2025-11-24 14:19:59 IST",
-    "stop": "2025-11-24 14:50:39 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251124092039",
-    "stopRaw": "20251124092123",
-    "start": "2025-11-24 14:50:39 IST",
-    "stop": "2025-11-24 14:51:23 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124092123",
-    "stopRaw": "20251124092740",
-    "start": "2025-11-24 14:51:23 IST",
-    "stop": "2025-11-24 14:57:40 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124092740",
-    "stopRaw": "20251124094653",
-    "start": "2025-11-24 14:57:40 IST",
-    "stop": "2025-11-24 15:16:53 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS"
-  },
-  {
-    "startRaw": "20251124094653",
-    "stopRaw": "20251124094658",
-    "start": "2025-11-24 15:16:53 IST",
-    "stop": "2025-11-24 15:16:58 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID"
-  },
-  {
-    "startRaw": "20251124094658",
-    "stopRaw": "20251124094742",
-    "start": "2025-11-24 15:16:58 IST",
-    "stop": "2025-11-24 15:17:42 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124094742",
-    "stopRaw": "20251124102258",
-    "start": "2025-11-24 15:17:42 IST",
-    "stop": "2025-11-24 15:52:58 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251124102258",
-    "stopRaw": "20251124102916",
-    "start": "2025-11-24 15:52:58 IST",
-    "stop": "2025-11-24 15:59:16 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-05",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124102916",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:59:16 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124110000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
-  },
-  {
-    "startRaw": "20251124110000",
-    "stopRaw": "20251124115533",
-    "start": "2025-11-24 16:30:00 IST",
-    "stop": "2025-11-24 17:25:33 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show"
-  },
-  {
-    "startRaw": "20251124115533",
-    "stopRaw": "20251124122552",
-    "start": "2025-11-24 17:25:33 IST",
-    "stop": "2025-11-24 17:55:52 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251124122552",
-    "stopRaw": "20251124130747",
-    "start": "2025-11-24 17:55:52 IST",
-    "stop": "2025-11-24 18:37:47 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
-  },
-  {
-    "startRaw": "20251124130747",
-    "stopRaw": "20251124131236",
-    "start": "2025-11-24 18:37:47 IST",
-    "stop": "2025-11-24 18:42:36 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124131236",
-    "stopRaw": "20251124132001",
-    "start": "2025-11-24 18:42:36 IST",
-    "stop": "2025-11-24 18:50:01 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans"
-  },
-  {
-    "startRaw": "20251124132001",
-    "stopRaw": "20251124132543",
-    "start": "2025-11-24 18:50:01 IST",
-    "stop": "2025-11-24 18:55:43 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124132543",
-    "stopRaw": "20251124142553",
-    "start": "2025-11-24 18:55:43 IST",
-    "stop": "2025-11-24 19:55:53 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251124142553",
-    "stopRaw": "20251124143051",
-    "start": "2025-11-24 19:55:53 IST",
-    "stop": "2025-11-24 20:00:51 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda"
-  },
-  {
-    "startRaw": "20251124143051",
-    "stopRaw": "20251124150957",
-    "start": "2025-11-24 20:00:51 IST",
-    "stop": "2025-11-24 20:39:57 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251124150957",
-    "stopRaw": "20251124153258",
-    "start": "2025-11-24 20:39:57 IST",
-    "stop": "2025-11-24 21:02:58 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251124153258",
-    "stopRaw": "20251124153908",
-    "start": "2025-11-24 21:02:58 IST",
-    "stop": "2025-11-24 21:09:08 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124153908",
-    "stopRaw": "20251124163205",
-    "start": "2025-11-24 21:09:08 IST",
-    "stop": "2025-11-24 22:02:05 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show"
-  },
-  {
-    "startRaw": "20251124163205",
-    "stopRaw": "20251124164959",
-    "start": "2025-11-24 22:02:05 IST",
-    "stop": "2025-11-24 22:19:59 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji"
-  },
-  {
-    "startRaw": "20251124164959",
-    "stopRaw": "20251124172039",
-    "start": "2025-11-24 22:19:59 IST",
-    "stop": "2025-11-24 22:50:39 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji"
-  },
-  {
-    "startRaw": "20251124172039",
-    "stopRaw": "20251124172123",
-    "start": "2025-11-24 22:50:39 IST",
-    "stop": "2025-11-24 22:51:23 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124172123",
-    "stopRaw": "20251124172740",
-    "start": "2025-11-24 22:51:23 IST",
-    "stop": "2025-11-24 22:57:40 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124172740",
-    "stopRaw": "20251124174653",
-    "start": "2025-11-24 22:57:40 IST",
-    "stop": "2025-11-24 23:16:53 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS"
-  },
-  {
-    "startRaw": "20251124174653",
-    "stopRaw": "20251124174658",
-    "start": "2025-11-24 23:16:53 IST",
-    "stop": "2025-11-24 23:16:58 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID"
-  },
-  {
-    "startRaw": "20251124174658",
-    "stopRaw": "20251124174742",
-    "start": "2025-11-24 23:16:58 IST",
-    "stop": "2025-11-24 23:17:42 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
-    "startRaw": "20251124174742",
-    "stopRaw": "20251124182258",
-    "start": "2025-11-24 23:17:42 IST",
-    "stop": "2025-11-24 23:52:58 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program"
-  },
-  {
-    "startRaw": "20251124182258",
-    "stopRaw": "20251124182915",
-    "start": "2025-11-24 23:52:58 IST",
-    "stop": "2025-11-24 23:59:15 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj"
-  },
-  {
-    "startRaw": "20251124182915",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:59:15 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo"
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124190000",
     "start": "2025-11-25 00:00:00 IST",
@@ -1834,5 +1213,626 @@
     "channel": "jio-1607",
     "title": "Promo",
     "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126200109",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:31:09 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show"
+  },
+  {
+    "startRaw": "20251126200109",
+    "stopRaw": "20251126203126",
+    "start": "2025-11-27 01:31:09 IST",
+    "stop": "2025-11-27 02:01:26 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251126203126",
+    "stopRaw": "20251126212427",
+    "start": "2025-11-27 02:01:26 IST",
+    "stop": "2025-11-27 02:54:27 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
+  },
+  {
+    "startRaw": "20251126212427",
+    "stopRaw": "20251126212916",
+    "start": "2025-11-27 02:54:27 IST",
+    "stop": "2025-11-27 02:59:16 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251126212916",
+    "stopRaw": "20251126221507",
+    "start": "2025-11-27 02:59:16 IST",
+    "stop": "2025-11-27 03:45:07 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251126221507",
+    "stopRaw": "20251126222117",
+    "start": "2025-11-27 03:45:07 IST",
+    "stop": "2025-11-27 03:51:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251126222117",
+    "stopRaw": "20251126222535",
+    "start": "2025-11-27 03:51:17 IST",
+    "stop": "2025-11-27 03:55:35 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans"
+  },
+  {
+    "startRaw": "20251126222535",
+    "stopRaw": "20251126223117",
+    "start": "2025-11-27 03:55:35 IST",
+    "stop": "2025-11-27 04:01:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251126223117",
+    "stopRaw": "20251126224824",
+    "start": "2025-11-27 04:01:17 IST",
+    "stop": "2025-11-27 04:18:24 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251126224824",
+    "stopRaw": "20251126231537",
+    "start": "2025-11-27 04:18:24 IST",
+    "stop": "2025-11-27 04:45:37 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251126231537",
+    "stopRaw": "20251126231547",
+    "start": "2025-11-27 04:45:37 IST",
+    "stop": "2025-11-27 04:45:47 IST",
+    "channel": "jio-1607",
+    "title": "Genric ID",
+    "subTitle": "Channel ID"
+  },
+  {
+    "startRaw": "20251126231547",
+    "stopRaw": "20251126231631",
+    "start": "2025-11-27 04:45:47 IST",
+    "stop": "2025-11-27 04:46:31 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251126231631",
+    "stopRaw": "20251127002949",
+    "start": "2025-11-27 04:46:31 IST",
+    "stop": "2025-11-27 05:59:49 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251127002949",
+    "stopRaw": "20251127003033",
+    "start": "2025-11-27 05:59:49 IST",
+    "stop": "2025-11-27 06:00:33 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127003033",
+    "stopRaw": "20251127010229",
+    "start": "2025-11-27 06:00:33 IST",
+    "stop": "2025-11-27 06:32:29 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251127010229",
+    "stopRaw": "20251127012016",
+    "start": "2025-11-27 06:32:29 IST",
+    "stop": "2025-11-27 06:50:16 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251127012016",
+    "stopRaw": "20251127012633",
+    "start": "2025-11-27 06:50:16 IST",
+    "stop": "2025-11-27 06:56:33 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127012633",
+    "stopRaw": "20251127020017",
+    "start": "2025-11-27 06:56:33 IST",
+    "stop": "2025-11-27 07:30:17 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251127020017",
+    "stopRaw": "20251127020101",
+    "start": "2025-11-27 07:30:17 IST",
+    "stop": "2025-11-27 07:31:01 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127020101",
+    "stopRaw": "20251127021932",
+    "start": "2025-11-27 07:31:01 IST",
+    "stop": "2025-11-27 07:49:32 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS"
+  },
+  {
+    "startRaw": "20251127021932",
+    "stopRaw": "20251127022550",
+    "start": "2025-11-27 07:49:32 IST",
+    "stop": "2025-11-27 07:55:50 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-05",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127022550",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:55:50 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127040109",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:31:09 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show"
+  },
+  {
+    "startRaw": "20251127040109",
+    "stopRaw": "20251127043126",
+    "start": "2025-11-27 09:31:09 IST",
+    "stop": "2025-11-27 10:01:26 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251127043126",
+    "stopRaw": "20251127052427",
+    "start": "2025-11-27 10:01:26 IST",
+    "stop": "2025-11-27 10:54:27 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
+  },
+  {
+    "startRaw": "20251127052427",
+    "stopRaw": "20251127052916",
+    "start": "2025-11-27 10:54:27 IST",
+    "stop": "2025-11-27 10:59:16 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127052916",
+    "stopRaw": "20251127061507",
+    "start": "2025-11-27 10:59:16 IST",
+    "stop": "2025-11-27 11:45:07 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251127061507",
+    "stopRaw": "20251127062117",
+    "start": "2025-11-27 11:45:07 IST",
+    "stop": "2025-11-27 11:51:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127062117",
+    "stopRaw": "20251127062535",
+    "start": "2025-11-27 11:51:17 IST",
+    "stop": "2025-11-27 11:55:35 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans"
+  },
+  {
+    "startRaw": "20251127062535",
+    "stopRaw": "20251127063117",
+    "start": "2025-11-27 11:55:35 IST",
+    "stop": "2025-11-27 12:01:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127063117",
+    "stopRaw": "20251127064824",
+    "start": "2025-11-27 12:01:17 IST",
+    "stop": "2025-11-27 12:18:24 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251127064824",
+    "stopRaw": "20251127071537",
+    "start": "2025-11-27 12:18:24 IST",
+    "stop": "2025-11-27 12:45:37 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251127071537",
+    "stopRaw": "20251127071547",
+    "start": "2025-11-27 12:45:37 IST",
+    "stop": "2025-11-27 12:45:47 IST",
+    "channel": "jio-1607",
+    "title": "Genric ID",
+    "subTitle": "Channel ID"
+  },
+  {
+    "startRaw": "20251127071547",
+    "stopRaw": "20251127071631",
+    "start": "2025-11-27 12:45:47 IST",
+    "stop": "2025-11-27 12:46:31 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127071631",
+    "stopRaw": "20251127082949",
+    "start": "2025-11-27 12:46:31 IST",
+    "stop": "2025-11-27 13:59:49 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251127082949",
+    "stopRaw": "20251127083033",
+    "start": "2025-11-27 13:59:49 IST",
+    "stop": "2025-11-27 14:00:33 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127083033",
+    "stopRaw": "20251127090229",
+    "start": "2025-11-27 14:00:33 IST",
+    "stop": "2025-11-27 14:32:29 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251127090229",
+    "stopRaw": "20251127092016",
+    "start": "2025-11-27 14:32:29 IST",
+    "stop": "2025-11-27 14:50:16 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251127092016",
+    "stopRaw": "20251127092633",
+    "start": "2025-11-27 14:50:16 IST",
+    "stop": "2025-11-27 14:56:33 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127092633",
+    "stopRaw": "20251127100017",
+    "start": "2025-11-27 14:56:33 IST",
+    "stop": "2025-11-27 15:30:17 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251127100017",
+    "stopRaw": "20251127100101",
+    "start": "2025-11-27 15:30:17 IST",
+    "stop": "2025-11-27 15:31:01 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127100101",
+    "stopRaw": "20251127101932",
+    "start": "2025-11-27 15:31:01 IST",
+    "stop": "2025-11-27 15:49:32 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS"
+  },
+  {
+    "startRaw": "20251127101932",
+    "stopRaw": "20251127102550",
+    "start": "2025-11-27 15:49:32 IST",
+    "stop": "2025-11-27 15:55:50 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-05",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127102550",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:55:50 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127120109",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:31:09 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show"
+  },
+  {
+    "startRaw": "20251127120109",
+    "stopRaw": "20251127123126",
+    "start": "2025-11-27 17:31:09 IST",
+    "stop": "2025-11-27 18:01:26 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251127123126",
+    "stopRaw": "20251127132427",
+    "start": "2025-11-27 18:01:26 IST",
+    "stop": "2025-11-27 18:54:27 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj"
+  },
+  {
+    "startRaw": "20251127132427",
+    "stopRaw": "20251127132916",
+    "start": "2025-11-27 18:54:27 IST",
+    "stop": "2025-11-27 18:59:16 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127132916",
+    "stopRaw": "20251127141507",
+    "start": "2025-11-27 18:59:16 IST",
+    "stop": "2025-11-27 19:45:07 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251127141507",
+    "stopRaw": "20251127142117",
+    "start": "2025-11-27 19:45:07 IST",
+    "stop": "2025-11-27 19:51:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127142117",
+    "stopRaw": "20251127142535",
+    "start": "2025-11-27 19:51:17 IST",
+    "stop": "2025-11-27 19:55:35 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans"
+  },
+  {
+    "startRaw": "20251127142535",
+    "stopRaw": "20251127143117",
+    "start": "2025-11-27 19:55:35 IST",
+    "stop": "2025-11-27 20:01:17 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127143117",
+    "stopRaw": "20251127144824",
+    "start": "2025-11-27 20:01:17 IST",
+    "stop": "2025-11-27 20:18:24 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251127144824",
+    "stopRaw": "20251127151537",
+    "start": "2025-11-27 20:18:24 IST",
+    "stop": "2025-11-27 20:45:37 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251127151537",
+    "stopRaw": "20251127151547",
+    "start": "2025-11-27 20:45:37 IST",
+    "stop": "2025-11-27 20:45:47 IST",
+    "channel": "jio-1607",
+    "title": "Genric ID",
+    "subTitle": "Channel ID"
+  },
+  {
+    "startRaw": "20251127151547",
+    "stopRaw": "20251127151631",
+    "start": "2025-11-27 20:45:47 IST",
+    "stop": "2025-11-27 20:46:31 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127151631",
+    "stopRaw": "20251127162949",
+    "start": "2025-11-27 20:46:31 IST",
+    "stop": "2025-11-27 21:59:49 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show"
+  },
+  {
+    "startRaw": "20251127162949",
+    "stopRaw": "20251127163033",
+    "start": "2025-11-27 21:59:49 IST",
+    "stop": "2025-11-27 22:00:33 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127163033",
+    "stopRaw": "20251127170229",
+    "start": "2025-11-27 22:00:33 IST",
+    "stop": "2025-11-27 22:32:29 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji"
+  },
+  {
+    "startRaw": "20251127170229",
+    "stopRaw": "20251127172016",
+    "start": "2025-11-27 22:32:29 IST",
+    "stop": "2025-11-27 22:50:16 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji"
+  },
+  {
+    "startRaw": "20251127172016",
+    "stopRaw": "20251127172633",
+    "start": "2025-11-27 22:50:16 IST",
+    "stop": "2025-11-27 22:56:33 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127172633",
+    "stopRaw": "20251127180017",
+    "start": "2025-11-27 22:56:33 IST",
+    "stop": "2025-11-27 23:30:17 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program"
+  },
+  {
+    "startRaw": "20251127180017",
+    "stopRaw": "20251127180101",
+    "start": "2025-11-27 23:30:17 IST",
+    "stop": "2025-11-27 23:31:01 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo"
+  },
+  {
+    "startRaw": "20251127180101",
+    "stopRaw": "20251127181932",
+    "start": "2025-11-27 23:31:01 IST",
+    "stop": "2025-11-27 23:49:32 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS"
+  },
+  {
+    "startRaw": "20251127181932",
+    "stopRaw": "20251127182549",
+    "start": "2025-11-27 23:49:32 IST",
+    "stop": "2025-11-27 23:55:49 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj"
+  },
+  {
+    "startRaw": "20251127182549",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:55:49 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda"
   }
 ]

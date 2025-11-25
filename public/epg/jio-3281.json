@@ -1,158 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Prarthana",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Religious Songs",
-    "subTitle": "A comprehensive compilation of some of the most popular devotional songs praising and glorifying the Almighty is played back-to-back."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124020000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 07:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Wellness",
-    "subTitle": "Religious leaders introduce their followers to effective practices of meditation to help them attain a state of mental peace and holiness."
-  },
-  {
-    "startRaw": "20251124020000",
-    "stopRaw": "20251124023000",
-    "start": "2025-11-24 07:30:00 IST",
-    "stop": "2025-11-24 08:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Jyotish",
-    "subTitle": "A subject matter expert describes the subject of 'Jyotish' as the study of planets and how they affect the lives of humans."
-  },
-  {
-    "startRaw": "20251124023000",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 08:00:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Goriya Tohre Khatir",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Wellness",
-    "subTitle": "Religious leaders introduce their followers to effective practices of meditation to help them attain a state of mental peace and holiness."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124040000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 09:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124040000",
-    "stopRaw": "20251124070000",
-    "start": "2025-11-24 09:30:00 IST",
-    "stop": "2025-11-24 12:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Jyotish",
-    "subTitle": "A subject matter expert describes the subject of 'Jyotish' as the study of planets and how they affect the lives of humans."
-  },
-  {
-    "startRaw": "20251124070000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:30:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Latest Bhojpuri Song",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Prarthana",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124110000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Bhojpuri Song",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124110000",
-    "stopRaw": "20251124140000",
-    "start": "2025-11-24 16:30:00 IST",
-    "stop": "2025-11-24 19:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124140000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:30:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Religious Songs",
-    "subTitle": "A comprehensive compilation of some of the most popular devotional songs praising and glorifying the Almighty is played back-to-back."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124150000",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 20:30:00 IST",
-    "channel": "jio-3281",
-    "title": "Mere Desh Ki Dharti",
-    "subTitle": "Two engineers, Ajay and Sameer, move to rural India and get inspired by the farmers' struggle. Soon, they overcome challenges from intermediate buyers to revolutionise farming using technology."
-  },
-  {
-    "startRaw": "20251124150000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:30:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-3281",
-    "title": "Hamra Tohse Pyar Bhail Ba",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3281",
-    "title": "Dulhe Raja",
-    "subTitle": "A brave young man protects people from evil forces and atrocities. He fights for them and stands up against all the corruption prevailing in the society."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124213000",
     "start": "2025-11-25 00:00:00 IST",
@@ -457,5 +304,158 @@
     "channel": "jio-3281",
     "title": "Dil Sajna Ke",
     "subTitle": "Dil Sajna Ke is a 2015 Bhojpuri drama film starring Varun Arya, Ritu Singh and is directed by Rajan Priyadarshi. Raju is very protective towards his sister Rani and refuses to accept her relationship with Amit. Can Amit and Rani convince Raju for."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Challenge",
+    "subTitle": "When a man unwillingly gets entangled in a corrupt and power-hungry politician's deadly game, he must protect everyone he loves from his influence."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Deewana Banwlu Goriya",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Religious Songs",
+    "subTitle": "A comprehensive compilation of some of the most popular devotional songs praising and glorifying the Almighty is played back-to-back."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Wellness",
+    "subTitle": "Religious leaders introduce their followers to effective practices of meditation to help them attain a state of mental peace and holiness."
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Jyotish",
+    "subTitle": "A subject matter expert describes the subject of 'Jyotish' as the study of planets and how they affect the lives of humans."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Song",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Dil Sajna Ke",
+    "subTitle": "Dil Sajna Ke is a 2015 Bhojpuri drama film starring Varun Arya, Ritu Singh and is directed by Rajan Priyadarshi. Raju is very protective towards his sister Rani and refuses to accept her relationship with Amit. Can Amit and Rani convince Raju for."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Song",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Chutki Bhar Sindoor",
+    "subTitle": "Chutki Bhar Sindoor is a 2019 Bhojpuri action-drama movie starring Vikrant Singh, Anjana Singh, Komal Dhillon, Ravi Tripathi, and Sunil Jha."
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Song",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Gunday Hai Hum",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Song",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Daily Soaps",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Daily Soaps",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-3281",
+    "title": "Jigar",
+    "subTitle": "Duryodhan, a wrestler, is Raju's friend, but due to a misunderstanding he rapes and kills Raju's sister. Raju later seeks Baba Thakur's help to train in fighting to avenge his sister's death."
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-3281",
+    "title": "Chutki Bhar Sindoor",
+    "subTitle": "Chutki Bhar Sindoor is a 2019 Bhojpuri action-drama movie starring Vikrant Singh, Anjana Singh, Komal Dhillon, Ravi Tripathi, and Sunil Jha."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3281",
+    "title": "Gunday Hai Hum",
+    "subTitle": ""
   }
 ]

@@ -1,536 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123185000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123185000",
-    "stopRaw": "20251123191000",
-    "start": "2025-11-24 00:20:00 IST",
-    "stop": "2025-11-24 00:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123191000",
-    "stopRaw": "20251123201000",
-    "start": "2025-11-24 00:40:00 IST",
-    "stop": "2025-11-24 01:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123201000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:40:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-602",
-    "title": "Jain Rasoi",
-    "subTitle": "The host provides the recipes of an assortment of Jain cuisine and demonstrates the preparation of these delicious dishes which include snacks and desserts."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123205000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123205000",
-    "stopRaw": "20251123215000",
-    "start": "2025-11-24 02:20:00 IST",
-    "stop": "2025-11-24 03:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123215000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:20:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123225000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:20:00 IST",
-    "channel": "jio-602",
-    "title": "Shravanbelgola Abhishek",
-    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
-  },
-  {
-    "startRaw": "20251123225000",
-    "stopRaw": "20251123231000",
-    "start": "2025-11-24 04:20:00 IST",
-    "stop": "2025-11-24 04:40:00 IST",
-    "channel": "jio-602",
-    "title": "Dev Pooja",
-    "subTitle": "Religious leaders sing devotional songs and hymns in praise of the Almighty to seek divine blessings for a fulfilled life."
-  },
-  {
-    "startRaw": "20251123231000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:40:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-602",
-    "title": "Gyanshala",
-    "subTitle": "A religious leader delivers a discourse on the sacred scriptures and discusses how, by following the teachings, one will attain salvation."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251123235900",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 05:29:00 IST",
-    "channel": "jio-602",
-    "title": "Dhyan Yog",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123235900",
-    "stopRaw": "20251124001900",
-    "start": "2025-11-24 05:29:00 IST",
-    "stop": "2025-11-24 05:49:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124001900",
-    "stopRaw": "20251124002900",
-    "start": "2025-11-24 05:49:00 IST",
-    "stop": "2025-11-24 05:59:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124002900",
-    "stopRaw": "20251124012500",
-    "start": "2025-11-24 05:59:00 IST",
-    "stop": "2025-11-24 06:55:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124012500",
-    "stopRaw": "20251124013400",
-    "start": "2025-11-24 06:55:00 IST",
-    "stop": "2025-11-24 07:04:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124013400",
-    "stopRaw": "20251124014300",
-    "start": "2025-11-24 07:04:00 IST",
-    "stop": "2025-11-24 07:13:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124014300",
-    "stopRaw": "20251124015700",
-    "start": "2025-11-24 07:13:00 IST",
-    "stop": "2025-11-24 07:27:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124015700",
-    "stopRaw": "20251124022300",
-    "start": "2025-11-24 07:27:00 IST",
-    "stop": "2025-11-24 07:53:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124022300",
-    "stopRaw": "20251124023200",
-    "start": "2025-11-24 07:53:00 IST",
-    "stop": "2025-11-24 08:02:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124023200",
-    "stopRaw": "20251124025200",
-    "start": "2025-11-24 08:02:00 IST",
-    "stop": "2025-11-24 08:22:00 IST",
-    "channel": "jio-602",
-    "title": "Zoom Live",
-    "subTitle": "A religious leader discusses ideologies related to faith and spirituality, derived from holy texts and their use in daily life, live."
-  },
-  {
-    "startRaw": "20251124025200",
-    "stopRaw": "20251124035700",
-    "start": "2025-11-24 08:22:00 IST",
-    "stop": "2025-11-24 09:27:00 IST",
-    "channel": "jio-602",
-    "title": "PP. Praman Sagar Ji M.H",
-    "subTitle": "A religious scholar delivers a discourse on the teachings of Jainism and guides his followers on the path of spirituality."
-  },
-  {
-    "startRaw": "20251124035700",
-    "stopRaw": "20251124042300",
-    "start": "2025-11-24 09:27:00 IST",
-    "stop": "2025-11-24 09:53:00 IST",
-    "channel": "jio-602",
-    "title": "PP. Swastibhushan Mata Ji",
-    "subTitle": "A spiritual leader delivers an informative discourse on Jainism and guides people to pursue the path of righteousness and devotion."
-  },
-  {
-    "startRaw": "20251124042300",
-    "stopRaw": "20251124043200",
-    "start": "2025-11-24 09:53:00 IST",
-    "stop": "2025-11-24 10:02:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124043200",
-    "stopRaw": "20251124045000",
-    "start": "2025-11-24 10:02:00 IST",
-    "stop": "2025-11-24 10:20:00 IST",
-    "channel": "jio-602",
-    "title": "Vaishali Ke Mahaveer",
-    "subTitle": "A religious leader delivers a discourse on the life and teachings of Mahavira, the 24th tirthankara who was born in Kundupur near Vaishali."
-  },
-  {
-    "startRaw": "20251124045000",
-    "stopRaw": "20251124050000",
-    "start": "2025-11-24 10:20:00 IST",
-    "stop": "2025-11-24 10:30:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124050000",
-    "stopRaw": "20251124050500",
-    "start": "2025-11-24 10:30:00 IST",
-    "stop": "2025-11-24 10:35:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124050500",
-    "stopRaw": "20251124052000",
-    "start": "2025-11-24 10:35:00 IST",
-    "stop": "2025-11-24 10:50:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251124052000",
-    "stopRaw": "20251124054000",
-    "start": "2025-11-24 10:50:00 IST",
-    "stop": "2025-11-24 11:10:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124054000",
-    "stopRaw": "20251124061000",
-    "start": "2025-11-24 11:10:00 IST",
-    "stop": "2025-11-24 11:40:00 IST",
-    "channel": "jio-602",
-    "title": "TVC",
-    "subTitle": "A wide selection of products across different categories that buyers can shop from the comforts of their home and take advantage of a convenient method of shopping."
-  },
-  {
-    "startRaw": "20251124061000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:40:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-602",
-    "title": "Dharm Parikrama",
-    "subTitle": "Devotees from across the region come together to offer their heartfelt prayers and seek blessings from renowned religious leaders."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124070000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 12:30:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124070000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:30:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124080000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 13:30:00 IST",
-    "channel": "jio-602",
-    "title": "TVC",
-    "subTitle": "A wide selection of products across different categories that buyers can shop from the comforts of their home and take advantage of a convenient method of shopping."
-  },
-  {
-    "startRaw": "20251124080000",
-    "stopRaw": "20251124081000",
-    "start": "2025-11-24 13:30:00 IST",
-    "stop": "2025-11-24 13:40:00 IST",
-    "channel": "jio-602",
-    "title": "Dharm Parikrama",
-    "subTitle": "Devotees from across the region come together to offer their heartfelt prayers and seek blessings from renowned religious leaders."
-  },
-  {
-    "startRaw": "20251124081000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:40:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-602",
-    "title": "Jain Rasoi",
-    "subTitle": "The host provides the recipes of an assortment of Jain cuisine and demonstrates the preparation of these delicious dishes which include snacks and desserts."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124085000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 14:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124085000",
-    "stopRaw": "20251124095000",
-    "start": "2025-11-24 14:20:00 IST",
-    "stop": "2025-11-24 15:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124095000",
-    "stopRaw": "20251124100000",
-    "start": "2025-11-24 15:20:00 IST",
-    "stop": "2025-11-24 15:30:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124100000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:30:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-602",
-    "title": "PP. Gyanmati Mata Ji",
-    "subTitle": "Religious leader Gyanmati Mata Ji delivers discourses on spirituality to devotees and tries to eradicate the myths of Jainism."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124105000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 16:20:00 IST",
-    "channel": "jio-602",
-    "title": "Shravanbelgola Abhishek",
-    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
-  },
-  {
-    "startRaw": "20251124105000",
-    "stopRaw": "20251124111000",
-    "start": "2025-11-24 16:20:00 IST",
-    "stop": "2025-11-24 16:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124111000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:40:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124115000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 17:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124115000",
-    "stopRaw": "20251124121000",
-    "start": "2025-11-24 17:20:00 IST",
-    "stop": "2025-11-24 17:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124121000",
-    "stopRaw": "20251124124800",
-    "start": "2025-11-24 17:40:00 IST",
-    "stop": "2025-11-24 18:18:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124124800",
-    "stopRaw": "20251124134500",
-    "start": "2025-11-24 18:18:00 IST",
-    "stop": "2025-11-24 19:15:00 IST",
-    "channel": "jio-602",
-    "title": "Shanka Samadhan",
-    "subTitle": "A religious leader delivers a discourse on spiritualism and the benefits of its practice to solve problems in everyday life."
-  },
-  {
-    "startRaw": "20251124134500",
-    "stopRaw": "20251124140300",
-    "start": "2025-11-24 19:15:00 IST",
-    "stop": "2025-11-24 19:33:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124140300",
-    "stopRaw": "20251124141300",
-    "start": "2025-11-24 19:33:00 IST",
-    "stop": "2025-11-24 19:43:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124141300",
-    "stopRaw": "20251124143100",
-    "start": "2025-11-24 19:43:00 IST",
-    "stop": "2025-11-24 20:01:00 IST",
-    "channel": "jio-602",
-    "title": "Vishesh - PP. Samta Sagar Ji M.h (gunayatan)",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124143100",
-    "stopRaw": "20251124145000",
-    "start": "2025-11-24 20:01:00 IST",
-    "stop": "2025-11-24 20:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan - PP. Adarshmuni Ji M.h",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124145000",
-    "stopRaw": "20251124151000",
-    "start": "2025-11-24 20:20:00 IST",
-    "stop": "2025-11-24 20:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124151000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:40:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124155000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 21:20:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124155000",
-    "stopRaw": "20251124163200",
-    "start": "2025-11-24 21:20:00 IST",
-    "stop": "2025-11-24 22:02:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124163200",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:02:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124171000",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 22:40:00 IST",
-    "channel": "jio-602",
-    "title": "Dharm Parikrama",
-    "subTitle": "Devotees from across the region come together to offer their heartfelt prayers and seek blessings from renowned religious leaders."
-  },
-  {
-    "startRaw": "20251124171000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:40:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124175000",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:20:00 IST",
-    "channel": "jio-602",
-    "title": "Shravanbelgola Abhishek",
-    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
-  },
-  {
-    "startRaw": "20251124175000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:20:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124185000",
     "start": "2025-11-25 00:00:00 IST",
@@ -1076,8 +545,8 @@
     "start": "2025-11-26 00:20:00 IST",
     "stop": "2025-11-26 00:40:00 IST",
     "channel": "jio-602",
-    "title": "To Be Announced",
-    "subTitle": "Bringing the best in television."
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
     "startRaw": "20251125191000",
@@ -1130,8 +599,8 @@
     "start": "2025-11-26 04:00:00 IST",
     "stop": "2025-11-26 04:20:00 IST",
     "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+    "title": "Shravanbelgola Abhishek",
+    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
   },
   {
     "startRaw": "20251125225000",
@@ -1139,8 +608,8 @@
     "start": "2025-11-26 04:20:00 IST",
     "stop": "2025-11-26 04:40:00 IST",
     "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+    "title": "Dev Pooja",
+    "subTitle": "Religious leaders sing devotional songs and hymns in praise of the Almighty to seek divine blessings for a fulfilled life."
   },
   {
     "startRaw": "20251125231000",
@@ -1153,30 +622,30 @@
   },
   {
     "startRaw": "20251125233000",
-    "stopRaw": "20251125235000",
+    "stopRaw": "20251125235900",
     "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:20:00 IST",
+    "stop": "2025-11-26 05:29:00 IST",
     "channel": "jio-602",
-    "title": "Dev Pooja",
-    "subTitle": "Religious leaders sing devotional songs and hymns in praise of the Almighty to seek divine blessings for a fulfilled life."
+    "title": "Dhyan Yog",
+    "subTitle": ""
   },
   {
-    "startRaw": "20251125235000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:20:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-602",
-    "title": "Jin Abhishek",
-    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126002900",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 05:59:00 IST",
+    "startRaw": "20251125235900",
+    "stopRaw": "20251126001900",
+    "start": "2025-11-26 05:29:00 IST",
+    "stop": "2025-11-26 05:49:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
     "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126001900",
+    "stopRaw": "20251126002900",
+    "start": "2025-11-26 05:49:00 IST",
+    "stop": "2025-11-26 05:59:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
   },
   {
     "startRaw": "20251126002900",
@@ -1234,62 +703,62 @@
   },
   {
     "startRaw": "20251126023200",
-    "stopRaw": "20251126025100",
+    "stopRaw": "20251126025200",
     "start": "2025-11-26 08:02:00 IST",
-    "stop": "2025-11-26 08:21:00 IST",
+    "stop": "2025-11-26 08:22:00 IST",
     "channel": "jio-602",
     "title": "Zoom Live",
     "subTitle": "A religious leader discusses ideologies related to faith and spirituality, derived from holy texts and their use in daily life, live."
   },
   {
-    "startRaw": "20251126025100",
-    "stopRaw": "20251126035600",
-    "start": "2025-11-26 08:21:00 IST",
-    "stop": "2025-11-26 09:26:00 IST",
+    "startRaw": "20251126025200",
+    "stopRaw": "20251126035700",
+    "start": "2025-11-26 08:22:00 IST",
+    "stop": "2025-11-26 09:27:00 IST",
     "channel": "jio-602",
-    "title": "PP. Praman Sagar Ji M.H Live",
-    "subTitle": "A religious leader delivers a discourse on the teachings of Jainism, encouraging devotees to embrace the path of spirituality, live."
+    "title": "PP. Praman Sagar Ji M.H",
+    "subTitle": "A religious scholar delivers a discourse on the teachings of Jainism and guides his followers on the path of spirituality."
   },
   {
-    "startRaw": "20251126035600",
-    "stopRaw": "20251126042000",
-    "start": "2025-11-26 09:26:00 IST",
-    "stop": "2025-11-26 09:50:00 IST",
+    "startRaw": "20251126035700",
+    "stopRaw": "20251126042300",
+    "start": "2025-11-26 09:27:00 IST",
+    "stop": "2025-11-26 09:53:00 IST",
     "channel": "jio-602",
     "title": "PP. Swastibhushan Mata Ji",
     "subTitle": "A spiritual leader delivers an informative discourse on Jainism and guides people to pursue the path of righteousness and devotion."
   },
   {
-    "startRaw": "20251126042000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:50:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
+    "startRaw": "20251126042300",
+    "stopRaw": "20251126043200",
+    "start": "2025-11-26 09:53:00 IST",
+    "stop": "2025-11-26 10:02:00 IST",
     "channel": "jio-602",
-    "title": "Aaharcharya",
-    "subTitle": "Devotees and ardent followers conduct holy ceremonies, providing food offerings to a spiritual leader to seek their blessings."
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126044500",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:15:00 IST",
+    "startRaw": "20251126043200",
+    "stopRaw": "20251126045000",
+    "start": "2025-11-26 10:02:00 IST",
+    "stop": "2025-11-26 10:20:00 IST",
     "channel": "jio-602",
-    "title": "Path",
-    "subTitle": "A religious leader delivers discourses on the teachings of the Almighty and guides devotees to follow the path of spirituality and righteousness."
+    "title": "Vaishali Ke Mahaveer",
+    "subTitle": "A religious leader delivers a discourse on the life and teachings of Mahavira, the 24th tirthankara who was born in Kundupur near Vaishali."
   },
   {
-    "startRaw": "20251126044500",
-    "stopRaw": "20251126045500",
-    "start": "2025-11-26 10:15:00 IST",
-    "stop": "2025-11-26 10:25:00 IST",
+    "startRaw": "20251126045000",
+    "stopRaw": "20251126050000",
+    "start": "2025-11-26 10:20:00 IST",
+    "stop": "2025-11-26 10:30:00 IST",
     "channel": "jio-602",
     "title": "Jin Abhishek",
     "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
   },
   {
-    "startRaw": "20251126045500",
+    "startRaw": "20251126050000",
     "stopRaw": "20251126050500",
-    "start": "2025-11-26 10:25:00 IST",
+    "start": "2025-11-26 10:30:00 IST",
     "stop": "2025-11-26 10:35:00 IST",
     "channel": "jio-602",
     "title": "Jin Abhishek",
@@ -1315,26 +784,35 @@
   },
   {
     "startRaw": "20251126054000",
-    "stopRaw": "20251126062000",
+    "stopRaw": "20251126061000",
     "start": "2025-11-26 11:10:00 IST",
-    "stop": "2025-11-26 11:50:00 IST",
+    "stop": "2025-11-26 11:40:00 IST",
+    "channel": "jio-602",
+    "title": "TVC",
+    "subTitle": "A wide selection of products across different categories that buyers can shop from the comforts of their home and take advantage of a convenient method of shopping."
+  },
+  {
+    "startRaw": "20251126061000",
+    "stopRaw": "20251126063000",
+    "start": "2025-11-26 11:40:00 IST",
+    "stop": "2025-11-26 12:00:00 IST",
+    "channel": "jio-602",
+    "title": "Dharm Parikrama",
+    "subTitle": "Devotees from across the region come together to offer their heartfelt prayers and seek blessings from renowned religious leaders."
+  },
+  {
+    "startRaw": "20251126063000",
+    "stopRaw": "20251126070000",
+    "start": "2025-11-26 12:00:00 IST",
+    "stop": "2025-11-26 12:30:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
     "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
-    "startRaw": "20251126062000",
-    "stopRaw": "20251126064500",
-    "start": "2025-11-26 11:50:00 IST",
-    "stop": "2025-11-26 12:15:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251126064500",
+    "startRaw": "20251126070000",
     "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:15:00 IST",
+    "start": "2025-11-26 12:30:00 IST",
     "stop": "2025-11-26 13:00:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
@@ -1355,8 +833,8 @@
     "start": "2025-11-26 13:30:00 IST",
     "stop": "2025-11-26 13:40:00 IST",
     "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+    "title": "Dharm Parikrama",
+    "subTitle": "Devotees from across the region come together to offer their heartfelt prayers and seek blessings from renowned religious leaders."
   },
   {
     "startRaw": "20251126081000",
@@ -1373,26 +851,80 @@
     "start": "2025-11-26 14:00:00 IST",
     "stop": "2025-11-26 14:20:00 IST",
     "channel": "jio-602",
-    "title": "Dharam Parikrama",
-    "subTitle": "The host presents the latest stories and updates on significant events about prominent Jain religious leaders from around the region."
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
     "startRaw": "20251126085000",
-    "stopRaw": "20251126090000",
+    "stopRaw": "20251126095000",
     "start": "2025-11-26 14:20:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
+    "stop": "2025-11-26 15:20:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
     "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
-    "startRaw": "20251126090000",
+    "startRaw": "20251126095000",
+    "stopRaw": "20251126100000",
+    "start": "2025-11-26 15:20:00 IST",
+    "stop": "2025-11-26 15:30:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126100000",
+    "stopRaw": "20251126103000",
+    "start": "2025-11-26 15:30:00 IST",
+    "stop": "2025-11-26 16:00:00 IST",
+    "channel": "jio-602",
+    "title": "PP. Gyanmati Mata Ji",
+    "subTitle": "Religious leader Gyanmati Mata Ji delivers discourses on spirituality to devotees and tries to eradicate the myths of Jainism."
+  },
+  {
+    "startRaw": "20251126103000",
+    "stopRaw": "20251126105000",
+    "start": "2025-11-26 16:00:00 IST",
+    "stop": "2025-11-26 16:20:00 IST",
+    "channel": "jio-602",
+    "title": "Shravanbelgola Abhishek",
+    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
+  },
+  {
+    "startRaw": "20251126105000",
+    "stopRaw": "20251126111000",
+    "start": "2025-11-26 16:20:00 IST",
+    "stop": "2025-11-26 16:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126111000",
+    "stopRaw": "20251126113000",
+    "start": "2025-11-26 16:40:00 IST",
+    "stop": "2025-11-26 17:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126113000",
+    "stopRaw": "20251126115000",
+    "start": "2025-11-26 17:00:00 IST",
+    "stop": "2025-11-26 17:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126115000",
     "stopRaw": "20251126121000",
-    "start": "2025-11-26 14:30:00 IST",
+    "start": "2025-11-26 17:20:00 IST",
     "stop": "2025-11-26 17:40:00 IST",
     "channel": "jio-602",
-    "title": "PP. Samay Sagar Ji Live M.h",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path, live."
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
     "startRaw": "20251126121000",
@@ -1414,30 +946,39 @@
   },
   {
     "startRaw": "20251126134500",
-    "stopRaw": "20251126141000",
+    "stopRaw": "20251126140300",
     "start": "2025-11-26 19:15:00 IST",
-    "stop": "2025-11-26 19:40:00 IST",
+    "stop": "2025-11-26 19:33:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
     "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
-    "startRaw": "20251126141000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:40:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
+    "startRaw": "20251126140300",
+    "stopRaw": "20251126141300",
+    "start": "2025-11-26 19:33:00 IST",
+    "stop": "2025-11-26 19:43:00 IST",
     "channel": "jio-602",
-    "title": "Dongarhgarh Vishesh",
-    "subTitle": "Bringing the best in television."
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
   },
   {
-    "startRaw": "20251126143000",
+    "startRaw": "20251126141300",
+    "stopRaw": "20251126143100",
+    "start": "2025-11-26 19:43:00 IST",
+    "stop": "2025-11-26 20:01:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126143100",
     "stopRaw": "20251126145000",
-    "start": "2025-11-26 20:00:00 IST",
+    "start": "2025-11-26 20:01:00 IST",
     "stop": "2025-11-26 20:20:00 IST",
     "channel": "jio-602",
-    "title": "Vishesh",
-    "subTitle": "Religious leaders shed light on various religious and spiritual topics while encouraging devotees to sing hymns and prayers in praise of the Almighty."
+    "title": "Pravachan - PP. Adarshmuni Ji M.h",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126145000",
@@ -1463,22 +1004,13 @@
     "start": "2025-11-26 21:00:00 IST",
     "stop": "2025-11-26 21:20:00 IST",
     "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+    "title": "Vishesh",
+    "subTitle": "Religious leaders shed light on various religious and spiritual topics while encouraging devotees to sing hymns and prayers in praise of the Almighty."
   },
   {
     "startRaw": "20251126155000",
-    "stopRaw": "20251126161000",
-    "start": "2025-11-26 21:20:00 IST",
-    "stop": "2025-11-26 21:40:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251126161000",
     "stopRaw": "20251126163200",
-    "start": "2025-11-26 21:40:00 IST",
+    "start": "2025-11-26 21:20:00 IST",
     "stop": "2025-11-26 22:02:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
@@ -1486,17 +1018,8 @@
   },
   {
     "startRaw": "20251126163200",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:02:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-602",
-    "title": "Pravachan",
-    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
-  },
-  {
-    "startRaw": "20251126170000",
     "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
+    "start": "2025-11-26 22:02:00 IST",
     "stop": "2025-11-26 23:00:00 IST",
     "channel": "jio-602",
     "title": "Pravachan",
@@ -1504,9 +1027,531 @@
   },
   {
     "startRaw": "20251126173000",
-    "stopRaw": "20251126182959",
+    "stopRaw": "20251126175000",
     "start": "2025-11-26 23:00:00 IST",
+    "stop": "2025-11-26 23:20:00 IST",
+    "channel": "jio-602",
+    "title": "Shravanbelgola Abhishek",
+    "subTitle": "Religious devotees come together to celebrate Mahamastakabhisheka, a Jain festival that takes place every 12 years in Shravanabelagola, Karnataka."
+  },
+  {
+    "startRaw": "20251126175000",
+    "stopRaw": "20251126182959",
+    "start": "2025-11-26 23:20:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126185000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126185000",
+    "stopRaw": "20251126191000",
+    "start": "2025-11-27 00:20:00 IST",
+    "stop": "2025-11-27 00:40:00 IST",
+    "channel": "jio-602",
+    "title": "To Be Announced",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251126191000",
+    "stopRaw": "20251126201000",
+    "start": "2025-11-27 00:40:00 IST",
+    "stop": "2025-11-27 01:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126201000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:40:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-602",
+    "title": "Jain Rasoi",
+    "subTitle": "The host provides the recipes of an assortment of Jain cuisine and demonstrates the preparation of these delicious dishes which include snacks and desserts."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126205000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126205000",
+    "stopRaw": "20251126215000",
+    "start": "2025-11-27 02:20:00 IST",
+    "stop": "2025-11-27 03:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126215000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:20:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126225000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126225000",
+    "stopRaw": "20251126231000",
+    "start": "2025-11-27 04:20:00 IST",
+    "stop": "2025-11-27 04:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251126231000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:40:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-602",
+    "title": "Gyanshala",
+    "subTitle": "A religious leader delivers a discourse on the sacred scriptures and discusses how, by following the teachings, one will attain salvation."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251126235000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:20:00 IST",
+    "channel": "jio-602",
+    "title": "Dev Pooja",
+    "subTitle": "Religious leaders sing devotional songs and hymns in praise of the Almighty to seek divine blessings for a fulfilled life."
+  },
+  {
+    "startRaw": "20251126235000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:20:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127002900",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 05:59:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127002900",
+    "stopRaw": "20251127012500",
+    "start": "2025-11-27 05:59:00 IST",
+    "stop": "2025-11-27 06:55:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127012500",
+    "stopRaw": "20251127013400",
+    "start": "2025-11-27 06:55:00 IST",
+    "stop": "2025-11-27 07:04:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127013400",
+    "stopRaw": "20251127014300",
+    "start": "2025-11-27 07:04:00 IST",
+    "stop": "2025-11-27 07:13:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127014300",
+    "stopRaw": "20251127015700",
+    "start": "2025-11-27 07:13:00 IST",
+    "stop": "2025-11-27 07:27:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127015700",
+    "stopRaw": "20251127022300",
+    "start": "2025-11-27 07:27:00 IST",
+    "stop": "2025-11-27 07:53:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127022300",
+    "stopRaw": "20251127023200",
+    "start": "2025-11-27 07:53:00 IST",
+    "stop": "2025-11-27 08:02:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127023200",
+    "stopRaw": "20251127025100",
+    "start": "2025-11-27 08:02:00 IST",
+    "stop": "2025-11-27 08:21:00 IST",
+    "channel": "jio-602",
+    "title": "Zoom Live",
+    "subTitle": "A religious leader discusses ideologies related to faith and spirituality, derived from holy texts and their use in daily life, live."
+  },
+  {
+    "startRaw": "20251127025100",
+    "stopRaw": "20251127035600",
+    "start": "2025-11-27 08:21:00 IST",
+    "stop": "2025-11-27 09:26:00 IST",
+    "channel": "jio-602",
+    "title": "PP. Praman Sagar Ji M.H Live",
+    "subTitle": "A religious leader delivers a discourse on the teachings of Jainism, encouraging devotees to embrace the path of spirituality, live."
+  },
+  {
+    "startRaw": "20251127035600",
+    "stopRaw": "20251127042000",
+    "start": "2025-11-27 09:26:00 IST",
+    "stop": "2025-11-27 09:50:00 IST",
+    "channel": "jio-602",
+    "title": "PP. Swastibhushan Mata Ji",
+    "subTitle": "A spiritual leader delivers an informative discourse on Jainism and guides people to pursue the path of righteousness and devotion."
+  },
+  {
+    "startRaw": "20251127042000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:50:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-602",
+    "title": "Aaharcharya",
+    "subTitle": "Devotees and ardent followers conduct holy ceremonies, providing food offerings to a spiritual leader to seek their blessings."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127044500",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:15:00 IST",
+    "channel": "jio-602",
+    "title": "Path",
+    "subTitle": "A religious leader delivers discourses on the teachings of the Almighty and guides devotees to follow the path of spirituality and righteousness."
+  },
+  {
+    "startRaw": "20251127044500",
+    "stopRaw": "20251127045500",
+    "start": "2025-11-27 10:15:00 IST",
+    "stop": "2025-11-27 10:25:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127045500",
+    "stopRaw": "20251127050500",
+    "start": "2025-11-27 10:25:00 IST",
+    "stop": "2025-11-27 10:35:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127050500",
+    "stopRaw": "20251127052000",
+    "start": "2025-11-27 10:35:00 IST",
+    "stop": "2025-11-27 10:50:00 IST",
+    "channel": "jio-602",
+    "title": "Jin Abhishek",
+    "subTitle": "Spiritual leaders gather at temples to perform various rituals and chant hymns in order to seek the blessings of Jain deities."
+  },
+  {
+    "startRaw": "20251127052000",
+    "stopRaw": "20251127054000",
+    "start": "2025-11-27 10:50:00 IST",
+    "stop": "2025-11-27 11:10:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127054000",
+    "stopRaw": "20251127062000",
+    "start": "2025-11-27 11:10:00 IST",
+    "stop": "2025-11-27 11:50:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127062000",
+    "stopRaw": "20251127064500",
+    "start": "2025-11-27 11:50:00 IST",
+    "stop": "2025-11-27 12:15:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127064500",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:15:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-602",
+    "title": "TVC",
+    "subTitle": "A wide selection of products across different categories that buyers can shop from the comforts of their home and take advantage of a convenient method of shopping."
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127081000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 13:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127081000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:40:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-602",
+    "title": "Jain Rasoi",
+    "subTitle": "The host provides the recipes of an assortment of Jain cuisine and demonstrates the preparation of these delicious dishes which include snacks and desserts."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127085000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:20:00 IST",
+    "channel": "jio-602",
+    "title": "Dharam Parikrama",
+    "subTitle": "The host presents the latest stories and updates on significant events about prominent Jain religious leaders from around the region."
+  },
+  {
+    "startRaw": "20251127085000",
+    "stopRaw": "20251127091000",
+    "start": "2025-11-27 14:20:00 IST",
+    "stop": "2025-11-27 14:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127091000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:40:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-602",
+    "title": "Mahasati Maina Sundari",
+    "subTitle": "A show that is dramatic in nature."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-602",
+    "title": "TVC",
+    "subTitle": "A wide selection of products across different categories that buyers can shop from the comforts of their home and take advantage of a convenient method of shopping."
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-602",
+    "title": "PP. Gyanmati Mata Ji",
+    "subTitle": "Religious leader Gyanmati Mata Ji delivers discourses on spirituality to devotees and tries to eradicate the myths of Jainism."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-602",
+    "title": "Bahubali Mahamastikabhishek",
+    "subTitle": "Priests and devotees come together to perform elaborate rituals, offering prayers and seeking blessings from the Almighty."
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127111000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 16:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127111000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:40:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127115000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127115000",
+    "stopRaw": "20251127121000",
+    "start": "2025-11-27 17:20:00 IST",
+    "stop": "2025-11-27 17:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127121000",
+    "stopRaw": "20251127124800",
+    "start": "2025-11-27 17:40:00 IST",
+    "stop": "2025-11-27 18:18:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127124800",
+    "stopRaw": "20251127134500",
+    "start": "2025-11-27 18:18:00 IST",
+    "stop": "2025-11-27 19:15:00 IST",
+    "channel": "jio-602",
+    "title": "Shanka Samadhan",
+    "subTitle": "A religious leader delivers a discourse on spiritualism and the benefits of its practice to solve problems in everyday life."
+  },
+  {
+    "startRaw": "20251127134500",
+    "stopRaw": "20251127141000",
+    "start": "2025-11-27 19:15:00 IST",
+    "stop": "2025-11-27 19:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127141000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:40:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-602",
+    "title": "Dongarhgarh Vishesh",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127145000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127145000",
+    "stopRaw": "20251127151000",
+    "start": "2025-11-27 20:20:00 IST",
+    "stop": "2025-11-27 20:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127151000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:40:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127155000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:20:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127155000",
+    "stopRaw": "20251127161000",
+    "start": "2025-11-27 21:20:00 IST",
+    "stop": "2025-11-27 21:40:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127161000",
+    "stopRaw": "20251127163200",
+    "start": "2025-11-27 21:40:00 IST",
+    "stop": "2025-11-27 22:02:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127163200",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:02:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-602",
+    "title": "Pravachan",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-602",
     "title": "Pravachan",
     "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."

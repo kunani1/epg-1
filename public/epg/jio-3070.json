@@ -1,419 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123185500",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 00:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Guest In Newsroom",
-    "subTitle": "The host talks with a knowledgeable guest who offers insights on current social issues affecting the community and proposes potential solutions."
-  },
-  {
-    "startRaw": "20251123185500",
-    "stopRaw": "20251123192500",
-    "start": "2025-11-24 00:25:00 IST",
-    "stop": "2025-11-24 00:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Crime Time",
-    "subTitle": "The host sheds light on various crimes from across India, which consists of re-enactments of the incidents and reasons behind the acts."
-  },
-  {
-    "startRaw": "20251123192500",
-    "stopRaw": "20251123195500",
-    "start": "2025-11-24 00:55:00 IST",
-    "stop": "2025-11-24 01:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Glamour Ki Duniya",
-    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details."
-  },
-  {
-    "startRaw": "20251123195500",
-    "stopRaw": "20251123202500",
-    "start": "2025-11-24 01:25:00 IST",
-    "stop": "2025-11-24 01:55:00 IST",
-    "channel": "jio-3070",
-    "title": "News Bulletin",
-    "subTitle": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
-  },
-  {
-    "startRaw": "20251123202500",
-    "stopRaw": "20251123205500",
-    "start": "2025-11-24 01:55:00 IST",
-    "stop": "2025-11-24 02:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251123205500",
-    "stopRaw": "20251123212500",
-    "start": "2025-11-24 02:25:00 IST",
-    "stop": "2025-11-24 02:55:00 IST",
-    "channel": "jio-3070",
-    "title": "News Bulletin",
-    "subTitle": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
-  },
-  {
-    "startRaw": "20251123212500",
-    "stopRaw": "20251123222500",
-    "start": "2025-11-24 02:55:00 IST",
-    "stop": "2025-11-24 03:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
-  },
-  {
-    "startRaw": "20251123222500",
-    "stopRaw": "20251123225500",
-    "start": "2025-11-24 03:55:00 IST",
-    "stop": "2025-11-24 04:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Glamour Ki Duniya",
-    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details."
-  },
-  {
-    "startRaw": "20251123225500",
-    "stopRaw": "20251123232500",
-    "start": "2025-11-24 04:25:00 IST",
-    "stop": "2025-11-24 04:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251123232500",
-    "stopRaw": "20251124002500",
-    "start": "2025-11-24 04:55:00 IST",
-    "stop": "2025-11-24 05:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
-  },
-  {
-    "startRaw": "20251124002500",
-    "stopRaw": "20251124005500",
-    "start": "2025-11-24 05:55:00 IST",
-    "stop": "2025-11-24 06:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Aaj Ki Taza Khabar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124005500",
-    "stopRaw": "20251124012500",
-    "start": "2025-11-24 06:25:00 IST",
-    "stop": "2025-11-24 06:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251124012500",
-    "stopRaw": "20251124015500",
-    "start": "2025-11-24 06:55:00 IST",
-    "stop": "2025-11-24 07:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Suryodaya",
-    "subTitle": "The host begins the day with information about the social, economic and political issues and updates on current events."
-  },
-  {
-    "startRaw": "20251124015500",
-    "stopRaw": "20251124022500",
-    "start": "2025-11-24 07:25:00 IST",
-    "stop": "2025-11-24 07:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh."
-  },
-  {
-    "startRaw": "20251124022500",
-    "stopRaw": "20251124025500",
-    "start": "2025-11-24 07:55:00 IST",
-    "stop": "2025-11-24 08:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251124025500",
-    "stopRaw": "20251124032500",
-    "start": "2025-11-24 08:25:00 IST",
-    "stop": "2025-11-24 08:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Aap ka Bhagya",
-    "subTitle": "An astrological expert provides guidance to people on the basis of the movements and positions of planets, the moon, and stars."
-  },
-  {
-    "startRaw": "20251124032500",
-    "stopRaw": "20251124035500",
-    "start": "2025-11-24 08:55:00 IST",
-    "stop": "2025-11-24 09:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251124035500",
-    "stopRaw": "20251124042500",
-    "start": "2025-11-24 09:25:00 IST",
-    "stop": "2025-11-24 09:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
-    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
-  },
-  {
-    "startRaw": "20251124042500",
-    "stopRaw": "20251124045500",
-    "start": "2025-11-24 09:55:00 IST",
-    "stop": "2025-11-24 10:25:00 IST",
-    "channel": "jio-3070",
-    "title": "10 Baje Ke Mudde",
-    "subTitle": "The host outlines some of the most major updates and developments pertaining to politics, socio-economics and current affairs."
-  },
-  {
-    "startRaw": "20251124045500",
-    "stopRaw": "20251124052500",
-    "start": "2025-11-24 10:25:00 IST",
-    "stop": "2025-11-24 10:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabaron Ki Reel",
-    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
-  },
-  {
-    "startRaw": "20251124052500",
-    "stopRaw": "20251124055500",
-    "start": "2025-11-24 10:55:00 IST",
-    "stop": "2025-11-24 11:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistar Se madhya Pradesh",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the state of Madhya Pradesh."
-  },
-  {
-    "startRaw": "20251124055500",
-    "stopRaw": "20251124062500",
-    "start": "2025-11-24 11:25:00 IST",
-    "stop": "2025-11-24 11:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistar Se chhattisgarh",
-    "subTitle": "The host presents some of the most important and latest social, economic and political news stories and developments from Chhattisgarh."
-  },
-  {
-    "startRaw": "20251124062500",
-    "stopRaw": "20251124065500",
-    "start": "2025-11-24 11:55:00 IST",
-    "stop": "2025-11-24 12:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Breaking News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251124065500",
-    "stopRaw": "20251124072500",
-    "start": "2025-11-24 12:25:00 IST",
-    "stop": "2025-11-24 12:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Fatafat 100",
-    "subTitle": "The host presents the top 100 news updates concerning the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "startRaw": "20251124072500",
-    "stopRaw": "20251124075500",
-    "start": "2025-11-24 12:55:00 IST",
-    "stop": "2025-11-24 13:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Badi Khabar Madhya Pradesh",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues in Madhya Pradesh."
-  },
-  {
-    "startRaw": "20251124075500",
-    "stopRaw": "20251124082500",
-    "start": "2025-11-24 13:25:00 IST",
-    "stop": "2025-11-24 13:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Badi Khabar Chhattisgarh",
-    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues pertaining to the state of Chhattisgarh."
-  },
-  {
-    "startRaw": "20251124082500",
-    "stopRaw": "20251124085500",
-    "start": "2025-11-24 13:55:00 IST",
-    "stop": "2025-11-24 14:25:00 IST",
-    "channel": "jio-3070",
-    "title": "2 Baje 20 Khabar",
-    "subTitle": "The host presents the top 20 latest updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251124085500",
-    "stopRaw": "20251124091500",
-    "start": "2025-11-24 14:25:00 IST",
-    "stop": "2025-11-24 14:45:00 IST",
-    "channel": "jio-3070",
-    "title": "Glamour Ki Duniya",
-    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details."
-  },
-  {
-    "startRaw": "20251124091500",
-    "stopRaw": "20251124092500",
-    "start": "2025-11-24 14:45:00 IST",
-    "stop": "2025-11-24 14:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Ye To Viral Hai",
-    "subTitle": "The host presents information on some of the most important updates, trends and viral news stories that are of public interest."
-  },
-  {
-    "startRaw": "20251124092500",
-    "stopRaw": "20251124095500",
-    "start": "2025-11-24 14:55:00 IST",
-    "stop": "2025-11-24 15:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Aapki Khabar",
-    "subTitle": "The host presents comprehensive, in-depth reporting on a wide range of current events and news stories that occur across the globe."
-  },
-  {
-    "startRaw": "20251124095500",
-    "stopRaw": "20251124102500",
-    "start": "2025-11-24 15:25:00 IST",
-    "stop": "2025-11-24 15:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Fatafat Express",
-    "subTitle": "The host presents the top news headlines and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251124102500",
-    "stopRaw": "20251124105500",
-    "start": "2025-11-24 15:55:00 IST",
-    "stop": "2025-11-24 16:25:00 IST",
-    "channel": "jio-3070",
-    "title": "News Agenda",
-    "subTitle": "The host analyses some of the most important news updates, developments and current affairs that matter to the people of the country."
-  },
-  {
-    "startRaw": "20251124105500",
-    "stopRaw": "20251124112500",
-    "start": "2025-11-24 16:25:00 IST",
-    "stop": "2025-11-24 16:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Aapka Shahar Aapka Reporter",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124112500",
-    "stopRaw": "20251124115500",
-    "start": "2025-11-24 16:55:00 IST",
-    "stop": "2025-11-24 17:25:00 IST",
-    "channel": "jio-3070",
-    "title": "News In Action",
-    "subTitle": "The host provides a detailed report on the latest socio-economic updates and most pressing political developments in the relation to current affairs."
-  },
-  {
-    "startRaw": "20251124115500",
-    "stopRaw": "20251124122500",
-    "start": "2025-11-24 17:25:00 IST",
-    "stop": "2025-11-24 17:55:00 IST",
-    "channel": "jio-3070",
-    "title": "News In Action",
-    "subTitle": "The host provides a detailed report on the latest socio-economic updates and most pressing political developments in the relation to current affairs."
-  },
-  {
-    "startRaw": "20251124122500",
-    "stopRaw": "20251124125500",
-    "start": "2025-11-24 17:55:00 IST",
-    "stop": "2025-11-24 18:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabaron Ki Reel",
-    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
-  },
-  {
-    "startRaw": "20251124125500",
-    "stopRaw": "20251124132500",
-    "start": "2025-11-24 18:25:00 IST",
-    "stop": "2025-11-24 18:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabaron Ki Reel",
-    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
-  },
-  {
-    "startRaw": "20251124132500",
-    "stopRaw": "20251124135500",
-    "start": "2025-11-24 18:55:00 IST",
-    "stop": "2025-11-24 19:25:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251124135500",
-    "stopRaw": "20251124142500",
-    "start": "2025-11-24 19:25:00 IST",
-    "stop": "2025-11-24 19:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh."
-  },
-  {
-    "startRaw": "20251124142500",
-    "stopRaw": "20251124152500",
-    "start": "2025-11-24 19:55:00 IST",
-    "stop": "2025-11-24 20:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
-    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
-  },
-  {
-    "startRaw": "20251124152500",
-    "stopRaw": "20251124155500",
-    "start": "2025-11-24 20:55:00 IST",
-    "stop": "2025-11-24 21:25:00 IST",
-    "channel": "jio-3070",
-    "title": "The Editor's Show Brajesh Rajput Ke Sath",
-    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124155500",
-    "stopRaw": "20251124162500",
-    "start": "2025-11-24 21:25:00 IST",
-    "stop": "2025-11-24 21:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Prime Crime",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124162500",
-    "stopRaw": "20251124165500",
-    "start": "2025-11-24 21:55:00 IST",
-    "stop": "2025-11-24 22:25:00 IST",
-    "channel": "jio-3070",
-    "title": "10 Baje 10 Report",
-    "subTitle": "The host sheds light on the top 10 news stories and significant updates from various fields influencing people around the country."
-  },
-  {
-    "startRaw": "20251124165500",
-    "stopRaw": "20251124172500",
-    "start": "2025-11-24 22:25:00 IST",
-    "stop": "2025-11-24 22:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251124172500",
-    "stopRaw": "20251124182500",
-    "start": "2025-11-24 22:55:00 IST",
-    "stop": "2025-11-24 23:55:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
-    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
-  },
-  {
-    "startRaw": "20251124182500",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:55:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3070",
-    "title": "The Editor's Show Brajesh Rajput Ke Sath",
-    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124185500",
     "start": "2025-11-25 00:00:00 IST",
@@ -1237,6 +823,420 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:55:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show Brajesh Rajput Ke Sath",
+    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126185500",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:25:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show Brajesh Rajput Ke Sath",
+    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126185500",
+    "stopRaw": "20251126192500",
+    "start": "2025-11-27 00:25:00 IST",
+    "stop": "2025-11-27 00:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Crime Time",
+    "subTitle": "The host sheds light on various crimes from across India, which consists of re-enactments of the incidents and reasons behind the acts."
+  },
+  {
+    "startRaw": "20251126192500",
+    "stopRaw": "20251126195500",
+    "start": "2025-11-27 00:55:00 IST",
+    "stop": "2025-11-27 01:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251126195500",
+    "stopRaw": "20251126202500",
+    "start": "2025-11-27 01:25:00 IST",
+    "stop": "2025-11-27 01:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251126202500",
+    "stopRaw": "20251126205500",
+    "start": "2025-11-27 01:55:00 IST",
+    "stop": "2025-11-27 02:25:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show Brajesh Rajput Ke Sath",
+    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126205500",
+    "stopRaw": "20251126212500",
+    "start": "2025-11-27 02:25:00 IST",
+    "stop": "2025-11-27 02:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Crime Time",
+    "subTitle": "The host sheds light on various crimes from across India, which consists of re-enactments of the incidents and reasons behind the acts."
+  },
+  {
+    "startRaw": "20251126212500",
+    "stopRaw": "20251126222500",
+    "start": "2025-11-27 02:55:00 IST",
+    "stop": "2025-11-27 03:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251126222500",
+    "stopRaw": "20251126225500",
+    "start": "2025-11-27 03:55:00 IST",
+    "stop": "2025-11-27 04:25:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show Brajesh Rajput Ke Sath",
+    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126225500",
+    "stopRaw": "20251126232500",
+    "start": "2025-11-27 04:25:00 IST",
+    "stop": "2025-11-27 04:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Crime Time",
+    "subTitle": "The host sheds light on various crimes from across India, which consists of re-enactments of the incidents and reasons behind the acts."
+  },
+  {
+    "startRaw": "20251126232500",
+    "stopRaw": "20251127002500",
+    "start": "2025-11-27 04:55:00 IST",
+    "stop": "2025-11-27 05:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251127002500",
+    "stopRaw": "20251127005500",
+    "start": "2025-11-27 05:55:00 IST",
+    "stop": "2025-11-27 06:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Aaj Ki Taza Khabar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127005500",
+    "stopRaw": "20251127012500",
+    "start": "2025-11-27 06:25:00 IST",
+    "stop": "2025-11-27 06:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251127012500",
+    "stopRaw": "20251127015500",
+    "start": "2025-11-27 06:55:00 IST",
+    "stop": "2025-11-27 07:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Suryodaya",
+    "subTitle": "The host begins the day with information about the social, economic and political issues and updates on current events."
+  },
+  {
+    "startRaw": "20251127015500",
+    "stopRaw": "20251127022500",
+    "start": "2025-11-27 07:25:00 IST",
+    "stop": "2025-11-27 07:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh."
+  },
+  {
+    "startRaw": "20251127022500",
+    "stopRaw": "20251127025500",
+    "start": "2025-11-27 07:55:00 IST",
+    "stop": "2025-11-27 08:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251127025500",
+    "stopRaw": "20251127032500",
+    "start": "2025-11-27 08:25:00 IST",
+    "stop": "2025-11-27 08:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Aap ka Bhagya",
+    "subTitle": "An astrological expert provides guidance to people on the basis of the movements and positions of planets, the moon, and stars."
+  },
+  {
+    "startRaw": "20251127032500",
+    "stopRaw": "20251127035500",
+    "start": "2025-11-27 08:55:00 IST",
+    "stop": "2025-11-27 09:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251127035500",
+    "stopRaw": "20251127042500",
+    "start": "2025-11-27 09:25:00 IST",
+    "stop": "2025-11-27 09:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251127042500",
+    "stopRaw": "20251127045500",
+    "start": "2025-11-27 09:55:00 IST",
+    "stop": "2025-11-27 10:25:00 IST",
+    "channel": "jio-3070",
+    "title": "10 Baje Ke Mudde",
+    "subTitle": "The host outlines some of the most major updates and developments pertaining to politics, socio-economics and current affairs."
+  },
+  {
+    "startRaw": "20251127045500",
+    "stopRaw": "20251127052500",
+    "start": "2025-11-27 10:25:00 IST",
+    "stop": "2025-11-27 10:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabaron Ki Reel",
+    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
+  },
+  {
+    "startRaw": "20251127052500",
+    "stopRaw": "20251127055500",
+    "start": "2025-11-27 10:55:00 IST",
+    "stop": "2025-11-27 11:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistar Se madhya Pradesh",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the state of Madhya Pradesh."
+  },
+  {
+    "startRaw": "20251127055500",
+    "stopRaw": "20251127062500",
+    "start": "2025-11-27 11:25:00 IST",
+    "stop": "2025-11-27 11:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistar Se chhattisgarh",
+    "subTitle": "The host presents some of the most important and latest social, economic and political news stories and developments from Chhattisgarh."
+  },
+  {
+    "startRaw": "20251127062500",
+    "stopRaw": "20251127065500",
+    "start": "2025-11-27 11:55:00 IST",
+    "stop": "2025-11-27 12:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Breaking News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251127065500",
+    "stopRaw": "20251127072500",
+    "start": "2025-11-27 12:25:00 IST",
+    "stop": "2025-11-27 12:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Fatafat 100",
+    "subTitle": "The host presents the top 100 news updates concerning the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "startRaw": "20251127072500",
+    "stopRaw": "20251127075500",
+    "start": "2025-11-27 12:55:00 IST",
+    "stop": "2025-11-27 13:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Badi Khabar Madhya Pradesh",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues in Madhya Pradesh."
+  },
+  {
+    "startRaw": "20251127075500",
+    "stopRaw": "20251127082500",
+    "start": "2025-11-27 13:25:00 IST",
+    "stop": "2025-11-27 13:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Badi Khabar Chhattisgarh",
+    "subTitle": "The host presents the latest news updates and developments about various social, economic and political issues pertaining to the state of Chhattisgarh."
+  },
+  {
+    "startRaw": "20251127082500",
+    "stopRaw": "20251127085500",
+    "start": "2025-11-27 13:55:00 IST",
+    "stop": "2025-11-27 14:25:00 IST",
+    "channel": "jio-3070",
+    "title": "2 Baje 20 Khabar",
+    "subTitle": "The host presents the top 20 latest updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251127085500",
+    "stopRaw": "20251127091500",
+    "start": "2025-11-27 14:25:00 IST",
+    "stop": "2025-11-27 14:45:00 IST",
+    "channel": "jio-3070",
+    "title": "Glamour Ki Duniya",
+    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details."
+  },
+  {
+    "startRaw": "20251127091500",
+    "stopRaw": "20251127092500",
+    "start": "2025-11-27 14:45:00 IST",
+    "stop": "2025-11-27 14:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Ye To Viral Hai",
+    "subTitle": "The host presents information on some of the most important updates, trends and viral news stories that are of public interest."
+  },
+  {
+    "startRaw": "20251127092500",
+    "stopRaw": "20251127095500",
+    "start": "2025-11-27 14:55:00 IST",
+    "stop": "2025-11-27 15:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Aapki Khabar",
+    "subTitle": "The host presents comprehensive, in-depth reporting on a wide range of current events and news stories that occur across the globe."
+  },
+  {
+    "startRaw": "20251127095500",
+    "stopRaw": "20251127102500",
+    "start": "2025-11-27 15:25:00 IST",
+    "stop": "2025-11-27 15:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Fatafat Express",
+    "subTitle": "The host presents the top news headlines and developments pertaining to various political and socio-economic issues around the globe."
+  },
+  {
+    "startRaw": "20251127102500",
+    "stopRaw": "20251127105500",
+    "start": "2025-11-27 15:55:00 IST",
+    "stop": "2025-11-27 16:25:00 IST",
+    "channel": "jio-3070",
+    "title": "News Agenda",
+    "subTitle": "The host analyses some of the most important news updates, developments and current affairs that matter to the people of the country."
+  },
+  {
+    "startRaw": "20251127105500",
+    "stopRaw": "20251127112500",
+    "start": "2025-11-27 16:25:00 IST",
+    "stop": "2025-11-27 16:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Aapka Shahar Aapka Reporter",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127112500",
+    "stopRaw": "20251127115500",
+    "start": "2025-11-27 16:55:00 IST",
+    "stop": "2025-11-27 17:25:00 IST",
+    "channel": "jio-3070",
+    "title": "News In Action",
+    "subTitle": "The host provides a detailed report on the latest socio-economic updates and most pressing political developments in the relation to current affairs."
+  },
+  {
+    "startRaw": "20251127115500",
+    "stopRaw": "20251127122500",
+    "start": "2025-11-27 17:25:00 IST",
+    "stop": "2025-11-27 17:55:00 IST",
+    "channel": "jio-3070",
+    "title": "News In Action",
+    "subTitle": "The host provides a detailed report on the latest socio-economic updates and most pressing political developments in the relation to current affairs."
+  },
+  {
+    "startRaw": "20251127122500",
+    "stopRaw": "20251127125500",
+    "start": "2025-11-27 17:55:00 IST",
+    "stop": "2025-11-27 18:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabaron Ki Reel",
+    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
+  },
+  {
+    "startRaw": "20251127125500",
+    "stopRaw": "20251127132500",
+    "start": "2025-11-27 18:25:00 IST",
+    "stop": "2025-11-27 18:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabaron Ki Reel",
+    "subTitle": "A rapid rundown of notable headlines presents key updates in a compact format designed to keep viewers informed in minimal time."
+  },
+  {
+    "startRaw": "20251127132500",
+    "stopRaw": "20251127135500",
+    "start": "2025-11-27 18:55:00 IST",
+    "stop": "2025-11-27 19:25:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251127135500",
+    "stopRaw": "20251127142500",
+    "start": "2025-11-27 19:25:00 IST",
+    "stop": "2025-11-27 19:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh."
+  },
+  {
+    "startRaw": "20251127142500",
+    "stopRaw": "20251127152500",
+    "start": "2025-11-27 19:55:00 IST",
+    "stop": "2025-11-27 20:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251127152500",
+    "stopRaw": "20251127155500",
+    "start": "2025-11-27 20:55:00 IST",
+    "stop": "2025-11-27 21:25:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show Brajesh Rajput Ke Sath",
+    "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127155500",
+    "stopRaw": "20251127162500",
+    "start": "2025-11-27 21:25:00 IST",
+    "stop": "2025-11-27 21:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Prime Crime",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127162500",
+    "stopRaw": "20251127165500",
+    "start": "2025-11-27 21:55:00 IST",
+    "stop": "2025-11-27 22:25:00 IST",
+    "channel": "jio-3070",
+    "title": "10 Baje 10 Report",
+    "subTitle": "The host sheds light on the top 10 news stories and significant updates from various fields influencing people around the country."
+  },
+  {
+    "startRaw": "20251127165500",
+    "stopRaw": "20251127172500",
+    "start": "2025-11-27 22:25:00 IST",
+    "stop": "2025-11-27 22:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251127172500",
+    "stopRaw": "20251127182500",
+    "start": "2025-11-27 22:55:00 IST",
+    "stop": "2025-11-27 23:55:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat Gyanendra Tiwari Ke sath",
+    "subTitle": "Gyanendra Tiwari sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale."
+  },
+  {
+    "startRaw": "20251127182500",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:55:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-3070",
     "title": "The Editor's Show Brajesh Rajput Ke Sath",
     "subTitle": "Brajesh Rajput presents information about the social, economic and political issues of the day and provides updates on current events."

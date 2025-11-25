@@ -1,320 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123193000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:00:00 IST",
-    "channel": "jio-668",
-    "title": "Top Story",
-    "subTitle": "The host brings critical national and international developments into focus through crisp updates, balanced reporting and expert inputs."
-  },
-  {
-    "startRaw": "20251123193000",
-    "stopRaw": "20251123203000",
-    "start": "2025-11-24 01:00:00 IST",
-    "stop": "2025-11-24 02:00:00 IST",
-    "channel": "jio-668",
-    "title": "1 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123203000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 02:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-668",
-    "title": "Mass Mallanna",
-    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251123213000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 03:00:00 IST",
-    "channel": "jio-668",
-    "title": "Big Screen",
-    "subTitle": "The host presents the latest updates and developments pertaining to upcoming movies, celebrity interviews and gossip from across the world."
-  },
-  {
-    "startRaw": "20251123213000",
-    "stopRaw": "20251123223000",
-    "start": "2025-11-24 03:00:00 IST",
-    "stop": "2025-11-24 04:00:00 IST",
-    "channel": "jio-668",
-    "title": "3 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251123223000",
-    "stopRaw": "20251123230000",
-    "start": "2025-11-24 04:00:00 IST",
-    "stop": "2025-11-24 04:30:00 IST",
-    "channel": "jio-668",
-    "title": "Favourite 5",
-    "subTitle": "A comprehensive compilation featuring various popular songs, scenes, dialogues and dances from renowned movies is played."
-  },
-  {
-    "startRaw": "20251123230000",
-    "stopRaw": "20251123233000",
-    "start": "2025-11-24 04:30:00 IST",
-    "stop": "2025-11-24 05:00:00 IST",
-    "channel": "jio-668",
-    "title": "Nijam",
-    "subTitle": "The host provides comprehensive coverage as well as in-depth insights into global political, economic and social developments shaping the world today."
-  },
-  {
-    "startRaw": "20251123233000",
-    "stopRaw": "20251124000000",
-    "start": "2025-11-24 05:00:00 IST",
-    "stop": "2025-11-24 05:30:00 IST",
-    "channel": "jio-668",
-    "title": "5 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124000000",
-    "stopRaw": "20251124003000",
-    "start": "2025-11-24 05:30:00 IST",
-    "stop": "2025-11-24 06:00:00 IST",
-    "channel": "jio-668",
-    "title": "Ganapathi Suprabhatam",
-    "subTitle": "A collection of sacred hymns and chants to Lord Ganesha, offering a serene and uplifting experience for spiritual seekers."
-  },
-  {
-    "startRaw": "20251124003000",
-    "stopRaw": "20251124010000",
-    "start": "2025-11-24 06:00:00 IST",
-    "stop": "2025-11-24 06:30:00 IST",
-    "channel": "jio-668",
-    "title": "6 AM News / 10 Min 50 News",
-    "subTitle": "The host sheds light on the significant updates from around the world; the host presents 50 latest news stories in quick succession."
-  },
-  {
-    "startRaw": "20251124010000",
-    "stopRaw": "20251124013000",
-    "start": "2025-11-24 06:30:00 IST",
-    "stop": "2025-11-24 07:00:00 IST",
-    "channel": "jio-668",
-    "title": "Mass Mallanna",
-    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
-  },
-  {
-    "startRaw": "20251124013000",
-    "stopRaw": "20251124020000",
-    "start": "2025-11-24 07:00:00 IST",
-    "stop": "2025-11-24 07:30:00 IST",
-    "channel": "jio-668",
-    "title": "7 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124020000",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 07:30:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-668",
-    "title": "News Scan",
-    "subTitle": "The host sheds light on the latest news updates and developments, pertaining to society, economics, politics and health from across the country."
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124033000",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 09:00:00 IST",
-    "channel": "jio-668",
-    "title": "Business Breakfast",
-    "subTitle": "The host updates the viewers with the performance of the stock market indices and other business related matters across the country."
-  },
-  {
-    "startRaw": "20251124033000",
-    "stopRaw": "20251124040000",
-    "start": "2025-11-24 09:00:00 IST",
-    "stop": "2025-11-24 09:30:00 IST",
-    "channel": "jio-668",
-    "title": "9 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124040000",
-    "stopRaw": "20251124043000",
-    "start": "2025-11-24 09:30:00 IST",
-    "stop": "2025-11-24 10:00:00 IST",
-    "channel": "jio-668",
-    "title": "Favourite 5",
-    "subTitle": "A comprehensive compilation featuring various popular songs, scenes, dialogues and dances from renowned movies is played."
-  },
-  {
-    "startRaw": "20251124043000",
-    "stopRaw": "20251124050000",
-    "start": "2025-11-24 10:00:00 IST",
-    "stop": "2025-11-24 10:30:00 IST",
-    "channel": "jio-668",
-    "title": "10 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124050000",
-    "stopRaw": "20251124053000",
-    "start": "2025-11-24 10:30:00 IST",
-    "stop": "2025-11-24 11:00:00 IST",
-    "channel": "jio-668",
-    "title": "Special Focus",
-    "subTitle": "The host provides a detailed analysis of significant events, offering clear insights and breaking down complex topics to reveal their deeper meanings and impact on society."
-  },
-  {
-    "startRaw": "20251124053000",
-    "stopRaw": "20251124063000",
-    "start": "2025-11-24 11:00:00 IST",
-    "stop": "2025-11-24 12:00:00 IST",
-    "channel": "jio-668",
-    "title": "11 AM News / Big Breaking",
-    "subTitle": "The host presents an insight into the latest news and updates relating to political, social and economic issues from around the world."
-  },
-  {
-    "startRaw": "20251124063000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:00:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-668",
-    "title": "12 Noon News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124083000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 14:00:00 IST",
-    "channel": "jio-668",
-    "title": "1 PM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124083000",
-    "stopRaw": "20251124090000",
-    "start": "2025-11-24 14:00:00 IST",
-    "stop": "2025-11-24 14:30:00 IST",
-    "channel": "jio-668",
-    "title": "2 PM News",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "startRaw": "20251124090000",
-    "stopRaw": "20251124093000",
-    "start": "2025-11-24 14:30:00 IST",
-    "stop": "2025-11-24 15:00:00 IST",
-    "channel": "jio-668",
-    "title": "Big Screen",
-    "subTitle": "The host presents the latest updates and developments pertaining to upcoming movies, celebrity interviews and gossip from across the world."
-  },
-  {
-    "startRaw": "20251124093000",
-    "stopRaw": "20251124100000",
-    "start": "2025-11-24 15:00:00 IST",
-    "stop": "2025-11-24 15:30:00 IST",
-    "channel": "jio-668",
-    "title": "3 PM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124100000",
-    "stopRaw": "20251124103000",
-    "start": "2025-11-24 15:30:00 IST",
-    "stop": "2025-11-24 16:00:00 IST",
-    "channel": "jio-668",
-    "title": "Health File",
-    "subTitle": "The host interacts with healthcare professionals to seek insights into various medical conditions, while answering queries from the viewers."
-  },
-  {
-    "startRaw": "20251124103000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:00:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-668",
-    "title": "Telugu States",
-    "subTitle": "The host provides in-depth analysis of political, social and economic developments, offering valuable insights into key issues shaping the region."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-668",
-    "title": "5 PM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-668",
-    "title": "6 PM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124133000",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 19:00:00 IST",
-    "channel": "jio-668",
-    "title": "Study Time",
-    "subTitle": "The host invites experts in the field of academics to advise students on various topics and inform them about different career opportunities."
-  },
-  {
-    "startRaw": "20251124133000",
-    "stopRaw": "20251124150000",
-    "start": "2025-11-24 19:00:00 IST",
-    "stop": "2025-11-24 20:30:00 IST",
-    "channel": "jio-668",
-    "title": "Top Story",
-    "subTitle": "The host brings critical national and international developments into focus through crisp updates, balanced reporting and expert inputs."
-  },
-  {
-    "startRaw": "20251124150000",
-    "stopRaw": "20251124153000",
-    "start": "2025-11-24 20:30:00 IST",
-    "stop": "2025-11-24 21:00:00 IST",
-    "channel": "jio-668",
-    "title": "Mass Mallanna",
-    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
-  },
-  {
-    "startRaw": "20251124153000",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 21:00:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-668",
-    "title": "Big News",
-    "subTitle": "The host presents a comprehensive analysis of numerous top stories and significant updates from the national and international front."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124173000",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 23:00:00 IST",
-    "channel": "jio-668",
-    "title": "Daily Mirror",
-    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
-  },
-  {
-    "startRaw": "20251124173000",
-    "stopRaw": "20251124180000",
-    "start": "2025-11-24 23:00:00 IST",
-    "stop": "2025-11-24 23:30:00 IST",
-    "channel": "jio-668",
-    "title": "11 PM News",
-    "subTitle": "The host discusses the latest socio-economic and political news, offering detailed updates and analysis on significant developments."
-  },
-  {
-    "startRaw": "20251124180000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-668",
-    "title": "Cinema Programme",
-    "subTitle": "The host provides insights into the latest news stories and significant developments concerning the entertainment industry."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124193000",
     "start": "2025-11-25 00:00:00 IST",
@@ -940,6 +625,321 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-668",
+    "title": "Cinema Programme",
+    "subTitle": "The host provides insights into the latest news stories and significant developments concerning the entertainment industry."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-668",
+    "title": "Top Story",
+    "subTitle": "The host brings critical national and international developments into focus through crisp updates, balanced reporting and expert inputs."
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-668",
+    "title": "1 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-668",
+    "title": "Mass Mallanna",
+    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-668",
+    "title": "Big Screen",
+    "subTitle": "The host presents the latest updates and developments pertaining to upcoming movies, celebrity interviews and gossip from across the world."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-668",
+    "title": "3 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-668",
+    "title": "Favourite 5",
+    "subTitle": "A comprehensive compilation featuring various popular songs, scenes, dialogues and dances from renowned movies is played."
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-668",
+    "title": "Nijam",
+    "subTitle": "The host provides comprehensive coverage as well as in-depth insights into global political, economic and social developments shaping the world today."
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-668",
+    "title": "5 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-668",
+    "title": "Laxmi Suprabhatham",
+    "subTitle": "Singers from across the region recite various devotional songs and hymns, offering prayers and seeking blessings from the Almighty."
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-668",
+    "title": "6 AM News / 10 Min 50 News",
+    "subTitle": "The host sheds light on the significant updates from around the world; the host presents 50 latest news stories in quick succession."
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-668",
+    "title": "Mass Mallanna",
+    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-668",
+    "title": "7 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-668",
+    "title": "News Scan",
+    "subTitle": "The host sheds light on the latest news updates and developments, pertaining to society, economics, politics and health from across the country."
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-668",
+    "title": "Business Breakfast",
+    "subTitle": "The host updates the viewers with the performance of the stock market indices and other business related matters across the country."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-668",
+    "title": "9 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-668",
+    "title": "Favourite 5",
+    "subTitle": "A comprehensive compilation featuring various popular songs, scenes, dialogues and dances from renowned movies is played."
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-668",
+    "title": "10 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-668",
+    "title": "11 AM News / Big Breaking",
+    "subTitle": "The host presents an insight into the latest news and updates relating to political, social and economic issues from around the world."
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-668",
+    "title": "Daily Mirror",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-668",
+    "title": "12 Noon News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-668",
+    "title": "Daily Mirror",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-668",
+    "title": "1 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-668",
+    "title": "2 PM News",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-668",
+    "title": "Big Screen",
+    "subTitle": "The host presents the latest updates and developments pertaining to upcoming movies, celebrity interviews and gossip from across the world."
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-668",
+    "title": "3 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-668",
+    "title": "Health File",
+    "subTitle": "The host interacts with healthcare professionals to seek insights into various medical conditions, while answering queries from the viewers."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-668",
+    "title": "Telugu States",
+    "subTitle": "The host provides in-depth analysis of political, social and economic developments, offering valuable insights into key issues shaping the region."
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-668",
+    "title": "5 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-668",
+    "title": "6 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-668",
+    "title": "Top Story",
+    "subTitle": "The host brings critical national and international developments into focus through crisp updates, balanced reporting and expert inputs."
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-668",
+    "title": "Mass Mallanna",
+    "subTitle": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-668",
+    "title": "Big News",
+    "subTitle": "The host presents a comprehensive analysis of numerous top stories and significant updates from the national and international front."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-668",
+    "title": "Daily Mirror",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-668",
+    "title": "11 PM News",
+    "subTitle": "The host discusses the latest socio-economic and political news, offering detailed updates and analysis on significant developments."
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-668",
     "title": "Cinema Programme",
     "subTitle": "The host provides insights into the latest news stories and significant developments concerning the entertainment industry."

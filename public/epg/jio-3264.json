@@ -1,113 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123201125",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 01:41:25 IST",
-    "channel": "jio-3264",
-    "title": "Thappa Yosikkathinga",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123201125",
-    "stopRaw": "20251123221423",
-    "start": "2025-11-24 01:41:25 IST",
-    "stop": "2025-11-24 03:44:23 IST",
-    "channel": "jio-3264",
-    "title": "Lacchi",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251123221423",
-    "stopRaw": "20251124003024",
-    "start": "2025-11-24 03:44:23 IST",
-    "stop": "2025-11-24 06:00:24 IST",
-    "channel": "jio-3264",
-    "title": "Lonappanin Memories",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124003024",
-    "stopRaw": "20251124022425",
-    "start": "2025-11-24 06:00:24 IST",
-    "stop": "2025-11-24 07:54:25 IST",
-    "channel": "jio-3264",
-    "title": "Uthraa",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124022425",
-    "stopRaw": "20251124043326",
-    "start": "2025-11-24 07:54:25 IST",
-    "stop": "2025-11-24 10:03:26 IST",
-    "channel": "jio-3264",
-    "title": "Jani",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124043326",
-    "stopRaw": "20251124065736",
-    "start": "2025-11-24 10:03:26 IST",
-    "stop": "2025-11-24 12:27:36 IST",
-    "channel": "jio-3264",
-    "title": "All Illatha Oorla Annanthan MLA",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124065736",
-    "stopRaw": "20251124084920",
-    "start": "2025-11-24 12:27:36 IST",
-    "stop": "2025-11-24 14:19:20 IST",
-    "channel": "jio-3264",
-    "title": "Avanthika",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124084920",
-    "stopRaw": "20251124105325",
-    "start": "2025-11-24 14:19:20 IST",
-    "stop": "2025-11-24 16:23:25 IST",
-    "channel": "jio-3264",
-    "title": "Chinna Pannai Periya Pannai",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124105325",
-    "stopRaw": "20251124124454",
-    "start": "2025-11-24 16:23:25 IST",
-    "stop": "2025-11-24 18:14:54 IST",
-    "channel": "jio-3264",
-    "title": "Thappa Yosikkathinga",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124124454",
-    "stopRaw": "20251124144752",
-    "start": "2025-11-24 18:14:54 IST",
-    "stop": "2025-11-24 20:17:52 IST",
-    "channel": "jio-3264",
-    "title": "Lacchi",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124144752",
-    "stopRaw": "20251124170353",
-    "start": "2025-11-24 20:17:52 IST",
-    "stop": "2025-11-24 22:33:53 IST",
-    "channel": "jio-3264",
-    "title": "Lonappanin Memories",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124170353",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 22:33:53 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-3264",
-    "title": "Uthraa",
-    "subTitle": ""
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124185755",
     "start": "2025-11-25 00:00:00 IST",
@@ -330,6 +222,123 @@
     "stop": "2025-11-26 23:59:59 IST",
     "channel": "jio-3264",
     "title": "Lonappanin Memories",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126184423",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:14:23 IST",
+    "channel": "jio-3264",
+    "title": "Lonappanin Memories",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126184423",
+    "stopRaw": "20251126203824",
+    "start": "2025-11-27 00:14:23 IST",
+    "stop": "2025-11-27 02:08:24 IST",
+    "channel": "jio-3264",
+    "title": "Uthraa",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126203824",
+    "stopRaw": "20251126224725",
+    "start": "2025-11-27 02:08:24 IST",
+    "stop": "2025-11-27 04:17:25 IST",
+    "channel": "jio-3264",
+    "title": "Jani",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251126224725",
+    "stopRaw": "20251127011135",
+    "start": "2025-11-27 04:17:25 IST",
+    "stop": "2025-11-27 06:41:35 IST",
+    "channel": "jio-3264",
+    "title": "All Illatha Oorla Annanthan MLA",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127011135",
+    "stopRaw": "20251127030319",
+    "start": "2025-11-27 06:41:35 IST",
+    "stop": "2025-11-27 08:33:19 IST",
+    "channel": "jio-3264",
+    "title": "Avanthika",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127030319",
+    "stopRaw": "20251127050724",
+    "start": "2025-11-27 08:33:19 IST",
+    "stop": "2025-11-27 10:37:24 IST",
+    "channel": "jio-3264",
+    "title": "Chinna Pannai Periya Pannai",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127050724",
+    "stopRaw": "20251127065853",
+    "start": "2025-11-27 10:37:24 IST",
+    "stop": "2025-11-27 12:28:53 IST",
+    "channel": "jio-3264",
+    "title": "Thappa Yosikkathinga",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127065853",
+    "stopRaw": "20251127090151",
+    "start": "2025-11-27 12:28:53 IST",
+    "stop": "2025-11-27 14:31:51 IST",
+    "channel": "jio-3264",
+    "title": "Lacchi",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127090151",
+    "stopRaw": "20251127111752",
+    "start": "2025-11-27 14:31:51 IST",
+    "stop": "2025-11-27 16:47:52 IST",
+    "channel": "jio-3264",
+    "title": "Lonappanin Memories",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127111752",
+    "stopRaw": "20251127131153",
+    "start": "2025-11-27 16:47:52 IST",
+    "stop": "2025-11-27 18:41:53 IST",
+    "channel": "jio-3264",
+    "title": "Uthraa",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127131153",
+    "stopRaw": "20251127152054",
+    "start": "2025-11-27 18:41:53 IST",
+    "stop": "2025-11-27 20:50:54 IST",
+    "channel": "jio-3264",
+    "title": "Jani",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127152054",
+    "stopRaw": "20251127174504",
+    "start": "2025-11-27 20:50:54 IST",
+    "stop": "2025-11-27 23:15:04 IST",
+    "channel": "jio-3264",
+    "title": "All Illatha Oorla Annanthan MLA",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127174504",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:15:04 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3264",
+    "title": "Avanthika",
     "subTitle": ""
   }
 ]

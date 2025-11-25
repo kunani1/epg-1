@@ -1,6 +1,8 @@
 {
-  "lastUpdate": "2025-11-25T05:13:00.643Z",
+  "lastUpdate": "2025-11-25T05:22:24.647Z",
   "totalProgrammes": 115571,
   "totalChannels": 1201,
+  "timeZone": "Asia/Kolkata (IST, UTC+5:30)",
+  "note": "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps.",
   "source": "https://tsepg.cf/jio.xml.gz"
 }

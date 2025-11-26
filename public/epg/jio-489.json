@@ -1,320 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-489",
-    "title": "The Exchange",
-    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124200000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:30:00 IST",
-    "channel": "jio-489",
-    "title": "Power Lunch",
-    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
-  },
-  {
-    "startRaw": "20251124200000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 01:30:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-489",
-    "title": "Closing Bell",
-    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251124230000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 04:30:00 IST",
-    "channel": "jio-489",
-    "title": "The Rundown",
-    "subTitle": "The host presents an analysis on important international news stories and events from various spheres including politics, socio-economics, business and human interest."
-  },
-  {
-    "startRaw": "20251124230000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 04:30:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-489",
-    "title": "Squawk Box",
-    "subTitle": "The hosts converse with business and political experts before the markets open to provide information on trading and investing, while also providing trading advice."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-489",
-    "title": "Closing Bell",
-    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-489",
-    "title": "Squawk Box",
-    "subTitle": "The hosts converse with business and political experts before the markets open to provide information on trading and investing, while also providing trading advice."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-489",
-    "title": "Power Breakfast",
-    "subTitle": "The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-489",
-    "title": "Bazaar Morning Call",
-    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-489",
-    "title": "Bazaar Open Exchange",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125050000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 10:30:00 IST",
-    "channel": "jio-489",
-    "title": "Bazaar Corporate Radar",
-    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market."
-  },
-  {
-    "startRaw": "20251125050000",
-    "stopRaw": "20251125053000",
-    "start": "2025-11-25 10:30:00 IST",
-    "stop": "2025-11-25 11:00:00 IST",
-    "channel": "jio-489",
-    "title": "Chartbusters",
-    "subTitle": "Trading experts discuss the best performing stocks in the market and also provide useful tips on trading strategies to help one improve their finances."
-  },
-  {
-    "startRaw": "20251125053000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-489",
-    "title": "Trading Hour",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-489",
-    "title": "Half Time Report",
-    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125080000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 13:30:00 IST",
-    "channel": "jio-489",
-    "title": "Business Lunch",
-    "subTitle": "The host presents the top news stories from the world of business and the market while highlighting updates on the economic, political and national front."
-  },
-  {
-    "startRaw": "20251125080000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:30:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-489",
-    "title": "Midcap Radar",
-    "subTitle": "The host converse with experts about the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125090000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 14:30:00 IST",
-    "channel": "jio-489",
-    "title": "MF Corner",
-    "subTitle": "The host provides the latest news and updates related to the mutual funds while also providing advice on how to invest in them."
-  },
-  {
-    "startRaw": "20251125090000",
-    "stopRaw": "20251125100000",
-    "start": "2025-11-25 14:30:00 IST",
-    "stop": "2025-11-25 15:30:00 IST",
-    "channel": "jio-489",
-    "title": "NSE Closing Bell",
-    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
-  },
-  {
-    "startRaw": "20251125100000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:30:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-489",
-    "title": "NSE Closing Bell",
-    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125110000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 16:30:00 IST",
-    "channel": "jio-489",
-    "title": "After The Bell",
-    "subTitle": "Experts from various fields share their views and opinions on the updates and the status of the share market post the closing bell."
-  },
-  {
-    "startRaw": "20251125110000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:30:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-489",
-    "title": "Markets Today",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125120000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 17:30:00 IST",
-    "channel": "jio-489",
-    "title": "Reporter's Diary",
-    "subTitle": "The host provides in-depth coverage and details about various news headlines, socio-political developments and current affairs."
-  },
-  {
-    "startRaw": "20251125120000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:30:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-489",
-    "title": "The Investing Edge",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-489",
-    "title": "Reporter's Diary",
-    "subTitle": "The host provides in-depth coverage and details about various news headlines, socio-political developments and current affairs."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-489",
-    "title": "Start Up Street",
-    "subTitle": "The host provides information about the developments and critical updates related to various start-up businesses set up in the country."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-489",
-    "title": "U.S Markets Opening Bell",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-489",
-    "title": "India Business Hour",
-    "subTitle": "The host presents information about the economic and political issues of the day and provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-489",
-    "title": "Markets Today",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125160000",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 21:30:00 IST",
-    "channel": "jio-489",
-    "title": "India Business Hour",
-    "subTitle": "The host presents information about the economic and political issues of the day and provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "startRaw": "20251125160000",
-    "stopRaw": "20251125163000",
-    "start": "2025-11-25 21:30:00 IST",
-    "stop": "2025-11-25 22:00:00 IST",
-    "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125163000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 22:00:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125173000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:00:00 IST",
-    "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125173000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 23:00:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-489",
-    "title": "India Business Hour",
-    "subTitle": "The host presents information about the economic and political issues of the day and provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -536,8 +221,8 @@
     "start": "2025-11-26 18:30:00 IST",
     "stop": "2025-11-26 19:00:00 IST",
     "channel": "jio-489",
-    "title": "Start Up Street",
-    "subTitle": "The host provides information about the developments and critical updates related to various start-up businesses set up in the country."
+    "title": "Start Up Street Live",
+    "subTitle": "The host presents in detail the latest updates and key developments and unknown facets pertaining from the Indian start up industry, live."
   },
   {
     "startRaw": "20251126133000",
@@ -545,8 +230,8 @@
     "start": "2025-11-26 19:00:00 IST",
     "stop": "2025-11-26 19:30:00 IST",
     "channel": "jio-489",
-    "title": "U.S Markets Opening Bell",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+    "title": "The Leadership Language",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126140000",
@@ -554,8 +239,8 @@
     "start": "2025-11-26 19:30:00 IST",
     "stop": "2025-11-26 20:00:00 IST",
     "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "The Leadership Language",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126143000",
@@ -572,8 +257,8 @@
     "start": "2025-11-26 20:30:00 IST",
     "stop": "2025-11-26 21:00:00 IST",
     "channel": "jio-489",
-    "title": "Markets Today",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+    "title": "Markets Forward",
+    "subTitle": "Experts analyse and discuss forward markets, the over-the-counter financial markets that are essential for contracts for future delivery."
   },
   {
     "startRaw": "20251126153000",
@@ -590,8 +275,8 @@
     "start": "2025-11-26 21:30:00 IST",
     "stop": "2025-11-26 22:00:00 IST",
     "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "The Leadership Language",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126163000",
@@ -599,8 +284,8 @@
     "start": "2025-11-26 22:00:00 IST",
     "stop": "2025-11-26 22:30:00 IST",
     "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "The Leadership Language",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126170000",
@@ -608,8 +293,8 @@
     "start": "2025-11-26 22:30:00 IST",
     "stop": "2025-11-26 23:00:00 IST",
     "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "CNBC-TV18 Newscentre",
+    "subTitle": "The host engages in a conversation with experts to discuss the latest news stories and major developments that impact people across the globe."
   },
   {
     "startRaw": "20251126173000",
@@ -626,8 +311,8 @@
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
     "channel": "jio-489",
-    "title": "CNBC-TV18 Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
   },
   {
     "startRaw": "20251126183000",
@@ -940,6 +625,321 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-489",
+    "title": "CNBC-TV18 Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-489",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127200000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:30:00 IST",
+    "channel": "jio-489",
+    "title": "Power Lunch",
+    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
+  },
+  {
+    "startRaw": "20251127200000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 01:30:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-489",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251127230000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 04:30:00 IST",
+    "channel": "jio-489",
+    "title": "The Rundown",
+    "subTitle": "The host presents an analysis on important international news stories and events from various spheres including politics, socio-economics, business and human interest."
+  },
+  {
+    "startRaw": "20251127230000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 04:30:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-489",
+    "title": "Squawk Box",
+    "subTitle": "The hosts converse with business and political experts before the markets open to provide information on trading and investing, while also providing trading advice."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-489",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-489",
+    "title": "Squawk Box",
+    "subTitle": "The hosts converse with business and political experts before the markets open to provide information on trading and investing, while also providing trading advice."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-489",
+    "title": "Power Breakfast",
+    "subTitle": "The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-489",
+    "title": "Bazaar Morning Call",
+    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-489",
+    "title": "Bazaar Open Exchange",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-489",
+    "title": "Bazaar Corporate Radar",
+    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128053000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-489",
+    "title": "Chartbusters",
+    "subTitle": "Trading experts discuss the best performing stocks in the market and also provide useful tips on trading strategies to help one improve their finances."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:00:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-489",
+    "title": "Trading Hour",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-489",
+    "title": "Half Time Report",
+    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-489",
+    "title": "Business Lunch",
+    "subTitle": "The host presents the top news stories from the world of business and the market while highlighting updates on the economic, political and national front."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-489",
+    "title": "Midcap Radar",
+    "subTitle": "The host converse with experts about the latest news and updates related to the stock markets while also providing advice on trading and investing."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128090000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-489",
+    "title": "Your Stocks",
+    "subTitle": "The hosts review and analyse the stock market trends of the country while advising the viewers to make the right investment decision."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-489",
+    "title": "NSE Closing Bell",
+    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-489",
+    "title": "Smart Money",
+    "subTitle": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128110000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 16:30:00 IST",
+    "channel": "jio-489",
+    "title": "After The Bell",
+    "subTitle": "Experts from various fields share their views and opinions on the updates and the status of the share market post the closing bell."
+  },
+  {
+    "startRaw": "20251128110000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:30:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-489",
+    "title": "Taking Stock",
+    "subTitle": "The hosts along with financial gurus review key stock movements of the week while discussing the market trends, trading ideas and brokerage views for the coming week."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128120000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 17:30:00 IST",
+    "channel": "jio-489",
+    "title": "Reporter's Diary",
+    "subTitle": "The host provides in-depth coverage and details about various news headlines, socio-political developments and current affairs."
+  },
+  {
+    "startRaw": "20251128120000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:30:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-489",
+    "title": "Commodity Champions",
+    "subTitle": "Trading experts take a look at how various commodities have fared in the commodity market and moreover, choose their best picks."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-489",
+    "title": "Reporter's Diary",
+    "subTitle": "The host provides in-depth coverage and details about various news headlines, socio-political developments and current affairs."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-489",
+    "title": "Start Up Street",
+    "subTitle": "The host provides information about the developments and critical updates related to various start-up businesses set up in the country."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-489",
+    "title": "U.S Markets Opening Bell",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-489",
+    "title": "The Global Eye",
+    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-489",
+    "title": "India Business Hour",
+    "subTitle": "The host presents information about the economic and political issues of the day and provides a holistic perspective of the Indian business environment."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-489",
+    "title": "Taking Stock",
+    "subTitle": "The hosts along with financial gurus review key stock movements of the week while discussing the market trends, trading ideas and brokerage views for the coming week."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-489",
+    "title": "India Business Hour",
+    "subTitle": "The host presents information about the economic and political issues of the day and provides a holistic perspective of the Indian business environment."
+  },
+  {
+    "startRaw": "20251128160000",
+    "stopRaw": "20251128163000",
+    "start": "2025-11-28 21:30:00 IST",
+    "stop": "2025-11-28 22:00:00 IST",
+    "channel": "jio-489",
+    "title": "CNBC-TV18 Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128163000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 22:00:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-489",
+    "title": "CNBC-TV18 Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128173000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:00:00 IST",
+    "channel": "jio-489",
+    "title": "Kiska Brand Bajega: Home Edition",
+    "subTitle": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment."
+  },
+  {
+    "startRaw": "20251128173000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 23:00:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-489",
+    "title": "Kiska Brand Bajega: Home Edition",
+    "subTitle": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-489",
     "title": "CNBC-TV18 Special",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."

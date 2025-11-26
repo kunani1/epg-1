@@ -1,365 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Untold Stories",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124200000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Mudde Ki Baat",
-    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance."
-  },
-  {
-    "startRaw": "20251124200000",
-    "stopRaw": "20251124210000",
-    "start": "2025-11-25 01:30:00 IST",
-    "stop": "2025-11-25 02:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Sport News",
-    "subTitle": "The host presents the latest information, advancements and developments regarding various sporting events, tournaments and athletes."
-  },
-  {
-    "startRaw": "20251124210000",
-    "stopRaw": "20251124213000",
-    "start": "2025-11-25 02:30:00 IST",
-    "stop": "2025-11-25 03:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Nation Update",
-    "subTitle": "The host sheds light on the latest updates and significant developments in governance, social, economic, sports and political affairs impacting the people of the nation."
-  },
-  {
-    "startRaw": "20251124213000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251124223000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 04:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Regional News",
-    "subTitle": "The host delivers the latest regional news updates and significant developments across governance, social, economic, and political issues."
-  },
-  {
-    "startRaw": "20251124223000",
-    "stopRaw": "20251124233000",
-    "start": "2025-11-25 04:00:00 IST",
-    "stop": "2025-11-25 05:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Sawal Damdar",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "startRaw": "20251124233000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 05:00:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Morning News",
-    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Bhakti Ki Shakti",
-    "subTitle": "Religious leaders and devotees come forward to sing various devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Rashifal",
-    "subTitle": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-3104",
-    "title": "News Update",
-    "subTitle": "A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125030000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 08:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Morning Head Line",
-    "subTitle": "The host presents a comprehensive and detailed report regarding the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251125030000",
-    "stopRaw": "20251125040000",
-    "start": "2025-11-25 08:30:00 IST",
-    "stop": "2025-11-25 09:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Latest News Live Updates",
-    "subTitle": "The host presents news updates and latest information on political, social, sports and economic topics of global significance, live."
-  },
-  {
-    "startRaw": "20251125040000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:30:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-3104",
-    "title": "5 Min 25 Khabar",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125050000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 10:30:00 IST",
-    "channel": "jio-3104",
-    "title": "News @ 10",
-    "subTitle": "The host sheds light on the latest news stories, important updates and developments from all over the country and across the globe."
-  },
-  {
-    "startRaw": "20251125050000",
-    "stopRaw": "20251125053000",
-    "start": "2025-11-25 10:30:00 IST",
-    "stop": "2025-11-25 11:00:00 IST",
-    "channel": "jio-3104",
-    "title": "UP Update",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125053000",
-    "stopRaw": "20251125060000",
-    "start": "2025-11-25 11:00:00 IST",
-    "stop": "2025-11-25 11:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Food Express Patra",
-    "subTitle": "The host demonstrates the preparation of various delicious recipes and shares useful tips and techniques with the audience."
-  },
-  {
-    "startRaw": "20251125060000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:30:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Smriti Patra Headlines",
-    "subTitle": "The host presents concise news updates and the latest developments of global significance related to social, political, economic, and cultural topics."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125070000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 12:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Update News",
-    "subTitle": "The host sheds light on latest updates and top stories pertaining to the political, social and economical matters of the day."
-  },
-  {
-    "startRaw": "20251125070000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:30:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Crime Show",
-    "subTitle": "The host sheds light on some of the latest and most dangerous crime-related stories and happenings from different parts of India."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Janta Ki Awaaz",
-    "subTitle": "The host shares the latest updates, developments and information on several issues from across the country in a detailed manner."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125090000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 14:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Fast News 20",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "startRaw": "20251125090000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 14:30:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Sport News Live",
-    "subTitle": "The host collates and presents the latest updates, top news stories and key developments pertaining to the world of sports, live."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125100000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 15:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Special News",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251125100000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:30:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Update India News Live",
-    "subTitle": "The host sheds light on the latest top stories and recent happenings pertaining to social, political and economic updates taking place in India, live."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125110000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 16:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Veer Gatha Bharat",
-    "subTitle": "The host illuminates the accomplishments and obstacles faced by various distinguished leaders, emphasising their significant contributions."
-  },
-  {
-    "startRaw": "20251125110000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:30:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Punjab Update News",
-    "subTitle": "The host presents latest updates, top stories pertaining to the state of Punjab including the political, social, sports, and economic topics."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125120000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 17:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Fatafat Express India",
-    "subTitle": "The host presents the top news headlines and the latest updates on governance, social, economic, sports, and political issues around the world."
-  },
-  {
-    "startRaw": "20251125120000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:30:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Taza Khabar News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Top-20 News",
-    "subTitle": "The host presents the top 20 news stories and developments surrounding various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-3104",
-    "title": "News Bulletin Nation",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Janta Ke Sawal",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-3104",
-    "title": "News Bulletin Bharat",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Special Program Live",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Speed News India",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125163000",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 22:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Special Report News",
-    "subTitle": "The host presents the latest news headlines and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251125163000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 22:00:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Suparfast News India",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125173000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:00:00 IST",
-    "channel": "jio-3104",
-    "title": "Ground Update Report",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125173000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 23:00:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-3104",
-    "title": "Top News 10",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the top ten latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-3104",
-    "title": "Tazi Khabre",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -1075,6 +715,366 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3104",
+    "title": "Tazi Khabre",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Untold Stories",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127200000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Mudde Ki Baat",
+    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance."
+  },
+  {
+    "startRaw": "20251127200000",
+    "stopRaw": "20251127210000",
+    "start": "2025-11-28 01:30:00 IST",
+    "stop": "2025-11-28 02:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Sport News",
+    "subTitle": "The host presents the latest information, advancements and developments regarding various sporting events, tournaments and athletes."
+  },
+  {
+    "startRaw": "20251127210000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Nation Update",
+    "subTitle": "The host sheds light on the latest updates and significant developments in governance, social, economic, sports and political affairs impacting the people of the nation."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251127223000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 04:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Regional News",
+    "subTitle": "The host delivers the latest regional news updates and significant developments across governance, social, economic, and political issues."
+  },
+  {
+    "startRaw": "20251127223000",
+    "stopRaw": "20251127233000",
+    "start": "2025-11-28 04:00:00 IST",
+    "stop": "2025-11-28 05:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Sawal Damdar",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+  },
+  {
+    "startRaw": "20251127233000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Morning News",
+    "subTitle": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Bhakti Ki Shakti",
+    "subTitle": "Religious leaders and devotees come forward to sing various devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Rashifal",
+    "subTitle": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-3104",
+    "title": "News Update",
+    "subTitle": "A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128030000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Morning Head Line",
+    "subTitle": "The host presents a comprehensive and detailed report regarding the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128040000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 09:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Latest News Live Updates",
+    "subTitle": "The host presents news updates and latest information on political, social, sports and economic topics of global significance, live."
+  },
+  {
+    "startRaw": "20251128040000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:30:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-3104",
+    "title": "5 Min 25 Khabar",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-3104",
+    "title": "News @ 10",
+    "subTitle": "The host sheds light on the latest news stories, important updates and developments from all over the country and across the globe."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128053000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-3104",
+    "title": "UP Update",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128060000",
+    "start": "2025-11-28 11:00:00 IST",
+    "stop": "2025-11-28 11:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Food Express Patra",
+    "subTitle": "The host demonstrates the preparation of various delicious recipes and shares useful tips and techniques with the audience."
+  },
+  {
+    "startRaw": "20251128060000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Smriti Patra Headlines",
+    "subTitle": "The host presents concise news updates and the latest developments of global significance related to social, political, economic, and cultural topics."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128070000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 12:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Update News",
+    "subTitle": "The host sheds light on latest updates and top stories pertaining to the political, social and economical matters of the day."
+  },
+  {
+    "startRaw": "20251128070000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Crime Show",
+    "subTitle": "The host sheds light on some of the latest and most dangerous crime-related stories and happenings from different parts of India."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Janta Ki Awaaz",
+    "subTitle": "The host shares the latest updates, developments and information on several issues from across the country in a detailed manner."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128090000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Fast News 20",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Sport News Live",
+    "subTitle": "The host collates and presents the latest updates, top news stories and key developments pertaining to the world of sports, live."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Special News",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Update India News Live",
+    "subTitle": "The host sheds light on the latest top stories and recent happenings pertaining to social, political and economic updates taking place in India, live."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128110000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 16:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Veer Gatha Bharat",
+    "subTitle": "The host illuminates the accomplishments and obstacles faced by various distinguished leaders, emphasising their significant contributions."
+  },
+  {
+    "startRaw": "20251128110000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:30:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Punjab Update News",
+    "subTitle": "The host presents latest updates, top stories pertaining to the state of Punjab including the political, social, sports, and economic topics."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128120000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 17:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Fatafat Express India",
+    "subTitle": "The host presents the top news headlines and the latest updates on governance, social, economic, sports, and political issues around the world."
+  },
+  {
+    "startRaw": "20251128120000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:30:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Taza Khabar News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Top-20 News",
+    "subTitle": "The host presents the top 20 news stories and developments surrounding various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-3104",
+    "title": "News Bulletin Nation",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Janta Ke Sawal",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-3104",
+    "title": "News Bulletin Bharat",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Special Program Live",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Speed News India",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128163000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 22:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Special Report News",
+    "subTitle": "The host presents the latest news headlines and developments pertaining to various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251128163000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 22:00:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Suparfast News India",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128173000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:00:00 IST",
+    "channel": "jio-3104",
+    "title": "Ground Update Report",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128173000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 23:00:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-3104",
+    "title": "Top News 10",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the top ten latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-3104",
     "title": "Tazi Khabre",
     "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."

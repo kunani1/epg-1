@@ -1,401 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-370",
-    "title": "Nee Iralu Jotheyalli",
-    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124193000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:00:00 IST",
-    "channel": "jio-370",
-    "title": "Anupamaa",
-    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
-  },
-  {
-    "startRaw": "20251124193000",
-    "stopRaw": "20251124200000",
-    "start": "2025-11-25 01:00:00 IST",
-    "stop": "2025-11-25 01:30:00 IST",
-    "channel": "jio-370",
-    "title": "Anupamaa",
-    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
-  },
-  {
-    "startRaw": "20251124200000",
-    "stopRaw": "20251124203000",
-    "start": "2025-11-25 01:30:00 IST",
-    "stop": "2025-11-25 02:00:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251124203000",
-    "stopRaw": "20251124210000",
-    "start": "2025-11-25 02:00:00 IST",
-    "stop": "2025-11-25 02:30:00 IST",
-    "channel": "jio-370",
-    "title": "Vasudeva Kutumba",
-    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
-  },
-  {
-    "startRaw": "20251124210000",
-    "stopRaw": "20251124213000",
-    "start": "2025-11-25 02:30:00 IST",
-    "stop": "2025-11-25 03:00:00 IST",
-    "channel": "jio-370",
-    "title": "Udho Udho Shri Renuka Yellamma",
-    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
-  },
-  {
-    "startRaw": "20251124213000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-370",
-    "title": "Sree Devi Mahatme",
-    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251124223000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 04:00:00 IST",
-    "channel": "jio-370",
-    "title": "Aase",
-    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
-  },
-  {
-    "startRaw": "20251124223000",
-    "stopRaw": "20251124230000",
-    "start": "2025-11-25 04:00:00 IST",
-    "stop": "2025-11-25 04:30:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251124230000",
-    "stopRaw": "20251124233000",
-    "start": "2025-11-25 04:30:00 IST",
-    "stop": "2025-11-25 05:00:00 IST",
-    "channel": "jio-370",
-    "title": "Vasudeva Kutumba",
-    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
-  },
-  {
-    "startRaw": "20251124233000",
-    "stopRaw": "20251125000000",
-    "start": "2025-11-25 05:00:00 IST",
-    "stop": "2025-11-25 05:30:00 IST",
-    "channel": "jio-370",
-    "title": "Udho Udho Shri Renuka Yellamma",
-    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
-  },
-  {
-    "startRaw": "20251125000000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 05:30:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-370",
-    "title": "Sree Devi Mahatme",
-    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125010000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 06:30:00 IST",
-    "channel": "jio-370",
-    "title": "Radha Krishna",
-    "subTitle": "Radha's unwavering devotion to Krishna is tested as their love story evolves, with Krishna guiding her through life's challenges while revealing the deeper meanings of love, duty and spirituality."
-  },
-  {
-    "startRaw": "20251125010000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:30:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-370",
-    "title": "Radha Krishna",
-    "subTitle": "Radha's unwavering devotion to Krishna is tested as their love story evolves, with Krishna guiding her through life's challenges while revealing the deeper meanings of love, duty and spirituality."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-370",
-    "title": "Suvarna Suprabhatha",
-    "subTitle": "A religious scholar sheds light on the spiritual significance of temples and shares insights on how various rituals play an important role in Hinduism."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-370",
-    "title": "Suvarna Sankalp",
-    "subTitle": "An astrologer presents the day's horoscope and provides insights into how to live a healthy life and grow close to God through devotion."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125040000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 09:30:00 IST",
-    "channel": "jio-370",
-    "title": "Aase",
-    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
-  },
-  {
-    "startRaw": "20251125040000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:30:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125050000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 10:30:00 IST",
-    "channel": "jio-370",
-    "title": "Snehada Kadalalli",
-    "subTitle": "Shivaraj's life takes an unexpected turn when he becomes the guardian of his estranged stepsisters. Despite facing challenges and reluctance, he continues to forge a path towards reconciliation."
-  },
-  {
-    "startRaw": "20251125050000",
-    "stopRaw": "20251125053000",
-    "start": "2025-11-25 10:30:00 IST",
-    "stop": "2025-11-25 11:00:00 IST",
-    "channel": "jio-370",
-    "title": "Nee Iralu Jotheyalli",
-    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
-  },
-  {
-    "startRaw": "20251125053000",
-    "stopRaw": "20251125060000",
-    "start": "2025-11-25 11:00:00 IST",
-    "stop": "2025-11-25 11:30:00 IST",
-    "channel": "jio-370",
-    "title": "Vasudeva Kutumba",
-    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
-  },
-  {
-    "startRaw": "20251125060000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:30:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-370",
-    "title": "Sharade",
-    "subTitle": "Sharade goes with her daughter to live with her husband but learns that he is with another woman. When her husband abandons her, she decides to stay in the city and raise her child."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-370",
-    "title": "Bombat Bhojana",
-    "subTitle": "The host takes the viewers to different areas and restaurants in India to share the experience of trying a variety of dishes prepared by local chefs."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125080000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 13:30:00 IST",
-    "channel": "jio-370",
-    "title": "Preethigagi",
-    "subTitle": "Chandrakala, a beautiful young woman, is betrayed by her NRI husband, leaving her distraught. However, things become complicated when even her family rejects her, forcing her to build her life alone."
-  },
-  {
-    "startRaw": "20251125080000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:30:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-370",
-    "title": "Anupamaa",
-    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125090000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 14:30:00 IST",
-    "channel": "jio-370",
-    "title": "Anupamaa",
-    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
-  },
-  {
-    "startRaw": "20251125090000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 14:30:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-370",
-    "title": "Drushti",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125100000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 15:30:00 IST",
-    "channel": "jio-370",
-    "title": "Drushti",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125100000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:30:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-370",
-    "title": "Ondu Mayeya Sutta",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125110000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 16:30:00 IST",
-    "channel": "jio-370",
-    "title": "Ondu Mayeya Sutta",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125110000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:30:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-370",
-    "title": "Suvarna Gruha Manthri",
-    "subTitle": "The host engages with families who compete against each other in a variety of entertaining games and thereby win exciting gift hampers."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-370",
-    "title": "Gauri Shankara",
-    "subTitle": "Shankara meets Gowri, a principled young woman, and falls deeply in love with her. As their relationship blossoms, their love is tested by trials and tribulations."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-370",
-    "title": "Sharade",
-    "subTitle": "Sharade goes with her daughter to live with her husband but learns that he is with another woman. When her husband abandons her, she decides to stay in the city and raise her child."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-370",
-    "title": "Nee Iralu Jotheyalli",
-    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-370",
-    "title": "Aase",
-    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-370",
-    "title": "Vasudeva Kutumba",
-    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125160000",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 21:30:00 IST",
-    "channel": "jio-370",
-    "title": "Udho Udho Shri Renuka Yellamma",
-    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
-  },
-  {
-    "startRaw": "20251125160000",
-    "stopRaw": "20251125163000",
-    "start": "2025-11-25 21:30:00 IST",
-    "stop": "2025-11-25 22:00:00 IST",
-    "channel": "jio-370",
-    "title": "Sree Devi Mahatme",
-    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
-  },
-  {
-    "startRaw": "20251125163000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 22:00:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-370",
-    "title": "Snehada Kadalalli",
-    "subTitle": "Shivaraj's life takes an unexpected turn when he becomes the guardian of his estranged stepsisters. Despite facing challenges and reluctance, he continues to forge a path towards reconciliation."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125173000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:00:00 IST",
-    "channel": "jio-370",
-    "title": "Aase",
-    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
-  },
-  {
-    "startRaw": "20251125173000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 23:00:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-370",
-    "title": "Ninna Jothe Nanna Kathe",
-    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-370",
-    "title": "Gauri Shankara",
-    "subTitle": "Shankara meets Gowri, a principled young woman, and falls deeply in love with her. As their relationship blossoms, their love is tested by trials and tribulations."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -1183,6 +787,402 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-370",
+    "title": "Gauri Shankara",
+    "subTitle": "Shankara meets Gowri, a principled young woman, and falls deeply in love with her. As their relationship blossoms, their love is tested by trials and tribulations."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-370",
+    "title": "Nee Iralu Jotheyalli",
+    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127193000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:00:00 IST",
+    "channel": "jio-370",
+    "title": "Anupamaa",
+    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
+  },
+  {
+    "startRaw": "20251127193000",
+    "stopRaw": "20251127200000",
+    "start": "2025-11-28 01:00:00 IST",
+    "stop": "2025-11-28 01:30:00 IST",
+    "channel": "jio-370",
+    "title": "Anupamaa",
+    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
+  },
+  {
+    "startRaw": "20251127200000",
+    "stopRaw": "20251127203000",
+    "start": "2025-11-28 01:30:00 IST",
+    "stop": "2025-11-28 02:00:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251127203000",
+    "stopRaw": "20251127210000",
+    "start": "2025-11-28 02:00:00 IST",
+    "stop": "2025-11-28 02:30:00 IST",
+    "channel": "jio-370",
+    "title": "Vasudeva Kutumba",
+    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
+  },
+  {
+    "startRaw": "20251127210000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-370",
+    "title": "Udho Udho Shri Renuka Yellamma",
+    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-370",
+    "title": "Sree Devi Mahatme",
+    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251127223000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 04:00:00 IST",
+    "channel": "jio-370",
+    "title": "Aase",
+    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
+  },
+  {
+    "startRaw": "20251127223000",
+    "stopRaw": "20251127230000",
+    "start": "2025-11-28 04:00:00 IST",
+    "stop": "2025-11-28 04:30:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251127230000",
+    "stopRaw": "20251127233000",
+    "start": "2025-11-28 04:30:00 IST",
+    "stop": "2025-11-28 05:00:00 IST",
+    "channel": "jio-370",
+    "title": "Vasudeva Kutumba",
+    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
+  },
+  {
+    "startRaw": "20251127233000",
+    "stopRaw": "20251128000000",
+    "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 05:30:00 IST",
+    "channel": "jio-370",
+    "title": "Udho Udho Shri Renuka Yellamma",
+    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
+  },
+  {
+    "startRaw": "20251128000000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:30:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-370",
+    "title": "Sree Devi Mahatme",
+    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128010000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 06:30:00 IST",
+    "channel": "jio-370",
+    "title": "Radha Krishna",
+    "subTitle": "Krishna sheds his disguise and explains his reasons to Balram. Later, after sucessfully distracting Radha, Laxmana poisons the sweets for the ceremony. Elsewhere, the amrit fails to wake Shiva."
+  },
+  {
+    "startRaw": "20251128010000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:30:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-370",
+    "title": "Radha Krishna",
+    "subTitle": "Dhamayantri warns Radha about the poison in the sweets and prevents everyone from consuming them. However, Radha blames herself and drinks the kheer, awakening Mahadev from his deep sleep."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-370",
+    "title": "Suvarna Suprabhatha",
+    "subTitle": "A religious scholar sheds light on the spiritual significance of temples and shares insights on how various rituals play an important role in Hinduism."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-370",
+    "title": "Suvarna Sankalp",
+    "subTitle": "An astrologer presents the day's horoscope and provides insights into how to live a healthy life and grow close to God through devotion."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128040000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 09:30:00 IST",
+    "channel": "jio-370",
+    "title": "Aase",
+    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
+  },
+  {
+    "startRaw": "20251128040000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:30:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-370",
+    "title": "Snehada Kadalalli",
+    "subTitle": "Shivaraj's life takes an unexpected turn when he becomes the guardian of his estranged stepsisters. Despite facing challenges and reluctance, he continues to forge a path towards reconciliation."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128053000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-370",
+    "title": "Nee Iralu Jotheyalli",
+    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128060000",
+    "start": "2025-11-28 11:00:00 IST",
+    "stop": "2025-11-28 11:30:00 IST",
+    "channel": "jio-370",
+    "title": "Vasudeva Kutumba",
+    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
+  },
+  {
+    "startRaw": "20251128060000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-370",
+    "title": "Sharade",
+    "subTitle": "Sharade goes with her daughter to live with her husband but learns that he is with another woman. When her husband abandons her, she decides to stay in the city and raise her child."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-370",
+    "title": "Bombat Bhojana",
+    "subTitle": "The host takes the viewers to different areas and restaurants in India to share the experience of trying a variety of dishes prepared by local chefs."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-370",
+    "title": "Preethigagi",
+    "subTitle": "Chandrakala, a beautiful young woman, is betrayed by her NRI husband, leaving her distraught. However, things become complicated when even her family rejects her, forcing her to build her life alone."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-370",
+    "title": "Anupamaa",
+    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128090000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-370",
+    "title": "Anupamaa",
+    "subTitle": "Anupamaa, who parts with her ambitions and goals in a bid to raise her family, feels dejected when she fails to get any credit for her sacrifices and trials. She then decides to live on her own terms."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-370",
+    "title": "Drushti",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-370",
+    "title": "Drushti",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-370",
+    "title": "Ondu Mayeya Sutta",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128110000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 16:30:00 IST",
+    "channel": "jio-370",
+    "title": "Ondu Mayeya Sutta",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251128110000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:30:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-370",
+    "title": "Suvarna Gruha Manthri",
+    "subTitle": "The host engages with families who compete against each other in a variety of entertaining games and thereby win exciting gift hampers."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-370",
+    "title": "Gauri Shankara",
+    "subTitle": "Shankara meets Gowri, a principled young woman, and falls deeply in love with her. As their relationship blossoms, their love is tested by trials and tribulations."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-370",
+    "title": "Sharade",
+    "subTitle": "Sharade goes with her daughter to live with her husband but learns that he is with another woman. When her husband abandons her, she decides to stay in the city and raise her child."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-370",
+    "title": "Nee Iralu Jotheyalli",
+    "subTitle": "The machinations of fate bring the unlikely pair Rachana and Krishna together. Meanwhile, their bond tries to survive Urmila's wrath."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-370",
+    "title": "Aase",
+    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-370",
+    "title": "Vasudeva Kutumba",
+    "subTitle": "The familiar routines of Swati and her family crumble when her father passes away. Amid financial issues, betrayal and hurdles of responsibility, Swati must rebuild the family."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-370",
+    "title": "Udho Udho Shri Renuka Yellamma",
+    "subTitle": "Renuka, the daughter of a royal family, and Yellamma, the daughter of a village family, are both reincarnations of Goddess Parvati, determined to protect the world from evil."
+  },
+  {
+    "startRaw": "20251128160000",
+    "stopRaw": "20251128163000",
+    "start": "2025-11-28 21:30:00 IST",
+    "stop": "2025-11-28 22:00:00 IST",
+    "channel": "jio-370",
+    "title": "Sree Devi Mahatme",
+    "subTitle": "Parvathi Devi, the nurturer of all existence, fights the dark forces in an eternal battle of good versus evil."
+  },
+  {
+    "startRaw": "20251128163000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 22:00:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-370",
+    "title": "Snehada Kadalalli",
+    "subTitle": "Shivaraj's life takes an unexpected turn when he becomes the guardian of his estranged stepsisters. Despite facing challenges and reluctance, he continues to forge a path towards reconciliation."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128173000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:00:00 IST",
+    "channel": "jio-370",
+    "title": "Aase",
+    "subTitle": "The lives of two ordinary people, Surya and Meena, collide. While the former is aimless with no hope in life, the latter smiles through adversities and makes sacrifices for her family's happiness."
+  },
+  {
+    "startRaw": "20251128173000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 23:00:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-370",
+    "title": "Ninna Jothe Nanna Kathe",
+    "subTitle": "After Bhoomi and Ajith tie the knot out of convenience, they strive to build a bond and draw strength from each other in tough situations."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-370",
     "title": "Gauri Shankara",
     "subTitle": "Shankara meets Gowri, a principled young woman, and falls deeply in love with her. As their relationship blossoms, their love is tested by trials and tribulations."

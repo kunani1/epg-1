@@ -1,95 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124193000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 01:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
-  },
-  {
-    "startRaw": "20251124193000",
-    "stopRaw": "20251124213000",
-    "start": "2025-11-25 01:00:00 IST",
-    "stop": "2025-11-25 03:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Baaghi - Ek Yodha",
-    "subTitle": "A soldier falls in love with a woman and decides to make her his life partner. However, his family is against his wishes and abandons him."
-  },
-  {
-    "startRaw": "20251124213000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Avtari Maiya",
-    "subTitle": "A religious leader provides a detailed discourse on various teachings to devotees and encourages them to lead a faithful life."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Mai Ke Pachra",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Chauki Humache Aava",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Badki Bhabhi",
-    "subTitle": "Bringing the best in cinema."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Bairi Bahuriya",
-    "subTitle": "A woman marries into a family who welcomes and treats her like their own daughter. However, things take a turn after an unfortunate accident takes place."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125123100",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 18:01:00 IST",
-    "channel": "jio-3384",
-    "title": "Akshara",
-    "subTitle": "A girl from a poor family joins a reputed college but falls into the trap of the college chairman and is sent to jail."
-  },
-  {
-    "startRaw": "20251125123100",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 18:01:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-3384",
-    "title": "Aashik Aawara",
-    "subTitle": "A desperate man, who works as an autorickshaw driver, goes on a quest to find his girlfriend and family in a big city despite facing many struggles."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-3384",
-    "title": "Laagi Nahin Chhute Ram",
-    "subTitle": "An educated man falls in love with a simple woman from a village. However, they face a lot of difficulties in their relationship."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125193000",
     "start": "2025-11-26 00:00:00 IST",
@@ -203,16 +113,25 @@
     "start": "2025-11-27 03:00:00 IST",
     "stop": "2025-11-27 06:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Avtari Maiya",
+    "subTitle": "A religious leader provides a detailed discourse on various teachings to devotees and encourages them to lead a faithful life."
   },
   {
     "startRaw": "20251127003000",
-    "stopRaw": "20251127033000",
+    "stopRaw": "20251127023000",
     "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Mai Ke Pachra",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
     "stop": "2025-11-27 09:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
+    "title": "Chauki Humache Aava",
     "subTitle": "Bringing the best in television."
   },
   {
@@ -221,8 +140,8 @@
     "start": "2025-11-27 09:00:00 IST",
     "stop": "2025-11-27 12:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Main Hoon Hero No 1",
+    "subTitle": "A young man attempts to fight against a fraudster, who tries to cheat him, while trying to maintain his married life, which is being disturbed by his crude mother-in-law."
   },
   {
     "startRaw": "20251127063000",
@@ -230,8 +149,8 @@
     "start": "2025-11-27 12:00:00 IST",
     "stop": "2025-11-27 15:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Mehandi Laga Ke Rakhna",
+    "subTitle": "Bringing the best in cinema."
   },
   {
     "startRaw": "20251127093000",
@@ -239,8 +158,8 @@
     "start": "2025-11-27 15:00:00 IST",
     "stop": "2025-11-27 18:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Raja Babu",
+    "subTitle": "After initial rejection, Raja wins Madhu's heart, but their love story is disrupted when his father arranges a different marriage for him, creating tension."
   },
   {
     "startRaw": "20251127123000",
@@ -248,14 +167,95 @@
     "start": "2025-11-27 18:00:00 IST",
     "stop": "2025-11-27 21:00:00 IST",
     "channel": "jio-3384",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Sajan Chale Sasural 2",
+    "subTitle": "Rani discovers Saajan's singing talent and helps him rise to fame, sparking a romance. However, tensions rise when Saajan expects Rani to sacrifice her dreams for their relationship."
   },
   {
     "startRaw": "20251127153000",
     "stopRaw": "20251127182959",
     "start": "2025-11-27 21:00:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3384",
+    "title": "Hathkadi",
+    "subTitle": "Two righteous brothers, Vijay and Shakti Singh, set out to bring hardened criminal Balwant Singh to justice and reduce the crime rate in the city."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127193000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 01:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Teleshopping",
+    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251127193000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 01:00:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Love Vivah.Com",
+    "subTitle": "An introverted medical student decides to elope with his girlfriend after her wealthy family disapproves of their relationship."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-3384",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-3384",
     "title": "Movie",
     "subTitle": "Bringing the best in television."

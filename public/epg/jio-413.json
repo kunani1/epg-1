@@ -1,113 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124205800",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 02:28:00 IST",
-    "channel": "jio-413",
-    "title": "Roshagadu",
-    "subTitle": "Murugavel, a police officer, learns that his younger brother is a petty criminal working for a local gangster. When he tries to bring about a positive change in him, the brother tries to kill him."
-  },
-  {
-    "startRaw": "20251124205800",
-    "stopRaw": "20251124231000",
-    "start": "2025-11-25 02:28:00 IST",
-    "stop": "2025-11-25 04:40:00 IST",
-    "channel": "jio-413",
-    "title": "Baladoor",
-    "subTitle": "Chanti, a young man, is raised by his uncle Rama Krishna and loves him dearly. However, when his uncle's nefarious enemy threatens his life, Chanti decides to put an end to his tyranny."
-  },
-  {
-    "startRaw": "20251124231000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 04:40:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-413",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125010000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 06:30:00 IST",
-    "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
-  },
-  {
-    "startRaw": "20251125010000",
-    "stopRaw": "20251125011200",
-    "start": "2025-11-25 06:30:00 IST",
-    "stop": "2025-11-25 06:42:00 IST",
-    "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
-  },
-  {
-    "startRaw": "20251125011200",
-    "stopRaw": "20251125012800",
-    "start": "2025-11-25 06:42:00 IST",
-    "stop": "2025-11-25 06:58:00 IST",
-    "channel": "jio-413",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
-  },
-  {
-    "startRaw": "20251125012800",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 06:58:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-413",
-    "title": "Garjana",
-    "subTitle": "A serial killer tries to murder a rich woman living in the woods. However, his plans are thwarted when a hunt is launched to catch a man-eating tiger."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-413",
-    "title": "Bhale Dongalu",
-    "subTitle": "Ramu and Jyothi run away from their homes to chase their own dreams. However, the realities of the world hit them and they venture on a path of crime under the aliases Romeo and Juliet."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-413",
-    "title": "Pilla Zamindar",
-    "subTitle": "Praveen, the spoilt grandson of a landlord, sets out to complete his education in order to inherit his grandfather's wealth. In the process, he learns some valuable lessons about life."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-413",
-    "title": "Chinababu",
-    "subTitle": "Bringing the best in cinema."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-413",
-    "title": "Chirutha",
-    "subTitle": "As a child, Charan witnesses his father's murder and vows to avenge his death. Later, he goes to Bangkok with the intention of finding his father's killer while working at a tourist agency."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-413",
-    "title": "Brothers",
-    "subTitle": "A pair of conjoined twins, opposite in personality, strive to overcome challenges and confront a Russian spy who plans to destroy their father's business."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125204800",
     "start": "2025-11-26 00:00:00 IST",
@@ -280,17 +172,26 @@
   },
   {
     "startRaw": "20251127010000",
-    "stopRaw": "20251127013000",
+    "stopRaw": "20251127011800",
     "start": "2025-11-27 06:30:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 06:48:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
   },
   {
-    "startRaw": "20251127013000",
+    "startRaw": "20251127011800",
+    "stopRaw": "20251127012900",
+    "start": "2025-11-27 06:48:00 IST",
+    "stop": "2025-11-27 06:59:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251127012900",
     "stopRaw": "20251127033000",
-    "start": "2025-11-27 07:00:00 IST",
+    "start": "2025-11-27 06:59:00 IST",
     "stop": "2025-11-27 09:00:00 IST",
     "channel": "jio-413",
     "title": "Brother of Bommali",
@@ -316,17 +217,17 @@
   },
   {
     "startRaw": "20251127093000",
-    "stopRaw": "20251127123000",
+    "stopRaw": "20251127123100",
     "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:01:00 IST",
     "channel": "jio-413",
     "title": "Bhageeratha",
     "subTitle": "Bullabbai, the president of an island village, wishes to construct a bridge between his village and the mainland. Having waited 20 years for it, he sends his son, Chandu, to investigate the delay."
   },
   {
-    "startRaw": "20251127123000",
+    "startRaw": "20251127123100",
     "stopRaw": "20251127153000",
-    "start": "2025-11-27 18:00:00 IST",
+    "start": "2025-11-27 18:01:00 IST",
     "stop": "2025-11-27 21:00:00 IST",
     "channel": "jio-413",
     "title": "Naa Peru Surya Na Illu India",
@@ -340,5 +241,95 @@
     "channel": "jio-413",
     "title": "Sardar",
     "subTitle": "Son of a disgraced spy, Inspector Vijay Prakash must race against the clock to stop a mysterious water company from producing and spreading toxic water across the nation."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-413",
+    "title": "Unnadi Okate Zindagi",
+    "subTitle": "The dynamics of Abhi and Vasu's friendship change when a girl, Mahalakshmi, comes into their lives and the two of them fall in love with her."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-413",
+    "title": "Bhageeratha",
+    "subTitle": "Bullabbai, the president of an island village, wishes to construct a bridge between his village and the mainland. Having waited 20 years for it, he sends his son, Chandu, to investigate the delay."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128010000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 06:30:00 IST",
+    "channel": "jio-413",
+    "title": "Just Chill",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251128010000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:30:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-413",
+    "title": "Just Chill",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-413",
+    "title": "Geethanjali",
+    "subTitle": "Prakash, who is diagnosed with terminal cancer, and Geethanjali, who is also a patient, fall in love with each other. However, when she learns about his illness, she decides to move out of his life."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-413",
+    "title": "Balupu",
+    "subTitle": "Ravi, a collection agent for a bank, learns from his friend about a man and a woman who cheat gullible people. He resolves to teach the couple a lesson when his friend is cheated by them."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-413",
+    "title": "The Road",
+    "subTitle": "A big road project throws the lives of Meera, a news writer, and Maya, a teacher, into chaos, changing everything they know."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-413",
+    "title": "Agent Bhairava",
+    "subTitle": "Upon falling in love in Chennai, an agent goes against all odds to help his lover seek revenge against the criminals who murdered her friend."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-413",
+    "title": "Game Changer",
+    "subTitle": "In the midst of a power struggle for the chief minister's post, an upstanding IPS officer enters the fray of politics to fight against its corrupt system."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-413",
+    "title": "Naa Peru Shiva",
+    "subTitle": "A light-hearted young man leads a very contented life. However, when his father witnesses a brutal crime, his son's life changes radically."
   }
 ]

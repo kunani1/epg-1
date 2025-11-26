@@ -1,266 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124193000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 01:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Comedy Show",
-    "subTitle": "A comedian entertains the audience with his hilarious stories based on real-life experiences and his uproarious anecdotes."
-  },
-  {
-    "startRaw": "20251124193000",
-    "stopRaw": "20251124203000",
-    "start": "2025-11-25 01:00:00 IST",
-    "stop": "2025-11-25 02:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Talk Healthy",
-    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
-  },
-  {
-    "startRaw": "20251124203000",
-    "stopRaw": "20251124210000",
-    "start": "2025-11-25 02:00:00 IST",
-    "stop": "2025-11-25 02:30:00 IST",
-    "channel": "jio-3110",
-    "title": "Advertisement",
-    "subTitle": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home."
-  },
-  {
-    "startRaw": "20251124210000",
-    "stopRaw": "20251124213000",
-    "start": "2025-11-25 02:30:00 IST",
-    "stop": "2025-11-25 03:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Desh Ki Baat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251124213000",
-    "stopRaw": "20251124223000",
-    "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 04:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Anasulajhe Rahasy",
-    "subTitle": "The host provides a comprehensive and detailed insight into mysterious incidents from across the world, attempting to answer unsolved puzzles."
-  },
-  {
-    "startRaw": "20251124223000",
-    "stopRaw": "20251124233000",
-    "start": "2025-11-25 04:00:00 IST",
-    "stop": "2025-11-25 05:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Advertisement",
-    "subTitle": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home."
-  },
-  {
-    "startRaw": "20251124233000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 05:00:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Sant Bani",
-    "subTitle": "The host emphasises the imaginative and artistic creations of various prominent Indian poets and saints, highlighting their essence."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Talk Healthy",
-    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Yoga",
-    "subTitle": "The host gives a guided demonstration of various yoga asanas and breathing exercises and provides tips for meditation for a healthy life."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125030000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 08:30:00 IST",
-    "channel": "jio-3110",
-    "title": "Good Morning Namaste India",
-    "subTitle": "The host collates and presents some of the most important news updates, developments and current affairs from across the nation and the world."
-  },
-  {
-    "startRaw": "20251125030000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 08:30:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Newsfast",
-    "subTitle": "The host provides the latest information, advancements, and developments regarding significant political, economic and social issues."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-3110",
-    "title": "History Of India",
-    "subTitle": "The host provides a detailed insight into some of the most landmark events and significant milestones in the history of India."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125053000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 11:00:00 IST",
-    "channel": "jio-3110",
-    "title": "News From Your City",
-    "subTitle": "The host provides an in-depth look at some of the latest news, current affairs and recent developments of local and community interest."
-  },
-  {
-    "startRaw": "20251125053000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Subah Sawere",
-    "subTitle": "The host collates and presents some of the most important news updates, developments and current affairs from across the nation and the world."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Talk Healthy",
-    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125080000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 13:30:00 IST",
-    "channel": "jio-3110",
-    "title": "PKG",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125080000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:30:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Apna U.P",
-    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-3110",
-    "title": "PKG",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Satik Khabar",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Bollywood",
-    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the Hindi film industry."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Badi Khabar",
-    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-3110",
-    "title": "The Voice Singing",
-    "subTitle": "Talented singers showcase their vocal prowess and musical brilliance to enchant the audience with their melodious performances."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Superfast News",
-    "subTitle": "The host presents the latest updates on the social, political and economic issues and provides information on current events."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Bulletin",
-    "subTitle": "The host presents latest news highlights and updates from India and around the world in the political, economic and social sectors."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Baat Mein Dum",
-    "subTitle": "The host provides an in-depth insight into some of the latest news, major headlines and key developments of local and national interest."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125163000",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 22:00:00 IST",
-    "channel": "jio-3110",
-    "title": "Big News Of The Day",
-    "subTitle": "The host presents the latest information and developments on various national and international issues and provides an update on current events."
-  },
-  {
-    "startRaw": "20251125163000",
-    "stopRaw": "20251125173000",
-    "start": "2025-11-25 22:00:00 IST",
-    "stop": "2025-11-25 23:00:00 IST",
-    "channel": "jio-3110",
-    "title": "The Voice Singing",
-    "subTitle": "Talented singers showcase their vocal prowess and musical brilliance to enchant the audience with their melodious performances."
-  },
-  {
-    "startRaw": "20251125173000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 23:00:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-3110",
-    "title": "Superfast News",
-    "subTitle": "The host presents the latest updates on the social, political and economic issues and provides information on current events."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-3110",
-    "title": "Sbnews All Promo",
-    "subTitle": "A curated collection of various captivating promotions and enticing excerpts from an array of diverse programmes and shows."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125193000",
     "start": "2025-11-26 00:00:00 IST",
@@ -778,6 +517,267 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3110",
+    "title": "Sbnews All Promo",
+    "subTitle": "A curated collection of various captivating promotions and enticing excerpts from an array of diverse programmes and shows."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127193000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 01:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Comedy Show",
+    "subTitle": "A comedian entertains the audience with his hilarious stories based on real-life experiences and his uproarious anecdotes."
+  },
+  {
+    "startRaw": "20251127193000",
+    "stopRaw": "20251127203000",
+    "start": "2025-11-28 01:00:00 IST",
+    "stop": "2025-11-28 02:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Talk Healthy",
+    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
+  },
+  {
+    "startRaw": "20251127203000",
+    "stopRaw": "20251127210000",
+    "start": "2025-11-28 02:00:00 IST",
+    "stop": "2025-11-28 02:30:00 IST",
+    "channel": "jio-3110",
+    "title": "Advertisement",
+    "subTitle": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251127210000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Desh Ki Baat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251127223000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 04:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Anasulajhe Rahasy",
+    "subTitle": "The host provides a comprehensive and detailed insight into mysterious incidents from across the world, attempting to answer unsolved puzzles."
+  },
+  {
+    "startRaw": "20251127223000",
+    "stopRaw": "20251127233000",
+    "start": "2025-11-28 04:00:00 IST",
+    "stop": "2025-11-28 05:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Advertisement",
+    "subTitle": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251127233000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Sant Bani",
+    "subTitle": "The host emphasises the imaginative and artistic creations of various prominent Indian poets and saints, highlighting their essence."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Talk Healthy",
+    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Yoga",
+    "subTitle": "The host gives a guided demonstration of various yoga asanas and breathing exercises and provides tips for meditation for a healthy life."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128030000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-3110",
+    "title": "Good Morning Namaste India",
+    "subTitle": "The host collates and presents some of the most important news updates, developments and current affairs from across the nation and the world."
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Newsfast",
+    "subTitle": "The host provides the latest information, advancements, and developments regarding significant political, economic and social issues."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-3110",
+    "title": "History Of India",
+    "subTitle": "The host provides a detailed insight into some of the most landmark events and significant milestones in the history of India."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128053000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-3110",
+    "title": "News From Your City",
+    "subTitle": "The host provides an in-depth look at some of the latest news, current affairs and recent developments of local and community interest."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:00:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Subah Sawere",
+    "subTitle": "The host collates and presents some of the most important news updates, developments and current affairs from across the nation and the world."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Talk Healthy",
+    "subTitle": "The host interacts with experts and discusses various health-related issues and offers tips on how to maintain overall well-being and a balanced life."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-3110",
+    "title": "PKG",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Apna U.P",
+    "subTitle": "The host presents the latest updates, developments and current events on several key issues across various frameworks in the state of Uttar Pradesh."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-3110",
+    "title": "PKG",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Satik Khabar",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Bollywood",
+    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the Hindi film industry."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Badi Khabar",
+    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-3110",
+    "title": "The Voice Singing",
+    "subTitle": "Talented singers showcase their vocal prowess and musical brilliance to enchant the audience with their melodious performances."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Superfast News",
+    "subTitle": "The host presents the latest updates on the social, political and economic issues and provides information on current events."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Bulletin",
+    "subTitle": "The host presents latest news highlights and updates from India and around the world in the political, economic and social sectors."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Baat Mein Dum",
+    "subTitle": "The host provides an in-depth insight into some of the latest news, major headlines and key developments of local and national interest."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128163000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 22:00:00 IST",
+    "channel": "jio-3110",
+    "title": "Big News Of The Day",
+    "subTitle": "The host presents the latest information and developments on various national and international issues and provides an update on current events."
+  },
+  {
+    "startRaw": "20251128163000",
+    "stopRaw": "20251128173000",
+    "start": "2025-11-28 22:00:00 IST",
+    "stop": "2025-11-28 23:00:00 IST",
+    "channel": "jio-3110",
+    "title": "The Voice Singing",
+    "subTitle": "Talented singers showcase their vocal prowess and musical brilliance to enchant the audience with their melodious performances."
+  },
+  {
+    "startRaw": "20251128173000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 23:00:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-3110",
+    "title": "Superfast News",
+    "subTitle": "The host presents the latest updates on the social, political and economic issues and provides information on current events."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-3110",
     "title": "Sbnews All Promo",
     "subTitle": "A curated collection of various captivating promotions and enticing excerpts from an array of diverse programmes and shows."

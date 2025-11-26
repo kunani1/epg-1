@@ -1,239 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Exchange",
-    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124200000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:30:00 IST",
-    "channel": "jio-143",
-    "title": "Power Lunch",
-    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
-  },
-  {
-    "startRaw": "20251124200000",
-    "stopRaw": "20251124210000",
-    "start": "2025-11-25 01:30:00 IST",
-    "stop": "2025-11-25 02:30:00 IST",
-    "channel": "jio-143",
-    "title": "Closing Bell",
-    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
-  },
-  {
-    "startRaw": "20251124210000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 02:30:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-143",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251124230000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 04:30:00 IST",
-    "channel": "jio-143",
-    "title": "Fast Money",
-    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development."
-  },
-  {
-    "startRaw": "20251124230000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 04:30:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Asia",
-    "subTitle": "The hosts cover the pre-game and opening of Asia's business trading day, the top stories from the stock market and the views of various experts."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-143",
-    "title": "Global Lens",
-    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Morning Call",
-    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Open Exchange",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125050000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 10:30:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Corporate Radar",
-    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market."
-  },
-  {
-    "startRaw": "20251125050000",
-    "stopRaw": "20251125060000",
-    "start": "2025-11-25 10:30:00 IST",
-    "stop": "2025-11-25 11:30:00 IST",
-    "channel": "jio-143",
-    "title": "U.S. Markets Edition",
-    "subTitle": "The host delivers the latest news updates and key developments concerning global market data, stock markets and the world economy."
-  },
-  {
-    "startRaw": "20251125060000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:30:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125070000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 12:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Global Reset",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125070000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:30:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125080000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 13:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Big C (India)",
-    "subTitle": "The host talks about currencies, commodities and crypto, exploring finance's dynamic world, market trends and digital assets in today's global economy."
-  },
-  {
-    "startRaw": "20251125080000",
-    "stopRaw": "20251125090000",
-    "start": "2025-11-25 13:30:00 IST",
-    "stop": "2025-11-25 14:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251125090000",
-    "stopRaw": "20251125100000",
-    "start": "2025-11-25 14:30:00 IST",
-    "stop": "2025-11-25 15:30:00 IST",
-    "channel": "jio-143",
-    "title": "NSE Closing Bell",
-    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
-  },
-  {
-    "startRaw": "20251125100000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:30:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-143",
-    "title": "Markets Forward",
-    "subTitle": "Experts analyse and discuss forward markets, the over-the-counter financial markets that are essential for contracts for future delivery."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125110000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 16:30:00 IST",
-    "channel": "jio-143",
-    "title": "Worldwide Exchange",
-    "subTitle": "The hosts discuss and analyse economic trends around the world and interview important political and economic personalities."
-  },
-  {
-    "startRaw": "20251125110000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 16:30:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-143",
-    "title": "US Squawk Box",
-    "subTitle": "Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk on the Street",
-    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-143",
-    "title": "Global Lens",
-    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125160000",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 21:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk on the Street",
-    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
-  },
-  {
-    "startRaw": "20251125160000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 21:30:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-143",
-    "title": "Money Movers",
-    "subTitle": "A comprehensive and detailed coverage of the latest stock market developments, with insights into the latest business news."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-143",
-    "title": "Half Time Report",
-    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-143",
-    "title": "The Exchange",
-    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -697,6 +463,240 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-143",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127200000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:30:00 IST",
+    "channel": "jio-143",
+    "title": "Power Lunch",
+    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
+  },
+  {
+    "startRaw": "20251127200000",
+    "stopRaw": "20251127210000",
+    "start": "2025-11-28 01:30:00 IST",
+    "stop": "2025-11-28 02:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
+  },
+  {
+    "startRaw": "20251127210000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251127230000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 04:30:00 IST",
+    "channel": "jio-143",
+    "title": "Fast Money",
+    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development."
+  },
+  {
+    "startRaw": "20251127230000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 04:30:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Asia",
+    "subTitle": "The hosts cover the pre-game and opening of Asia's business trading day, the top stories from the stock market and the views of various experts."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-143",
+    "title": "Global Lens",
+    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Morning Call",
+    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Open Exchange",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Corporate Radar",
+    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128060000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:30:00 IST",
+    "channel": "jio-143",
+    "title": "U.S. Markets Edition",
+    "subTitle": "The host delivers the latest news updates and key developments concerning global market data, stock markets and the world economy."
+  },
+  {
+    "startRaw": "20251128060000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128070000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 12:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Global Reset",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128070000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Big C (India)",
+    "subTitle": "The host talks about currencies, commodities and crypto, exploring finance's dynamic world, market trends and digital assets in today's global economy."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128090000",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-143",
+    "title": "NSE Closing Bell",
+    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-143",
+    "title": "Markets Forward",
+    "subTitle": "Experts analyse and discuss forward markets, the over-the-counter financial markets that are essential for contracts for future delivery."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128110000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 16:30:00 IST",
+    "channel": "jio-143",
+    "title": "Worldwide Exchange",
+    "subTitle": "The hosts discuss and analyse economic trends around the world and interview important political and economic personalities."
+  },
+  {
+    "startRaw": "20251128110000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 16:30:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-143",
+    "title": "US Squawk Box",
+    "subTitle": "Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk on the Street",
+    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-143",
+    "title": "Global Lens",
+    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk on the Street",
+    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
+  },
+  {
+    "startRaw": "20251128160000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 21:30:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-143",
+    "title": "Money Movers",
+    "subTitle": "A comprehensive and detailed coverage of the latest stock market developments, with insights into the latest business news."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-143",
+    "title": "Half Time Report",
+    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-143",
     "title": "The Exchange",
     "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."

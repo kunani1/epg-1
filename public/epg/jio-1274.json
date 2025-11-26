@@ -1,230 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124193000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251124193000",
-    "stopRaw": "20251124230000",
-    "start": "2025-11-25 01:00:00 IST",
-    "stop": "2025-11-25 04:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251124230000",
-    "stopRaw": "20251124233000",
-    "start": "2025-11-25 04:30:00 IST",
-    "stop": "2025-11-25 05:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251124233000",
-    "stopRaw": "20251125000000",
-    "start": "2025-11-25 05:00:00 IST",
-    "stop": "2025-11-25 05:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sankeerthana",
-    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality."
-  },
-  {
-    "startRaw": "20251125000000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 05:30:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Komarakka Muchatlu",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125010000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 06:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sankeerthana",
-    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality."
-  },
-  {
-    "startRaw": "20251125010000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:30:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Guru Pravachanalu",
-    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sannidhanam",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Guru Pravachanalu",
-    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125030000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 08:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251125030000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 08:30:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125070000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 12:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Mahilalu Sarileru Meekavvaru",
-    "subTitle": "Female contestants participate in various exciting and fun-filled challenges to emerge victorious and win coveted prizes."
-  },
-  {
-    "startRaw": "20251125070000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:30:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125080000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 13:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Bhamane Satyabhamane",
-    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize."
-  },
-  {
-    "startRaw": "20251125080000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:30:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Bhamane Satyabhamane",
-    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125120000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 17:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125120000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:30:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Syeraa Sye",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Syeraa Sye",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Komarakka Muchatlu",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Super Machi",
-    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125153000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Super Machi",
-    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges."
-  },
-  {
-    "startRaw": "20251125153000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 21:00:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -661,6 +436,231 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 21:00:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127193000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251127193000",
+    "stopRaw": "20251127230000",
+    "start": "2025-11-28 01:00:00 IST",
+    "stop": "2025-11-28 04:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251127230000",
+    "stopRaw": "20251127233000",
+    "start": "2025-11-28 04:30:00 IST",
+    "stop": "2025-11-28 05:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251127233000",
+    "stopRaw": "20251128000000",
+    "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 05:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sankeerthana",
+    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality."
+  },
+  {
+    "startRaw": "20251128000000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:30:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Komarakka Muchatlu",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128010000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 06:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sankeerthana",
+    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality."
+  },
+  {
+    "startRaw": "20251128010000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:30:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Guru Pravachanalu",
+    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sannidhanam",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Guru Pravachanalu",
+    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128030000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128070000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 12:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Mahilalu Sarileru Meekavvaru",
+    "subTitle": "Female contestants participate in various exciting and fun-filled challenges to emerge victorious and win coveted prizes."
+  },
+  {
+    "startRaw": "20251128070000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Bhamane Satyabhamane",
+    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Bhamane Satyabhamane",
+    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128120000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 17:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128120000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:30:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Syeraa Sye",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Syeraa Sye",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Komarakka Muchatlu",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Super Machi",
+    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Super Machi",
+    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-1274",
     "title": "Movie",
     "subTitle": "Bringing the best in television."

@@ -1,194 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124203000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 02:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Akki Jaanbaaz",
-    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
-  },
-  {
-    "startRaw": "20251124203000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 02:00:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Ninja Hattori",
-    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251125000000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 05:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
-    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
-  },
-  {
-    "startRaw": "20251125000000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 05:30:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Akul Nakul",
-    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125040000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 09:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Krishna Balram",
-    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
-  },
-  {
-    "startRaw": "20251125040000",
-    "stopRaw": "20251125050000",
-    "start": "2025-11-25 09:30:00 IST",
-    "stop": "2025-11-25 10:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Mighty Raju",
-    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
-  },
-  {
-    "startRaw": "20251125050000",
-    "stopRaw": "20251125060000",
-    "start": "2025-11-25 10:30:00 IST",
-    "stop": "2025-11-25 11:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Roro Hero Ki Yaari",
-    "subTitle": "Roro, a troublesome 10-year-old child, finds himself in chaotic situations and his friend Hero, a ghost, tries to use his magic to help him."
-  },
-  {
-    "startRaw": "20251125060000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:30:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
-    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125073000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 13:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Akki Jaanbaaz",
-    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
-  },
-  {
-    "startRaw": "20251125073000",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:00:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Ninja Hattori",
-    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
-    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Akul Nakul",
-    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Krishna Balram",
-    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Mighty Raju",
-    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Akki Jaanbaaz Dhamakedaar",
-    "subTitle": "Akki is a nine-year-old boy blessed with extraordinary karate skills. While he tries to lead a normal life, he ensures the optimum usage of his power for good deeds."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-3385",
-    "title": "Akki Jaanbaaz",
-    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Ninja Hattori",
-    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125160000",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
-    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
-  },
-  {
-    "startRaw": "20251125160000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 21:30:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Akul Nakul",
-    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125180000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:30:00 IST",
-    "channel": "jio-3385",
-    "title": "Krishna Balram",
-    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
-  },
-  {
-    "startRaw": "20251125180000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:30:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-3385",
-    "title": "Mighty Raju",
-    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125203000",
     "start": "2025-11-26 00:00:00 IST",
@@ -553,6 +364,186 @@
     "stopRaw": "20251127182959",
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3385",
+    "title": "Mighty Raju",
+    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127203000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 02:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Akki Jaanbaaz",
+    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
+  },
+  {
+    "startRaw": "20251127203000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 02:00:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Ninja Hattori",
+    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251128000000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 05:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
+    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
+  },
+  {
+    "startRaw": "20251128000000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 05:30:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Akul Nakul",
+    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128040000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 09:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Krishna Balram",
+    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
+  },
+  {
+    "startRaw": "20251128040000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 09:30:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Mighty Raju",
+    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Mighty Raju and The Magnetors",
+    "subTitle": "When a human joins forces with an extremely dangerous alien species in an evil plot to steal Earth's energy and wreak havoc, Mighty Raju sets out on an epic quest to stop them."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Akki Jaanbaaz",
+    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Ninja Hattori",
+    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
+    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Akul Nakul",
+    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Krishna Balram",
+    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Mighty Raju",
+    "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Luv Kushh And The Ghost Army",
+    "subTitle": "Twin brothers Luv and Kushh protect a baby named Narad from an army of ghosts who plan to kidnap him in order to become human again."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-3385",
+    "title": "Akki Jaanbaaz",
+    "subTitle": "Akki, a young boy, juggles his life as a student and a superhero. He embarks on various adventures and helps those around him."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Ninja Hattori",
+    "subTitle": "A little ninja, Hattori Kanzo, befriends a lazy 10-year-old boy named Kenichi Mitsuba. Hattori helps Kenichi with his problems while watching over him."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Roro aur Hero, Bhoot Mast, Zabardast!",
+    "subTitle": "Roro, a ten year old boy gets into problematic situations in his life and is rescued by his ghost friend Hero who uses his powers to help him but makes the situation more chaotic."
+  },
+  {
+    "startRaw": "20251128160000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 21:30:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Akul Nakul",
+    "subTitle": "Akul and Nakul are two good 'Asura' children who descend to planet Earth in order to change human beings' perspective on 'Asuras'."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-3385",
+    "title": "Krishna Balram",
+    "subTitle": "Krishna and his older brother Balram share a playful and loving sibling bond. Together they embark on thrilling adventures and daring escapades with Radha."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-3385",
     "title": "Mighty Raju",
     "subTitle": "A four-year-old Raju, who received superpowers due to a scientific blunder, decides to use them for the good of humanity."

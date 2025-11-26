@@ -1,401 +1,5 @@
 [
   {
-    "startRaw": "20251124183000",
-    "stopRaw": "20251124190000",
-    "start": "2025-11-25 00:00:00 IST",
-    "stop": "2025-11-25 00:30:00 IST",
-    "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
-  },
-  {
-    "startRaw": "20251124190000",
-    "stopRaw": "20251124193000",
-    "start": "2025-11-25 00:30:00 IST",
-    "stop": "2025-11-25 01:00:00 IST",
-    "channel": "jio-520",
-    "title": "History Behind The Headlines",
-    "subTitle": "The host takes viewers on a journey through time, revealing the lesser-known causes and consequences of major historical turning points."
-  },
-  {
-    "startRaw": "20251124193000",
-    "stopRaw": "20251124200000",
-    "start": "2025-11-25 01:00:00 IST",
-    "stop": "2025-11-25 01:30:00 IST",
-    "channel": "jio-520",
-    "title": "Hum Bharat Ke Log",
-    "subTitle": "The host explores and narrates the story of the formation of the Constitution of India, and the legendary people behind it who made it possible."
-  },
-  {
-    "startRaw": "20251124200000",
-    "stopRaw": "20251124203000",
-    "start": "2025-11-25 01:30:00 IST",
-    "stop": "2025-11-25 02:00:00 IST",
-    "channel": "jio-520",
-    "title": "Question Hour Plus",
-    "subTitle": "Esteemed members of the Parliament of India present questions to seek insights on various matters impacting the people of the nation."
-  },
-  {
-    "startRaw": "20251124203000",
-    "stopRaw": "20251124210000",
-    "start": "2025-11-25 02:00:00 IST",
-    "stop": "2025-11-25 02:30:00 IST",
-    "channel": "jio-520",
-    "title": "Insight",
-    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
-  },
-  {
-    "startRaw": "20251124210000",
-    "stopRaw": "20251124213000",
-    "start": "2025-11-25 02:30:00 IST",
-    "stop": "2025-11-25 03:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
-  },
-  {
-    "startRaw": "20251124213000",
-    "stopRaw": "20251124220000",
-    "start": "2025-11-25 03:00:00 IST",
-    "stop": "2025-11-25 03:30:00 IST",
-    "channel": "jio-520",
-    "title": "Aayushmaan Bhav",
-    "subTitle": "The host engages with a panel of health experts, who share their insights on the causes of various ailments to raise awareness."
-  },
-  {
-    "startRaw": "20251124220000",
-    "stopRaw": "20251124223000",
-    "start": "2025-11-25 03:30:00 IST",
-    "stop": "2025-11-25 04:00:00 IST",
-    "channel": "jio-520",
-    "title": "Aawaz Desh Ki",
-    "subTitle": "The host interacts with various experts to discuss some of the most pressing issues of the country and converses with people to learn their opinions."
-  },
-  {
-    "startRaw": "20251124223000",
-    "stopRaw": "20251124230000",
-    "start": "2025-11-25 04:00:00 IST",
-    "stop": "2025-11-25 04:30:00 IST",
-    "channel": "jio-520",
-    "title": "Ulgulan Ki Pukaar",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251124230000",
-    "stopRaw": "20251124233000",
-    "start": "2025-11-25 04:30:00 IST",
-    "stop": "2025-11-25 05:00:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251124233000",
-    "stopRaw": "20251125000000",
-    "start": "2025-11-25 05:00:00 IST",
-    "stop": "2025-11-25 05:30:00 IST",
-    "channel": "jio-520",
-    "title": "Nature connection",
-    "subTitle": "The host interacts with various experts to discuss ecological issues, environmental concerns and campaigns, with a focus on raising awareness of nature conservation."
-  },
-  {
-    "startRaw": "20251125000000",
-    "stopRaw": "20251125003000",
-    "start": "2025-11-25 05:30:00 IST",
-    "stop": "2025-11-25 06:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sanskriti Yatra",
-    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage."
-  },
-  {
-    "startRaw": "20251125003000",
-    "stopRaw": "20251125010000",
-    "start": "2025-11-25 06:00:00 IST",
-    "stop": "2025-11-25 06:30:00 IST",
-    "channel": "jio-520",
-    "title": "Ekam Sat",
-    "subTitle": "Dr. Karan Singh explores religious unity, highlighting shared principles across faiths as pioneer of inter-religious dialogue."
-  },
-  {
-    "startRaw": "20251125010000",
-    "stopRaw": "20251125013000",
-    "start": "2025-11-25 06:30:00 IST",
-    "stop": "2025-11-25 07:00:00 IST",
-    "channel": "jio-520",
-    "title": "Kalpviraksh",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125013000",
-    "stopRaw": "20251125020000",
-    "start": "2025-11-25 07:00:00 IST",
-    "stop": "2025-11-25 07:30:00 IST",
-    "channel": "jio-520",
-    "title": "Yog Se Nirog",
-    "subTitle": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being."
-  },
-  {
-    "startRaw": "20251125020000",
-    "stopRaw": "20251125023000",
-    "start": "2025-11-25 07:30:00 IST",
-    "stop": "2025-11-25 08:00:00 IST",
-    "channel": "jio-520",
-    "title": "Abhivyakti",
-    "subTitle": "The host engages in a conversation with renowned personalities from the field of art, dance and music to learn about their life journey and achievements."
-  },
-  {
-    "startRaw": "20251125023000",
-    "stopRaw": "20251125030000",
-    "start": "2025-11-25 08:00:00 IST",
-    "stop": "2025-11-25 08:30:00 IST",
-    "channel": "jio-520",
-    "title": "Suprabhat",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125030000",
-    "stopRaw": "20251125033000",
-    "start": "2025-11-25 08:30:00 IST",
-    "stop": "2025-11-25 09:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125033000",
-    "stopRaw": "20251125040000",
-    "start": "2025-11-25 09:00:00 IST",
-    "stop": "2025-11-25 09:30:00 IST",
-    "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
-  },
-  {
-    "startRaw": "20251125040000",
-    "stopRaw": "20251125043000",
-    "start": "2025-11-25 09:30:00 IST",
-    "stop": "2025-11-25 10:00:00 IST",
-    "channel": "jio-520",
-    "title": "Mudda Aapka",
-    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it."
-  },
-  {
-    "startRaw": "20251125043000",
-    "stopRaw": "20251125053000",
-    "start": "2025-11-25 10:00:00 IST",
-    "stop": "2025-11-25 11:00:00 IST",
-    "channel": "jio-520",
-    "title": "Live",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125053000",
-    "stopRaw": "20251125063000",
-    "start": "2025-11-25 11:00:00 IST",
-    "stop": "2025-11-25 12:00:00 IST",
-    "channel": "jio-520",
-    "title": "Live",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125063000",
-    "stopRaw": "20251125070000",
-    "start": "2025-11-25 12:00:00 IST",
-    "stop": "2025-11-25 12:30:00 IST",
-    "channel": "jio-520",
-    "title": "Live",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125070000",
-    "stopRaw": "20251125074500",
-    "start": "2025-11-25 12:30:00 IST",
-    "stop": "2025-11-25 13:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251125074500",
-    "stopRaw": "20251125081500",
-    "start": "2025-11-25 13:15:00 IST",
-    "stop": "2025-11-25 13:45:00 IST",
-    "channel": "jio-520",
-    "title": "Insight",
-    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
-  },
-  {
-    "startRaw": "20251125081500",
-    "stopRaw": "20251125083000",
-    "start": "2025-11-25 13:45:00 IST",
-    "stop": "2025-11-25 14:00:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
-  },
-  {
-    "startRaw": "20251125083000",
-    "stopRaw": "20251125090000",
-    "start": "2025-11-25 14:00:00 IST",
-    "stop": "2025-11-25 14:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125090000",
-    "stopRaw": "20251125093000",
-    "start": "2025-11-25 14:30:00 IST",
-    "stop": "2025-11-25 15:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125093000",
-    "stopRaw": "20251125103000",
-    "start": "2025-11-25 15:00:00 IST",
-    "stop": "2025-11-25 16:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125103000",
-    "stopRaw": "20251125110000",
-    "start": "2025-11-25 16:00:00 IST",
-    "stop": "2025-11-25 16:30:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
-  },
-  {
-    "startRaw": "20251125110000",
-    "stopRaw": "20251125113000",
-    "start": "2025-11-25 16:30:00 IST",
-    "stop": "2025-11-25 17:00:00 IST",
-    "channel": "jio-520",
-    "title": "PM Live",
-    "subTitle": "The prime minister of India participates in a ceremony and delivers a speech to the audience, addressing various important topics, live."
-  },
-  {
-    "startRaw": "20251125113000",
-    "stopRaw": "20251125120000",
-    "start": "2025-11-25 17:00:00 IST",
-    "stop": "2025-11-25 17:30:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
-  },
-  {
-    "startRaw": "20251125120000",
-    "stopRaw": "20251125123000",
-    "start": "2025-11-25 17:30:00 IST",
-    "stop": "2025-11-25 18:00:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125123000",
-    "stopRaw": "20251125130000",
-    "start": "2025-11-25 18:00:00 IST",
-    "stop": "2025-11-25 18:30:00 IST",
-    "channel": "jio-520",
-    "title": "Aapka Kanoon",
-    "subTitle": "The host invites a panel of legal experts to discuss and analyse issues related to the rights of citizens and Indian justice system."
-  },
-  {
-    "startRaw": "20251125130000",
-    "stopRaw": "20251125133000",
-    "start": "2025-11-25 18:30:00 IST",
-    "stop": "2025-11-25 19:00:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
-  },
-  {
-    "startRaw": "20251125133000",
-    "stopRaw": "20251125140000",
-    "start": "2025-11-25 19:00:00 IST",
-    "stop": "2025-11-25 19:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sarokaar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125140000",
-    "stopRaw": "20251125143000",
-    "start": "2025-11-25 19:30:00 IST",
-    "stop": "2025-11-25 20:00:00 IST",
-    "channel": "jio-520",
-    "title": "Insight",
-    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
-  },
-  {
-    "startRaw": "20251125143000",
-    "stopRaw": "20251125150000",
-    "start": "2025-11-25 20:00:00 IST",
-    "stop": "2025-11-25 20:30:00 IST",
-    "channel": "jio-520",
-    "title": "Aaj Ki Khaber",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125150000",
-    "stopRaw": "20251125154500",
-    "start": "2025-11-25 20:30:00 IST",
-    "stop": "2025-11-25 21:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125154500",
-    "stopRaw": "20251125160000",
-    "start": "2025-11-25 21:15:00 IST",
-    "stop": "2025-11-25 21:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125160000",
-    "stopRaw": "20251125163000",
-    "start": "2025-11-25 21:30:00 IST",
-    "stop": "2025-11-25 22:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125163000",
-    "stopRaw": "20251125170000",
-    "start": "2025-11-25 22:00:00 IST",
-    "stop": "2025-11-25 22:30:00 IST",
-    "channel": "jio-520",
-    "title": "Khabron Ki ABC",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251125170000",
-    "stopRaw": "20251125173000",
-    "start": "2025-11-25 22:30:00 IST",
-    "stop": "2025-11-25 23:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
-    "startRaw": "20251125173000",
-    "stopRaw": "20251125182959",
-    "start": "2025-11-25 23:00:00 IST",
-    "stop": "2025-11-25 23:59:59 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
-  },
-  {
     "startRaw": "20251125183000",
     "stopRaw": "20251125190000",
     "start": "2025-11-26 00:00:00 IST",
@@ -820,21 +424,12 @@
   },
   {
     "startRaw": "20251126183000",
-    "stopRaw": "20251126184500",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:15:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
-  },
-  {
-    "startRaw": "20251126184500",
     "stopRaw": "20251126190000",
-    "start": "2025-11-27 00:15:00 IST",
+    "start": "2025-11-27 00:00:00 IST",
     "stop": "2025-11-27 00:30:00 IST",
     "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
   },
   {
     "startRaw": "20251126190000",
@@ -842,8 +437,8 @@
     "start": "2025-11-27 00:30:00 IST",
     "stop": "2025-11-27 01:00:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "History Behind The Headlines",
+    "subTitle": "The host takes viewers on a journey through time, revealing the lesser-known causes and consequences of major historical turning points."
   },
   {
     "startRaw": "20251126193000",
@@ -851,8 +446,8 @@
     "start": "2025-11-27 01:00:00 IST",
     "stop": "2025-11-27 01:30:00 IST",
     "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations."
+    "title": "Hum Bharat Ke Log",
+    "subTitle": "The host explores and narrates the story of the formation of the Constitution of India, and the legendary people behind it who made it possible."
   },
   {
     "startRaw": "20251126200000",
@@ -860,8 +455,8 @@
     "start": "2025-11-27 01:30:00 IST",
     "stop": "2025-11-27 02:00:00 IST",
     "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country."
+    "title": "Committee Report",
+    "subTitle": "The host sheds light on the various reports submitted by the committees in the Indian Parliament and discusses them with experts in detail."
   },
   {
     "startRaw": "20251126203000",
@@ -869,53 +464,44 @@
     "start": "2025-11-27 02:00:00 IST",
     "stop": "2025-11-27 02:30:00 IST",
     "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation."
+    "title": "Insight",
+    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
   },
   {
     "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
+    "stopRaw": "20251126211500",
     "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126214500",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251126214500",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:15:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126221500",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 03:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251126221500",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:45:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 02:45:00 IST",
     "channel": "jio-520",
     "title": "In Depth",
     "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+  },
+  {
+    "startRaw": "20251126211500",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:45:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-520",
+    "title": "Aaysuhmaan Bhav",
+    "subTitle": "The host engages in insightful conversations with various medical experts who explain the causes of several ailments and provide helpful suggestions to lead a healthy life."
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sarokaar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "startRaw": "20251126223000",
@@ -923,26 +509,17 @@
     "start": "2025-11-27 04:00:00 IST",
     "stop": "2025-11-27 04:30:00 IST",
     "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations."
+    "title": "Ulgulan Ki Pukaar",
+    "subTitle": ""
   },
   {
     "startRaw": "20251126230000",
-    "stopRaw": "20251126231500",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 04:45:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
-  },
-  {
-    "startRaw": "20251126231500",
     "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:45:00 IST",
+    "start": "2025-11-27 04:30:00 IST",
     "stop": "2025-11-27 05:00:00 IST",
     "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country."
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251126233000",
@@ -950,8 +527,8 @@
     "start": "2025-11-27 05:00:00 IST",
     "stop": "2025-11-27 05:30:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "Nature connection",
+    "subTitle": "The host interacts with various experts to discuss ecological issues, environmental concerns and campaigns, with a focus on raising awareness of nature conservation."
   },
   {
     "startRaw": "20251127000000",
@@ -959,8 +536,8 @@
     "start": "2025-11-27 05:30:00 IST",
     "stop": "2025-11-27 06:00:00 IST",
     "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
+    "title": "Sanskriti Yatra",
+    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage."
   },
   {
     "startRaw": "20251127003000",
@@ -968,8 +545,8 @@
     "start": "2025-11-27 06:00:00 IST",
     "stop": "2025-11-27 06:30:00 IST",
     "channel": "jio-520",
-    "title": "Ram Aarti",
-    "subTitle": "A compilation of melodious and devotional songs composed and sung in praise of Lord Rama, a revered Hindu deity, is played back-to-back."
+    "title": "Ekam Sat",
+    "subTitle": "Dr. Karan Singh explores religious unity, highlighting shared principles across faiths as pioneer of inter-religious dialogue."
   },
   {
     "startRaw": "20251127010000",
@@ -977,8 +554,8 @@
     "start": "2025-11-27 06:30:00 IST",
     "stop": "2025-11-27 07:00:00 IST",
     "channel": "jio-520",
-    "title": "Hello Zindagi",
-    "subTitle": "The host leads discussions with wellness experts, exploring Ayurveda, yoga, meditation and holistic health practices to help viewers achieve physical and mental well-being."
+    "title": "Kalpviraksh",
+    "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251127013000",
@@ -986,8 +563,8 @@
     "start": "2025-11-27 07:00:00 IST",
     "stop": "2025-11-27 07:30:00 IST",
     "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
+    "title": "Yog Se Nirog",
+    "subTitle": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being."
   },
   {
     "startRaw": "20251127020000",
@@ -995,8 +572,8 @@
     "start": "2025-11-27 07:30:00 IST",
     "stop": "2025-11-27 08:00:00 IST",
     "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
+    "title": "Abhivyakti",
+    "subTitle": "The host engages in a conversation with renowned personalities from the field of art, dance and music to learn about their life journey and achievements."
   },
   {
     "startRaw": "20251127023000",
@@ -1004,8 +581,8 @@
     "start": "2025-11-27 08:00:00 IST",
     "stop": "2025-11-27 08:30:00 IST",
     "channel": "jio-520",
-    "title": "Suprabhat Live",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues, live."
+    "title": "Suprabhat",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "startRaw": "20251127030000",
@@ -1013,8 +590,8 @@
     "start": "2025-11-27 08:30:00 IST",
     "stop": "2025-11-27 09:00:00 IST",
     "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys."
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
   },
   {
     "startRaw": "20251127033000",
@@ -1022,8 +599,8 @@
     "start": "2025-11-27 09:00:00 IST",
     "stop": "2025-11-27 09:30:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it."
   },
   {
     "startRaw": "20251127040000",
@@ -1031,8 +608,8 @@
     "start": "2025-11-27 09:30:00 IST",
     "stop": "2025-11-27 10:00:00 IST",
     "channel": "jio-520",
-    "title": "Mudda Aapka",
-    "subTitle": "The host facilitates discussion with a panel of experts who provide a comprehensive and detailed insight into various matters of national importance."
+    "title": "Aapka Kanoon",
+    "subTitle": "The host invites a panel of legal experts to discuss and analyse issues related to the rights of citizens and Indian justice system."
   },
   {
     "startRaw": "20251127043000",
@@ -1040,8 +617,8 @@
     "start": "2025-11-27 10:00:00 IST",
     "stop": "2025-11-27 10:30:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
   },
   {
     "startRaw": "20251127050000",
@@ -1049,8 +626,8 @@
     "start": "2025-11-27 10:30:00 IST",
     "stop": "2025-11-27 11:00:00 IST",
     "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country."
+    "title": "Sarokaar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "startRaw": "20251127053000",
@@ -1058,26 +635,17 @@
     "start": "2025-11-27 11:00:00 IST",
     "stop": "2025-11-27 11:30:00 IST",
     "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation."
+    "title": "PM Live",
+    "subTitle": "The prime minister of India participates in a ceremony and delivers a speech to the audience, addressing various important topics, live."
   },
   {
     "startRaw": "20251127060000",
-    "stopRaw": "20251127061500",
-    "start": "2025-11-27 11:30:00 IST",
-    "stop": "2025-11-27 11:45:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
-  },
-  {
-    "startRaw": "20251127061500",
     "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:45:00 IST",
+    "start": "2025-11-27 11:30:00 IST",
     "stop": "2025-11-27 12:00:00 IST",
     "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+    "title": "Saksham Bharat",
+    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country."
   },
   {
     "startRaw": "20251127063000",
@@ -1085,26 +653,17 @@
     "start": "2025-11-27 12:00:00 IST",
     "stop": "2025-11-27 12:30:00 IST",
     "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation."
+    "title": "Update @ 12",
+    "subTitle": "The host presents the latest updates pertaining to the top stories about the social, economical and political matters of the day."
   },
   {
     "startRaw": "20251127070000",
-    "stopRaw": "20251127071500",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 12:45:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
-  },
-  {
-    "startRaw": "20251127071500",
     "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:45:00 IST",
+    "start": "2025-11-27 12:30:00 IST",
     "stop": "2025-11-27 13:00:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "History Behind The Headlines",
+    "subTitle": "The host takes viewers on a journey through time, revealing the lesser-known causes and consequences of major historical turning points."
   },
   {
     "startRaw": "20251127073000",
@@ -1112,17 +671,26 @@
     "start": "2025-11-27 13:00:00 IST",
     "stop": "2025-11-27 13:30:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "Insight",
+    "subTitle": "The host presents comprehensive analyses and investigative reports on various pressing issues and current affairs of Asia."
   },
   {
     "startRaw": "20251127080000",
-    "stopRaw": "20251127083000",
+    "stopRaw": "20251127081500",
     "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 13:45:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+  },
+  {
+    "startRaw": "20251127081500",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:45:00 IST",
     "stop": "2025-11-27 14:00:00 IST",
     "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation."
+    "title": "Sansad TV Special",
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
   },
   {
     "startRaw": "20251127083000",
@@ -1130,62 +698,35 @@
     "start": "2025-11-27 14:00:00 IST",
     "stop": "2025-11-27 14:30:00 IST",
     "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys."
+    "title": "Khabron Ki ABC",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
   },
   {
     "startRaw": "20251127090000",
-    "stopRaw": "20251127091500",
-    "start": "2025-11-27 14:30:00 IST",
-    "stop": "2025-11-27 14:45:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
-  },
-  {
-    "startRaw": "20251127091500",
     "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:45:00 IST",
+    "start": "2025-11-27 14:30:00 IST",
     "stop": "2025-11-27 15:00:00 IST",
     "channel": "jio-520",
     "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
   },
   {
     "startRaw": "20251127093000",
-    "stopRaw": "20251127094500",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 15:15:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
-  },
-  {
-    "startRaw": "20251127094500",
     "stopRaw": "20251127100000",
-    "start": "2025-11-27 15:15:00 IST",
+    "start": "2025-11-27 15:00:00 IST",
     "stop": "2025-11-27 15:30:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "Question Hour Plus",
+    "subTitle": "Esteemed members of the Parliament of India present questions to seek insights on various matters impacting the people of the nation."
   },
   {
     "startRaw": "20251127100000",
-    "stopRaw": "20251127101500",
-    "start": "2025-11-27 15:30:00 IST",
-    "stop": "2025-11-27 15:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251127101500",
     "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:45:00 IST",
+    "start": "2025-11-27 15:30:00 IST",
     "stop": "2025-11-27 16:00:00 IST",
     "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country."
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
   },
   {
     "startRaw": "20251127103000",
@@ -1193,26 +734,17 @@
     "start": "2025-11-27 16:00:00 IST",
     "stop": "2025-11-27 16:30:00 IST",
     "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations."
+    "title": "Smart Kheti",
+    "subTitle": "The host sheds light on innovative methods practised by farmers to maintain crops in the face of socio-economic and natural complications."
   },
   {
     "startRaw": "20251127110000",
-    "stopRaw": "20251127111500",
-    "start": "2025-11-27 16:30:00 IST",
-    "stop": "2025-11-27 16:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251127111500",
     "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:45:00 IST",
+    "start": "2025-11-27 16:30:00 IST",
     "stop": "2025-11-27 17:00:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "Sarthak Samvad",
+    "subTitle": "The host discusses how open talks help solve problems, stressing the value of hearing different views and working together to find solutions."
   },
   {
     "startRaw": "20251127113000",
@@ -1220,26 +752,17 @@
     "start": "2025-11-27 17:00:00 IST",
     "stop": "2025-11-27 17:30:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+    "title": "Hum Bharat Ke Log",
+    "subTitle": "Sumit Awasthi, a senior journalist, analyses some of the latest happenings across the political arena of the country and provides updates that matter to people."
   },
   {
     "startRaw": "20251127120000",
-    "stopRaw": "20251127121500",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 17:45:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
-  },
-  {
-    "startRaw": "20251127121500",
     "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:45:00 IST",
+    "start": "2025-11-27 17:30:00 IST",
     "stop": "2025-11-27 18:00:00 IST",
     "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
+    "title": "Viksit Bharat @2047",
+    "subTitle": "The host presents an extensive and comprehensive report on the various developmental and economic plans that are expected to take place by the year 2047."
   },
   {
     "startRaw": "20251127123000",
@@ -1247,8 +770,8 @@
     "start": "2025-11-27 18:00:00 IST",
     "stop": "2025-11-27 18:30:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "Inderdhanushiye Sanskriti",
+    "subTitle": "The host offers insight into India's rich cultural heritage through an exploration of traditional festivals, various art forms, and classical music."
   },
   {
     "startRaw": "20251127130000",
@@ -1256,8 +779,8 @@
     "start": "2025-11-27 18:30:00 IST",
     "stop": "2025-11-27 19:00:00 IST",
     "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television."
+    "title": "Sanskriti Yatra",
+    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage."
   },
   {
     "startRaw": "20251127133000",
@@ -1265,26 +788,17 @@
     "start": "2025-11-27 19:00:00 IST",
     "stop": "2025-11-27 19:30:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
   },
   {
     "startRaw": "20251127140000",
-    "stopRaw": "20251127141500",
-    "start": "2025-11-27 19:30:00 IST",
-    "stop": "2025-11-27 19:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251127141500",
     "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:45:00 IST",
+    "start": "2025-11-27 19:30:00 IST",
     "stop": "2025-11-27 20:00:00 IST",
     "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy."
+    "title": "Insight",
+    "subTitle": "The host presents comprehensive analyses and investigative reports on various pressing issues and current affairs of Asia."
   },
   {
     "startRaw": "20251127143000",
@@ -1292,8 +806,8 @@
     "start": "2025-11-27 20:00:00 IST",
     "stop": "2025-11-27 20:30:00 IST",
     "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+    "title": "Aaj Ki Khaber",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
   },
   {
     "startRaw": "20251127150000",
@@ -1302,7 +816,7 @@
     "stop": "2025-11-27 21:00:00 IST",
     "channel": "jio-520",
     "title": "Mudda Aapka",
-    "subTitle": "The host facilitates discussion with a panel of experts who provide a comprehensive and detailed insight into various matters of national importance."
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it."
   },
   {
     "startRaw": "20251127153000",
@@ -1310,8 +824,8 @@
     "start": "2025-11-27 21:00:00 IST",
     "stop": "2025-11-27 21:30:00 IST",
     "channel": "jio-520",
-    "title": "National Security",
-    "subTitle": "The host provides in-depth coverage of India's national defense strategies, the role of paramilitary forces, and specialised military units, offering insights into their operations and security initiatives."
+    "title": "Sansad TV Special",
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
   },
   {
     "startRaw": "20251127160000",
@@ -1320,25 +834,16 @@
     "stop": "2025-11-27 22:00:00 IST",
     "channel": "jio-520",
     "title": "Perspective",
-    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys."
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
   },
   {
     "startRaw": "20251127163000",
-    "stopRaw": "20251127164500",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 22:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "startRaw": "20251127164500",
     "stopRaw": "20251127170000",
-    "start": "2025-11-27 22:15:00 IST",
+    "start": "2025-11-27 22:00:00 IST",
     "stop": "2025-11-27 22:30:00 IST",
     "channel": "jio-520",
-    "title": "National Security",
-    "subTitle": "The host provides in-depth coverage of India's national defense strategies, the role of paramilitary forces, and specialised military units, offering insights into their operations and security initiatives."
+    "title": "Aapka Kanoon",
+    "subTitle": "The host invites a panel of legal experts to discuss and analyse issues related to the rights of citizens and Indian justice system."
   },
   {
     "startRaw": "20251127170000",
@@ -1346,8 +851,8 @@
     "start": "2025-11-27 22:30:00 IST",
     "stop": "2025-11-27 23:00:00 IST",
     "channel": "jio-520",
-    "title": "Seeking Direct Answers",
-    "subTitle": "The host invites renowned personalities, accomplished in their respective fields, to discuss ongoing issues transpiring across the nation."
+    "title": "Sansad TV Special",
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
   },
   {
     "startRaw": "20251127173000",
@@ -1364,7 +869,457 @@
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-520",
+    "title": "Insight",
+    "subTitle": "The host presents comprehensive analyses and investigative reports on various pressing issues and current affairs of Asia."
+  },
+  {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251127184500",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 00:15:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+  },
+  {
+    "startRaw": "20251127184500",
+    "stopRaw": "20251127190000",
+    "start": "2025-11-28 00:15:00 IST",
+    "stop": "2025-11-28 00:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+  },
+  {
+    "startRaw": "20251127190000",
+    "stopRaw": "20251127193000",
+    "start": "2025-11-28 00:30:00 IST",
+    "stop": "2025-11-28 01:00:00 IST",
+    "channel": "jio-520",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+  },
+  {
+    "startRaw": "20251127193000",
+    "stopRaw": "20251127200000",
+    "start": "2025-11-28 01:00:00 IST",
+    "stop": "2025-11-28 01:30:00 IST",
+    "channel": "jio-520",
     "title": "Likhawat",
     "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations."
+  },
+  {
+    "startRaw": "20251127200000",
+    "stopRaw": "20251127203000",
+    "start": "2025-11-28 01:30:00 IST",
+    "stop": "2025-11-28 02:00:00 IST",
+    "channel": "jio-520",
+    "title": "National Security Services",
+    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country."
+  },
+  {
+    "startRaw": "20251127203000",
+    "stopRaw": "20251127210000",
+    "start": "2025-11-28 02:00:00 IST",
+    "stop": "2025-11-28 02:30:00 IST",
+    "channel": "jio-520",
+    "title": "Unique Polling Station",
+    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation."
+  },
+  {
+    "startRaw": "20251127210000",
+    "stopRaw": "20251127213000",
+    "start": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 03:00:00 IST",
+    "channel": "jio-520",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127213000",
+    "stopRaw": "20251127220000",
+    "start": "2025-11-28 03:00:00 IST",
+    "stop": "2025-11-28 03:30:00 IST",
+    "channel": "jio-520",
+    "title": "Ayushman Bharat",
+    "subTitle": "The host sheds light on the project launched by the Ministry of AYUSH, to popularise the traditional Indian medicines among the masses."
+  },
+  {
+    "startRaw": "20251127220000",
+    "stopRaw": "20251127223000",
+    "start": "2025-11-28 03:30:00 IST",
+    "stop": "2025-11-28 04:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sarokaar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127223000",
+    "stopRaw": "20251127230000",
+    "start": "2025-11-28 04:00:00 IST",
+    "stop": "2025-11-28 04:30:00 IST",
+    "channel": "jio-520",
+    "title": "Ulgulan Ki Pukaar",
+    "subTitle": ""
+  },
+  {
+    "startRaw": "20251127230000",
+    "stopRaw": "20251127233000",
+    "start": "2025-11-28 04:30:00 IST",
+    "stop": "2025-11-28 05:00:00 IST",
+    "channel": "jio-520",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127233000",
+    "stopRaw": "20251128000000",
+    "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 05:30:00 IST",
+    "channel": "jio-520",
+    "title": "Nature connection",
+    "subTitle": "The host interacts with various experts to discuss ecological issues, environmental concerns and campaigns, with a focus on raising awareness of nature conservation."
+  },
+  {
+    "startRaw": "20251128000000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:30:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sanskriti Yatra",
+    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage."
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128010000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 06:30:00 IST",
+    "channel": "jio-520",
+    "title": "Ekam Sat",
+    "subTitle": "Dr. Karan Singh explores religious unity, highlighting shared principles across faiths as pioneer of inter-religious dialogue."
+  },
+  {
+    "startRaw": "20251128010000",
+    "stopRaw": "20251128013000",
+    "start": "2025-11-28 06:30:00 IST",
+    "stop": "2025-11-28 07:00:00 IST",
+    "channel": "jio-520",
+    "title": "Kalpviraksh",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128013000",
+    "stopRaw": "20251128020000",
+    "start": "2025-11-28 07:00:00 IST",
+    "stop": "2025-11-28 07:30:00 IST",
+    "channel": "jio-520",
+    "title": "Yog Se Nirog",
+    "subTitle": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being."
+  },
+  {
+    "startRaw": "20251128020000",
+    "stopRaw": "20251128023000",
+    "start": "2025-11-28 07:30:00 IST",
+    "stop": "2025-11-28 08:00:00 IST",
+    "channel": "jio-520",
+    "title": "Abhivyakti",
+    "subTitle": "The host engages in a conversation with renowned personalities from the field of art, dance and music to learn about their life journey and achievements."
+  },
+  {
+    "startRaw": "20251128023000",
+    "stopRaw": "20251128030000",
+    "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-520",
+    "title": "Suprabhat",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-520",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128040000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 09:30:00 IST",
+    "channel": "jio-520",
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it."
+  },
+  {
+    "startRaw": "20251128040000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:30:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-520",
+    "title": "Aapka Kanoon",
+    "subTitle": "The host invites a panel of legal experts to discuss and analyse issues related to the rights of citizens and Indian justice system."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128053000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sarokaar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128060000",
+    "start": "2025-11-28 11:00:00 IST",
+    "stop": "2025-11-28 11:30:00 IST",
+    "channel": "jio-520",
+    "title": "PM Live",
+    "subTitle": "The prime minister of India participates in a ceremony and delivers a speech to the audience, addressing various important topics, live."
+  },
+  {
+    "startRaw": "20251128060000",
+    "stopRaw": "20251128063000",
+    "start": "2025-11-28 11:30:00 IST",
+    "stop": "2025-11-28 12:00:00 IST",
+    "channel": "jio-520",
+    "title": "Saksham Bharat",
+    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country."
+  },
+  {
+    "startRaw": "20251128063000",
+    "stopRaw": "20251128070000",
+    "start": "2025-11-28 12:00:00 IST",
+    "stop": "2025-11-28 12:30:00 IST",
+    "channel": "jio-520",
+    "title": "Update @ 12",
+    "subTitle": "The host presents the latest updates pertaining to the top stories about the social, economical and political matters of the day."
+  },
+  {
+    "startRaw": "20251128070000",
+    "stopRaw": "20251128073000",
+    "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-520",
+    "title": "History Behind The Headlines",
+    "subTitle": "The host takes viewers on a journey through time, revealing the lesser-known causes and consequences of major historical turning points."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:30:00 IST",
+    "channel": "jio-520",
+    "title": "Insight",
+    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
+  },
+  {
+    "startRaw": "20251128080000",
+    "stopRaw": "20251128081500",
+    "start": "2025-11-28 13:30:00 IST",
+    "stop": "2025-11-28 13:45:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+  },
+  {
+    "startRaw": "20251128081500",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:45:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128090000",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-520",
+    "title": "Khabron Ki ABC",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-520",
+    "title": "Question Hour Plus",
+    "subTitle": "Esteemed members of the Parliament of India present questions to seek insights on various matters impacting the people of the nation."
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128103000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 16:00:00 IST",
+    "channel": "jio-520",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements."
+  },
+  {
+    "startRaw": "20251128103000",
+    "stopRaw": "20251128110000",
+    "start": "2025-11-28 16:00:00 IST",
+    "stop": "2025-11-28 16:30:00 IST",
+    "channel": "jio-520",
+    "title": "Smart Kheti",
+    "subTitle": "The host sheds light on innovative methods practised by farmers to maintain crops in the face of socio-economic and natural complications."
+  },
+  {
+    "startRaw": "20251128110000",
+    "stopRaw": "20251128113000",
+    "start": "2025-11-28 16:30:00 IST",
+    "stop": "2025-11-28 17:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sarthak Samvad",
+    "subTitle": "The host discusses how open talks help solve problems, stressing the value of hearing different views and working together to find solutions."
+  },
+  {
+    "startRaw": "20251128113000",
+    "stopRaw": "20251128120000",
+    "start": "2025-11-28 17:00:00 IST",
+    "stop": "2025-11-28 17:30:00 IST",
+    "channel": "jio-520",
+    "title": "Hum Bharat Ke Log",
+    "subTitle": "The host explores and narrates the story of the formation of the Constitution of India, and the legendary people behind it who made it possible."
+  },
+  {
+    "startRaw": "20251128120000",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:30:00 IST",
+    "stop": "2025-11-28 18:00:00 IST",
+    "channel": "jio-520",
+    "title": "Viksit Bharat @2047",
+    "subTitle": "The host presents an extensive and comprehensive report on the various developmental and economic plans that are expected to take place by the year 2047."
+  },
+  {
+    "startRaw": "20251128123000",
+    "stopRaw": "20251128130000",
+    "start": "2025-11-28 18:00:00 IST",
+    "stop": "2025-11-28 18:30:00 IST",
+    "channel": "jio-520",
+    "title": "Inderdhanushiye Sanskriti",
+    "subTitle": "The host offers insight into India's rich cultural heritage through an exploration of traditional festivals, various art forms, and classical music."
+  },
+  {
+    "startRaw": "20251128130000",
+    "stopRaw": "20251128133000",
+    "start": "2025-11-28 18:30:00 IST",
+    "stop": "2025-11-28 19:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sanskriti Yatra",
+    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage."
+  },
+  {
+    "startRaw": "20251128133000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 19:00:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth."
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-520",
+    "title": "Insight",
+    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128150000",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 20:30:00 IST",
+    "channel": "jio-520",
+    "title": "Aaj Ki Khaber",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251128150000",
+    "stopRaw": "20251128153000",
+    "start": "2025-11-28 20:30:00 IST",
+    "stop": "2025-11-28 21:00:00 IST",
+    "channel": "jio-520",
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it."
+  },
+  {
+    "startRaw": "20251128153000",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+  },
+  {
+    "startRaw": "20251128160000",
+    "stopRaw": "20251128163000",
+    "start": "2025-11-28 21:30:00 IST",
+    "stop": "2025-11-28 22:00:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world."
+  },
+  {
+    "startRaw": "20251128163000",
+    "stopRaw": "20251128170000",
+    "start": "2025-11-28 22:00:00 IST",
+    "stop": "2025-11-28 22:30:00 IST",
+    "channel": "jio-520",
+    "title": "Aapka Kanoon",
+    "subTitle": "The host invites a panel of legal experts to discuss and analyse issues related to the rights of citizens and Indian justice system."
+  },
+  {
+    "startRaw": "20251128170000",
+    "stopRaw": "20251128173000",
+    "start": "2025-11-28 22:30:00 IST",
+    "stop": "2025-11-28 23:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister."
+  },
+  {
+    "startRaw": "20251128173000",
+    "stopRaw": "20251128180000",
+    "start": "2025-11-28 23:00:00 IST",
+    "stop": "2025-11-28 23:30:00 IST",
+    "channel": "jio-520",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128180000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 23:30:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-520",
+    "title": "Insight",
+    "subTitle": "The host, along with a panel of experts share their valuable insights on various issues pertaining to the socio-polictical and economy matters of the country."
   }
 ]

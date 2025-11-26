@@ -226,26 +226,53 @@
   },
   {
     "startRaw": "20251126183000",
-    "stopRaw": "20251126213000",
+    "stopRaw": "20251126183300",
     "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 00:03:00 IST",
     "channel": "jio-413",
     "title": "Spyder",
     "subTitle": "Shiva, an intelligence officer, develops a phone software that helps him track those in need of help. He sets out to save the people of Hyderabad when he realises that a serial killer is on the loose."
   },
   {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
+    "startRaw": "20251126183300",
+    "stopRaw": "20251126205100",
+    "start": "2025-11-27 00:03:00 IST",
+    "stop": "2025-11-27 02:21:00 IST",
+    "channel": "jio-413",
+    "title": "Seethamma Vakitlo Sirimalle Chettu",
+    "subTitle": "Two unemployed brothers who do not get along well due to their contrasting natures try to marry the women they love before an accident changes their lives."
+  },
+  {
+    "startRaw": "20251126205100",
+    "stopRaw": "20251126213100",
+    "start": "2025-11-27 02:21:00 IST",
+    "stop": "2025-11-27 03:01:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251126213100",
+    "stopRaw": "20251126234900",
+    "start": "2025-11-27 03:01:00 IST",
+    "stop": "2025-11-27 05:19:00 IST",
     "channel": "jio-413",
     "title": "Loukyam",
     "subTitle": "Venky, a man who values his friends, goes against a local crime lord, Babji, when he helps his best friend elope with the gangster's daughter. Consequently, Babji orders a manhunt for Venky."
   },
   {
-    "startRaw": "20251127003000",
+    "startRaw": "20251126234900",
+    "stopRaw": "20251127003400",
+    "start": "2025-11-27 05:19:00 IST",
+    "stop": "2025-11-27 06:04:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251127003400",
     "stopRaw": "20251127010000",
-    "start": "2025-11-27 06:00:00 IST",
+    "start": "2025-11-27 06:04:00 IST",
     "stop": "2025-11-27 06:30:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",

@@ -316,26 +316,35 @@
   },
   {
     "startRaw": "20251126183000",
-    "stopRaw": "20251126201000",
+    "stopRaw": "20251126183200",
     "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:40:00 IST",
+    "stop": "2025-11-27 00:02:00 IST",
     "channel": "jio-1349",
     "title": "Alien Invasion",
     "subTitle": "Friends discover a mysterious egg containing a dangerous predator, and now they race against time to stop the creature from reaching civilization."
   },
   {
+    "startRaw": "20251126183200",
+    "stopRaw": "20251126201000",
+    "start": "2025-11-27 00:02:00 IST",
+    "stop": "2025-11-27 01:40:00 IST",
+    "channel": "jio-1349",
+    "title": "America's Sweethearts",
+    "subTitle": "When Kiki helps facilitate a final public appearance between her famous boss and her estranged husband, she experiences an unexpected spark of attraction and falls for him."
+  },
+  {
     "startRaw": "20251126201000",
-    "stopRaw": "20251126220500",
+    "stopRaw": "20251126220000",
     "start": "2025-11-27 01:40:00 IST",
-    "stop": "2025-11-27 03:35:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
     "channel": "jio-1349",
     "title": "The Balkan Line",
     "subTitle": "During a secret mission in war-torn Kosovo, Shatalov and his team must secure a vital airport while battling militants and racing against time to protect innocent lives."
   },
   {
-    "startRaw": "20251126220500",
+    "startRaw": "20251126220000",
     "stopRaw": "20251126225500",
-    "start": "2025-11-27 03:35:00 IST",
+    "start": "2025-11-27 03:30:00 IST",
     "stop": "2025-11-27 04:25:00 IST",
     "channel": "jio-1349",
     "title": "Dvm",

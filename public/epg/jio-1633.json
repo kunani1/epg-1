@@ -280,35 +280,80 @@
   },
   {
     "startRaw": "20251126073000",
-    "stopRaw": "20251126093000",
+    "stopRaw": "20251126081500",
     "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
+    "stop": "2025-11-26 13:45:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Dharmika Phala",
+    "subTitle": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives."
+  },
+  {
+    "startRaw": "20251126081500",
+    "stopRaw": "20251126083000",
+    "start": "2025-11-26 13:45:00 IST",
+    "stop": "2025-11-26 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251126083000",
+    "stopRaw": "20251126091500",
+    "start": "2025-11-26 14:00:00 IST",
+    "stop": "2025-11-26 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television."
   },
   {
+    "startRaw": "20251126091500",
+    "stopRaw": "20251126093000",
+    "start": "2025-11-26 14:45:00 IST",
+    "stop": "2025-11-26 15:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home."
+  },
+  {
     "startRaw": "20251126093000",
-    "stopRaw": "20251126123000",
+    "stopRaw": "20251126122100",
     "start": "2025-11-26 15:00:00 IST",
+    "stop": "2025-11-26 17:51:00 IST",
+    "channel": "jio-1633",
+    "title": "Sowbhagya Lakshmi",
+    "subTitle": "Chandru learns a shocking truth that Sowbhagya is not his biological mother, forcing his father to recall his past in order to shed light on the same."
+  },
+  {
+    "startRaw": "20251126122100",
+    "stopRaw": "20251126123000",
+    "start": "2025-11-26 17:51:00 IST",
     "stop": "2025-11-26 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251126123000",
-    "stopRaw": "20251126153000",
+    "stopRaw": "20251126154400",
     "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
+    "stop": "2025-11-26 21:14:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Vishnu Vijaya",
+    "subTitle": "Police officers Vijay and Vishnu vow to maintain peace in the country; however, things change when two gangsters become a threat to the country's security. It is up to Vijay and Vishnu to stop them."
+  },
+  {
+    "startRaw": "20251126154400",
+    "stopRaw": "20251126160000",
+    "start": "2025-11-26 21:14:00 IST",
+    "stop": "2025-11-26 21:30:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television."
   },
   {
-    "startRaw": "20251126153000",
+    "startRaw": "20251126160000",
     "stopRaw": "20251126182959",
-    "start": "2025-11-26 21:00:00 IST",
+    "start": "2025-11-26 21:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
     "channel": "jio-1633",
     "title": "Movie",

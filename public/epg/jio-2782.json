@@ -1,284 +1,5 @@
 [
   {
-    "startRaw": "20251123183000",
-    "stopRaw": "20251123210000",
-    "start": "2025-11-24 00:00:00 IST",
-    "stop": "2025-11-24 02:30:00 IST",
-    "channel": "jio-2782",
-    "title": "News Breakfast",
-    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather."
-  },
-  {
-    "startRaw": "20251123210000",
-    "stopRaw": "20251124000000",
-    "start": "2025-11-24 02:30:00 IST",
-    "stop": "2025-11-24 05:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News Mornings",
-    "subTitle": "Morning news programme featuring coverage of breaking news events. This includes segments from reporters and experts for on-the-spot reports, context, and analysis."
-  },
-  {
-    "startRaw": "20251124000000",
-    "stopRaw": "20251124010000",
-    "start": "2025-11-24 05:30:00 IST",
-    "stop": "2025-11-24 06:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News At Noon",
-    "subTitle": "The latest news updates, as well as analysis and opinions from the experts on significant issues around the world."
-  },
-  {
-    "startRaw": "20251124010000",
-    "stopRaw": "20251124012500",
-    "start": "2025-11-24 06:30:00 IST",
-    "stop": "2025-11-24 06:55:00 IST",
-    "channel": "jio-2782",
-    "title": "On Country Kitchen",
-    "subTitle": "Derek visits Cambray Cheese, a small family-owned cheese factory in Nannup. In Osmington, Derek eats black garlic, shares a few busking tips with the local children, and watches a local dive."
-  },
-  {
-    "startRaw": "20251124012500",
-    "stopRaw": "20251124015500",
-    "start": "2025-11-24 06:55:00 IST",
-    "stop": "2025-11-24 07:25:00 IST",
-    "channel": "jio-2782",
-    "title": "The Fruit Nerd Presents Field to Feast",
-    "subTitle": "Thanh goes to a farm that produces a type of chilli adored by Turkish Australians and challenges himself to try this spicy classic."
-  },
-  {
-    "startRaw": "20251124015500",
-    "stopRaw": "20251124020500",
-    "start": "2025-11-24 07:25:00 IST",
-    "stop": "2025-11-24 07:35:00 IST",
-    "channel": "jio-2782",
-    "title": "Wide Open Spaces",
-    "subTitle": "Everyone wishes they could ditch the office job for something a bit more magical. For two young Australians, their day jobs involve swimming with dolphins in the Gulf of Carpentaria and sleeping under the stars in the outback."
-  },
-  {
-    "startRaw": "20251124020500",
-    "stopRaw": "20251124030000",
-    "start": "2025-11-24 07:35:00 IST",
-    "stop": "2025-11-24 08:30:00 IST",
-    "channel": "jio-2782",
-    "title": "A Brief History Of Cricket Downunder: The 80's",
-    "subTitle": "Explores how slow bowling, reverse swing, bat technology, and team culture give cricketers an edge."
-  },
-  {
-    "startRaw": "20251124030000",
-    "stopRaw": "20251124040000",
-    "start": "2025-11-24 08:30:00 IST",
-    "stop": "2025-11-24 09:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Restoration Australia",
-    "subTitle": "Across the country, thousands of old buildings lie forgotten and neglected, tangled up by red tape and development restrictions, or just slowly mouldering into decay on the landscape. Many of these properties are of outstanding historical interest."
-  },
-  {
-    "startRaw": "20251124040000",
-    "stopRaw": "20251124050000",
-    "start": "2025-11-24 09:30:00 IST",
-    "stop": "2025-11-24 10:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Afternoon Briefing",
-    "subTitle": "The team look across the country to offer a fast-paced take on recent events, from national affairs, to matters impacting Australians everywhere."
-  },
-  {
-    "startRaw": "20251124050000",
-    "stopRaw": "20251124060000",
-    "start": "2025-11-24 10:30:00 IST",
-    "stop": "2025-11-24 11:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News With Joe O'Brien",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251124060000",
-    "stopRaw": "20251124062500",
-    "start": "2025-11-24 11:30:00 IST",
-    "stop": "2025-11-24 11:55:00 IST",
-    "channel": "jio-2782",
-    "title": "On Country Kitchen",
-    "subTitle": "Derek visits Cambray Cheese, a small family-owned cheese factory in Nannup. In Osmington, Derek eats black garlic, shares a few busking tips with the local children, and watches a local dive."
-  },
-  {
-    "startRaw": "20251124062500",
-    "stopRaw": "20251124065000",
-    "start": "2025-11-24 11:55:00 IST",
-    "stop": "2025-11-24 12:20:00 IST",
-    "channel": "jio-2782",
-    "title": "The Fruit Nerd Presents Field to Feast",
-    "subTitle": "Thanh goes to a farm that produces a type of chilli adored by Turkish Australians and challenges himself to try this spicy classic."
-  },
-  {
-    "startRaw": "20251124065000",
-    "stopRaw": "20251124070000",
-    "start": "2025-11-24 12:20:00 IST",
-    "stop": "2025-11-24 12:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Rural Flavours",
-    "subTitle": "While modern dairy farms look to high-tech technology to increase milk production, a Sunshine Coast farm has found a low-tech way."
-  },
-  {
-    "startRaw": "20251124070000",
-    "stopRaw": "20251124073000",
-    "start": "2025-11-24 12:30:00 IST",
-    "stop": "2025-11-24 13:00:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC National News",
-    "subTitle": "Presents the day's top stories, latest news and information, and exclusive investigations, with reports from journalists across the nation."
-  },
-  {
-    "startRaw": "20251124073000",
-    "stopRaw": "20251124080000",
-    "start": "2025-11-24 13:00:00 IST",
-    "stop": "2025-11-24 13:30:00 IST",
-    "channel": "jio-2782",
-    "title": "7.30",
-    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues."
-  },
-  {
-    "startRaw": "20251124080000",
-    "stopRaw": "20251124090000",
-    "start": "2025-11-24 13:30:00 IST",
-    "stop": "2025-11-24 14:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Australia Remastered: National Treasures",
-    "subTitle": "Aaron Pedersen explains the six seasons recognised by the Bininj people and reveals the web of relationships between its species and the environment."
-  },
-  {
-    "startRaw": "20251124090000",
-    "stopRaw": "20251124100000",
-    "start": "2025-11-24 14:30:00 IST",
-    "stop": "2025-11-24 15:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
-  },
-  {
-    "startRaw": "20251124100000",
-    "stopRaw": "20251124110000",
-    "start": "2025-11-24 15:30:00 IST",
-    "stop": "2025-11-24 16:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Restoration Australia",
-    "subTitle": "Across the country, thousands of old buildings lie forgotten and neglected, tangled up by red tape and development restrictions, or just slowly mouldering into decay on the landscape. Many of these properties are of outstanding historical interest."
-  },
-  {
-    "startRaw": "20251124110000",
-    "stopRaw": "20251124113000",
-    "start": "2025-11-24 16:30:00 IST",
-    "stop": "2025-11-24 17:00:00 IST",
-    "channel": "jio-2782",
-    "title": "Planet America",
-    "subTitle": "Examines America's complex and controversial political news, views and developments, all with a satirical edge."
-  },
-  {
-    "startRaw": "20251124113000",
-    "stopRaw": "20251124120000",
-    "start": "2025-11-24 17:00:00 IST",
-    "stop": "2025-11-24 17:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The Fruit Nerd Presents Field to Feast",
-    "subTitle": "Thanh goes to a farm that produces a type of chilli adored by Turkish Australians and challenges himself to try this spicy classic."
-  },
-  {
-    "startRaw": "20251124120000",
-    "stopRaw": "20251124121500",
-    "start": "2025-11-24 17:30:00 IST",
-    "stop": "2025-11-24 17:45:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC Late News",
-    "subTitle": "The latest information on the day's top stories, with a snapshot of several areas in Australia to show what is happening in the country."
-  },
-  {
-    "startRaw": "20251124121500",
-    "stopRaw": "20251124123000",
-    "start": "2025-11-24 17:45:00 IST",
-    "stop": "2025-11-24 18:00:00 IST",
-    "channel": "jio-2782",
-    "title": "The Business",
-    "subTitle": "Ticky Fullerton takes a detailed look at the day's business and finance news. With the latest trends on international share and currency markets, pointing to what Australians can expect in the days ahead."
-  },
-  {
-    "startRaw": "20251124123000",
-    "stopRaw": "20251124130000",
-    "start": "2025-11-24 18:00:00 IST",
-    "stop": "2025-11-24 18:30:00 IST",
-    "channel": "jio-2782",
-    "title": "7.30",
-    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues."
-  },
-  {
-    "startRaw": "20251124130000",
-    "stopRaw": "20251124140000",
-    "start": "2025-11-24 18:30:00 IST",
-    "stop": "2025-11-24 19:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
-  },
-  {
-    "startRaw": "20251124140000",
-    "stopRaw": "20251124143000",
-    "start": "2025-11-24 19:30:00 IST",
-    "stop": "2025-11-24 20:00:00 IST",
-    "channel": "jio-2782",
-    "title": "Planet America",
-    "subTitle": "Examines America's complex and controversial political news, views and developments, all with a satirical edge."
-  },
-  {
-    "startRaw": "20251124143000",
-    "stopRaw": "20251124152500",
-    "start": "2025-11-24 20:00:00 IST",
-    "stop": "2025-11-24 20:55:00 IST",
-    "channel": "jio-2782",
-    "title": "A Brief History Of Cricket Downunder: The 80's",
-    "subTitle": "Explores how slow bowling, reverse swing, bat technology, and team culture give cricketers an edge."
-  },
-  {
-    "startRaw": "20251124152500",
-    "stopRaw": "20251124162500",
-    "start": "2025-11-24 20:55:00 IST",
-    "stop": "2025-11-24 21:55:00 IST",
-    "channel": "jio-2782",
-    "title": "Restoration Australia",
-    "subTitle": "Across the country, thousands of old buildings lie forgotten and neglected, tangled up by red tape and development restrictions, or just slowly mouldering into decay on the landscape. Many of these properties are of outstanding historical interest."
-  },
-  {
-    "startRaw": "20251124162500",
-    "stopRaw": "20251124165000",
-    "start": "2025-11-24 21:55:00 IST",
-    "stop": "2025-11-24 22:20:00 IST",
-    "channel": "jio-2782",
-    "title": "The Fruit Nerd Presents Field to Feast",
-    "subTitle": "Thanh goes to a farm that produces a type of chilli adored by Turkish Australians and challenges himself to try this spicy classic."
-  },
-  {
-    "startRaw": "20251124165000",
-    "stopRaw": "20251124170000",
-    "start": "2025-11-24 22:20:00 IST",
-    "stop": "2025-11-24 22:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Unusual Farmers",
-    "subTitle": "A former abalone diver works to enrich nature by cultivating abalone in areas where they were not previously found."
-  },
-  {
-    "startRaw": "20251124170000",
-    "stopRaw": "20251124180000",
-    "start": "2025-11-24 22:30:00 IST",
-    "stop": "2025-11-24 23:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
-  },
-  {
-    "startRaw": "20251124180000",
-    "stopRaw": "20251124182959",
-    "start": "2025-11-24 23:30:00 IST",
-    "stop": "2025-11-24 23:59:59 IST",
-    "channel": "jio-2782",
-    "title": "News Breakfast",
-    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather."
-  },
-  {
     "startRaw": "20251124183000",
     "stopRaw": "20251124210000",
     "start": "2025-11-25 00:00:00 IST",
@@ -940,6 +661,321 @@
     "stopRaw": "20251126182959",
     "start": "2025-11-26 23:30:00 IST",
     "stop": "2025-11-26 23:59:59 IST",
+    "channel": "jio-2782",
+    "title": "News Breakfast",
+    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather."
+  },
+  {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-2782",
+    "title": "News Breakfast",
+    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather."
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News Mornings",
+    "subTitle": "Morning news programme featuring coverage of breaking news events. This includes segments from reporters and experts for on-the-spot reports, context, and analysis."
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News At Noon",
+    "subTitle": "The latest news updates, as well as analysis and opinions from the experts on significant issues around the world."
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127012500",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 06:55:00 IST",
+    "channel": "jio-2782",
+    "title": "The Streets Hong Kong",
+    "subTitle": "Dan heads to a popular Hong Kong restaurant famous for its tasty congee. A young chef creates innovative and delicious delicacies at her modern Cantonese restaurant, Ho Lee Fook."
+  },
+  {
+    "startRaw": "20251127012500",
+    "stopRaw": "20251127015500",
+    "start": "2025-11-27 06:55:00 IST",
+    "stop": "2025-11-27 07:25:00 IST",
+    "channel": "jio-2782",
+    "title": "Loving Gluten Free",
+    "subTitle": "When Chef Helen Tzouganatos is diagnosed with coeliac disease at 32-years-old, she showcases how to live everyday gluten free and still eat delicious food."
+  },
+  {
+    "startRaw": "20251127015500",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:25:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-2782",
+    "title": "I Was Actually There",
+    "subTitle": "In the small Tasmanian mining village of Beaconsfield, when a mine collapse kills Larry Knight and traps two others, Todd Russell and Brant Webb manage to survive."
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127032000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:50:00 IST",
+    "channel": "jio-2782",
+    "title": "Meet the Neighbours",
+    "subTitle": "Claire takes on a caretaker role for the elderly, but her lack of fluency in English makes her job difficult. The Singhs enjoy Maryborough since it reminds them of life back in India. Eduardo and Estela host a salsa night."
+  },
+  {
+    "startRaw": "20251127032000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:50:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Pasin Wantok",
+    "subTitle": "The crew take a look at the ongoing initiatives to preserve Queen Alexandra's Birdwing, Earth's biggest butterfly species."
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Landline",
+    "subTitle": "A programme bringing news from rural Australia to the nation. The multi-award winning show typically features stories, ranging across agri-politics and economics, business and product innovation, animal and crop science, and regional infrastructure."
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Afternoon Briefing",
+    "subTitle": "The team look across the country to offer a fast-paced take on recent events, from national affairs, to matters impacting Australians everywhere."
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News With Joe O'Brien",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127062500",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 11:55:00 IST",
+    "channel": "jio-2782",
+    "title": "The Streets Hong Kong",
+    "subTitle": "Dan heads to a popular Hong Kong restaurant famous for its tasty congee. A young chef creates innovative and delicious delicacies at her modern Cantonese restaurant, Ho Lee Fook."
+  },
+  {
+    "startRaw": "20251127062500",
+    "stopRaw": "20251127065500",
+    "start": "2025-11-27 11:55:00 IST",
+    "stop": "2025-11-27 12:25:00 IST",
+    "channel": "jio-2782",
+    "title": "Loving Gluten Free",
+    "subTitle": "When Chef Helen Tzouganatos is diagnosed with coeliac disease at 32-years-old, she showcases how to live everyday gluten free and still eat delicious food."
+  },
+  {
+    "startRaw": "20251127065500",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:25:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Voices of Independence",
+    "subTitle": "Dame Carol Kidu is an Australian-born Papua New Guinean. She shares her experience of being a former politician and pioneering advocate for women's rights in the country."
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC National News",
+    "subTitle": "Presents the day's top stories, latest news and information, and exclusive investigations, with reports from journalists across the nation."
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-2782",
+    "title": "7.30",
+    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues."
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127085000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:20:00 IST",
+    "channel": "jio-2782",
+    "title": "Meet the Neighbours",
+    "subTitle": "Claire takes on a caretaker role for the elderly, but her lack of fluency in English makes her job difficult. The Singhs enjoy Maryborough since it reminds them of life back in India. Eduardo and Estela host a salsa night."
+  },
+  {
+    "startRaw": "20251127085000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:20:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Voices of Independence",
+    "subTitle": "Papua New Guinea's former Prime Minister Sir Julius Chan shares insights on the nation's journey to independence and its development."
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127095500",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:25:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
+  },
+  {
+    "startRaw": "20251127095500",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:25:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Better Date Than Never",
+    "subTitle": "Olivia's first ever date ends with a question mark. Dianne is ready to find love after a major change in her life."
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-2782",
+    "title": "I Was Actually There",
+    "subTitle": "In the small Tasmanian mining village of Beaconsfield, when a mine collapse kills Larry Knight and traps two others, Todd Russell and Brant Webb manage to survive."
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127115500",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:25:00 IST",
+    "channel": "jio-2782",
+    "title": "End Game with Tony Armstrong",
+    "subTitle": "Tony Armstrong returns to Australia to ask whether lessons from abroad can help tackle racism in sport."
+  },
+  {
+    "startRaw": "20251127115500",
+    "stopRaw": "20251127120500",
+    "start": "2025-11-27 17:25:00 IST",
+    "stop": "2025-11-27 17:35:00 IST",
+    "channel": "jio-2782",
+    "title": "Voices of Independence",
+    "subTitle": "Sir Moi Avei has served many ministerial roles in PNG, most notably, he was the deputy prime minister under Sir Michael Somare."
+  },
+  {
+    "startRaw": "20251127120500",
+    "stopRaw": "20251127122000",
+    "start": "2025-11-27 17:35:00 IST",
+    "stop": "2025-11-27 17:50:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC Late News",
+    "subTitle": "The latest information on the day's top stories, with a snapshot of several areas in Australia to show what is happening in the country."
+  },
+  {
+    "startRaw": "20251127122000",
+    "stopRaw": "20251127123500",
+    "start": "2025-11-27 17:50:00 IST",
+    "stop": "2025-11-27 18:05:00 IST",
+    "channel": "jio-2782",
+    "title": "The Business",
+    "subTitle": "Ticky Fullerton takes a detailed look at the day's business and finance news. With the latest trends on international share and currency markets, pointing to what Australians can expect in the days ahead."
+  },
+  {
+    "startRaw": "20251127123500",
+    "stopRaw": "20251127130500",
+    "start": "2025-11-27 18:05:00 IST",
+    "stop": "2025-11-27 18:35:00 IST",
+    "channel": "jio-2782",
+    "title": "7.30",
+    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues."
+  },
+  {
+    "startRaw": "20251127130500",
+    "stopRaw": "20251127140500",
+    "start": "2025-11-27 18:35:00 IST",
+    "stop": "2025-11-27 19:35:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
+  },
+  {
+    "startRaw": "20251127140500",
+    "stopRaw": "20251127142000",
+    "start": "2025-11-27 19:35:00 IST",
+    "stop": "2025-11-27 19:50:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC Late News",
+    "subTitle": "The latest information on the day's top stories, with a snapshot of several areas in Australia to show what is happening in the country."
+  },
+  {
+    "startRaw": "20251127142000",
+    "stopRaw": "20251127143500",
+    "start": "2025-11-27 19:50:00 IST",
+    "stop": "2025-11-27 20:05:00 IST",
+    "channel": "jio-2782",
+    "title": "The Business",
+    "subTitle": "Ticky Fullerton takes a detailed look at the day's business and finance news. With the latest trends on international share and currency markets, pointing to what Australians can expect in the days ahead."
+  },
+  {
+    "startRaw": "20251127143500",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:05:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Meet the Neighbours",
+    "subTitle": "Claire takes on a caretaker role for the elderly, but her lack of fluency in English makes her job difficult. The Singhs enjoy Maryborough since it reminds them of life back in India. Eduardo and Estela host a salsa night."
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Better Date Than Never",
+    "subTitle": "Olivia's first ever date ends with a question mark. Dianne is ready to find love after a major change in her life."
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163500",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:05:00 IST",
+    "channel": "jio-2782",
+    "title": "I Was Actually There",
+    "subTitle": "In the small Tasmanian mining village of Beaconsfield, when a mine collapse kills Larry Knight and traps two others, Todd Russell and Brant Webb manage to survive."
+  },
+  {
+    "startRaw": "20251127163500",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:05:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Loving Gluten Free",
+    "subTitle": "When Chef Helen Tzouganatos is diagnosed with coeliac disease at 32-years-old, she showcases how to live everyday gluten free and still eat delicious food."
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs."
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-2782",
     "title": "News Breakfast",
     "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather."

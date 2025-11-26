@@ -271,8 +271,17 @@
   },
   {
     "startRaw": "20251126003000",
-    "stopRaw": "20251126023000",
+    "stopRaw": "20251126013000",
     "start": "2025-11-26 06:00:00 IST",
+    "stop": "2025-11-26 07:00:00 IST",
+    "channel": "jio-585",
+    "title": "YOLO Hits",
+    "subTitle": "A comprehensive compilation of popular songs composed by renowned artists is played in succession to entertain the listeners."
+  },
+  {
+    "startRaw": "20251126013000",
+    "stopRaw": "20251126023000",
+    "start": "2025-11-26 07:00:00 IST",
     "stop": "2025-11-26 08:00:00 IST",
     "channel": "jio-585",
     "title": "FOMO Tunes",
@@ -284,8 +293,8 @@
     "start": "2025-11-26 08:00:00 IST",
     "stop": "2025-11-26 09:00:00 IST",
     "channel": "jio-585",
-    "title": "FOMO Tunes",
-    "subTitle": "A comprehensive compilation of some of the most melodious hits composed by renowned artists is played to entertain the listeners."
+    "title": "Teleshopping",
+    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
   },
   {
     "startRaw": "20251126033000",
@@ -298,98 +307,107 @@
   },
   {
     "startRaw": "20251126043000",
-    "stopRaw": "20251126053000",
+    "stopRaw": "20251126050000",
     "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
+    "stop": "2025-11-26 10:30:00 IST",
+    "channel": "jio-585",
+    "title": "Teleshopping",
+    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251126050000",
+    "stopRaw": "20251126064600",
+    "start": "2025-11-26 10:30:00 IST",
+    "stop": "2025-11-26 12:16:00 IST",
+    "channel": "jio-585",
+    "title": "Pyaar Tune Kya Kiya",
+    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
+  },
+  {
+    "startRaw": "20251126064600",
+    "stopRaw": "20251126074100",
+    "start": "2025-11-26 12:16:00 IST",
+    "stop": "2025-11-26 13:11:00 IST",
+    "channel": "jio-585",
+    "title": "Apna Bhi Time Aayega",
+    "subTitle": "Ramadhir, a royal servant in Jaipur, and his daughter Rani face struggles as she too becomes a servant, striving to fulfil her aspirations despite adversity."
+  },
+  {
+    "startRaw": "20251126074100",
+    "stopRaw": "20251126083400",
+    "start": "2025-11-26 13:11:00 IST",
+    "stop": "2025-11-26 14:04:00 IST",
+    "channel": "jio-585",
+    "title": "Goblin",
+    "subTitle": "Over 900 years old, a cursed soldier must take a wife to end his immortal suffering. But his teenage bride's sincerity has him questioning and comparing the merits of love and death."
+  },
+  {
+    "startRaw": "20251126083400",
+    "stopRaw": "20251126092200",
+    "start": "2025-11-26 14:04:00 IST",
+    "stop": "2025-11-26 14:52:00 IST",
+    "channel": "jio-585",
+    "title": "Weightlifting Fairy, Kim Bok Joo",
+    "subTitle": "Bok-ju, a weightlifter dedicated to pursuing her career in the sport, forms a bond with a swimmer. The two athletes begin to slowly fall in love the more they spend time with each other."
+  },
+  {
+    "startRaw": "20251126092200",
+    "stopRaw": "20251126100900",
+    "start": "2025-11-26 14:52:00 IST",
+    "stop": "2025-11-26 15:39:00 IST",
+    "channel": "jio-585",
+    "title": "Oh My Venus",
+    "subTitle": "When a lawyer who is in her thirties is jilted by her long-term boyfriend for gaining weight, she enlists the help of a personal trainer to turn her life around."
+  },
+  {
+    "startRaw": "20251126100900",
+    "stopRaw": "20251126123100",
+    "start": "2025-11-26 15:39:00 IST",
+    "stop": "2025-11-26 18:01:00 IST",
+    "channel": "jio-585",
+    "title": "Pyaar Tune Kya Kiya",
+    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
+  },
+  {
+    "startRaw": "20251126123100",
+    "stopRaw": "20251126132900",
+    "start": "2025-11-26 18:01:00 IST",
+    "stop": "2025-11-26 18:59:00 IST",
     "channel": "jio-585",
     "title": "YOLO Hits",
     "subTitle": "A comprehensive compilation of popular songs composed by renowned artists is played in succession to entertain the listeners."
   },
   {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
+    "startRaw": "20251126132900",
+    "stopRaw": "20251126142300",
+    "start": "2025-11-26 18:59:00 IST",
+    "stop": "2025-11-26 19:53:00 IST",
     "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
+    "title": "Apna Bhi Time Aayega",
+    "subTitle": "Ramadhir, a royal servant in Jaipur, and his daughter Rani face struggles as she too becomes a servant, striving to fulfil her aspirations despite adversity."
   },
   {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
+    "startRaw": "20251126142300",
+    "stopRaw": "20251126150900",
+    "start": "2025-11-26 19:53:00 IST",
+    "stop": "2025-11-26 20:39:00 IST",
     "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
+    "title": "Weightlifting Fairy, Kim Bok Joo",
+    "subTitle": "Bok-ju, a weightlifter dedicated to pursuing her career in the sport, forms a bond with a swimmer. The two athletes begin to slowly fall in love the more they spend time with each other."
   },
   {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
+    "startRaw": "20251126150900",
+    "stopRaw": "20251126160200",
+    "start": "2025-11-26 20:39:00 IST",
+    "stop": "2025-11-26 21:32:00 IST",
     "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
+    "title": "Goblin",
+    "subTitle": "Over 900 years old, a cursed soldier must take a wife to end his immortal suffering. But his teenage bride's sincerity has him questioning and comparing the merits of love and death."
   },
   {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-585",
-    "title": "Pyaar Tune Kya Kiya",
-    "subTitle": "The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-585",
-    "title": "Fight for My Way",
-    "subTitle": "Four individuals navigate friendship, romance and heartbreaks while chasing their happiness in a superficial world that often overlooks true merit and character."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-585",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126163000",
+    "startRaw": "20251126160200",
     "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:00:00 IST",
+    "start": "2025-11-26 21:32:00 IST",
     "stop": "2025-11-26 23:00:00 IST",
     "channel": "jio-585",
     "title": "Fear Files",
@@ -406,17 +424,17 @@
   },
   {
     "startRaw": "20251126183000",
-    "stopRaw": "20251126185700",
+    "stopRaw": "20251126190400",
     "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:27:00 IST",
+    "stop": "2025-11-27 00:34:00 IST",
     "channel": "jio-585",
     "title": "Fear Files",
     "subTitle": "Stories of the paranormal unfold through accounts of individuals who claim to have encountered mysterious and supernatural events, delving into the fear of the unknown."
   },
   {
-    "startRaw": "20251126185700",
+    "startRaw": "20251126190400",
     "stopRaw": "20251126192700",
-    "start": "2025-11-27 00:27:00 IST",
+    "start": "2025-11-27 00:34:00 IST",
     "stop": "2025-11-27 00:57:00 IST",
     "channel": "jio-585",
     "title": "YOLO Hits",
@@ -546,7 +564,7 @@
     "stop": "2025-11-27 14:48:00 IST",
     "channel": "jio-585",
     "title": "Goblin",
-    "subTitle": "Over 900 years old, a cursed soldier must take a wife to end his immortal suffering. But his teenage bride's sincerity has him questioning and comparing the merits of love and death."
+    "subTitle": "A cursed immortal goblin falls for a ghost-seeing woman, sparking romance and supernatural conflict in a tale of magic and mystery."
   },
   {
     "startRaw": "20251127091800",
@@ -591,7 +609,7 @@
     "stop": "2025-11-27 20:50:00 IST",
     "channel": "jio-585",
     "title": "Goblin",
-    "subTitle": "Over 900 years old, a cursed soldier must take a wife to end his immortal suffering. But his teenage bride's sincerity has him questioning and comparing the merits of love and death."
+    "subTitle": "A cursed immortal goblin falls for a ghost-seeing woman, sparking romance and supernatural conflict in a tale of magic and mystery."
   },
   {
     "startRaw": "20251127152000",

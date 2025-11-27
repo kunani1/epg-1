@@ -766,12 +766,21 @@
   },
   {
     "startRaw": "20251127233000",
-    "stopRaw": "20251128003000",
+    "stopRaw": "20251128000000",
     "start": "2025-11-28 05:00:00 IST",
+    "stop": "2025-11-28 05:30:00 IST",
+    "channel": "jio-1175",
+    "title": "Words of Wisdom",
+    "subTitle": "A revered pundit shares profound wisdom from her spiritual journey and life experiences, offering guidance to cultivate harmony as well as inner peace."
+  },
+  {
+    "startRaw": "20251128000000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 05:30:00 IST",
     "stop": "2025-11-28 06:00:00 IST",
     "channel": "jio-1175",
-    "title": "Nirakari-Nirvikari-Nirahankari",
-    "subTitle": "A spiritual leader sheds light on the teachings of the Almighty and urges the followers to pursue the path of righteousness and kindness."
+    "title": "Mind Your Body",
+    "subTitle": "An expert demonstrates a set of mindful exercises for nurturing the body, as it is infinitely important to nourish the vessel that houses the mind."
   },
   {
     "startRaw": "20251128003000",

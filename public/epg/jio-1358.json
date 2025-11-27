@@ -379,26 +379,44 @@
   },
   {
     "startRaw": "20251127183000",
-    "stopRaw": "20251127210000",
+    "stopRaw": "20251127202500",
     "start": "2025-11-28 00:00:00 IST",
-    "stop": "2025-11-28 02:30:00 IST",
+    "stop": "2025-11-28 01:55:00 IST",
     "channel": "jio-1358",
     "title": "Doctor Doctor",
     "subTitle": "Keshav and Pushkar, two aspiring doctors, join a medical college and set out on an exciting and crazy journey, full of adventures."
   },
   {
-    "startRaw": "20251127210000",
-    "stopRaw": "20251127233000",
-    "start": "2025-11-28 02:30:00 IST",
-    "stop": "2025-11-28 05:00:00 IST",
+    "startRaw": "20251127202500",
+    "stopRaw": "20251127210100",
+    "start": "2025-11-28 01:55:00 IST",
+    "stop": "2025-11-28 02:31:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127210100",
+    "stopRaw": "20251127225300",
+    "start": "2025-11-28 02:31:00 IST",
+    "stop": "2025-11-28 04:23:00 IST",
     "channel": "jio-1358",
     "title": "Gol Gol Gara Gara",
     "subTitle": "Dada Dandekar hates women and dissuades his three unmarried sons from finding a bride. However, things change when Prachi enters their lives."
   },
   {
-    "startRaw": "20251127233000",
+    "startRaw": "20251127225300",
+    "stopRaw": "20251127233100",
+    "start": "2025-11-28 04:23:00 IST",
+    "stop": "2025-11-28 05:01:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251127233100",
     "stopRaw": "20251128003000",
-    "start": "2025-11-28 05:00:00 IST",
+    "start": "2025-11-28 05:01:00 IST",
     "stop": "2025-11-28 06:00:00 IST",
     "channel": "jio-1358",
     "title": "Patanjali Yog by Yog Rishi Swami Ramdev",

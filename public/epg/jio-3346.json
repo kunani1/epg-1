@@ -1,221 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-3346",
-    "title": "Yahoo Finance",
-    "subTitle": ""
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190100",
     "start": "2025-11-27 00:00:00 IST",
@@ -880,5 +664,374 @@
     "channel": "jio-3346",
     "title": "Market Domination: Overtime",
     "subTitle": "The market may have closed, but the action continues. We analyze the day's top takeaways."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Mind Your Money",
+    "subTitle": "Smart money moves, market insight, and expert advice to help all investors make confident decisions."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Stocks In Translation",
+    "subTitle": "Welcome to Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Warrior Money",
+    "subTitle": "From combat to cash flow: real advice to help vets win with money after military life."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-3346",
+    "title": "The Economy Decoded",
+    "subTitle": "A fast, focused breakdown of the key economic stories shaping markets, policy, and your wallet."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Investor Playbook",
+    "subTitle": "We provide investors with the strategies, moves, and mindset to navigate today's markets."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Power Players",
+    "subTitle": "We go to the top with industry leader interviews, revealing key strategies, shifts, and what's next."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Tech Domain",
+    "subTitle": "From the Mag 7 to AI and semiconductors, this is your hub for the tech titans driving the future."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Market Movers",
+    "subTitle": "Yahoo Finance highlights key moments in the previous trading session."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Market Domination: Overtime",
+    "subTitle": "The market may have closed, but the action continues. We analyze the day's top takeaways."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Warrior Money",
+    "subTitle": "From combat to cash flow: real advice to help vets win with money after military life."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Market Movers",
+    "subTitle": "Yahoo Finance highlights key moments in the previous trading session."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-3346",
+    "title": "The Economy Decoded",
+    "subTitle": "A fast, focused breakdown of the key economic stories shaping markets, policy, and your wallet."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Investor Playbook",
+    "subTitle": "We provide investors with the strategies, moves, and mindset to navigate today's markets."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Power Players",
+    "subTitle": "We go to the top with industry leader interviews, revealing key strategies, shifts, and what's next."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Tech Domain",
+    "subTitle": "From the Mag 7 to AI and semiconductors, this is your hub for the tech titans driving the future."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-3346",
+    "title": "The Economy Decoded",
+    "subTitle": "A fast, focused breakdown of the key economic stories shaping markets, policy, and your wallet."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Investor Playbook",
+    "subTitle": "We provide investors with the strategies, moves, and mindset to navigate today's markets."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Power Players",
+    "subTitle": "We go to the top with industry leader interviews, revealing key strategies, shifts, and what's next."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Tech Domain",
+    "subTitle": "From the Mag 7 to AI and semiconductors, this is your hub for the tech titans driving the future."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Living Not So Fabulously",
+    "subTitle": "Real money talk for the LGBTQI+ fam with no fluff, just truth, heart and a dash of fabulous."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Market Domination: Overtime",
+    "subTitle": "The market may have closed, but the action continues. We analyze the day's top takeaways."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Warrior Money",
+    "subTitle": "From combat to cash flow: real advice to help vets win with money after military life."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Market Movers",
+    "subTitle": "Yahoo Finance highlights key moments in the previous trading session."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Invest 2025: The bitcoin Billionaire",
+    "subTitle": "Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can't-miss conversation."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Mind Your Money",
+    "subTitle": "Smart money moves, market insight, and expert advice to help all investors make confident decisions."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Opening Bid: Unfiltered",
+    "subTitle": "Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Opening Bid: Unfiltered",
+    "subTitle": "Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Stocks In Translation",
+    "subTitle": "Welcome to Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Stocks In Translation",
+    "subTitle": "Welcome to Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Trader Talk",
+    "subTitle": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Trader Talk",
+    "subTitle": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-3346",
+    "title": "The Big Idea",
+    "subTitle": "Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any econom."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-3346",
+    "title": "The Big Idea",
+    "subTitle": "Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any econom."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-3346",
+    "title": "Decoding Retirement",
+    "subTitle": "Your guide to smarter retirement. Bob Powell breaks it down so you can build a secure future."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-3346",
+    "title": "Decoding Retirement",
+    "subTitle": "Your guide to smarter retirement. Bob Powell breaks it down so you can build a secure future."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-3346",
+    "title": "Financial Freestyle",
+    "subTitle": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy."
   }
 ]

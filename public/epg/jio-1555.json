@@ -1,329 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Top News",
-    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Top 30",
-    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Bhavishya Ee Dina",
-    "subTitle": "An expert provides astrological guidance to the audience and shares insightful information on horoscopes and celestial movements."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-1555",
-    "title": "En Samachara",
-    "subTitle": "The host presents the latest and most important social, political and economic news updates and developments of the day."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Miss Madabedi",
-    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Top 30",
-    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Run Bhoomi",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-1555",
-    "title": "Sharavega",
-    "subTitle": "The host presents the latest news headlines, important developments and major updates that impact people in different parts of the state."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-1555",
-    "title": "News 1st Report",
-    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Crime Report",
-    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Top 30",
-    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Miss Madabedi",
-    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Mane Mane Meenakshi",
-    "subTitle": "The host delves into the latest updates about celebrities, sharing detailed insights and encouraging lively discussion on relavant topics."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Sharavega",
-    "subTitle": "The host presents the latest news headlines, important developments and major updates that impact people in different parts of the state."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-1555",
-    "title": "News 1st Report",
-    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Crime Report",
-    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-1555",
-    "title": "News First Live",
-    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-1555",
-    "title": "6 PM Special",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Miss Madabedi",
-    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-1555",
-    "title": "Samagra Karnataka",
-    "subTitle": "The host presents a detailed report on the latest news updates, developments and pressing issues that affect the people of Karnataka."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-1555",
-    "title": "News 1st Report",
-    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-1555",
-    "title": "India 1st",
-    "subTitle": "The host delivers a detailed report on news and updates pertaining to politics, socio-economic issues, and current affairs in the country."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-1555",
-    "title": "Crime Report",
-    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-1555",
-    "title": "Top News",
-    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-1555",
-    "title": "Bengaluru Live",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues in Bengaluru, live."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-1555",
-    "title": "Suddi E Dina",
-    "subTitle": "The host presents the latest updates and key developments pertaining to the social, political and economic matters of the day."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-1555",
-    "title": "Top News",
-    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -1129,6 +805,411 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:30:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-1555",
+    "title": "Top News",
+    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Suddi E Dina",
+    "subTitle": "The host presents the latest updates and key developments pertaining to the social, political and economic matters of the day."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Bengaluru Live",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues in Bengaluru, live."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-1555",
+    "title": "India 1st",
+    "subTitle": "The host delivers a detailed report on news and updates pertaining to politics, socio-economic issues, and current affairs in the country."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Top News",
+    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Bengaluru Live",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues in Bengaluru, live."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Suddi E Dina",
+    "subTitle": "The host presents the latest updates and key developments pertaining to the social, political and economic matters of the day."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Samagra Karnataka",
+    "subTitle": "The host presents a detailed report on the latest news updates, developments and pressing issues that affect the people of Karnataka."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Top News",
+    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Bengaluru Live",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues in Bengaluru, live."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-1555",
+    "title": "India 1st",
+    "subTitle": "The host delivers a detailed report on news and updates pertaining to politics, socio-economic issues, and current affairs in the country."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Top 30",
+    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Bhavishya Ee Dina",
+    "subTitle": "An expert provides astrological guidance to the audience and shares insightful information on horoscopes and celestial movements."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-1555",
+    "title": "En Samachara",
+    "subTitle": "The host presents the latest and most important social, political and economic news updates and developments of the day."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Miss Madabedi",
+    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Top 30",
+    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Run Bhoomi",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Sharavega",
+    "subTitle": "The host presents the latest news headlines, important developments and major updates that impact people in different parts of the state."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-1555",
+    "title": "News 1st Report",
+    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Crime Report",
+    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Top 30",
+    "subTitle": "The host presents a comprehensive and detailed report of the top 30 latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Miss Madabedi",
+    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Mane Mane Meenakshi",
+    "subTitle": "The host delves into the latest updates about celebrities, sharing detailed insights and encouraging lively discussion on relavant topics."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Sharavega",
+    "subTitle": "The host presents the latest news headlines, important developments and major updates that impact people in different parts of the state."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-1555",
+    "title": "News 1st Report",
+    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Crime Report",
+    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-1555",
+    "title": "News First Live",
+    "subTitle": "The anchor presents a detailed report on some of the latest and most important news stories and updates of the day, live."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-1555",
+    "title": "6 PM Special",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Miss Madabedi",
+    "subTitle": "The host presents summarised updates on important events and social, political, sports and economic news from different parts of the world."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Samagra Karnataka",
+    "subTitle": "The host presents a detailed report on the latest news updates, developments and pressing issues that affect the people of Karnataka."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-1555",
+    "title": "News 1st Report",
+    "subTitle": "The host presents the latest news report and key developments on governance, social, economic, sports, and political issues."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-1555",
+    "title": "India 1st",
+    "subTitle": "The host delivers a detailed report on news and updates pertaining to politics, socio-economic issues, and current affairs in the country."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Crime Report",
+    "subTitle": "The host presents various stories of crimes committed across the country and reports on the details and latest updates regarding the cases."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Top News",
+    "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-1555",
+    "title": "Bengaluru Live",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues in Bengaluru, live."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-1555",
+    "title": "Suddi E Dina",
+    "subTitle": "The host presents the latest updates and key developments pertaining to the social, political and economic matters of the day."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-1555",
     "title": "Top News",
     "subTitle": "The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day."

@@ -1,311 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-725",
-    "title": "Gulf News",
-    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-725",
-    "title": "News N Views",
-    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-725",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-725",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-725",
-    "title": "News Night",
-    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-725",
-    "title": "9PM",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-725",
-    "title": "News N Views",
-    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-725",
-    "title": "News Round Up",
-    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-725",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-725",
-    "title": "First News",
-    "subTitle": "The host presents the latest information, advancements and developments on various important issues that affect many lives."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-725",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-725",
-    "title": "Good Morning Keralam",
-    "subTitle": "The host interacts with various eminent personalities, who shed light on their personal life and professional achievements."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-725",
-    "title": "Speed News",
-    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-725",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-725",
-    "title": "Morning Round Up",
-    "subTitle": "The host covers breaking news, current events and important socio-political developments from local to global perspectives."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-725",
-    "title": "News Time",
-    "subTitle": "The host invites a panel of experts to share their opinions and perspectives on significant issues affecting the nation."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-725",
-    "title": "Mid Day News",
-    "subTitle": "The host delves into the latest socio-political and economic events around the globe and explains them in detail."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-725",
-    "title": "Speed News",
-    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-725",
-    "title": "Noon Round Up",
-    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-725",
-    "title": "News At 2 PM",
-    "subTitle": "The host provides information on the latest updates on politics, business, entertainment, science, sports and current events."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-725",
-    "title": "Hello Doctor",
-    "subTitle": "Health and medical experts come together to talk about the benefits of Ayurveda, allopathy and homoeopathy and provide suggestions on various issues."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-725",
-    "title": "Tea Time News",
-    "subTitle": "The host provides a comprehensive insight into the latest news, developments and current affairs of national and global importance."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-725",
-    "title": "News At 4",
-    "subTitle": "The host presents a crisp mix of regional and global headlines, offering real-time news, analysis and top stories in a clear and accessible format."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-725",
-    "title": "News At 5",
-    "subTitle": "The anchor presents a culmination of the latest headlines and news reports that cover current regional and national developments."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-725",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-725",
-    "title": "Evening Round Up",
-    "subTitle": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-725",
-    "title": "News At 7",
-    "subTitle": "The host provides insights into some of the latest news, current affairs and developments on social, economic and political issues of national importance."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-725",
-    "title": "Todays Debate",
-    "subTitle": "The host discusses the latest and the most relevant social, political and economic issues of the country with various experts."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-725",
-    "title": "News N Views",
-    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-725",
-    "title": "News At 9 PM",
-    "subTitle": "The host presents the most recent news, updates and developments that took place in the entire day and provides coverage on current affairs."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-725",
-    "title": "Speed News",
-    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-725",
-    "title": "News at 10",
-    "subTitle": "The host presents a detailed analysis of various news stories and developments pertaining to political and social affairs of the world."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-725",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-725",
-    "title": "News Night",
-    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -922,6 +616,321 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:00:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-725",
+    "title": "News Night",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-725",
+    "title": "Gulf News",
+    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-725",
+    "title": "News N Views",
+    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-725",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-725",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-725",
+    "title": "News Night",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-725",
+    "title": "9PM",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-725",
+    "title": "News N Views",
+    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-725",
+    "title": "News Round Up",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-725",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-725",
+    "title": "First News",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues that affect many lives."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-725",
+    "title": "Pradeshika Varthakal",
+    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-725",
+    "title": "Good Morning Keralam",
+    "subTitle": "The host interacts with various eminent personalities, who shed light on their personal life and professional achievements."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-725",
+    "title": "Speed News",
+    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-725",
+    "title": "Pradeshika Varthakal",
+    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-725",
+    "title": "Morning Round Up",
+    "subTitle": "The host covers breaking news, current events and important socio-political developments from local to global perspectives."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-725",
+    "title": "News Time",
+    "subTitle": "The host invites a panel of experts to share their opinions and perspectives on significant issues affecting the nation."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-725",
+    "title": "Mid Day News",
+    "subTitle": "The host delves into the latest socio-political and economic events around the globe and explains them in detail."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-725",
+    "title": "Speed News",
+    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-725",
+    "title": "Noon Round Up",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-725",
+    "title": "News At 2 PM",
+    "subTitle": "The host provides information on the latest updates on politics, business, entertainment, science, sports and current events."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-725",
+    "title": "Hello Doctor",
+    "subTitle": "Health and medical experts come together to talk about the benefits of Ayurveda, allopathy and homoeopathy and provide suggestions on various issues."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-725",
+    "title": "Tea Time News",
+    "subTitle": "The host provides a comprehensive insight into the latest news, developments and current affairs of national and global importance."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-725",
+    "title": "News At 4",
+    "subTitle": "The host presents a crisp mix of regional and global headlines, offering real-time news, analysis and top stories in a clear and accessible format."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-725",
+    "title": "Kairali Archiev's T",
+    "subTitle": "Some of the most memorable interviews, news segments and other programmes from the archives of the channel are telecast."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-725",
+    "title": "News At 5",
+    "subTitle": "The anchor presents a culmination of the latest headlines and news reports that cover current regional and national developments."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-725",
+    "title": "Pradeshika Varthakal",
+    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-725",
+    "title": "Evening Round Up",
+    "subTitle": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-725",
+    "title": "News At 7",
+    "subTitle": "The host provides insights into some of the latest news, current affairs and developments on social, economic and political issues of national importance."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-725",
+    "title": "Todays Debate",
+    "subTitle": "The host discusses the latest and the most relevant social, political and economic issues of the country with various experts."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-725",
+    "title": "News N Views",
+    "subTitle": "The host presents updates about various socio-political issues and invites experts from various fields to shares their views about it."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-725",
+    "title": "News At 9 PM",
+    "subTitle": "The host presents the most recent news, updates and developments that took place in the entire day and provides coverage on current affairs."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-725",
+    "title": "Speed News",
+    "subTitle": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-725",
+    "title": "News at 10",
+    "subTitle": "The host presents a detailed analysis of various news stories and developments pertaining to political and social affairs of the world."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-725",
+    "title": "Pradeshika Varthakal",
+    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-725",
     "title": "News Night",
     "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally."

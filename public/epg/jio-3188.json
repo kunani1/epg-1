@@ -1,239 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-3188",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-3188",
-    "title": "Health Program",
-    "subTitle": "An expert from the health sector shares remedies to cure commonly known illnesses and suggests useful measures to lead a healthy life."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Talk Show",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Ummid Navjivan Ki",
-    "subTitle": "A medical professional sheds light on common ailments while providing relevant tips and testimonials of patients to help people maintain a healthy lifestyle."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Ascharyjanak Kintu Satya",
-    "subTitle": "The host collates and presents some of the most surprising health-related cases whilst shedding light on remedies surrounding the same."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Health Show",
-    "subTitle": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-3188",
-    "title": "ADVT",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-3188",
-    "title": "One To One",
-    "subTitle": "The host interviews eminent political personalities in an one-on-one interview to find out what political course is being undertaken by them."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Religious",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Bollywood ENT",
-    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the Hindi film industry."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Chhoo Lo Aasman",
-    "subTitle": "The host quizzes contestants based on all things spiritual and the contestants, who participate in teams of two, try to win."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-3188",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Health Reactive",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Vox Pop On Current Issue",
-    "subTitle": "The host presents an in-depth analysis of a particular issue that has been raising concerns and talks to the locals to get their take on the matter."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Bol Lucknow Bol",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-3188",
-    "title": "One To One",
-    "subTitle": "The host interviews eminent political personalities in an one-on-one interview to find out what political course is being undertaken by them."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Chaupal On Public Issue",
-    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people around the country."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Mano Ya Na Mano",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Top 10 News",
-    "subTitle": "The host presents the top 10 news updates concerning the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-3188",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Manoranjan Ki Duniya",
-    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the entertainment world."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Documentry",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Khabar Din Bhar KI",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating the latest news developments and current affairs from across the region."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Religious Evening",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-3188",
-    "title": "Body Revival Testimonial",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-3188",
-    "title": "Bol India Bol Evening",
-    "subTitle": "The host collates the latest news and updates on politics, socioeconomic issues, educational developments and entertainment."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -688,6 +454,240 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:30:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-3188",
+    "title": "Bol India Bol Evening",
+    "subTitle": "The host collates the latest news and updates on politics, socioeconomic issues, educational developments and entertainment."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-3188",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-3188",
+    "title": "Health Program",
+    "subTitle": "An expert from the health sector shares remedies to cure commonly known illnesses and suggests useful measures to lead a healthy life."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Talk Show",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Ummid Navjivan Ki",
+    "subTitle": "A medical professional sheds light on common ailments while providing relevant tips and testimonials of patients to help people maintain a healthy lifestyle."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Ascharyjanak Kintu Satya",
+    "subTitle": "The host collates and presents some of the most surprising health-related cases whilst shedding light on remedies surrounding the same."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Health Show",
+    "subTitle": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-3188",
+    "title": "ADVT",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-3188",
+    "title": "One To One",
+    "subTitle": "The host interviews eminent political personalities in an one-on-one interview to find out what political course is being undertaken by them."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Religious",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Bollywood ENT",
+    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the Hindi film industry."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Chhoo Lo Aasman",
+    "subTitle": "The host quizzes contestants based on all things spiritual and the contestants, who participate in teams of two, try to win."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-3188",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Health Reactive",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Vox Pop On Current Issue",
+    "subTitle": "The host presents an in-depth analysis of a particular issue that has been raising concerns and talks to the locals to get their take on the matter."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Bol Lucknow Bol",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-3188",
+    "title": "One To One",
+    "subTitle": "The host interviews eminent political personalities in an one-on-one interview to find out what political course is being undertaken by them."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Chaupal On Public Issue",
+    "subTitle": "The host sheds light on the latest news stories and significant developments from various fields impacting people around the country."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Mano Ya Na Mano",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Top 10 News",
+    "subTitle": "The host presents the top 10 news updates concerning the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-3188",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Manoranjan Ki Duniya",
+    "subTitle": "The host talks about the latest releases, most trending news, updates, gossip and developments from the entertainment world."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Documentry",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Khabar Din Bhar KI",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating the latest news developments and current affairs from across the region."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Religious Evening",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-3188",
+    "title": "Body Revival Testimonial",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-3188",
     "title": "Bol India Bol Evening",
     "subTitle": "The host collates the latest news and updates on politics, socioeconomic issues, educational developments and entertainment."

@@ -1,239 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-656",
-    "title": "News9 Plus Show",
-    "subTitle": "The host engages in a discussion with guests on the latest news, significant events and key developments in social, political, and economic matters from across the country."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-656",
-    "title": "The South Indian",
-    "subTitle": "The hosts offer deep insights on the latest updates from all the South Indian states related to social, political and economic issues and achievements."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-656",
-    "title": "Game On",
-    "subTitle": "The host delivers the latest updates and offers discussions on major sports events, covering upcoming tournaments and player performances from both India and around the world."
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-656",
-    "title": "News9 Plus Show",
-    "subTitle": "The host engages in a discussion with guests on the latest news, significant events and key developments in social, political, and economic matters from across the country."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-656",
-    "title": "Global Lens",
-    "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-656",
-    "title": "The South Indian",
-    "subTitle": "The hosts offer deep insights on the latest updates from all the South Indian states related to social, political and economic issues and achievements."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-656",
-    "title": "On Point With Kartikeya",
-    "subTitle": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-656",
-    "title": "Global Lens",
-    "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-656",
-    "title": "Business News",
-    "subTitle": "Financial experts analyse the latest developments and trends in the business world, providing key insights into corporate strategies, economic policies, and stock market movements."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-656",
-    "title": "The South Indian",
-    "subTitle": "The hosts offer deep insights on the latest updates from all the South Indian states related to social, political and economic issues and achievements."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-656",
-    "title": "Top Story",
-    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-656",
-    "title": "Game On",
-    "subTitle": "The host delivers the latest updates and offers discussions on major sports events, covering upcoming tournaments and player performances from both India and around the world."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-656",
-    "title": "On Point With Kartikeya",
-    "subTitle": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-656",
-    "title": "Global Lens",
-    "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-656",
-    "title": "News9 Plus Show",
-    "subTitle": "The host engages in a discussion with guests on the latest news, significant events and key developments in social, political, and economic matters from across the country."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-656",
-    "title": "On Point With Kartikeya",
-    "subTitle": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-656",
-    "title": "Global Lens",
-    "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126193000",
     "start": "2025-11-27 00:00:00 IST",
@@ -700,5 +466,356 @@
     "channel": "jio-656",
     "title": "Global Lens",
     "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-656",
+    "title": "Tech Talk",
+    "subTitle": "The host delivers the latest news stories on technological improvements, recently launched electronic gadgets and innovations in the world."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-656",
+    "title": "Business News",
+    "subTitle": "Financial experts analyse the latest developments and trends in the business world, providing key insights into corporate strategies, economic policies, and stock market movements."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 This Week",
+    "subTitle": "The host delivers the latest updates and key news of the week, covering governance, social, economic, and political issues from across the world."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-656",
+    "title": "The South Indian",
+    "subTitle": "The hosts offer deep insights on the latest updates from all the South Indian states related to social, political and economic issues and achievements."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-656",
+    "title": "Global Lens",
+    "subTitle": "The host offers in-depth insights and analysis on the latest global news, covering key issues across political, economic, and social sectors from around the world."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-656",
+    "title": "On Point With Kartikeya",
+    "subTitle": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-656",
+    "title": "Business News",
+    "subTitle": "Financial experts analyse the latest developments and trends in the business world, providing key insights into corporate strategies, economic policies, and stock market movements."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-656",
+    "title": "Tech Talk",
+    "subTitle": "The host delivers the latest news stories on technological improvements, recently launched electronic gadgets and innovations in the world."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 This Week",
+    "subTitle": "The host delivers the latest updates and key news of the week, covering governance, social, economic, and political issues from across the world."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-656",
+    "title": "Tech Talk",
+    "subTitle": "The host delivers the latest news stories on technological improvements, recently launched electronic gadgets and innovations in the world."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-656",
+    "title": "Lounge Knights",
+    "subTitle": "The host explores the lifestyle, featuring upscale restaurants, clubs, cafes and insights into premium dining experiences and nightlife establishments across India."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-656",
+    "title": "Tech Talk",
+    "subTitle": "The host delivers the latest news stories on technological improvements, recently launched electronic gadgets and innovations in the world."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-656",
+    "title": "Business News",
+    "subTitle": "Financial experts analyse the latest developments and trends in the business world, providing key insights into corporate strategies, economic policies, and stock market movements."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-656",
+    "title": "Tech Talk",
+    "subTitle": "The host delivers the latest news stories on technological improvements, recently launched electronic gadgets and innovations in the world."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-656",
+    "title": "Lounge Knights",
+    "subTitle": "The host explores the lifestyle, featuring upscale restaurants, clubs, cafes and insights into premium dining experiences and nightlife establishments across India."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-656",
+    "title": "Top Story",
+    "subTitle": "The host delivers the day's top news stories along with the latest updates on ongoing social, political, and economic issues at both national and international levels."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 This Week",
+    "subTitle": "The host delivers the latest updates and key news of the week, covering governance, social, economic, and political issues from across the world."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-656",
+    "title": "Lounge Knights",
+    "subTitle": "The host explores the lifestyle, featuring upscale restaurants, clubs, cafes and insights into premium dining experiences and nightlife establishments across India."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-656",
+    "title": "News9 Originals",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-656",
+    "title": "Business News",
+    "subTitle": "Financial experts analyse the latest developments and trends in the business world, providing key insights into corporate strategies, economic policies, and stock market movements."
   }
 ]

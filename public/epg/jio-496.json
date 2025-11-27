@@ -1,545 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-496",
-    "title": "Eco Africa",
-    "subTitle": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125190200",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 00:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251125190200",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:32:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-496",
-    "title": "Eco India",
-    "subTitle": "From urban gardens to fungi labs and sustainable goat farms: agriculture is being reinvented to feed cities and empower communities."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-496",
-    "title": "Tomorrow Today",
-    "subTitle": "Cows are warming a Bavarian farm with their body heat - and a little help from special waterbeds. Also: Europe's large language model AI Apertus, mapping a mouse brain. And how secure are heart implants from cyberattacks?"
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-496",
-    "title": "The Day - News in Review",
-    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125210200",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 02:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251125210200",
-    "stopRaw": "20251125211500",
-    "start": "2025-11-26 02:32:00 IST",
-    "stop": "2025-11-26 02:45:00 IST",
-    "channel": "jio-496",
-    "title": "Interview",
-    "subTitle": "WTO chief Ngozi Okonjo-Iweala has called for a correction in the world's overreliance on the US and China for trade. Speaking to DW in Johannesburg, South Africa, at the G20 Summit."
-  },
-  {
-    "startRaw": "20251125211500",
-    "stopRaw": "20251125214500",
-    "start": "2025-11-26 02:45:00 IST",
-    "stop": "2025-11-26 03:15:00 IST",
-    "channel": "jio-496",
-    "title": "Close Up",
-    "subTitle": "Fentanyl is estimated to be fifty times as potent as heroin and is extremely addictive. The number of people in Poland abusing this powerful painkiller is growing. There have been dozens of fatalities."
-  },
-  {
-    "startRaw": "20251125214500",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 03:15:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-496",
-    "title": "Shift",
-    "subTitle": "A company built for spies is now an AI giant influencing war and immigration. How did Palantir get here, and why should we care? Plus: Elon Musk's plan for Grokipedia, and the Amazon outage that broke the internet."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125220200",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 03:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251125220200",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:32:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-496",
-    "title": "The Day - News in Review",
-    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-496",
-    "title": "The 77 Percent",
-    "subTitle": "We uncover a kidney trade exploiting young Kenyans, visit Monrovia's kush dens to hear from addicted youth, and share a warning from a former Nigerian drug lord."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251125231500",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 04:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251125231500",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:45:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-496",
-    "title": "Interview",
-    "subTitle": "WTO chief Ngozi Okonjo-Iweala has called for a correction in the world's overreliance on the US and China for trade. Speaking to DW in Johannesburg, South Africa, at the G20 Summit."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-496",
-    "title": "Global Us",
-    "subTitle": "Women in India are fighting back against violence and misogyny. Young models at Kenya's Kakuma refugee camp are hoping to advance. And China offers African students scholarships: education as geopolitical strategy."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126000200",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 05:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126000200",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:32:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-496",
-    "title": "The Day - News in Review",
-    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-496",
-    "title": "dw",
-    "subTitle": "Working for a delivery service is a tough job anywhere - and one done by thousands of foreign students in Germany. How are they finding life in their new home?"
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126011500",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 06:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126011500",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 06:45:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-496",
-    "title": "In focus",
-    "subTitle": "Throughout its 250-year history, the United States has engaged in conflict almost continuously, and its armed forces have shaped American identity and its leaders' political decisions."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126020200",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 07:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126020200",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:32:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-496",
-    "title": "The Day - News in Review",
-    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-496",
-    "title": "Global Us",
-    "subTitle": "Women in India are fighting back against violence and misogyny. Young models at Kenya's Kakuma refugee camp are hoping to advance. And China offers African students scholarships: education as geopolitical strategy."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126031500",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 08:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126031500",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:45:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-496",
-    "title": "Interview",
-    "subTitle": "WTO chief Ngozi Okonjo-Iweala has called for a correction in the world's overreliance on the US and China for trade. Speaking to DW in Johannesburg, South Africa, at the G20 Summit."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-496",
-    "title": "Eco Africa",
-    "subTitle": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126041500",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 09:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126041500",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 09:45:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-496",
-    "title": "In focus",
-    "subTitle": "Throughout its 250-year history, the United States has engaged in conflict almost continuously, and its armed forces have shaped American identity and its leaders' political decisions."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126050200",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 10:32:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126050200",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:32:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-496",
-    "title": "The Day - News in Review",
-    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-496",
-    "title": "dw",
-    "subTitle": "Working for a delivery service is a tough job anywhere - and one done by thousands of foreign students in Germany. How are they finding life in their new home?"
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126061500",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 11:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126061500",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:45:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-496",
-    "title": "Interview",
-    "subTitle": "WTO chief Ngozi Okonjo-Iweala has called for a correction in the world's overreliance on the US and China for trade. Speaking to DW in Johannesburg, South Africa, at the G20 Summit."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-496",
-    "title": "dw",
-    "subTitle": "AI therapy and chatbots offer help for anxiety and panic, but experts warn they cannot replace trained therapists and can misjudge emotional crises."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-496",
-    "title": "Close Up",
-    "subTitle": "Fentanyl is estimated to be fifty times as potent as heroin and is extremely addictive. The number of people in Poland abusing this powerful painkiller is growing. There have been dozens of fatalities."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-496",
-    "title": "Eco India",
-    "subTitle": "From urban gardens to fungi labs and sustainable goat farms: agriculture is being reinvented to feed cities and empower communities."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126091500",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 14:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126091500",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 14:45:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-496",
-    "title": "In focus",
-    "subTitle": "In societies that prioritise appearance, hair not only provides protection from the elements but also functions as major social capital."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-496",
-    "title": "Close Up",
-    "subTitle": "Fentanyl is estimated to be fifty times as potent as heroin and is extremely addictive. The number of people in Poland abusing this powerful painkiller is growing. There have been dozens of fatalities."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-496",
-    "title": "dw",
-    "subTitle": "Working for a delivery service is a tough job anywhere - and one done by thousands of foreign students in Germany. How are they finding life in their new home?"
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126121500",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 17:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126121500",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 17:45:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-496",
-    "title": "In focus",
-    "subTitle": "Explores Neuschwanstein Castle in Bavaria, a magnificent structure that has become a symbol and icon of identity for all of Germany."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126131500",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 18:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126131500",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:45:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-496",
-    "title": "Business Beyond",
-    "subTitle": "After years of economic stagnation, Germany is investing hundreds of billions of euros into modernizing its infrastructure and promoting climate-friendly technology."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-496",
-    "title": "Eco Africa",
-    "subTitle": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-496",
-    "title": "dw",
-    "subTitle": "Working for a delivery service is a tough job anywhere - and one done by thousands of foreign students in Germany. How are they finding life in their new home?"
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-496",
-    "title": "Eco India",
-    "subTitle": "From urban gardens to fungi labs and sustainable goat farms: agriculture is being reinvented to feed cities and empower communities."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126161500",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 21:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126161500",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 21:45:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-496",
-    "title": "In focus",
-    "subTitle": "In societies that prioritise appearance, hair not only provides protection from the elements but also functions as major social capital."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126171500",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 22:45:00 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
-    "startRaw": "20251126171500",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:45:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-496",
-    "title": "Business Beyond",
-    "subTitle": "After years of economic stagnation, Germany is investing hundreds of billions of euros into modernizing its infrastructure and promoting climate-friendly technology."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-496",
-    "title": "Close Up",
-    "subTitle": "Fentanyl is estimated to be fifty times as potent as heroin and is extremely addictive. The number of people in Poland abusing this powerful painkiller is growing. There have been dozens of fatalities."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-496",
-    "title": "DW News",
-    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -1600,5 +1060,617 @@
     "channel": "jio-496",
     "title": "DW News",
     "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-496",
+    "title": "Don't hold back",
+    "subTitle": "Prominent artist Seth Pimentel opens up about his struggles with bipolarism and explores the difficulties men encounter seeking help for mental health."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128190200",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 00:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128190200",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:32:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-496",
+    "title": "Focus on Europe",
+    "subTitle": "Following far-right attacks on queer events in Germany, the police showed up in force to secure the Pride march in Eberswalde. Activists in Switzerland want to bring nature back to concrete-covered urban areas."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-496",
+    "title": "Eco Africa",
+    "subTitle": "In Uganda, e-cargo bikes support the health service, boost businesses and cut emissions. Also: A sustainable women's cooperative in Mauritania and bird protection in Burundi."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-496",
+    "title": "The Day - News in Review",
+    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128210200",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 02:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128210200",
+    "stopRaw": "20251128211500",
+    "start": "2025-11-29 02:32:00 IST",
+    "stop": "2025-11-29 02:45:00 IST",
+    "channel": "jio-496",
+    "title": "Travel",
+    "subTitle": "Discover the captivating world of travel with us. Join our journeys to diverse regions and cities in Germany, across Europe, and to far-flung destinations around the globe."
+  },
+  {
+    "startRaw": "20251128211500",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 02:45:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-496",
+    "title": "In focus",
+    "subTitle": "While facing constant criticism for its business practices, Amazon is accused of pressuring retailers and fostering unfair competition."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128220200",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 03:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128220200",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:32:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-496",
+    "title": "The Day - News in Review",
+    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-496",
+    "title": "Eco India",
+    "subTitle": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128231500",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 04:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251128231500",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:45:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-496",
+    "title": "Travel",
+    "subTitle": "Discover the captivating world of travel with us. Join our journeys to diverse regions and cities in Germany, across Europe, and to far-flung destinations around the globe."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129000200",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 05:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129000200",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:32:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-496",
+    "title": "The Day - News in Review",
+    "subTitle": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-496",
+    "title": "Rev+",
+    "subTitle": "He was a racing legend, a visionary investor - and one of Porsche's three founders. But when Hitler rose to power, Adolf Rosenberger's Jewish heritage became a death sentence."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129011500",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 06:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129011500",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:45:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-496",
+    "title": "The Dip",
+    "subTitle": "Donald Trump's government has removed backing for billions of dollars worth of green energy projects. As energy-hungry AI ramps up, could this decision make the US less competitive?"
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-496",
+    "title": "Tomorrow Today",
+    "subTitle": "High-speed X-rays let researchers see exactly what happens during a collision. Also on the show: plastic-eating worms, a sailboat for ocean research, and why women in soccer run farther and play harder than men."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129020200",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 07:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129020200",
+    "stopRaw": "20251129021500",
+    "start": "2025-11-29 07:32:00 IST",
+    "stop": "2025-11-29 07:45:00 IST",
+    "channel": "jio-496",
+    "title": "Shift -- Living in the Digital Age",
+    "subTitle": "Experts present key facts about complicated subjects regarding modern internet technology, including blockchain, artificial intelligence and more."
+  },
+  {
+    "startRaw": "20251129021500",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 07:45:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-496",
+    "title": "In focus",
+    "subTitle": "Throughout its 250-year history, the United States has engaged in conflict almost continuously, and its armed forces have shaped American identity and its leaders' political decisions."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129031500",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 08:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129031500",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:45:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-496",
+    "title": "Travel",
+    "subTitle": "Discover the captivating world of travel with us. Join our journeys to diverse regions and cities in Germany, across Europe, and to far-flung destinations around the globe."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-496",
+    "title": "To the Point",
+    "subTitle": "A panel of experts analyse international issues that are making the news headlines."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129041500",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 09:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129041500",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:45:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-496",
+    "title": "Shift -- Living in the Digital Age",
+    "subTitle": "Experts present key facts about complicated subjects regarding modern internet technology, including blockchain, artificial intelligence and more."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-496",
+    "title": "Euromaxx - Lifestyle Europe",
+    "subTitle": "Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129050200",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 10:32:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129050200",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:32:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-496",
+    "title": "dw",
+    "subTitle": "A deep dive into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape history, present and future."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-496",
+    "title": "The 77 Percent",
+    "subTitle": "This week on The 77 Percent, we look at the movements shaping Africa's political future. Young people are challenging election results and asking whether democracy can survive as aging leaders cling to power."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129061500",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 11:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129061500",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:45:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-496",
+    "title": "Travel",
+    "subTitle": "Discover the captivating world of travel with us. Join our journeys to diverse regions and cities in Germany, across Europe, and to far-flung destinations around the globe."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-496",
+    "title": "Rev+",
+    "subTitle": "He was a racing legend, a visionary investor - and one of Porsche's three founders. But when Hitler rose to power, Adolf Rosenberger's Jewish heritage became a death sentence."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129071500",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 12:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129071500",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:45:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-496",
+    "title": "Sports Life",
+    "subTitle": "An extensive inside look at the international world of sports, from in-depth game analysis to exclusive player interviews."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-496",
+    "title": "Tomorrow Today",
+    "subTitle": "High-speed X-rays let researchers see exactly what happens during a collision. Also on the show: plastic-eating worms, a sailboat for ocean research, and why women in soccer run farther and play harder than men."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129081500",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 13:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129081500",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 13:45:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-496",
+    "title": "In focus",
+    "subTitle": "In societies that prioritise appearance, hair not only provides protection from the elements but also functions as major social capital."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129091500",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 14:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129091500",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:45:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-496",
+    "title": "Sports Life",
+    "subTitle": "An extensive inside look at the international world of sports, from in-depth game analysis to exclusive player interviews."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-496",
+    "title": "dw",
+    "subTitle": "A cancer diagnosis, an accident, a miscarriage. In Good Shape looks at how to overcome devastating life events."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129101500",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 15:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129101500",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:45:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-496",
+    "title": "Shift -- Living in the Digital Age",
+    "subTitle": "Experts present key facts about complicated subjects regarding modern internet technology, including blockchain, artificial intelligence and more."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-496",
+    "title": "dw",
+    "subTitle": "A deep dive into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape history, present and future."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129110300",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 16:33:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129110300",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 16:33:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-496",
+    "title": "In focus",
+    "subTitle": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129121500",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 17:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129121500",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:45:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-496",
+    "title": "Shift -- Living in the Digital Age",
+    "subTitle": "Experts present key facts about complicated subjects regarding modern internet technology, including blockchain, artificial intelligence and more."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-496",
+    "title": "Euromaxx - Lifestyle Europe",
+    "subTitle": "Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129131500",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 18:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129131500",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 18:45:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-496",
+    "title": "In focus",
+    "subTitle": "Explores Neuschwanstein Castle in Bavaria, a magnificent structure that has become a symbol and icon of identity for all of Germany."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129141500",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 19:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129141500",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:45:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-496",
+    "title": "Reporter - On Location",
+    "subTitle": "Cameras at the ready, reporters present in-depth portraits and stories from across the world."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-496",
+    "title": "The 77 Percent",
+    "subTitle": "This week on The 77 Percent, we look at the movements shaping Africa's political future. Young people are challenging election results and asking whether democracy can survive as aging leaders cling to power."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129151500",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 20:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129151500",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:45:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-496",
+    "title": "Interview",
+    "subTitle": "WTO chief Ngozi Okonjo-Iweala has called for a correction in the world's overreliance on the US and China for trade. Speaking to DW in Johannesburg, South Africa, at the G20 Summit."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-496",
+    "title": "Euromaxx - Lifestyle Europe",
+    "subTitle": "Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129161500",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 21:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129161500",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:45:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-496",
+    "title": "Sports Life",
+    "subTitle": "An extensive inside look at the international world of sports, from in-depth game analysis to exclusive player interviews."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129171500",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 22:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129171500",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:45:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-496",
+    "title": "Shift -- Living in the Digital Age",
+    "subTitle": "Experts present key facts about complicated subjects regarding modern internet technology, including blockchain, artificial intelligence and more."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-496",
+    "title": "The 77 Percent",
+    "subTitle": "This week on The 77 Percent, we look at the movements shaping Africa's political future. Young people are challenging election results and asking whether democracy can survive as aging leaders cling to power."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129181500",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:45:00 IST",
+    "channel": "jio-496",
+    "title": "DW News",
+    "subTitle": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world."
+  },
+  {
+    "startRaw": "20251129181500",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:45:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-496",
+    "title": "Reporter - On Location",
+    "subTitle": "Cameras at the ready, reporters present in-depth portraits and stories from across the world."
   }
 ]

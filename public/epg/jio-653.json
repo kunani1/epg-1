@@ -1,437 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-653",
-    "title": "Kandiddu Kaanaddu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-653",
-    "title": "Ola Nota",
-    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-653",
-    "title": "6 pm Sakhat Suddi",
-    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms."
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Vishesha Varadi",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-653",
-    "title": "Real Show",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-653",
-    "title": "6 pm Sakhat Suddi",
-    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-653",
-    "title": "Namaste Karnataka",
-    "subTitle": "The host presents the latest news updates and developments surrounding various socio-economic and political issues and provides updates on current events from the state of Karnataka."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-653",
-    "title": "En Kathe",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-653",
-    "title": "31 Jille 31 Suddi",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the top 31 latest news and developments from nearby villages."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-653",
-    "title": "Kannada Naadi",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-653",
-    "title": "Karnataka Suddi",
-    "subTitle": "The host presents the latest and the most important political and socio-economic updates and developments from across Karnataka, India."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-653",
-    "title": "3 Maha Suddi",
-    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-653",
-    "title": "Ee Kshana",
-    "subTitle": "The host delivers latest political news and analysis of current events as politicians answer press queries and debate issues."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-653",
-    "title": "Parapancha",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-653",
-    "title": "Nammuralli News 18",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-653",
-    "title": "Express 50",
-    "subTitle": "The host presents the top 50 news headlines and significant developments pertaining to various pressing issues across the nation."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-653",
-    "title": "Maatu Kathe",
-    "subTitle": "The host presents a detailed report of some of the latest news stories about political, economic, social and cultural topics from all around the region."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-653",
-    "title": "12 Gante Suddi - Live",
-    "subTitle": "The host collates and presents the latest and most important social, political and economic news updates and stories of the day, live."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-653",
-    "title": "Viral Suddi",
-    "subTitle": "The host offers detailed insights into ongoing events of widespread interest across the region with relevant updates on their progress."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-653",
-    "title": "Suddi Madhyahna",
-    "subTitle": "The host presents a round-up of recent news and updates on politics, current affairs, business and sports from across India."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-653",
-    "title": "Matinee Show",
-    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-653",
-    "title": "30 Minutes 30 News Live",
-    "subTitle": "The host sheds light on the latest top 30 news stories and major events happening in the country and around the world within the span of 30 minutes, live."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-653",
-    "title": "Real Show",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-653",
-    "title": "3 Gante Suddi",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-653",
-    "title": "4 Gante Suddi",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-653",
-    "title": "Chaduranga",
-    "subTitle": "The host presents information on the political affairs of the state and provides the latest developments on current happenings."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sanje Samachara",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sakhat Suddi",
-    "subTitle": "The host presents news stories that have gained immense popularity on social media platforms and provides a detailed report on them."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-653",
-    "title": "Kandiddu Kaanaddu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sanje Samachara",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Panchayti",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-653",
-    "title": "Kannada Naadi",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Vishesha Varadi",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-653",
-    "title": "Super Prime at 9 PM",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-653",
-    "title": "Namma Bengaluru",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events happening across Bangalore."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-653",
-    "title": "Ola Nota",
-    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-653",
-    "title": "Complete News @ 11pm Live",
-    "subTitle": "The host presents a detailed report on the latest news updates, stories and developments pertaining to topics ranging from current affairs to sports, live."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-653",
-    "title": "Mane Mane Masala",
-    "subTitle": "Bringing the best in television."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -1291,6 +859,438 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:30:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-653",
+    "title": "Mane Mane Masala",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-653",
+    "title": "Waw",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-653",
+    "title": "Kandiddu Kaanaddu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-653",
+    "title": "Ola Nota",
+    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-653",
+    "title": "6 pm Sakhat Suddi",
+    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-653",
+    "title": "News 18 Vishesha Varadi",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-653",
+    "title": "6 pm Sakhat Suddi",
+    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-653",
+    "title": "Waw",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-653",
+    "title": "Namaste Karnataka",
+    "subTitle": "The host presents the latest news updates and developments surrounding various socio-economic and political issues and provides updates on current events from the state of Karnataka."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-653",
+    "title": "En Kathe",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-653",
+    "title": "31 Jille 31 Suddi",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the top 31 latest news and developments from nearby villages."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-653",
+    "title": "Kannada Naadi",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-653",
+    "title": "Karnataka Suddi",
+    "subTitle": "The host presents the latest and the most important political and socio-economic updates and developments from across Karnataka, India."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-653",
+    "title": "3 Maha Suddi",
+    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-653",
+    "title": "Ee Kshana",
+    "subTitle": "The host delivers latest political news and analysis of current events as politicians answer press queries and debate issues."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-653",
+    "title": "Parapancha",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-653",
+    "title": "Nammuralli News 18",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-653",
+    "title": "Waw",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-653",
+    "title": "Express 50",
+    "subTitle": "The host presents the top 50 news headlines and significant developments pertaining to various pressing issues across the nation."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-653",
+    "title": "SPL News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-653",
+    "title": "12 Gante Suddi - Live",
+    "subTitle": "The host collates and presents the latest and most important social, political and economic news updates and stories of the day, live."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-653",
+    "title": "Viral Suddi",
+    "subTitle": "The host offers detailed insights into ongoing events of widespread interest across the region with relevant updates on their progress."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-653",
+    "title": "Suddi Madhyahna",
+    "subTitle": "The host presents a round-up of recent news and updates on politics, current affairs, business and sports from across India."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-653",
+    "title": "Matinee Show",
+    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-653",
+    "title": "30 Minutes 30 News Live",
+    "subTitle": "The host sheds light on the latest top 30 news stories and major events happening in the country and around the world within the span of 30 minutes, live."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-653",
+    "title": "3 Gante Suddi",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-653",
+    "title": "4 Gante Suddi",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-653",
+    "title": "Gili Gili Politics",
+    "subTitle": "The hosts present the latest news, updates and developments from the field of politics with a comical twist and add a satirical element to the facts shared."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-653",
+    "title": "Sanje Samachara",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-653",
+    "title": "Sakhat Suddi",
+    "subTitle": "The host presents news stories that have gained immense popularity on social media platforms and provides a detailed report on them."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-653",
+    "title": "Kandiddu Kaanaddu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-653",
+    "title": "Sanje Samachara",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-653",
+    "title": "SPL News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-653",
+    "title": "Kannada Naadi",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-653",
+    "title": "News 18 Vishesha Varadi",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-653",
+    "title": "Super Prime at 9 PM",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-653",
+    "title": "Namma Bengaluru",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events happening across Bangalore."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-653",
+    "title": "Ola Nota",
+    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-653",
+    "title": "Complete News @ 11pm Live",
+    "subTitle": "The host presents a detailed report on the latest news updates, stories and developments pertaining to topics ranging from current affairs to sports, live."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-653",
     "title": "Mane Mane Masala",
     "subTitle": "Bringing the best in television."

@@ -1,437 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-493",
-    "title": "Newstoday @ 9",
-    "subTitle": "The host presents the latest news stories, updates and developments of various spheres from across the country and globally."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-493",
-    "title": "Newstoday @ 9",
-    "subTitle": "The host presents the latest news stories, updates and developments of various spheres from across the country and globally."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-493",
-    "title": "Newstrack",
-    "subTitle": "The host presents the top news stories and developments pertaining to various socio-economic and political issues around the country."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-493",
-    "title": "Newstrack",
-    "subTitle": "The host presents the top news stories and developments pertaining to various socio-economic and political issues around the country."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-493",
-    "title": "First Up",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-493",
-    "title": "First Up",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-493",
-    "title": "First Up",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-493",
-    "title": "First Up",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-493",
-    "title": "Bt: Market Open",
-    "subTitle": "The host explores global cues, expert insights and early signals that set the tone for trading as the markets open with key movements across sectors."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-493",
-    "title": "Burning Question",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-493",
-    "title": "India's Agenda",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events in India."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-493",
-    "title": "India's Agenda",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events in India."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-493",
-    "title": "Lunch Break",
-    "subTitle": "The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-493",
-    "title": "Lunch Break",
-    "subTitle": "The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-493",
-    "title": "Lunch Break",
-    "subTitle": "The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-493",
-    "title": "Lunch Break",
-    "subTitle": "The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-493",
-    "title": "Lunch Break",
-    "subTitle": "The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-493",
-    "title": "In Da Club",
-    "subTitle": "The host interacts with prominent celebrities and learns more about their professional and personal life and upcoming projects."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-493",
-    "title": "Bt: Market Close",
-    "subTitle": "The host offers an in-depth look at stock market trends, top performers and key closing figures shaping the financial landscape."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-493",
-    "title": "5 Live",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world, live."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-493",
-    "title": "5 Live",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world, live."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-493",
-    "title": "Super 6",
-    "subTitle": "The host presents the top six news updates and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-493",
-    "title": "Super 6",
-    "subTitle": "The host presents the top six news updates and developments pertaining to various political and socio-economic issues around the country."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-493",
-    "title": "To the Point",
-    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-493",
-    "title": "To the Point",
-    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-493",
-    "title": "India First",
-    "subTitle": "The host, a renowned journalist, presents the key national news reports related to politics, diplomacy, economics and sports in the country."
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-493",
-    "title": "India First",
-    "subTitle": "The host, a renowned journalist, presents the key national news reports related to politics, diplomacy, economics and sports in the country."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-493",
-    "title": "News Today",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-493",
-    "title": "News Today",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-493",
-    "title": "Newstrack",
-    "subTitle": "The host presents the top news stories and developments pertaining to various socio-economic and political issues around the country."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-493",
-    "title": "World Today",
-    "subTitle": "The host sheds light on all the latest news stories, updates and developments pertaining to the current affairs of the world."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-493",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-493",
-    "title": "In Da Club",
-    "subTitle": "The host interacts with prominent celebrities and learns more about their professional and personal life and upcoming projects."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -1294,5 +862,77 @@
     "channel": "jio-493",
     "title": "In Da Club",
     "subTitle": "The host interacts with prominent celebrities and learns more about their professional and personal life and upcoming projects."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-493",
+    "title": "News",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe."
   }
 ]

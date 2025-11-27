@@ -1,239 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Exchange",
-    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-143",
-    "title": "Power Lunch",
-    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-143",
-    "title": "Closing Bell",
-    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-143",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-143",
-    "title": "Fast Money",
-    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Asia",
-    "subTitle": "The hosts cover the pre-game and opening of Asia's business trading day, the top stories from the stock market and the views of various experts."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-143",
-    "title": "Global Lens",
-    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Morning Call",
-    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Open Exchange",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-143",
-    "title": "Bazaar Corporate Radar",
-    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-143",
-    "title": "U.S. Markets Edition",
-    "subTitle": "The host delivers the latest news updates and key developments concerning global market data, stock markets and the world economy."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Global Reset",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-143",
-    "title": "The Big C (India)",
-    "subTitle": "The host talks about currencies, commodities and crypto, exploring finance's dynamic world, market trends and digital assets in today's global economy."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk Box Europe",
-    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-143",
-    "title": "NSE Closing Bell",
-    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-143",
-    "title": "Markets Forward",
-    "subTitle": "Experts analyse and discuss forward markets, the over-the-counter financial markets that are essential for contracts for future delivery."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-143",
-    "title": "Worldwide Exchange",
-    "subTitle": "The hosts discuss and analyse economic trends around the world and interview important political and economic personalities."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-143",
-    "title": "US Squawk Box",
-    "subTitle": "Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk on the Street",
-    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-143",
-    "title": "Global Lens",
-    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-143",
-    "title": "Squawk on the Street",
-    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-143",
-    "title": "Money Movers",
-    "subTitle": "A comprehensive and detailed coverage of the latest stock market developments, with insights into the latest business news."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-143",
-    "title": "Half Time Report",
-    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-143",
-    "title": "The Exchange",
-    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -700,5 +466,347 @@
     "channel": "jio-143",
     "title": "The Exchange",
     "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-143",
+    "title": "Power Lunch",
+    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-143",
+    "title": "Fast Money",
+    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-143",
+    "title": "Sustain. Future",
+    "subTitle": "The host invites guests and experts in order to engage in a discussion about the sustainability of the future by citing various examples."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-143",
+    "title": "Managing Asia",
+    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-143",
+    "title": "Millennial Money",
+    "subTitle": "The filmmakers look at the spending, saving and earning practices of millenials across different states of the United States of America."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-143",
+    "title": "Converge Live",
+    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Global Eye",
+    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-143",
+    "title": "Storyboard18",
+    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-143",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-143",
+    "title": "Let's Talk Money",
+    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 Market Editor",
+    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-143",
+    "title": "Indianomics",
+    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 Market Masters",
+    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-143",
+    "title": "Tokenomics",
+    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-143",
+    "title": "Overdrive",
+    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-143",
+    "title": "Indianomics",
+    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-143",
+    "title": "Media Dialogues With Storyboard18",
+    "subTitle": "The host invites marketing experts to discuss brands' strategies for leveraging the impact of IPL on digital media to reach their audience."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-143",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-143",
+    "title": "Converge Live",
+    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 Market Masters",
+    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-143",
+    "title": "Unlocked",
+    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-143",
+    "title": "Young Turks Reloaded",
+    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-143",
+    "title": "On Assignment",
+    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Global Eye",
+    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-143",
+    "title": "Let's Talk Money",
+    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-143",
+    "title": "Indianomics",
+    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-143",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 Market Editor",
+    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-143",
+    "title": "Tokenomics",
+    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-143",
+    "title": "Overdrive",
+    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews."
   }
 ]

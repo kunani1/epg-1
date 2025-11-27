@@ -1,437 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251125190000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 00:30:00 IST",
-    "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
-  },
-  {
-    "startRaw": "20251125190000",
-    "stopRaw": "20251125193000",
-    "start": "2025-11-26 00:30:00 IST",
-    "stop": "2025-11-26 01:00:00 IST",
-    "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
-  },
-  {
-    "startRaw": "20251125193000",
-    "stopRaw": "20251125200000",
-    "start": "2025-11-26 01:00:00 IST",
-    "stop": "2025-11-26 01:30:00 IST",
-    "channel": "jio-259",
-    "title": "NDTV Profit Exclusive",
-    "subTitle": "The host engages in a conversation with a panel of experts, exploring various viewpoints on key financial and economic matters of the country."
-  },
-  {
-    "startRaw": "20251125200000",
-    "stopRaw": "20251125203000",
-    "start": "2025-11-26 01:30:00 IST",
-    "stop": "2025-11-26 02:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251125203000",
-    "stopRaw": "20251125210000",
-    "start": "2025-11-26 02:00:00 IST",
-    "stop": "2025-11-26 02:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251125210000",
-    "stopRaw": "20251125213000",
-    "start": "2025-11-26 02:30:00 IST",
-    "stop": "2025-11-26 03:00:00 IST",
-    "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
-  },
-  {
-    "startRaw": "20251125213000",
-    "stopRaw": "20251125220000",
-    "start": "2025-11-26 03:00:00 IST",
-    "stop": "2025-11-26 03:30:00 IST",
-    "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
-  },
-  {
-    "startRaw": "20251125220000",
-    "stopRaw": "20251125223000",
-    "start": "2025-11-26 03:30:00 IST",
-    "stop": "2025-11-26 04:00:00 IST",
-    "channel": "jio-259",
-    "title": "NDTV Profit Exclusive",
-    "subTitle": "The host engages in a conversation with a panel of experts, exploring various viewpoints on key financial and economic matters of the country."
-  },
-  {
-    "startRaw": "20251125223000",
-    "stopRaw": "20251125230000",
-    "start": "2025-11-26 04:00:00 IST",
-    "stop": "2025-11-26 04:30:00 IST",
-    "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
-  },
-  {
-    "startRaw": "20251125230000",
-    "stopRaw": "20251125233000",
-    "start": "2025-11-26 04:30:00 IST",
-    "stop": "2025-11-26 05:00:00 IST",
-    "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
-  },
-  {
-    "startRaw": "20251125233000",
-    "stopRaw": "20251126000000",
-    "start": "2025-11-26 05:00:00 IST",
-    "stop": "2025-11-26 05:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251126000000",
-    "stopRaw": "20251126003000",
-    "start": "2025-11-26 05:30:00 IST",
-    "stop": "2025-11-26 06:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251126003000",
-    "stopRaw": "20251126010000",
-    "start": "2025-11-26 06:00:00 IST",
-    "stop": "2025-11-26 06:30:00 IST",
-    "channel": "jio-259",
-    "title": "NDTV Profit Exclusive",
-    "subTitle": "The host engages in a conversation with a panel of experts, exploring various viewpoints on key financial and economic matters of the country."
-  },
-  {
-    "startRaw": "20251126010000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 06:30:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126020000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 07:30:00 IST",
-    "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
-  },
-  {
-    "startRaw": "20251126020000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:30:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-259",
-    "title": "Markets Today",
-    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Open",
-    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126033000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:00:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Open",
-    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
-  },
-  {
-    "startRaw": "20251126033000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 09:00:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Open",
-    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Open",
-    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126050000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 10:30:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Open",
-    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
-  },
-  {
-    "startRaw": "20251126050000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:30:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-259",
-    "title": "Ask Profit",
-    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-259",
-    "title": "Ask Profit",
-    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126070000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 12:30:00 IST",
-    "channel": "jio-259",
-    "title": "Markets at 12",
-    "subTitle": "The host presents the latest updates and development about the stock market and shares tips on safe investment plans for maximum savings, live."
-  },
-  {
-    "startRaw": "20251126070000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:30:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-259",
-    "title": "Profit Buzzers",
-    "subTitle": "The host presents an analysis of recent stock market events and offers expert insight into investment strategies and trends."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit Buzzers",
-    "subTitle": "The host presents an analysis of recent stock market events and offers expert insight into investment strategies and trends."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-259",
-    "title": "Smallcap Buzzers",
-    "subTitle": "A comprehensive look at emerging smaller companies with significant stock price changes, offering perspectives on investment opportunities and risks."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Close",
-    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Close",
-    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-259",
-    "title": "India Market Close",
-    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126120000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 17:30:00 IST",
-    "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
-  },
-  {
-    "startRaw": "20251126120000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:30:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-259",
-    "title": "Earning Edge",
-    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126130000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 18:30:00 IST",
-    "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
-  },
-  {
-    "startRaw": "20251126130000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:30:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126140000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 19:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251126140000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:30:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126150000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 20:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251126150000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:30:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-259",
-    "title": "Profit Insight",
-    "subTitle": "The host conducts insightful interactions with prominent personalities to seek comprehensive information on matters concerning the market and finance."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126160000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 21:30:00 IST",
-    "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
-  },
-  {
-    "startRaw": "20251126160000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:30:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126180000",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:30:00 IST",
-    "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
-  },
-  {
-    "startRaw": "20251126180000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:30:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-259",
-    "title": "Profit Insight",
-    "subTitle": "The host conducts insightful interactions with prominent personalities to seek comprehensive information on matters concerning the market and finance."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251126190000",
     "start": "2025-11-27 00:00:00 IST",
@@ -806,8 +374,8 @@
     "start": "2025-11-27 20:30:00 IST",
     "stop": "2025-11-27 21:00:00 IST",
     "channel": "jio-259",
-    "title": "Earning Edge",
-    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+    "title": "Market At All Time High",
+    "subTitle": ""
   },
   {
     "startRaw": "20251127153000",
@@ -860,8 +428,8 @@
     "start": "2025-11-27 23:30:00 IST",
     "stop": "2025-11-27 23:59:59 IST",
     "channel": "jio-259",
-    "title": "Earning Edge",
-    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+    "title": "Market At All Time High",
+    "subTitle": ""
   },
   {
     "startRaw": "20251127183000",
@@ -869,8 +437,8 @@
     "start": "2025-11-28 00:00:00 IST",
     "stop": "2025-11-28 00:30:00 IST",
     "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
   },
   {
     "startRaw": "20251127190000",
@@ -878,8 +446,8 @@
     "start": "2025-11-28 00:30:00 IST",
     "stop": "2025-11-28 01:00:00 IST",
     "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
   },
   {
     "startRaw": "20251127193000",
@@ -887,8 +455,8 @@
     "start": "2025-11-28 01:00:00 IST",
     "stop": "2025-11-28 01:30:00 IST",
     "channel": "jio-259",
-    "title": "Earning Edge",
-    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+    "title": "Market At All Time High",
+    "subTitle": ""
   },
   {
     "startRaw": "20251127200000",
@@ -896,8 +464,8 @@
     "start": "2025-11-28 01:30:00 IST",
     "stop": "2025-11-28 02:00:00 IST",
     "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
   },
   {
     "startRaw": "20251127203000",
@@ -905,8 +473,8 @@
     "start": "2025-11-28 02:00:00 IST",
     "stop": "2025-11-28 02:30:00 IST",
     "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
   },
   {
     "startRaw": "20251127210000",
@@ -914,8 +482,8 @@
     "start": "2025-11-28 02:30:00 IST",
     "stop": "2025-11-28 03:00:00 IST",
     "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+    "title": "Market Express",
+    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
   },
   {
     "startRaw": "20251127213000",
@@ -923,8 +491,8 @@
     "start": "2025-11-28 03:00:00 IST",
     "stop": "2025-11-28 03:30:00 IST",
     "channel": "jio-259",
-    "title": "Earning Edge",
-    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
   },
   {
     "startRaw": "20251127220000",
@@ -932,8 +500,8 @@
     "start": "2025-11-28 03:30:00 IST",
     "stop": "2025-11-28 04:00:00 IST",
     "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
+    "title": "Market At All Time High",
+    "subTitle": ""
   },
   {
     "startRaw": "20251127223000",
@@ -941,8 +509,8 @@
     "start": "2025-11-28 04:00:00 IST",
     "stop": "2025-11-28 04:30:00 IST",
     "channel": "jio-259",
-    "title": "Market Express",
-    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
   },
   {
     "startRaw": "20251127230000",
@@ -950,8 +518,8 @@
     "start": "2025-11-28 04:30:00 IST",
     "stop": "2025-11-28 05:00:00 IST",
     "channel": "jio-259",
-    "title": "Profit 360",
-    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+    "title": "Market Express",
+    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
   },
   {
     "startRaw": "20251127233000",
@@ -959,8 +527,8 @@
     "start": "2025-11-28 05:00:00 IST",
     "stop": "2025-11-28 05:30:00 IST",
     "channel": "jio-259",
-    "title": "Know Your Company",
-    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
   },
   {
     "startRaw": "20251128000000",
@@ -968,8 +536,8 @@
     "start": "2025-11-28 05:30:00 IST",
     "stop": "2025-11-28 06:00:00 IST",
     "channel": "jio-259",
-    "title": "Ask Profit",
-    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public."
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
   },
   {
     "startRaw": "20251128003000",
@@ -977,8 +545,8 @@
     "start": "2025-11-28 06:00:00 IST",
     "stop": "2025-11-28 06:30:00 IST",
     "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+    "title": "Market At All Time High",
+    "subTitle": ""
   },
   {
     "startRaw": "20251128010000",
@@ -986,8 +554,8 @@
     "start": "2025-11-28 06:30:00 IST",
     "stop": "2025-11-28 07:00:00 IST",
     "channel": "jio-259",
-    "title": "Moneywise",
-    "subTitle": "Finance experts shed light on the latest financial and economic trends and provide tips to make investments in profitable shares."
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
   },
   {
     "startRaw": "20251128013000",
@@ -995,8 +563,8 @@
     "start": "2025-11-28 07:00:00 IST",
     "stop": "2025-11-28 07:30:00 IST",
     "channel": "jio-259",
-    "title": "Disruptors",
-    "subTitle": "The host interacts with prominent personalities and businessmen and shares details about their careers, business goals and achievements."
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
   },
   {
     "startRaw": "20251128020000",
@@ -1009,8 +577,44 @@
   },
   {
     "startRaw": "20251128023000",
-    "stopRaw": "20251128050000",
+    "stopRaw": "20251128030000",
     "start": "2025-11-28 08:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128033000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 09:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
+  },
+  {
+    "startRaw": "20251128033000",
+    "stopRaw": "20251128040000",
+    "start": "2025-11-28 09:00:00 IST",
+    "stop": "2025-11-28 09:30:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
+  },
+  {
+    "startRaw": "20251128040000",
+    "stopRaw": "20251128043000",
+    "start": "2025-11-28 09:30:00 IST",
+    "stop": "2025-11-28 10:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day."
+  },
+  {
+    "startRaw": "20251128043000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 10:00:00 IST",
     "stop": "2025-11-28 10:30:00 IST",
     "channel": "jio-259",
     "title": "India Market Open",
@@ -1018,8 +622,17 @@
   },
   {
     "startRaw": "20251128050000",
-    "stopRaw": "20251128060000",
+    "stopRaw": "20251128053000",
     "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 11:00:00 IST",
+    "channel": "jio-259",
+    "title": "Ask Profit",
+    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public."
+  },
+  {
+    "startRaw": "20251128053000",
+    "stopRaw": "20251128060000",
+    "start": "2025-11-28 11:00:00 IST",
     "stop": "2025-11-28 11:30:00 IST",
     "channel": "jio-259",
     "title": "Ask Profit",
@@ -1040,13 +653,22 @@
     "start": "2025-11-28 12:00:00 IST",
     "stop": "2025-11-28 12:30:00 IST",
     "channel": "jio-259",
-    "title": "Market At 12",
-    "subTitle": "The host provides the latest stock market updates and answers viewer questions on investing, helping them make well-informed financial decisions."
+    "title": "Markets at 12",
+    "subTitle": "The host presents the latest updates and development about the stock market and shares tips on safe investment plans for maximum savings, live."
   },
   {
     "startRaw": "20251128070000",
-    "stopRaw": "20251128080000",
+    "stopRaw": "20251128073000",
     "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-259",
+    "title": "Profit Buzzers",
+    "subTitle": "The host presents an analysis of recent stock market events and offers expert insight into investment strategies and trends."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128080000",
+    "start": "2025-11-28 13:00:00 IST",
     "stop": "2025-11-28 13:30:00 IST",
     "channel": "jio-259",
     "title": "Profit Buzzers",
@@ -1063,8 +685,26 @@
   },
   {
     "startRaw": "20251128083000",
-    "stopRaw": "20251128100000",
+    "stopRaw": "20251128090000",
     "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:30:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Close",
+    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes."
+  },
+  {
+    "startRaw": "20251128090000",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:30:00 IST",
+    "stop": "2025-11-28 15:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Close",
+    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes."
+  },
+  {
+    "startRaw": "20251128093000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 15:00:00 IST",
     "stop": "2025-11-28 15:30:00 IST",
     "channel": "jio-259",
     "title": "India Market Close",
@@ -1103,8 +743,8 @@
     "start": "2025-11-28 17:00:00 IST",
     "stop": "2025-11-28 17:30:00 IST",
     "channel": "jio-259",
-    "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+    "title": "Moneywise",
+    "subTitle": "Finance experts shed light on the latest financial and economic trends and provide tips to make investments in profitable shares."
   },
   {
     "startRaw": "20251128120000",
@@ -1121,8 +761,8 @@
     "start": "2025-11-28 18:00:00 IST",
     "stop": "2025-11-28 18:30:00 IST",
     "channel": "jio-259",
-    "title": "The Big Question",
-    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
+    "title": "The Disruptors With Tamanna Inamdar",
+    "subTitle": ""
   },
   {
     "startRaw": "20251128130000",
@@ -1219,6 +859,438 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:30:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-259",
+    "title": "Earning Edge",
+    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251128190000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251128193000",
+    "stopRaw": "20251128200000",
+    "start": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 01:30:00 IST",
+    "channel": "jio-259",
+    "title": "Earning Edge",
+    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+  },
+  {
+    "startRaw": "20251128200000",
+    "stopRaw": "20251128203000",
+    "start": "2025-11-29 01:30:00 IST",
+    "stop": "2025-11-29 02:00:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251128203000",
+    "stopRaw": "20251128210000",
+    "start": "2025-11-29 02:00:00 IST",
+    "stop": "2025-11-29 02:30:00 IST",
+    "channel": "jio-259",
+    "title": "Market Express",
+    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
+  },
+  {
+    "startRaw": "20251128210000",
+    "stopRaw": "20251128213000",
+    "start": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 03:00:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251128213000",
+    "stopRaw": "20251128220000",
+    "start": "2025-11-29 03:00:00 IST",
+    "stop": "2025-11-29 03:30:00 IST",
+    "channel": "jio-259",
+    "title": "Earning Edge",
+    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+  },
+  {
+    "startRaw": "20251128220000",
+    "stopRaw": "20251128223000",
+    "start": "2025-11-29 03:30:00 IST",
+    "stop": "2025-11-29 04:00:00 IST",
+    "channel": "jio-259",
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
+  },
+  {
+    "startRaw": "20251128223000",
+    "stopRaw": "20251128230000",
+    "start": "2025-11-29 04:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
+    "channel": "jio-259",
+    "title": "Market Express",
+    "subTitle": "The host provides the latest important updates and developments from the world of stock markets along with a breakdown of latest trends and expert analysis."
+  },
+  {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251128233000",
+    "stopRaw": "20251129000000",
+    "start": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 05:30:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129000000",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 05:30:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-259",
+    "title": "Ask Profit",
+    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public."
+  },
+  {
+    "startRaw": "20251129003000",
+    "stopRaw": "20251129010000",
+    "start": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:30:00 IST",
+    "channel": "jio-259",
+    "title": "NDTV Profit Exclusive",
+    "subTitle": "The host engages in a conversation with a panel of experts, exploring various viewpoints on key financial and economic matters of the country."
+  },
+  {
+    "startRaw": "20251129010000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 06:30:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 07:30:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129020000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:30:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-259",
+    "title": "Disruptors",
+    "subTitle": "The host interacts with prominent personalities and businessmen and shares details about their careers, business goals and achievements."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129033000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-259",
+    "title": "Earning Edge",
+    "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-259",
+    "title": "Moneywise",
+    "subTitle": "Finance experts shed light on the latest financial and economic trends and provide tips to make investments in profitable shares."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129050000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 10:30:00 IST",
+    "channel": "jio-259",
+    "title": "Disruptors",
+    "subTitle": "The host interacts with prominent personalities and businessmen and shares details about their careers, business goals and achievements."
+  },
+  {
+    "startRaw": "20251129050000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:30:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-259",
+    "title": "IPO Adda",
+    "subTitle": "The host sheds light on the initial public offerings of various companies and engages in insightful discussion with personalities who share relevant information."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-259",
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129070000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 12:30:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129070000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:30:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-259",
+    "title": "The NDTV Auto Show",
+    "subTitle": "The host presents information about a wide variety of newly launched cars, motorbikes in India and abroad while highlighting their unique trademark."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-259",
+    "title": "NDTV WORLD SUMMIT",
+    "subTitle": "Global leaders and experts gather to discuss India's role in shaping the future, covering innovation, diplomacy and sustainable development."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-259",
+    "title": "Disruptors",
+    "subTitle": "The host interacts with prominent personalities and businessmen and shares details about their careers, business goals and achievements."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-259",
+    "title": "Pharma Manufacturing &amp; Automation Excellence Awards",
+    "subTitle": "The host presents a celebration of pharmaceutical visionaries who create, improve and sustain the industry, from pioneering scientists to devoted leaders."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129120000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 17:30:00 IST",
+    "channel": "jio-259",
+    "title": "NDTV Profit Exclusive",
+    "subTitle": "The host engages in a conversation with a panel of experts, exploring various viewpoints on key financial and economic matters of the country."
+  },
+  {
+    "startRaw": "20251129120000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:30:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-259",
+    "title": "Moneywise",
+    "subTitle": "Finance experts shed light on the latest financial and economic trends and provide tips to make investments in profitable shares."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129130000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 18:30:00 IST",
+    "channel": "jio-259",
+    "title": "Tech 360",
+    "subTitle": "The host explores how AI and electric vehicles reshape society, showing how tech innovation becomes relevant and meaningful in daily life."
+  },
+  {
+    "startRaw": "20251129130000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:30:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
+    "channel": "jio-259",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-259",
+    "title": "The NDTV Auto Show",
+    "subTitle": "The host presents information about a wide variety of newly launched cars, motorbikes in India and abroad while highlighting their unique trademark."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-259",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares."
+  },
+  {
+    "startRaw": "20251129150000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-259",
+    "title": "IPO Adda",
+    "subTitle": "The host sheds light on the initial public offerings of various companies and engages in insightful discussion with personalities who share relevant information."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 21:30:00 IST",
+    "channel": "jio-259",
+    "title": "Disruptors",
+    "subTitle": "The host interacts with prominent personalities and businessmen and shares details about their careers, business goals and achievements."
+  },
+  {
+    "startRaw": "20251129160000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-259",
+    "title": "Talking Point",
+    "subTitle": "The host invites a market expert to offer insights into the performance of financial instruments across various sectors of the market."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-259",
+    "title": "Moneywise",
+    "subTitle": "Finance experts shed light on the latest financial and economic trends and provide tips to make investments in profitable shares."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-259",
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129180000",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:30:00 IST",
+    "channel": "jio-259",
+    "title": "Know Your Company",
+    "subTitle": "An eminent expert advisor assists investors to help understand a company's business and provides additional information about the financial performance of other companies."
+  },
+  {
+    "startRaw": "20251129180000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:30:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-259",
     "title": "Earning Edge",
     "subTitle": "The host presents the latest news stories and developments pertaining to the share price of various companies on the market."

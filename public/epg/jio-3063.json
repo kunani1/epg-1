@@ -1,230 +1,5 @@
 [
   {
-    "startRaw": "20251125183000",
-    "stopRaw": "20251126013000",
-    "start": "2025-11-26 00:00:00 IST",
-    "stop": "2025-11-26 07:00:00 IST",
-    "channel": "jio-3063",
-    "title": "To Be Announced",
-    "subTitle": "Bringing the best in television."
-  },
-  {
-    "startRaw": "20251126013000",
-    "stopRaw": "20251126023000",
-    "start": "2025-11-26 07:00:00 IST",
-    "stop": "2025-11-26 08:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR NEWS LIVE",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live."
-  },
-  {
-    "startRaw": "20251126023000",
-    "stopRaw": "20251126030000",
-    "start": "2025-11-26 08:00:00 IST",
-    "stop": "2025-11-26 08:30:00 IST",
-    "channel": "jio-3063",
-    "title": "Reporter Live",
-    "subTitle": "The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the field, live."
-  },
-  {
-    "startRaw": "20251126030000",
-    "stopRaw": "20251126040000",
-    "start": "2025-11-26 08:30:00 IST",
-    "stop": "2025-11-26 09:30:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Prime",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from India and around the world."
-  },
-  {
-    "startRaw": "20251126040000",
-    "stopRaw": "20251126043000",
-    "start": "2025-11-26 09:30:00 IST",
-    "stop": "2025-11-26 10:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Pkg",
-    "subTitle": "The host presents a detailed report featuring insightful updates and developments on the latest pressing matters across the globe."
-  },
-  {
-    "startRaw": "20251126043000",
-    "stopRaw": "20251126053000",
-    "start": "2025-11-26 10:00:00 IST",
-    "stop": "2025-11-26 11:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Superfast",
-    "subTitle": "The host presents updates on the latest news stories and developments from various sectors of society throughout the country and world."
-  },
-  {
-    "startRaw": "20251126053000",
-    "stopRaw": "20251126060000",
-    "start": "2025-11-26 11:00:00 IST",
-    "stop": "2025-11-26 11:30:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Jk Buletin",
-    "subTitle": "The host provides the latest news updates on the major developments and issues relating to governance, politics and social matters from the state of Jammu and Kashmir."
-  },
-  {
-    "startRaw": "20251126060000",
-    "stopRaw": "20251126063000",
-    "start": "2025-11-26 11:30:00 IST",
-    "stop": "2025-11-26 12:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Social Media",
-    "subTitle": "The host presents a comprehensive and detailed coverage, highlighting the latest news and developments trending on social media."
-  },
-  {
-    "startRaw": "20251126063000",
-    "stopRaw": "20251126073000",
-    "start": "2025-11-26 12:00:00 IST",
-    "stop": "2025-11-26 13:00:00 IST",
-    "channel": "jio-3063",
-    "title": "Badi Khabre",
-    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
-  },
-  {
-    "startRaw": "20251126073000",
-    "stopRaw": "20251126080000",
-    "start": "2025-11-26 13:00:00 IST",
-    "stop": "2025-11-26 13:30:00 IST",
-    "channel": "jio-3063",
-    "title": "UP Special",
-    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from Uttar Pradesh."
-  },
-  {
-    "startRaw": "20251126080000",
-    "stopRaw": "20251126083000",
-    "start": "2025-11-26 13:30:00 IST",
-    "stop": "2025-11-26 14:00:00 IST",
-    "channel": "jio-3063",
-    "title": "MP Special",
-    "subTitle": "The host presents the latest and the most relevant social, political and economic updates from the state of Madhya Pradesh."
-  },
-  {
-    "startRaw": "20251126083000",
-    "stopRaw": "20251126090000",
-    "start": "2025-11-26 14:00:00 IST",
-    "stop": "2025-11-26 14:30:00 IST",
-    "channel": "jio-3063",
-    "title": "JK Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Jammu and Kashmir."
-  },
-  {
-    "startRaw": "20251126090000",
-    "stopRaw": "20251126093000",
-    "start": "2025-11-26 14:30:00 IST",
-    "stop": "2025-11-26 15:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Filmi Duniya",
-    "subTitle": "The host shares the latest updates on upcoming releases, happenings in the film industry and the most recent celebrity gossips and chats with film stars."
-  },
-  {
-    "startRaw": "20251126093000",
-    "stopRaw": "20251126100000",
-    "start": "2025-11-26 15:00:00 IST",
-    "stop": "2025-11-26 15:30:00 IST",
-    "channel": "jio-3063",
-    "title": "Desh Ki Khabre",
-    "subTitle": "The host offers detailed coverage of national events, political developments and social issues across India, providing reliable and timely information."
-  },
-  {
-    "startRaw": "20251126100000",
-    "stopRaw": "20251126103000",
-    "start": "2025-11-26 15:30:00 IST",
-    "stop": "2025-11-26 16:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Special",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
-  },
-  {
-    "startRaw": "20251126103000",
-    "stopRaw": "20251126110000",
-    "start": "2025-11-26 16:00:00 IST",
-    "stop": "2025-11-26 16:30:00 IST",
-    "channel": "jio-3063",
-    "title": "Janta Ki Awaz",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251126110000",
-    "stopRaw": "20251126113000",
-    "start": "2025-11-26 16:30:00 IST",
-    "stop": "2025-11-26 17:00:00 IST",
-    "channel": "jio-3063",
-    "title": "Desh Ki Khoj Special",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
-  },
-  {
-    "startRaw": "20251126113000",
-    "stopRaw": "20251126123000",
-    "start": "2025-11-26 17:00:00 IST",
-    "stop": "2025-11-26 18:00:00 IST",
-    "channel": "jio-3063",
-    "title": "Health",
-    "subTitle": "A medical professional sheds light on various common ailments whilst providing relevant tips that can facilitate maintaining a healthy lifestyle."
-  },
-  {
-    "startRaw": "20251126123000",
-    "stopRaw": "20251126133000",
-    "start": "2025-11-26 18:00:00 IST",
-    "stop": "2025-11-26 19:00:00 IST",
-    "channel": "jio-3063",
-    "title": "JK Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Jammu and Kashmir."
-  },
-  {
-    "startRaw": "20251126133000",
-    "stopRaw": "20251126143000",
-    "start": "2025-11-26 19:00:00 IST",
-    "stop": "2025-11-26 20:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Special",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
-  },
-  {
-    "startRaw": "20251126143000",
-    "stopRaw": "20251126153000",
-    "start": "2025-11-26 20:00:00 IST",
-    "stop": "2025-11-26 21:00:00 IST",
-    "channel": "jio-3063",
-    "title": "Prime Time Debate",
-    "subTitle": "A panel of experts analyses and discusses the latest news and important updates that affect the people of the country."
-  },
-  {
-    "startRaw": "20251126153000",
-    "stopRaw": "20251126163000",
-    "start": "2025-11-26 21:00:00 IST",
-    "stop": "2025-11-26 22:00:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Special",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
-  },
-  {
-    "startRaw": "20251126163000",
-    "stopRaw": "20251126170000",
-    "start": "2025-11-26 22:00:00 IST",
-    "stop": "2025-11-26 22:30:00 IST",
-    "channel": "jio-3063",
-    "title": "PR News Program",
-    "subTitle": "The host presents a number of updates related to the current socio-political and economic status of the country and its people, in a brief manner."
-  },
-  {
-    "startRaw": "20251126170000",
-    "stopRaw": "20251126173000",
-    "start": "2025-11-26 22:30:00 IST",
-    "stop": "2025-11-26 23:00:00 IST",
-    "channel": "jio-3063",
-    "title": "Desh Ki Baat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "startRaw": "20251126173000",
-    "stopRaw": "20251126182959",
-    "start": "2025-11-26 23:00:00 IST",
-    "stop": "2025-11-26 23:59:59 IST",
-    "channel": "jio-3063",
-    "title": "Special Program",
-    "subTitle": "Bringing the best in television."
-  },
-  {
     "startRaw": "20251126183000",
     "stopRaw": "20251127013000",
     "start": "2025-11-27 00:00:00 IST",
@@ -670,6 +445,231 @@
     "stopRaw": "20251128182959",
     "start": "2025-11-28 23:00:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-3063",
+    "title": "Special Program",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128183000",
+    "stopRaw": "20251129013000",
+    "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 07:00:00 IST",
+    "channel": "jio-3063",
+    "title": "To Be Announced",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251129013000",
+    "stopRaw": "20251129023000",
+    "start": "2025-11-29 07:00:00 IST",
+    "stop": "2025-11-29 08:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR NEWS LIVE",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live."
+  },
+  {
+    "startRaw": "20251129023000",
+    "stopRaw": "20251129030000",
+    "start": "2025-11-29 08:00:00 IST",
+    "stop": "2025-11-29 08:30:00 IST",
+    "channel": "jio-3063",
+    "title": "Reporter Live",
+    "subTitle": "The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the field, live."
+  },
+  {
+    "startRaw": "20251129030000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:30:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Prime",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from India and around the world."
+  },
+  {
+    "startRaw": "20251129040000",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 09:30:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Pkg",
+    "subTitle": "The host presents a detailed report featuring insightful updates and developments on the latest pressing matters across the globe."
+  },
+  {
+    "startRaw": "20251129043000",
+    "stopRaw": "20251129053000",
+    "start": "2025-11-29 10:00:00 IST",
+    "stop": "2025-11-29 11:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Superfast",
+    "subTitle": "The host presents updates on the latest news stories and developments from various sectors of society throughout the country and world."
+  },
+  {
+    "startRaw": "20251129053000",
+    "stopRaw": "20251129060000",
+    "start": "2025-11-29 11:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Jk Buletin",
+    "subTitle": "The host provides the latest news updates on the major developments and issues relating to governance, politics and social matters from the state of Jammu and Kashmir."
+  },
+  {
+    "startRaw": "20251129060000",
+    "stopRaw": "20251129063000",
+    "start": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Social Media",
+    "subTitle": "The host presents a comprehensive and detailed coverage, highlighting the latest news and developments trending on social media."
+  },
+  {
+    "startRaw": "20251129063000",
+    "stopRaw": "20251129073000",
+    "start": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 13:00:00 IST",
+    "channel": "jio-3063",
+    "title": "Badi Khabre",
+    "subTitle": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+  },
+  {
+    "startRaw": "20251129073000",
+    "stopRaw": "20251129080000",
+    "start": "2025-11-29 13:00:00 IST",
+    "stop": "2025-11-29 13:30:00 IST",
+    "channel": "jio-3063",
+    "title": "UP Special",
+    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from Uttar Pradesh."
+  },
+  {
+    "startRaw": "20251129080000",
+    "stopRaw": "20251129083000",
+    "start": "2025-11-29 13:30:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
+    "channel": "jio-3063",
+    "title": "MP Special",
+    "subTitle": "The host presents the latest and the most relevant social, political and economic updates from the state of Madhya Pradesh."
+  },
+  {
+    "startRaw": "20251129083000",
+    "stopRaw": "20251129090000",
+    "start": "2025-11-29 14:00:00 IST",
+    "stop": "2025-11-29 14:30:00 IST",
+    "channel": "jio-3063",
+    "title": "JK Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Jammu and Kashmir."
+  },
+  {
+    "startRaw": "20251129090000",
+    "stopRaw": "20251129093000",
+    "start": "2025-11-29 14:30:00 IST",
+    "stop": "2025-11-29 15:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Filmi Duniya",
+    "subTitle": "The host shares the latest updates on upcoming releases, happenings in the film industry and the most recent celebrity gossips and chats with film stars."
+  },
+  {
+    "startRaw": "20251129093000",
+    "stopRaw": "20251129100000",
+    "start": "2025-11-29 15:00:00 IST",
+    "stop": "2025-11-29 15:30:00 IST",
+    "channel": "jio-3063",
+    "title": "Desh Ki Khabre",
+    "subTitle": "The host offers detailed coverage of national events, political developments and social issues across India, providing reliable and timely information."
+  },
+  {
+    "startRaw": "20251129100000",
+    "stopRaw": "20251129103000",
+    "start": "2025-11-29 15:30:00 IST",
+    "stop": "2025-11-29 16:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Special",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
+  },
+  {
+    "startRaw": "20251129103000",
+    "stopRaw": "20251129110000",
+    "start": "2025-11-29 16:00:00 IST",
+    "stop": "2025-11-29 16:30:00 IST",
+    "channel": "jio-3063",
+    "title": "Janta Ki Awaz",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251129110000",
+    "stopRaw": "20251129113000",
+    "start": "2025-11-29 16:30:00 IST",
+    "stop": "2025-11-29 17:00:00 IST",
+    "channel": "jio-3063",
+    "title": "Desh Ki Khoj Special",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
+  },
+  {
+    "startRaw": "20251129113000",
+    "stopRaw": "20251129123000",
+    "start": "2025-11-29 17:00:00 IST",
+    "stop": "2025-11-29 18:00:00 IST",
+    "channel": "jio-3063",
+    "title": "Health",
+    "subTitle": "A medical professional sheds light on various common ailments whilst providing relevant tips that can facilitate maintaining a healthy lifestyle."
+  },
+  {
+    "startRaw": "20251129123000",
+    "stopRaw": "20251129133000",
+    "start": "2025-11-29 18:00:00 IST",
+    "stop": "2025-11-29 19:00:00 IST",
+    "channel": "jio-3063",
+    "title": "JK Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Jammu and Kashmir."
+  },
+  {
+    "startRaw": "20251129133000",
+    "stopRaw": "20251129143000",
+    "start": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 20:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Special",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
+  },
+  {
+    "startRaw": "20251129143000",
+    "stopRaw": "20251129153000",
+    "start": "2025-11-29 20:00:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-3063",
+    "title": "Prime Time Debate",
+    "subTitle": "A panel of experts analyses and discusses the latest news and important updates that affect the people of the country."
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129163000",
+    "start": "2025-11-29 21:00:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Special",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation."
+  },
+  {
+    "startRaw": "20251129163000",
+    "stopRaw": "20251129170000",
+    "start": "2025-11-29 22:00:00 IST",
+    "stop": "2025-11-29 22:30:00 IST",
+    "channel": "jio-3063",
+    "title": "PR News Program",
+    "subTitle": "The host presents a number of updates related to the current socio-political and economic status of the country and its people, in a brief manner."
+  },
+  {
+    "startRaw": "20251129170000",
+    "stopRaw": "20251129173000",
+    "start": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 23:00:00 IST",
+    "channel": "jio-3063",
+    "title": "Desh Ki Baat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+  },
+  {
+    "startRaw": "20251129173000",
+    "stopRaw": "20251129182959",
+    "start": "2025-11-29 23:00:00 IST",
+    "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-3063",
     "title": "Special Program",
     "subTitle": "Bringing the best in television."

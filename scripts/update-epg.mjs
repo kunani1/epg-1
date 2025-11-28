@@ -13,7 +13,7 @@ const IMAGE_DB_DIR = path.join(process.cwd(), "data");
 
 // Map EPG channel id (from XML, e.g. "jio_539") → image DB id (file name like 239)
 const CHANNEL_IMAGE_ID_MAP = {
-  "jio_539": 239, // jio_539 in XML should use data/239.json
+  "jio_559": 239, // jio_539 in XML should use data/239.json
   // add more: "jio_123": 114, etc.
 };
 

@@ -5,17 +5,115 @@ import zlib from "zlib";
 
 const EPG_URL = "https://tsepg.cf/jio.xml.gz";
 
+// === IMAGES SETUP ===
+
+// Folder where your TataPlay image DB JSONs live
+// Example file: data/239.json, data/114.json, ...
+const IMAGE_DB_DIR = path.join(process.cwd(), "data");
+
+// Map EPG channel id (from XML, e.g. "jio_539") → image DB id (file name like 239)
+const CHANNEL_IMAGE_ID_MAP = {
+  "jio_539": 239, // jio_539 in XML should use data/239.json
+  // add more: "jio_123": 114, etc.
+};
+
+// Default image if no specific poster found for a title
+const DEFAULT_IMAGE =
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png";
+
+// Load a single image DB file and build title -> image map
+function loadImageMapFile(fileId) {
+  const filePath = path.join(IMAGE_DB_DIR, `${fileId}.json`);
+  if (!fs.existsSync(filePath)) {
+    console.log("Image DB file not found:", filePath);
+    return null;
+  }
+
+  let parsed;
+  try {
+    parsed = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  } catch (e) {
+    console.log("Error parsing image DB JSON:", filePath, e.message);
+    return null;
+  }
+
+  const schedule = Array.isArray(parsed.channelScheduleData)
+    ? parsed.channelScheduleData
+    : [];
+
+  const map = new Map();
+  for (const item of schedule) {
+    const title = (item.title || "").trim().toLowerCase();
+    const img = item.boxCoverImage || "";
+    if (!title || !img) continue;
+    if (!map.has(title)) {
+      map.set(title, img);
+    }
+  }
+
+  console.log(`Loaded ${map.size} titles from`, filePath);
+  return map;
+}
+
+// Attach image URLs to programmes based on channel + title
+function attachImagesToProgrammes(byChannel) {
+  const imageMapCache = new Map(); // fileId -> Map(title -> img)
+
+  for (const [epgChannelId, programmes] of byChannel.entries()) {
+    // 1) Find which image DB file to use for this EPG channel
+    let imageFileId = CHANNEL_IMAGE_ID_MAP[epgChannelId];
+
+    // 2) Optional fallback: if no mapping, try file with the same name as the EPG channel
+    if (!imageFileId) {
+      const directPath = path.join(IMAGE_DB_DIR, `${epgChannelId}.json`);
+      if (fs.existsSync(directPath)) {
+        imageFileId = epgChannelId;
+      }
+    }
+
+    let titleToImage = null;
+
+    if (imageFileId) {
+      titleToImage = imageMapCache.get(imageFileId);
+      if (!titleToImage) {
+        titleToImage = loadImageMapFile(imageFileId);
+        imageMapCache.set(imageFileId, titleToImage || null);
+      }
+    }
+
+    // For every programme on this channel, assign an image
+    for (const prog of programmes) {
+      const key = (prog.title || "").trim().toLowerCase();
+      let img = null;
+
+      // 1. Try to find exact title match in that channel's image DB
+      if (titleToImage && key && titleToImage.has(key)) {
+        img = titleToImage.get(key);
+      }
+
+      // 2. If not found, use default
+      if (!img) {
+        img = DEFAULT_IMAGE;
+      }
+
+      // Attach to programme
+      // Use "image" field; change to "boxCoverImage" if you prefer that name in EPG JSON
+      prog.image = img;
+    }
+  }
+}
+
+// === END IMAGES SETUP ===
+
 function stripTags(s) {
   return s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 }
 
 // Parse XMLTV timestamp → Date (UTC)
-// Supports: "YYYYMMDDHHMMSS", "YYYYMMDDHHMMSS Z", "YYYYMMDDHHMMSS +0530", "YYYYMMDDHHMMSS+0530"
 function parseXmltvTime(ts) {
   if (!ts) return null;
   ts = String(ts).trim();
 
-  // Match base datetime + optional timezone part
   const m = ts.match(/^(\d{14})(?:\s*([+-]\d{2}:?\d{2}|[+-]\d{4}|Z))?/i);
   if (!m) return null;
 
@@ -29,17 +127,14 @@ function parseXmltvTime(ts) {
   const min = Number(dt.slice(10, 12));
   const s = Number(dt.slice(12, 14));
 
-  // Start as if time is in UTC
   let utcMillis = Date.UTC(y, mo, d, h, min, s);
 
   if (tz && tz.toUpperCase() !== "Z") {
-    // "+0530", "+05:30", "-0100", etc.
     const tzClean = tz.replace(":", "");
     const sign = tzClean[0] === "-" ? -1 : 1;
     const hh = Number(tzClean.slice(1, 3));
     const mm = Number(tzClean.slice(3, 5));
     const offsetMinutes = sign * (hh * 60 + mm);
-    // Convert local-with-offset → UTC
     utcMillis -= offsetMinutes * 60 * 1000;
   }
 
@@ -51,7 +146,6 @@ function formatTimeIST(originalTs) {
   const dateUtc = parseXmltvTime(originalTs);
   if (!dateUtc) return originalTs || "";
 
-  // IST = UTC + 5:30
   const istMillis = dateUtc.getTime() + 5.5 * 3600 * 1000;
   const ist = new Date(istMillis);
 
@@ -141,6 +235,9 @@ async function main() {
     const programmes = await downloadAndParseEPG();
     const byChannel = groupByChannel(programmes);
 
+    // Attach images (from data/*.json) to programmes based on channel+title
+    attachImagesToProgrammes(byChannel);
+
     const outRoot = path.join(process.cwd(), "public");
     const epgDir = path.join(outRoot, "epg");
     ensureDir(outRoot);
@@ -148,7 +245,7 @@ async function main() {
 
     const channelsIndex = [];
 
-    console.log("Writing per-channel JSON files (with IST times)...");
+    console.log("Writing per-channel JSON files (with IST times + images)...");
     for (const [channelId, list] of byChannel.entries()) {
       const outPath = path.join(epgDir, `${channelId}.json`);
       fs.writeFileSync(outPath, JSON.stringify(list, null, 2), "utf8");
@@ -170,7 +267,8 @@ async function main() {
       totalProgrammes: programmes.length,
       totalChannels: channelsIndex.length,
       timeZone: "Asia/Kolkata (IST, UTC+5:30)",
-      note: "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps.",
+      note:
+        "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps. 'image' field comes from TataPlay image DB or default.",
       source: EPG_URL
     };
     fs.writeFileSync(

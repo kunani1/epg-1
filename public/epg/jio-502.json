@@ -1,395 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-502",
-    "title": "7 Baje 7 Good News",
-    "subTitle": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-502",
-    "title": "Good Night",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-502",
-    "title": "Shubh Mangal Sawdhan",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-502",
-    "title": "Fact Check",
-    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-502",
-    "title": "Achchi Khabar Sachchi Khabar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127010000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 06:30:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127010000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:30:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127015500",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 07:25:00 IST",
-    "channel": "jio-502",
-    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
-    "subTitle": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127015500",
-    "stopRaw": "20251127022000",
-    "start": "2025-11-27 07:25:00 IST",
-    "stop": "2025-11-27 07:50:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127022000",
-    "stopRaw": "20251127023400",
-    "start": "2025-11-27 07:50:00 IST",
-    "stop": "2025-11-27 08:04:00 IST",
-    "channel": "jio-502",
-    "title": "Good News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023400",
-    "stopRaw": "20251127031500",
-    "start": "2025-11-27 08:04:00 IST",
-    "stop": "2025-11-27 08:45:00 IST",
-    "channel": "jio-502",
-    "title": "Good Luck Today",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127031500",
-    "stopRaw": "20251127033400",
-    "start": "2025-11-27 08:45:00 IST",
-    "stop": "2025-11-27 09:04:00 IST",
-    "channel": "jio-502",
-    "title": "Good Luck Today",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033400",
-    "stopRaw": "20251127043400",
-    "start": "2025-11-27 09:04:00 IST",
-    "stop": "2025-11-27 10:04:00 IST",
-    "channel": "jio-502",
-    "title": "Shubh Samachar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043400",
-    "stopRaw": "20251127050400",
-    "start": "2025-11-27 10:04:00 IST",
-    "stop": "2025-11-27 10:34:00 IST",
-    "channel": "jio-502",
-    "title": "Good Luck Special",
-    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050400",
-    "stopRaw": "20251127053400",
-    "start": "2025-11-27 10:34:00 IST",
-    "stop": "2025-11-27 11:04:00 IST",
-    "channel": "jio-502",
-    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
-    "subTitle": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053400",
-    "stopRaw": "20251127060400",
-    "start": "2025-11-27 11:04:00 IST",
-    "stop": "2025-11-27 11:34:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127060400",
-    "stopRaw": "20251127063400",
-    "start": "2025-11-27 11:34:00 IST",
-    "stop": "2025-11-27 12:04:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063400",
-    "stopRaw": "20251127073400",
-    "start": "2025-11-27 12:04:00 IST",
-    "stop": "2025-11-27 13:04:00 IST",
-    "channel": "jio-502",
-    "title": "Lunch Time",
-    "subTitle": "The hosts present some of the latest news updates and developments pertaining to various social, political and economic issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073400",
-    "stopRaw": "20251127075800",
-    "start": "2025-11-27 13:04:00 IST",
-    "stop": "2025-11-27 13:28:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127075800",
-    "stopRaw": "20251127093400",
-    "start": "2025-11-27 13:28:00 IST",
-    "stop": "2025-11-27 15:04:00 IST",
-    "channel": "jio-502",
-    "title": "Saas Bahu Aur Betiyan",
-    "subTitle": "The host presents the latest updates and developments related to famous TV shows and shares exclusive information about celebrities.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093400",
-    "stopRaw": "20251127100400",
-    "start": "2025-11-27 15:04:00 IST",
-    "stop": "2025-11-27 15:34:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127100400",
-    "stopRaw": "20251127103400",
-    "start": "2025-11-27 15:34:00 IST",
-    "stop": "2025-11-27 16:04:00 IST",
-    "channel": "jio-502",
-    "title": "Prarthna Sweekar Ho",
-    "subTitle": "The host presents information on the latest news and updates pertaining to the temples and pilgrimage sites across India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103400",
-    "stopRaw": "20251127113400",
-    "start": "2025-11-27 16:04:00 IST",
-    "stop": "2025-11-27 17:04:00 IST",
-    "channel": "jio-502",
-    "title": "Ye Hui Na Baat",
-    "subTitle": "The host converses with individuals from the world of politics, business, entertainment and more to discuss topics and issues of significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113400",
-    "stopRaw": "20251127123400",
-    "start": "2025-11-27 17:04:00 IST",
-    "stop": "2025-11-27 18:04:00 IST",
-    "channel": "jio-502",
-    "title": "Chai Par Charcha",
-    "subTitle": "The host invites experts from different walks of life to discuss important news stories, major developments and critical updates from across the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123400",
-    "stopRaw": "20251127125700",
-    "start": "2025-11-27 18:04:00 IST",
-    "stop": "2025-11-27 18:27:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127125700",
-    "stopRaw": "20251127132000",
-    "start": "2025-11-27 18:27:00 IST",
-    "stop": "2025-11-27 18:50:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127132000",
-    "stopRaw": "20251127133400",
-    "start": "2025-11-27 18:50:00 IST",
-    "stop": "2025-11-27 19:04:00 IST",
-    "channel": "jio-502",
-    "title": "Good News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133400",
-    "stopRaw": "20251127140400",
-    "start": "2025-11-27 19:04:00 IST",
-    "stop": "2025-11-27 19:34:00 IST",
-    "channel": "jio-502",
-    "title": "7 Baje 7 Good News",
-    "subTitle": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127140400",
-    "stopRaw": "20251127143400",
-    "start": "2025-11-27 19:34:00 IST",
-    "stop": "2025-11-27 20:04:00 IST",
-    "channel": "jio-502",
-    "title": "Fact Check",
-    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143400",
-    "stopRaw": "20251127150000",
-    "start": "2025-11-27 20:04:00 IST",
-    "stop": "2025-11-27 20:30:00 IST",
-    "channel": "jio-502",
-    "title": "Achchi Khabar Sachchi Khabar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127150000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:30:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-502",
-    "title": "Good Luck Special",
-    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127163400",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 22:04:00 IST",
-    "channel": "jio-502",
-    "title": "News Path",
-    "subTitle": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163400",
-    "stopRaw": "20251127170400",
-    "start": "2025-11-27 22:04:00 IST",
-    "stop": "2025-11-27 22:34:00 IST",
-    "channel": "jio-502",
-    "title": "Shubh Mangal Sawdhan",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127170400",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:34:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-502",
-    "title": "Good Luck Today",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127193000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1184,6 +794,416 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Today",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-502",
+    "title": "Good News Today",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-502",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-502",
+    "title": "Good Night",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-502",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130010000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 06:30:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130010000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:30:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130015500",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 07:25:00 IST",
+    "channel": "jio-502",
+    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
+    "subTitle": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130015500",
+    "stopRaw": "20251130022000",
+    "start": "2025-11-30 07:25:00 IST",
+    "stop": "2025-11-30 07:50:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130022000",
+    "stopRaw": "20251130023400",
+    "start": "2025-11-30 07:50:00 IST",
+    "stop": "2025-11-30 08:04:00 IST",
+    "channel": "jio-502",
+    "title": "Good News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130023400",
+    "stopRaw": "20251130031500",
+    "start": "2025-11-30 08:04:00 IST",
+    "stop": "2025-11-30 08:45:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Today",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130031500",
+    "stopRaw": "20251130033400",
+    "start": "2025-11-30 08:45:00 IST",
+    "stop": "2025-11-30 09:04:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Today",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033400",
+    "stopRaw": "20251130035500",
+    "start": "2025-11-30 09:04:00 IST",
+    "stop": "2025-11-30 09:25:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130035500",
+    "stopRaw": "20251130043400",
+    "start": "2025-11-30 09:25:00 IST",
+    "stop": "2025-11-30 10:04:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043400",
+    "stopRaw": "20251130050400",
+    "start": "2025-11-30 10:04:00 IST",
+    "stop": "2025-11-30 10:34:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050400",
+    "stopRaw": "20251130053400",
+    "start": "2025-11-30 10:34:00 IST",
+    "stop": "2025-11-30 11:04:00 IST",
+    "channel": "jio-502",
+    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
+    "subTitle": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130053400",
+    "stopRaw": "20251130063400",
+    "start": "2025-11-30 11:04:00 IST",
+    "stop": "2025-11-30 12:04:00 IST",
+    "channel": "jio-502",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063400",
+    "stopRaw": "20251130065800",
+    "start": "2025-11-30 12:04:00 IST",
+    "stop": "2025-11-30 12:28:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130065800",
+    "stopRaw": "20251130073500",
+    "start": "2025-11-30 12:28:00 IST",
+    "stop": "2025-11-30 13:05:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073500",
+    "stopRaw": "20251130075800",
+    "start": "2025-11-30 13:05:00 IST",
+    "stop": "2025-11-30 13:28:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130075800",
+    "stopRaw": "20251130093400",
+    "start": "2025-11-30 13:28:00 IST",
+    "stop": "2025-11-30 15:04:00 IST",
+    "channel": "jio-502",
+    "title": "Saas Bahu Aur Betiyan",
+    "subTitle": "The host presents the latest updates and developments related to famous TV shows and shares exclusive information about celebrities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093400",
+    "stopRaw": "20251130100400",
+    "start": "2025-11-30 15:04:00 IST",
+    "stop": "2025-11-30 15:34:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130100400",
+    "stopRaw": "20251130103400",
+    "start": "2025-11-30 15:34:00 IST",
+    "stop": "2025-11-30 16:04:00 IST",
+    "channel": "jio-502",
+    "title": "Prarthna Sweekar Ho",
+    "subTitle": "The host presents information on the latest news and updates pertaining to the temples and pilgrimage sites across India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103400",
+    "stopRaw": "20251130110400",
+    "start": "2025-11-30 16:04:00 IST",
+    "stop": "2025-11-30 16:34:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Special",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130110400",
+    "stopRaw": "20251130113400",
+    "start": "2025-11-30 16:34:00 IST",
+    "stop": "2025-11-30 17:04:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113400",
+    "stopRaw": "20251130120400",
+    "start": "2025-11-30 17:04:00 IST",
+    "stop": "2025-11-30 17:34:00 IST",
+    "channel": "jio-502",
+    "title": "Bande Me Hai Dum",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120400",
+    "stopRaw": "20251130123400",
+    "start": "2025-11-30 17:34:00 IST",
+    "stop": "2025-11-30 18:04:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123400",
+    "stopRaw": "20251130130400",
+    "start": "2025-11-30 18:04:00 IST",
+    "stop": "2025-11-30 18:34:00 IST",
+    "channel": "jio-502",
+    "title": "Good Reporter",
+    "subTitle": "The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain from around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130400",
+    "stopRaw": "20251130133400",
+    "start": "2025-11-30 18:34:00 IST",
+    "stop": "2025-11-30 19:04:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133400",
+    "stopRaw": "20251130140400",
+    "start": "2025-11-30 19:04:00 IST",
+    "stop": "2025-11-30 19:34:00 IST",
+    "channel": "jio-502",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140400",
+    "stopRaw": "20251130143400",
+    "start": "2025-11-30 19:34:00 IST",
+    "stop": "2025-11-30 20:04:00 IST",
+    "channel": "jio-502",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143400",
+    "stopRaw": "20251130150400",
+    "start": "2025-11-30 20:04:00 IST",
+    "stop": "2025-11-30 20:34:00 IST",
+    "channel": "jio-502",
+    "title": "Achchi Khabar Sachchi Khabar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130150400",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:34:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130163400",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 22:04:00 IST",
+    "channel": "jio-502",
+    "title": "News Path Weekend Special",
+    "subTitle": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163400",
+    "stopRaw": "20251130170400",
+    "start": "2025-11-30 22:04:00 IST",
+    "stop": "2025-11-30 22:34:00 IST",
+    "channel": "jio-502",
+    "title": "Rankshetra",
+    "subTitle": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130170400",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:34:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-502",
     "title": "Good Luck Today",
     "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",

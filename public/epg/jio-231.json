@@ -1,215 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126190000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:30:00 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126190000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:30:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-231",
-    "title": "Katcha Chittha",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sulagtey Sawaal",
-    "subTitle": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-231",
-    "title": "Katcha Chittha",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sponsored Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127023000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 08:00:00 IST",
-    "channel": "jio-231",
-    "title": "Aaj Ki Taza Khabar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 08:00:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-231",
-    "title": "News18 India Morning Prime",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from the across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-231",
-    "title": "Aaj Ka Mudda",
-    "subTitle": "The host converses with experts about the social, economic and political issues of the day and holds debates on important issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sulagtey Sawaal",
-    "subTitle": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-231",
-    "title": "Mudda Garam Hai",
-    "subTitle": "The host presents a detailed analysis of the latest and the most raging news updates, developments and happenings in the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-231",
-    "title": "Akhaada",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and holds debates on important issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-231",
-    "title": "News18 India Goonj",
-    "subTitle": "The host facilitates a debate with renowned experts, who share their opinions on various matters of national importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-231",
-    "title": "Bhaiya Ji Kahin",
-    "subTitle": "The host interacts with the common people of India to learn about their views and opinions on various trending issues in the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-231",
-    "title": "Aar Paar",
-    "subTitle": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-231",
-    "title": "Desh Nahi Jhukne Dengey",
-    "subTitle": "The host presents in-depth information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127163000",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 22:00:00 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163000",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-231",
-    "title": "Katcha Chittha",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-231",
-    "title": "Sau Baat Ki Ek Baat",
-    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -614,6 +404,216 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129190000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 00:30:00 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129190000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:30:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-231",
+    "title": "Katcha Chittha",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-231",
+    "title": "News18 India",
+    "subTitle": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-231",
+    "title": "News18 India",
+    "subTitle": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-231",
+    "title": "Katcha Chittha",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sponsored Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-231",
+    "title": "Aaj Ki Taza Khabar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-231",
+    "title": "Aaj Ka Mudda",
+    "subTitle": "The host converses with experts about the social, economic and political issues of the day and holds debates on important issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sulagtey Sawaal",
+    "subTitle": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-231",
+    "title": "Mudda Garam Hai",
+    "subTitle": "The host presents a detailed analysis of the latest and the most raging news updates, developments and happenings in the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sulagtey Sawaal",
+    "subTitle": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-231",
+    "title": "News18 India Goonj",
+    "subTitle": "The host facilitates a debate with renowned experts, who share their opinions on various matters of national importance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-231",
+    "title": "Bhaiya Ji Kahin",
+    "subTitle": "The host interacts with the common people of India to learn about their views and opinions on various trending issues in the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-231",
+    "title": "Aar Paar",
+    "subTitle": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-231",
+    "title": "Aadhi Haqiqat Aadha Fasaana",
+    "subTitle": "The host explores some of the most mysterious stories throughout the country and aims to uncover the actual truth behind them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130163000",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 22:00:00 IST",
+    "channel": "jio-231",
+    "title": "Sau Baat Ki Ek Baat",
+    "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163000",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:00:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-231",
+    "title": "Katcha Chittha",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-231",
     "title": "Sau Baat Ki Ek Baat",
     "subTitle": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights.",

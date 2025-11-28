@@ -1,405 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126190000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Top 9",
-    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126190000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:30:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126200000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 01:30:00 IST",
-    "channel": "jio-616",
-    "title": "Crime Watch",
-    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126200000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:30:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-616",
-    "title": "Fikar Aapni",
-    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Top 9",
-    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Special",
-    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-616",
-    "title": "Crime Watch",
-    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Special",
-    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-616",
-    "title": "Fikar Aapni",
-    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-616",
-    "title": "Aarti Darshan",
-    "subTitle": "A priest performs religious rituals and chants sacred verses at a temple and devotees gather to worship and offer their prayers to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-616",
-    "title": "Bhakti Geet Gunjan",
-    "subTitle": "Talented musicians come together to perform devotional songs and hymns, offering prayers and seeking blessings from the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127040000",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 09:30:00 IST",
-    "channel": "jio-616",
-    "title": "Morning Agenda",
-    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127040000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:30:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-616",
-    "title": "Bhakti",
-    "subTitle": "The host visits various prominent temples across the country and talks about the different rituals and deities to be worshipped.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127050000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 10:30:00 IST",
-    "channel": "jio-616",
-    "title": "News At 10",
-    "subTitle": "A presenter reports the latest regional, national and international news of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 10:30:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127070000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 12:30:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127070000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127080000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 13:30:00 IST",
-    "channel": "jio-616",
-    "title": "Mid Day News",
-    "subTitle": "The host delves into the latest socio-political and economic events around the globe and explains them in detail.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127080000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:30:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-616",
-    "title": "Crime Watch",
-    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127090000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 14:30:00 IST",
-    "channel": "jio-616",
-    "title": "Good Afternoon Gujarat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127090000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:30:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127100000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 15:30:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127100000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:30:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-616",
-    "title": "Surilee Sargam",
-    "subTitle": "Eminent Gujarati singers captivate and entertain audiences with heartwarming songs and melodious music, delivered through their mesmerising voices.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-616",
-    "title": "Surilee Sargam",
-    "subTitle": "Eminent Gujarati singers captivate and entertain audiences with heartwarming songs and melodious music, delivered through their mesmerising voices.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127120000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 17:30:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127120000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127130000",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 18:30:00 IST",
-    "channel": "jio-616",
-    "title": "Super 6",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the top six news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127130000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:30:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127140000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 19:30:00 IST",
-    "channel": "jio-616",
-    "title": "Gujarat Live",
-    "subTitle": "The host presents the latest news and updates on governance, social, economic, and political matters, covering both national and global developments,live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127140000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:30:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-616",
-    "title": "Super Prime Time",
-    "subTitle": "The host provides the latest information, advancements and developments on key political, economic and social issues from around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127160000",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 21:30:00 IST",
-    "channel": "jio-616",
-    "title": "News Top 9",
-    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127160000",
-    "stopRaw": "20251127163000",
-    "start": "2025-11-27 21:30:00 IST",
-    "stop": "2025-11-27 22:00:00 IST",
-    "channel": "jio-616",
-    "title": "Fikar Aapni",
-    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163000",
-    "stopRaw": "20251127170000",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 22:30:00 IST",
-    "channel": "jio-616",
-    "title": "10 Sudhi",
-    "subTitle": "The host provides in-depth coverage of the day's key issues and events, focusing on governance, social, economic, and political matters affecting the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127170000",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:30:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-616",
-    "title": "TV9 Samachar",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127180000",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:30:00 IST",
-    "channel": "jio-616",
-    "title": "Crime Watch",
-    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127180000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:30:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-616",
-    "title": "News Fatafat",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1194,6 +794,406 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129190000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 00:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Top 9",
+    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129190000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:30:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129200000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 01:30:00 IST",
+    "channel": "jio-616",
+    "title": "Crime Watch",
+    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129200000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:30:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-616",
+    "title": "Fikar Aapni",
+    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Top 9",
+    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Special",
+    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-616",
+    "title": "Crime Watch",
+    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Special",
+    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-616",
+    "title": "Fikar Aapni",
+    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-616",
+    "title": "Aarti Darshan",
+    "subTitle": "A priest performs religious rituals and chants sacred verses at a temple and devotees gather to worship and offer their prayers to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-616",
+    "title": "Bhakti Geet Gunjan",
+    "subTitle": "Talented musicians come together to perform devotional songs and hymns, offering prayers and seeking blessings from the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130040000",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 09:30:00 IST",
+    "channel": "jio-616",
+    "title": "Morning Agenda",
+    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130040000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:30:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-616",
+    "title": "Bhakti",
+    "subTitle": "The host visits various prominent temples across the country and talks about the different rituals and deities to be worshipped.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130050000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 10:30:00 IST",
+    "channel": "jio-616",
+    "title": "News At 10",
+    "subTitle": "A presenter reports the latest regional, national and international news of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050000",
+    "stopRaw": "20251130053000",
+    "start": "2025-11-30 10:30:00 IST",
+    "stop": "2025-11-30 11:00:00 IST",
+    "channel": "jio-616",
+    "title": "TV9 Samachar",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130053000",
+    "stopRaw": "20251130063000",
+    "start": "2025-11-30 11:00:00 IST",
+    "stop": "2025-11-30 12:00:00 IST",
+    "channel": "jio-616",
+    "title": "TV9 Samachar",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063000",
+    "stopRaw": "20251130070000",
+    "start": "2025-11-30 12:00:00 IST",
+    "stop": "2025-11-30 12:30:00 IST",
+    "channel": "jio-616",
+    "title": "Drashyam",
+    "subTitle": "The host provides a detailed report featuring key pointers surrounding some of the most mysterious places in the Indian subcontinent based on popular folklore.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130070000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 12:30:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130080000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 13:30:00 IST",
+    "channel": "jio-616",
+    "title": "Mid Day News",
+    "subTitle": "The host delves into the latest socio-political and economic events around the globe and explains them in detail.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130080000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:30:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-616",
+    "title": "Crime Watch",
+    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130090000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 14:30:00 IST",
+    "channel": "jio-616",
+    "title": "Good Afternoon Gujarat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130090000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:30:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130100000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 15:30:00 IST",
+    "channel": "jio-616",
+    "title": "TV9 Samachar",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130100000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 15:30:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-616",
+    "title": "Surilee Sargam",
+    "subTitle": "Eminent Gujarati singers captivate and entertain audiences with heartwarming songs and melodious music, delivered through their mesmerising voices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-616",
+    "title": "Surilee Sargam",
+    "subTitle": "Eminent Gujarati singers captivate and entertain audiences with heartwarming songs and melodious music, delivered through their mesmerising voices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130120000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 17:30:00 IST",
+    "channel": "jio-616",
+    "title": "TV9 Samachar",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:30:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130130000",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 18:30:00 IST",
+    "channel": "jio-616",
+    "title": "Super 6",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the top six news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:30:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-616",
+    "title": "Yash Gatha Gujarat Ni",
+    "subTitle": "The host discusses various developments in and around the state of Gujarat and marks the state's progress in different areas.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130140000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 19:30:00 IST",
+    "channel": "jio-616",
+    "title": "Gujarat Live",
+    "subTitle": "The host presents the latest news and updates on governance, social, economic, and political matters, covering both national and global developments,live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:30:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-616",
+    "title": "News Fatafat",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-616",
+    "title": "Super Prime Time",
+    "subTitle": "The host provides the latest information, advancements and developments on key political, economic and social issues from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130160000",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 21:30:00 IST",
+    "channel": "jio-616",
+    "title": "News Top 9",
+    "subTitle": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130160000",
+    "stopRaw": "20251130163000",
+    "start": "2025-11-30 21:30:00 IST",
+    "stop": "2025-11-30 22:00:00 IST",
+    "channel": "jio-616",
+    "title": "Fikar Aapni",
+    "subTitle": "The host highlights and discusses the fundamental issues faced by the citizens of Gujarat, focusing on their core concerns and challenges.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163000",
+    "stopRaw": "20251130170000",
+    "start": "2025-11-30 22:00:00 IST",
+    "stop": "2025-11-30 22:30:00 IST",
+    "channel": "jio-616",
+    "title": "10 Sudhi",
+    "subTitle": "The host provides in-depth coverage of the day's key issues and events, focusing on governance, social, economic, and political matters affecting the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130170000",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:30:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-616",
+    "title": "TV9 Samachar",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130180000",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:30:00 IST",
+    "channel": "jio-616",
+    "title": "Crime Watch",
+    "subTitle": "The host reports on the latest updates on recent crimes, arrests, and investigations, relaying top stories from the city and other parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130180000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:30:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-616",
     "title": "News Fatafat",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",

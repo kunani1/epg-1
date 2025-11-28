@@ -1,295 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-627",
-    "title": "The Prime Show",
-    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-627",
-    "title": "Night Super",
-    "subTitle": "The host presents in-depth reports on the latest news and issues concerning governance, social and political matters affecting the people of the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-627",
-    "title": "News18 Super Prime",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-627",
-    "title": "Prime Time18",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-627",
-    "title": "Dintur Shironam",
-    "subTitle": "The presenter provides an in-depth analysis of the latest developments and updates in the political, economic, social and sports arenas.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-627",
-    "title": "News18 Super Prime",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents the latest news and updates regarding politics, socio-economic developments and criminal activities from the state of Assam.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127022000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 07:50:00 IST",
-    "channel": "jio-627",
-    "title": "Suprabhat",
-    "subTitle": "A renowned astrologer predicts the future based on people's horoscopes and suggests astrological remedies for a fulfilling life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127022000",
-    "stopRaw": "20251127025700",
-    "start": "2025-11-27 07:50:00 IST",
-    "stop": "2025-11-27 08:27:00 IST",
-    "channel": "jio-627",
-    "title": "Good Morning18",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127025700",
-    "stopRaw": "20251127032700",
-    "start": "2025-11-27 08:27:00 IST",
-    "stop": "2025-11-27 08:57:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127032700",
-    "stopRaw": "20251127042700",
-    "start": "2025-11-27 08:57:00 IST",
-    "stop": "2025-11-27 09:57:00 IST",
-    "channel": "jio-627",
-    "title": "Live Hour",
-    "subTitle": "The host provides the latest information, advancements, and developments regarding various political, economic and social issues, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127042700",
-    "stopRaw": "20251127052700",
-    "start": "2025-11-27 09:57:00 IST",
-    "stop": "2025-11-27 10:57:00 IST",
-    "channel": "jio-627",
-    "title": "The Prime Show",
-    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127052700",
-    "stopRaw": "20251127055700",
-    "start": "2025-11-27 10:57:00 IST",
-    "stop": "2025-11-27 11:27:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127055700",
-    "stopRaw": "20251127062700",
-    "start": "2025-11-27 11:27:00 IST",
-    "stop": "2025-11-27 11:57:00 IST",
-    "channel": "jio-627",
-    "title": "Aparadhnama",
-    "subTitle": "The host presents detailed reports on some of the country's most heinous crimes, highlighting the police investigations that unraveled these cases.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127062700",
-    "stopRaw": "20251127072700",
-    "start": "2025-11-27 11:57:00 IST",
-    "stop": "2025-11-27 12:57:00 IST",
-    "channel": "jio-627",
-    "title": "Duporor Sanbad",
-    "subTitle": "The host presents updates on the latest news stories, current affairs, and developments from various sectors of society.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127072700",
-    "stopRaw": "20251127082700",
-    "start": "2025-11-27 12:57:00 IST",
-    "stop": "2025-11-27 13:57:00 IST",
-    "channel": "jio-627",
-    "title": "Gaon Sohor Zilar Khobor",
-    "subTitle": "The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127082700",
-    "stopRaw": "20251127085700",
-    "start": "2025-11-27 13:57:00 IST",
-    "stop": "2025-11-27 14:27:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127085700",
-    "stopRaw": "20251127092700",
-    "start": "2025-11-27 14:27:00 IST",
-    "stop": "2025-11-27 14:57:00 IST",
-    "channel": "jio-627",
-    "title": "Gaon Sohor Zilar Khobor",
-    "subTitle": "The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127092700",
-    "stopRaw": "20251127102700",
-    "start": "2025-11-27 14:57:00 IST",
-    "stop": "2025-11-27 15:57:00 IST",
-    "channel": "jio-627",
-    "title": "The Prime Show",
-    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127102700",
-    "stopRaw": "20251127105700",
-    "start": "2025-11-27 15:57:00 IST",
-    "stop": "2025-11-27 16:27:00 IST",
-    "channel": "jio-627",
-    "title": "Biyolir Khabar",
-    "subTitle": "The host offers comprehensive and factual reporting on significant events and issues, providing unbiased as well as in-depth coverage.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127105700",
-    "stopRaw": "20251127115700",
-    "start": "2025-11-27 16:27:00 IST",
-    "stop": "2025-11-27 17:27:00 IST",
-    "channel": "jio-627",
-    "title": "Khabar Mohanogoror",
-    "subTitle": "The host presents updates on the latest news stories, current affairs and developments from various sectors of the city.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127115700",
-    "stopRaw": "20251127122700",
-    "start": "2025-11-27 17:27:00 IST",
-    "stop": "2025-11-27 17:57:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127122700",
-    "stopRaw": "20251127132700",
-    "start": "2025-11-27 17:57:00 IST",
-    "stop": "2025-11-27 18:57:00 IST",
-    "channel": "jio-627",
-    "title": "Prime Time18",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127132700",
-    "stopRaw": "20251127142000",
-    "start": "2025-11-27 18:57:00 IST",
-    "stop": "2025-11-27 19:50:00 IST",
-    "channel": "jio-627",
-    "title": "Dintur Shironam",
-    "subTitle": "The presenter provides an in-depth analysis of the latest developments and updates in the political, economic, social and sports arenas.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127142000",
-    "stopRaw": "20251127152700",
-    "start": "2025-11-27 19:50:00 IST",
-    "stop": "2025-11-27 20:57:00 IST",
-    "channel": "jio-627",
-    "title": "The Prime Show",
-    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127152700",
-    "stopRaw": "20251127162700",
-    "start": "2025-11-27 20:57:00 IST",
-    "stop": "2025-11-27 21:57:00 IST",
-    "channel": "jio-627",
-    "title": "News18 Super Prime",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127162700",
-    "stopRaw": "20251127165700",
-    "start": "2025-11-27 21:57:00 IST",
-    "stop": "2025-11-27 22:27:00 IST",
-    "channel": "jio-627",
-    "title": "Druta Sanbad",
-    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127165700",
-    "stopRaw": "20251127172700",
-    "start": "2025-11-27 22:27:00 IST",
-    "stop": "2025-11-27 22:57:00 IST",
-    "channel": "jio-627",
-    "title": "Aparadhnama",
-    "subTitle": "The host presents detailed reports on some of the country's most heinous crimes, highlighting the police investigations that unraveled these cases.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127172700",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 22:57:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-627",
-    "title": "Night Super",
-    "subTitle": "The host presents in-depth reports on the latest news and issues concerning governance, social and political matters affecting the people of the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127193000",
     "start": "2025-11-28 00:00:00 IST",
@@ -864,6 +574,296 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 22:57:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-627",
+    "title": "Night Super",
+    "subTitle": "The host presents in-depth reports on the latest news and issues concerning governance, social and political matters affecting the people of the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-627",
+    "title": "The Prime Show",
+    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-627",
+    "title": "Night Super",
+    "subTitle": "The host presents in-depth reports on the latest news and issues concerning governance, social and political matters affecting the people of the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-627",
+    "title": "News18 Super Prime",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-627",
+    "title": "Prime Time18",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-627",
+    "title": "Dintur Shironam",
+    "subTitle": "The presenter provides an in-depth analysis of the latest developments and updates in the political, economic, social and sports arenas.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-627",
+    "title": "News18 Super Prime",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents the latest news and updates regarding politics, socio-economic developments and criminal activities from the state of Assam.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130022000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 07:50:00 IST",
+    "channel": "jio-627",
+    "title": "Suprabhat",
+    "subTitle": "A renowned astrologer predicts the future based on people's horoscopes and suggests astrological remedies for a fulfilling life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130022000",
+    "stopRaw": "20251130025700",
+    "start": "2025-11-30 07:50:00 IST",
+    "stop": "2025-11-30 08:27:00 IST",
+    "channel": "jio-627",
+    "title": "Good Morning18",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130025700",
+    "stopRaw": "20251130032700",
+    "start": "2025-11-30 08:27:00 IST",
+    "stop": "2025-11-30 08:57:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130032700",
+    "stopRaw": "20251130042700",
+    "start": "2025-11-30 08:57:00 IST",
+    "stop": "2025-11-30 09:57:00 IST",
+    "channel": "jio-627",
+    "title": "Live Hour",
+    "subTitle": "The host provides the latest information, advancements, and developments regarding various political, economic and social issues, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130042700",
+    "stopRaw": "20251130052700",
+    "start": "2025-11-30 09:57:00 IST",
+    "stop": "2025-11-30 10:57:00 IST",
+    "channel": "jio-627",
+    "title": "The Prime Show",
+    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130052700",
+    "stopRaw": "20251130055700",
+    "start": "2025-11-30 10:57:00 IST",
+    "stop": "2025-11-30 11:27:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130055700",
+    "stopRaw": "20251130062700",
+    "start": "2025-11-30 11:27:00 IST",
+    "stop": "2025-11-30 11:57:00 IST",
+    "channel": "jio-627",
+    "title": "Aparadhnama",
+    "subTitle": "The host presents detailed reports on some of the country's most heinous crimes, highlighting the police investigations that unraveled these cases.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130062700",
+    "stopRaw": "20251130072700",
+    "start": "2025-11-30 11:57:00 IST",
+    "stop": "2025-11-30 12:57:00 IST",
+    "channel": "jio-627",
+    "title": "Duporor Sanbad",
+    "subTitle": "The host presents updates on the latest news stories, current affairs, and developments from various sectors of society.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130072700",
+    "stopRaw": "20251130082700",
+    "start": "2025-11-30 12:57:00 IST",
+    "stop": "2025-11-30 13:57:00 IST",
+    "channel": "jio-627",
+    "title": "Gaon Sohor Zilar Khobor",
+    "subTitle": "The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130082700",
+    "stopRaw": "20251130085700",
+    "start": "2025-11-30 13:57:00 IST",
+    "stop": "2025-11-30 14:27:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130085700",
+    "stopRaw": "20251130092700",
+    "start": "2025-11-30 14:27:00 IST",
+    "stop": "2025-11-30 14:57:00 IST",
+    "channel": "jio-627",
+    "title": "Gaon Sohor Zilar Khobor",
+    "subTitle": "The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130092700",
+    "stopRaw": "20251130102700",
+    "start": "2025-11-30 14:57:00 IST",
+    "stop": "2025-11-30 15:57:00 IST",
+    "channel": "jio-627",
+    "title": "The Prime Show",
+    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130102700",
+    "stopRaw": "20251130105700",
+    "start": "2025-11-30 15:57:00 IST",
+    "stop": "2025-11-30 16:27:00 IST",
+    "channel": "jio-627",
+    "title": "Biyolir Khabar",
+    "subTitle": "The host offers comprehensive and factual reporting on significant events and issues, providing unbiased as well as in-depth coverage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130105700",
+    "stopRaw": "20251130115700",
+    "start": "2025-11-30 16:27:00 IST",
+    "stop": "2025-11-30 17:27:00 IST",
+    "channel": "jio-627",
+    "title": "Khabar Mohanogoror",
+    "subTitle": "The host presents updates on the latest news stories, current affairs and developments from various sectors of the city.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130115700",
+    "stopRaw": "20251130122700",
+    "start": "2025-11-30 17:27:00 IST",
+    "stop": "2025-11-30 17:57:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130122700",
+    "stopRaw": "20251130132700",
+    "start": "2025-11-30 17:57:00 IST",
+    "stop": "2025-11-30 18:57:00 IST",
+    "channel": "jio-627",
+    "title": "Prime Time18",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130132700",
+    "stopRaw": "20251130142000",
+    "start": "2025-11-30 18:57:00 IST",
+    "stop": "2025-11-30 19:50:00 IST",
+    "channel": "jio-627",
+    "title": "Dintur Shironam",
+    "subTitle": "The presenter provides an in-depth analysis of the latest developments and updates in the political, economic, social and sports arenas.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130142000",
+    "stopRaw": "20251130152700",
+    "start": "2025-11-30 19:50:00 IST",
+    "stop": "2025-11-30 20:57:00 IST",
+    "channel": "jio-627",
+    "title": "The Prime Show",
+    "subTitle": "The host presents the latest news and updates on areas of politics, socio-economic developments and current affairs of the state and the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130152700",
+    "stopRaw": "20251130162700",
+    "start": "2025-11-30 20:57:00 IST",
+    "stop": "2025-11-30 21:57:00 IST",
+    "channel": "jio-627",
+    "title": "News18 Super Prime",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130162700",
+    "stopRaw": "20251130165700",
+    "start": "2025-11-30 21:57:00 IST",
+    "stop": "2025-11-30 22:27:00 IST",
+    "channel": "jio-627",
+    "title": "Druta Sanbad",
+    "subTitle": "The host presents a concise compilation of significant news updates on current affairs, providing a comprehensive overview of key events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130165700",
+    "stopRaw": "20251130172700",
+    "start": "2025-11-30 22:27:00 IST",
+    "stop": "2025-11-30 22:57:00 IST",
+    "channel": "jio-627",
+    "title": "Aparadhnama",
+    "subTitle": "The host presents detailed reports on some of the country's most heinous crimes, highlighting the police investigations that unraveled these cases.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130172700",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 22:57:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-627",
     "title": "Night Super",
     "subTitle": "The host presents in-depth reports on the latest news and issues concerning governance, social and political matters affecting the people of the nation.",

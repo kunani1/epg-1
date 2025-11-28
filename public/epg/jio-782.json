@@ -1,635 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126190000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:30:00 IST",
-    "channel": "jio-782",
-    "title": "Aajno Agenda",
-    "subTitle": "The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126190000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:30:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-782",
-    "title": "Crime Alert",
-    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126200000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 01:30:00 IST",
-    "channel": "jio-782",
-    "title": "Khabar Gujarat",
-    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126200000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:30:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-782",
-    "title": "News Top 20",
-    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-782",
-    "title": "Sur Sandesh",
-    "subTitle": "The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-782",
-    "title": "Metro 50",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national and global importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh Vishesh",
-    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-782",
-    "title": "News Top 20",
-    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-782",
-    "title": "Maha Aarti",
-    "subTitle": "Religious leader and devotees come together to offer their worship and prayers to the Hindu gods and goddesses by chanting verses and performing rituals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127002500",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 05:55:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127002500",
-    "stopRaw": "20251127005500",
-    "start": "2025-11-27 05:55:00 IST",
-    "stop": "2025-11-27 06:25:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127005500",
-    "stopRaw": "20251127012500",
-    "start": "2025-11-27 06:25:00 IST",
-    "stop": "2025-11-27 06:55:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127012500",
-    "stopRaw": "20251127012700",
-    "start": "2025-11-27 06:55:00 IST",
-    "stop": "2025-11-27 06:57:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127012700",
-    "stopRaw": "20251127015300",
-    "start": "2025-11-27 06:57:00 IST",
-    "stop": "2025-11-27 07:23:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127015300",
-    "stopRaw": "20251127015500",
-    "start": "2025-11-27 07:23:00 IST",
-    "stop": "2025-11-27 07:25:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127015500",
-    "stopRaw": "20251127022500",
-    "start": "2025-11-27 07:25:00 IST",
-    "stop": "2025-11-27 07:55:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127022500",
-    "stopRaw": "20251127022700",
-    "start": "2025-11-27 07:55:00 IST",
-    "stop": "2025-11-27 07:57:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127022700",
-    "stopRaw": "20251127025700",
-    "start": "2025-11-27 07:57:00 IST",
-    "stop": "2025-11-27 08:27:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127025700",
-    "stopRaw": "20251127032500",
-    "start": "2025-11-27 08:27:00 IST",
-    "stop": "2025-11-27 08:55:00 IST",
-    "channel": "jio-782",
-    "title": "Bhakti Sandesh",
-    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127032500",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 08:55:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127035700",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 09:27:00 IST",
-    "channel": "jio-782",
-    "title": "Bhakti Sandesh",
-    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127035700",
-    "stopRaw": "20251127042500",
-    "start": "2025-11-27 09:27:00 IST",
-    "stop": "2025-11-27 09:55:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127042500",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:55:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-782",
-    "title": "5 Min 25 Khabar",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127050000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 10:30:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050000",
-    "stopRaw": "20251127052300",
-    "start": "2025-11-27 10:30:00 IST",
-    "stop": "2025-11-27 10:53:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127052300",
-    "stopRaw": "20251127052500",
-    "start": "2025-11-27 10:53:00 IST",
-    "stop": "2025-11-27 10:55:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127052500",
-    "stopRaw": "20251127060000",
-    "start": "2025-11-27 10:55:00 IST",
-    "stop": "2025-11-27 11:30:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127060000",
-    "stopRaw": "20251127062500",
-    "start": "2025-11-27 11:30:00 IST",
-    "stop": "2025-11-27 11:55:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127062500",
-    "stopRaw": "20251127062700",
-    "start": "2025-11-27 11:55:00 IST",
-    "stop": "2025-11-27 11:57:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127062700",
-    "stopRaw": "20251127070000",
-    "start": "2025-11-27 11:57:00 IST",
-    "stop": "2025-11-27 12:30:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127070000",
-    "stopRaw": "20251127072500",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 12:55:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh Vishesh",
-    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127072500",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:55:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-782",
-    "title": "5 Min 25 Khabar",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127075700",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 13:27:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127075700",
-    "stopRaw": "20251127082500",
-    "start": "2025-11-27 13:27:00 IST",
-    "stop": "2025-11-27 13:55:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127082500",
-    "stopRaw": "20251127085700",
-    "start": "2025-11-27 13:55:00 IST",
-    "stop": "2025-11-27 14:27:00 IST",
-    "channel": "jio-782",
-    "title": "Crime Alert",
-    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127085700",
-    "stopRaw": "20251127092500",
-    "start": "2025-11-27 14:27:00 IST",
-    "stop": "2025-11-27 14:55:00 IST",
-    "channel": "jio-782",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127092500",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:55:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-782",
-    "title": "5 Min 25 Khabar",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127095500",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 15:25:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127095500",
-    "stopRaw": "20251127102500",
-    "start": "2025-11-27 15:25:00 IST",
-    "stop": "2025-11-27 15:55:00 IST",
-    "channel": "jio-782",
-    "title": "Bhakti Sandesh",
-    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127102500",
-    "stopRaw": "20251127102700",
-    "start": "2025-11-27 15:55:00 IST",
-    "stop": "2025-11-27 15:57:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127102700",
-    "stopRaw": "20251127105500",
-    "start": "2025-11-27 15:57:00 IST",
-    "stop": "2025-11-27 16:25:00 IST",
-    "channel": "jio-782",
-    "title": "Bhakti Sandesh",
-    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127105500",
-    "stopRaw": "20251127105700",
-    "start": "2025-11-27 16:25:00 IST",
-    "stop": "2025-11-27 16:27:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127105700",
-    "stopRaw": "20251127112500",
-    "start": "2025-11-27 16:27:00 IST",
-    "stop": "2025-11-27 16:55:00 IST",
-    "channel": "jio-782",
-    "title": "Prabhu Vandana",
-    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127112500",
-    "stopRaw": "20251127120000",
-    "start": "2025-11-27 16:55:00 IST",
-    "stop": "2025-11-27 17:30:00 IST",
-    "channel": "jio-782",
-    "title": "War Room",
-    "subTitle": "The host, along with other reporters, presents the latest news stories and updates with regards to society, economy, politics and health.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127120000",
-    "stopRaw": "20251127122500",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 17:55:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127122500",
-    "stopRaw": "20251127125500",
-    "start": "2025-11-27 17:55:00 IST",
-    "stop": "2025-11-27 18:25:00 IST",
-    "channel": "jio-782",
-    "title": "6 Baje 16 Samachar",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to politics, finance, sports and entertainment news happening in India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127125500",
-    "stopRaw": "20251127125700",
-    "start": "2025-11-27 18:25:00 IST",
-    "stop": "2025-11-27 18:27:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127125700",
-    "stopRaw": "20251127132300",
-    "start": "2025-11-27 18:27:00 IST",
-    "stop": "2025-11-27 18:53:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127132300",
-    "stopRaw": "20251127135300",
-    "start": "2025-11-27 18:53:00 IST",
-    "stop": "2025-11-27 19:23:00 IST",
-    "channel": "jio-782",
-    "title": "Khabar Gujarat",
-    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127135300",
-    "stopRaw": "20251127142300",
-    "start": "2025-11-27 19:23:00 IST",
-    "stop": "2025-11-27 19:53:00 IST",
-    "channel": "jio-782",
-    "title": "Superfast 100",
-    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127142300",
-    "stopRaw": "20251127142500",
-    "start": "2025-11-27 19:53:00 IST",
-    "stop": "2025-11-27 19:55:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127142500",
-    "stopRaw": "20251127145500",
-    "start": "2025-11-27 19:55:00 IST",
-    "stop": "2025-11-27 20:25:00 IST",
-    "channel": "jio-782",
-    "title": "Aajno Agenda",
-    "subTitle": "The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127145500",
-    "stopRaw": "20251127145700",
-    "start": "2025-11-27 20:25:00 IST",
-    "stop": "2025-11-27 20:27:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127145700",
-    "stopRaw": "20251127152500",
-    "start": "2025-11-27 20:27:00 IST",
-    "stop": "2025-11-27 20:55:00 IST",
-    "channel": "jio-782",
-    "title": "Metro 50",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national and global importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127152500",
-    "stopRaw": "20251127155500",
-    "start": "2025-11-27 20:55:00 IST",
-    "stop": "2025-11-27 21:25:00 IST",
-    "channel": "jio-782",
-    "title": "9 PM 90 News",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127155500",
-    "stopRaw": "20251127162500",
-    "start": "2025-11-27 21:25:00 IST",
-    "stop": "2025-11-27 21:55:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh Vishesh",
-    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127162500",
-    "stopRaw": "20251127165700",
-    "start": "2025-11-27 21:55:00 IST",
-    "stop": "2025-11-27 22:27:00 IST",
-    "channel": "jio-782",
-    "title": "News Top 20",
-    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127165700",
-    "stopRaw": "20251127172500",
-    "start": "2025-11-27 22:27:00 IST",
-    "stop": "2025-11-27 22:55:00 IST",
-    "channel": "jio-782",
-    "title": "Crime Alert",
-    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127172500",
-    "stopRaw": "20251127172700",
-    "start": "2025-11-27 22:55:00 IST",
-    "stop": "2025-11-27 22:57:00 IST",
-    "channel": "jio-782",
-    "title": "2 Min 12 Khabar",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127172700",
-    "stopRaw": "20251127175500",
-    "start": "2025-11-27 22:57:00 IST",
-    "stop": "2025-11-27 23:25:00 IST",
-    "channel": "jio-782",
-    "title": "Sandesh News",
-    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127175500",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:25:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-782",
-    "title": "Super Fast",
-    "subTitle": "The host provides information on the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1884,6 +1254,636 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:25:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-782",
+    "title": "Super Fast",
+    "subTitle": "The host provides information on the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129190000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 00:30:00 IST",
+    "channel": "jio-782",
+    "title": "Aajno Agenda",
+    "subTitle": "The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129190000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:30:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-782",
+    "title": "Crime Alert",
+    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129200000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 01:30:00 IST",
+    "channel": "jio-782",
+    "title": "Khabar Gujarat",
+    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129200000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:30:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-782",
+    "title": "News Top 20",
+    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-782",
+    "title": "Sur Sandesh",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-782",
+    "title": "Metro 50",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national and global importance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh Vishesh",
+    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-782",
+    "title": "News Top 20",
+    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-782",
+    "title": "Maha Aarti",
+    "subTitle": "Religious leader and devotees come together to offer their worship and prayers to the Hindu gods and goddesses by chanting verses and performing rituals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130002500",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 05:55:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130002500",
+    "stopRaw": "20251130005500",
+    "start": "2025-11-30 05:55:00 IST",
+    "stop": "2025-11-30 06:25:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130005500",
+    "stopRaw": "20251130012500",
+    "start": "2025-11-30 06:25:00 IST",
+    "stop": "2025-11-30 06:55:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130012500",
+    "stopRaw": "20251130012700",
+    "start": "2025-11-30 06:55:00 IST",
+    "stop": "2025-11-30 06:57:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130012700",
+    "stopRaw": "20251130015300",
+    "start": "2025-11-30 06:57:00 IST",
+    "stop": "2025-11-30 07:23:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130015300",
+    "stopRaw": "20251130015500",
+    "start": "2025-11-30 07:23:00 IST",
+    "stop": "2025-11-30 07:25:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130015500",
+    "stopRaw": "20251130022500",
+    "start": "2025-11-30 07:25:00 IST",
+    "stop": "2025-11-30 07:55:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130022500",
+    "stopRaw": "20251130022700",
+    "start": "2025-11-30 07:55:00 IST",
+    "stop": "2025-11-30 07:57:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130022700",
+    "stopRaw": "20251130025700",
+    "start": "2025-11-30 07:57:00 IST",
+    "stop": "2025-11-30 08:27:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130025700",
+    "stopRaw": "20251130032500",
+    "start": "2025-11-30 08:27:00 IST",
+    "stop": "2025-11-30 08:55:00 IST",
+    "channel": "jio-782",
+    "title": "Bhakti Sandesh",
+    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130032500",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 08:55:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130035700",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 09:27:00 IST",
+    "channel": "jio-782",
+    "title": "Bhakti Sandesh",
+    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130035700",
+    "stopRaw": "20251130042500",
+    "start": "2025-11-30 09:27:00 IST",
+    "stop": "2025-11-30 09:55:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130042500",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:55:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-782",
+    "title": "5 Min 25 Khabar",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130050000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 10:30:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050000",
+    "stopRaw": "20251130052300",
+    "start": "2025-11-30 10:30:00 IST",
+    "stop": "2025-11-30 10:53:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130052300",
+    "stopRaw": "20251130052500",
+    "start": "2025-11-30 10:53:00 IST",
+    "stop": "2025-11-30 10:55:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130052500",
+    "stopRaw": "20251130060000",
+    "start": "2025-11-30 10:55:00 IST",
+    "stop": "2025-11-30 11:30:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130060000",
+    "stopRaw": "20251130062500",
+    "start": "2025-11-30 11:30:00 IST",
+    "stop": "2025-11-30 11:55:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130062500",
+    "stopRaw": "20251130062700",
+    "start": "2025-11-30 11:55:00 IST",
+    "stop": "2025-11-30 11:57:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130062700",
+    "stopRaw": "20251130070000",
+    "start": "2025-11-30 11:57:00 IST",
+    "stop": "2025-11-30 12:30:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130070000",
+    "stopRaw": "20251130072500",
+    "start": "2025-11-30 12:30:00 IST",
+    "stop": "2025-11-30 12:55:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh Vishesh",
+    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130072500",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 12:55:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-782",
+    "title": "5 Min 25 Khabar",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130075700",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 13:27:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130075700",
+    "stopRaw": "20251130082500",
+    "start": "2025-11-30 13:27:00 IST",
+    "stop": "2025-11-30 13:55:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130082500",
+    "stopRaw": "20251130085700",
+    "start": "2025-11-30 13:55:00 IST",
+    "stop": "2025-11-30 14:27:00 IST",
+    "channel": "jio-782",
+    "title": "Crime Alert",
+    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130085700",
+    "stopRaw": "20251130092500",
+    "start": "2025-11-30 14:27:00 IST",
+    "stop": "2025-11-30 14:55:00 IST",
+    "channel": "jio-782",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130092500",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:55:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-782",
+    "title": "5 Min 25 Khabar",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130095500",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 15:25:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130095500",
+    "stopRaw": "20251130102500",
+    "start": "2025-11-30 15:25:00 IST",
+    "stop": "2025-11-30 15:55:00 IST",
+    "channel": "jio-782",
+    "title": "Bhakti Sandesh",
+    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130102500",
+    "stopRaw": "20251130102700",
+    "start": "2025-11-30 15:55:00 IST",
+    "stop": "2025-11-30 15:57:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130102700",
+    "stopRaw": "20251130105500",
+    "start": "2025-11-30 15:57:00 IST",
+    "stop": "2025-11-30 16:25:00 IST",
+    "channel": "jio-782",
+    "title": "Bhakti Sandesh",
+    "subTitle": "The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130105500",
+    "stopRaw": "20251130105700",
+    "start": "2025-11-30 16:25:00 IST",
+    "stop": "2025-11-30 16:27:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130105700",
+    "stopRaw": "20251130112500",
+    "start": "2025-11-30 16:27:00 IST",
+    "stop": "2025-11-30 16:55:00 IST",
+    "channel": "jio-782",
+    "title": "Prabhu Vandana",
+    "subTitle": "A comprehensive compilation of religious hymns, prayers and devotional songs are played back-to-back to help viewers grow closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130112500",
+    "stopRaw": "20251130120000",
+    "start": "2025-11-30 16:55:00 IST",
+    "stop": "2025-11-30 17:30:00 IST",
+    "channel": "jio-782",
+    "title": "War Room",
+    "subTitle": "The host, along with other reporters, presents the latest news stories and updates with regards to society, economy, politics and health.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120000",
+    "stopRaw": "20251130122500",
+    "start": "2025-11-30 17:30:00 IST",
+    "stop": "2025-11-30 17:55:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130122500",
+    "stopRaw": "20251130125500",
+    "start": "2025-11-30 17:55:00 IST",
+    "stop": "2025-11-30 18:25:00 IST",
+    "channel": "jio-782",
+    "title": "6 Baje 16 Samachar",
+    "subTitle": "The host sheds light on the latest updates and developments pertaining to politics, finance, sports and entertainment news happening in India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130125500",
+    "stopRaw": "20251130125700",
+    "start": "2025-11-30 18:25:00 IST",
+    "stop": "2025-11-30 18:27:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130125700",
+    "stopRaw": "20251130132300",
+    "start": "2025-11-30 18:27:00 IST",
+    "stop": "2025-11-30 18:53:00 IST",
+    "channel": "jio-782",
+    "title": "ADVT",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130132300",
+    "stopRaw": "20251130135300",
+    "start": "2025-11-30 18:53:00 IST",
+    "stop": "2025-11-30 19:23:00 IST",
+    "channel": "jio-782",
+    "title": "Khabar Gujarat",
+    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130135300",
+    "stopRaw": "20251130142300",
+    "start": "2025-11-30 19:23:00 IST",
+    "stop": "2025-11-30 19:53:00 IST",
+    "channel": "jio-782",
+    "title": "Superfast 100",
+    "subTitle": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130142300",
+    "stopRaw": "20251130142500",
+    "start": "2025-11-30 19:53:00 IST",
+    "stop": "2025-11-30 19:55:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130142500",
+    "stopRaw": "20251130145500",
+    "start": "2025-11-30 19:55:00 IST",
+    "stop": "2025-11-30 20:25:00 IST",
+    "channel": "jio-782",
+    "title": "Aajno Agenda",
+    "subTitle": "The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130145500",
+    "stopRaw": "20251130145700",
+    "start": "2025-11-30 20:25:00 IST",
+    "stop": "2025-11-30 20:27:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130145700",
+    "stopRaw": "20251130152500",
+    "start": "2025-11-30 20:27:00 IST",
+    "stop": "2025-11-30 20:55:00 IST",
+    "channel": "jio-782",
+    "title": "Metro 50",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on a range of issues of national and global importance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130152500",
+    "stopRaw": "20251130155500",
+    "start": "2025-11-30 20:55:00 IST",
+    "stop": "2025-11-30 21:25:00 IST",
+    "channel": "jio-782",
+    "title": "9 PM 90 News",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130155500",
+    "stopRaw": "20251130162500",
+    "start": "2025-11-30 21:25:00 IST",
+    "stop": "2025-11-30 21:55:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh Vishesh",
+    "subTitle": "The host gives an in-depth report on the day's topic while also providing interesting information and presents the public's opinion on the matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130162500",
+    "stopRaw": "20251130165700",
+    "start": "2025-11-30 21:55:00 IST",
+    "stop": "2025-11-30 22:27:00 IST",
+    "channel": "jio-782",
+    "title": "News Top 20",
+    "subTitle": "The host presents the top news stories related to current affairs, economic development, politics, social issues from the country and across the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130165700",
+    "stopRaw": "20251130172500",
+    "start": "2025-11-30 22:27:00 IST",
+    "stop": "2025-11-30 22:55:00 IST",
+    "channel": "jio-782",
+    "title": "Crime Alert",
+    "subTitle": "The host presents the latest crime stories and other top news alerts across various regions in India in a detailed manner.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130172500",
+    "stopRaw": "20251130172700",
+    "start": "2025-11-30 22:55:00 IST",
+    "stop": "2025-11-30 22:57:00 IST",
+    "channel": "jio-782",
+    "title": "2 Min 12 Khabar",
+    "subTitle": "The host collates and presents some of the most important news, updates and developments of the day in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130172700",
+    "stopRaw": "20251130175500",
+    "start": "2025-11-30 22:57:00 IST",
+    "stop": "2025-11-30 23:25:00 IST",
+    "channel": "jio-782",
+    "title": "Sandesh News",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130175500",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:25:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-782",
     "title": "Super Fast",
     "subTitle": "The host provides information on the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",

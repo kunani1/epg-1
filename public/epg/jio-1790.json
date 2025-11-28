@@ -1,455 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Aajana Mukhya Samachr",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126200000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 01:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Family Doctor",
-    "subTitle": "The host speaks with experts in medicine regarding common ailments that affect individuals and provides various remedies for the same.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126200000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:30:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Off Beat Story",
-    "subTitle": "The host sheds light on the top news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Viral Video",
-    "subTitle": "The host sheds light on a compilation of interesting and entertaining videos that have gone viral on social networking websites.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Mukhya Samachar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Kayda Na Fayda",
-    "subTitle": "The host has a conversation with qualified experts regarding various topics of interest to understand their opinions on the matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Samachar Savar Ma",
-    "subTitle": "A religious scholar provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Cha Sathe Su Thayu?",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Khabari Ni Khabar",
-    "subTitle": "The host presents latest news updates and information on social, political, cultural and economic topics of global significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127010000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 06:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Bhagwan Na Darshan",
-    "subTitle": "A religious leader guides devotees in offering their worship and prayers to the Almighty while encouraging them to walk the path of righteousness.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127010000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:30:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Taja Samachar",
-    "subTitle": "The host presents a round-up on the latest social, political and economic news updates and stories from across the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127020000",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 07:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Trending Samachar",
-    "subTitle": "The host presents the trending news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127020000",
-    "stopRaw": "20251127023000",
-    "start": "2025-11-27 07:30:00 IST",
-    "stop": "2025-11-27 08:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Samachar Thi Saruvat",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023000",
-    "stopRaw": "20251127030000",
-    "start": "2025-11-27 08:00:00 IST",
-    "stop": "2025-11-27 08:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Astrology",
-    "subTitle": "A renowned astrologer predicts the future based on people's horoscopes and suggests astrological remedies for a fulfilling life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127030000",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 08:30:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Bhavishyavani",
-    "subTitle": "A well-known astrologer makes predictions about the future and gives advice based on the positions of the celestial bodies and the twelve signs of the zodiac.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127040000",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 09:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Samchar Sathe Saruvat",
-    "subTitle": "The host presents various updates on the latest events related to society, politics and economics in a detailed, yet concise manner.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127040000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:30:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Ajana Sachot Samachar",
-    "subTitle": "The host delivers in-depth news coverage and analysis by providing comprehensive insights into the day's most important stories.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127050000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 10:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 10:30:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127060000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 11:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Samachar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127060000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:30:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Jovo Aajana Samachar",
-    "subTitle": "The host delivers comprehensive and timely updates on the most important current events, offering accurate and objective reporting on the issues that matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127070000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 12:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Gujarat Na Samachar",
-    "subTitle": "The host provides a comprehensive coverage of regional developments, issues, events and stories from all across Gujarat.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127070000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Shaher Na Samachar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events in the city.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127080000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 13:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Desh Na Samachar",
-    "subTitle": "The host presents latest updates and developments of the day pertaining to the political, social and economic issues of the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127080000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:30:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127090000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 14:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Family Doctor Sathe",
-    "subTitle": "A medical expert offers valuable insights and clear queries regarding various health concerns of individuals and shares possible solutions to recover from their illnesses.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127090000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:30:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Political Samachar",
-    "subTitle": "The host delivers the latest political news, analyses and insights, offering a balanced view on national events shaping the country today.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127100000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 15:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Samachar Sathe Cha",
-    "subTitle": "The host sheds light on the top news stories pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127100000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:30:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Nava Samachar",
-    "subTitle": "The host sheds light on the top news stories pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127110000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 16:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Kayda Na Fayda",
-    "subTitle": "The host has a conversation with qualified experts regarding various topics of interest to understand their opinions on the matter.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127110000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:30:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Janva Jevu",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127120000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 17:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Off Beat Samachar",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127120000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Ajab Gajab",
-    "subTitle": "The host presents information and lesser known facts about several topics including history, contemporary issues and religion.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127130000",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 18:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Trending Viral",
-    "subTitle": "The host presents trending and viral stories of the day pertaining to the various fields and gives an in-depth insight of the events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127130000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:30:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Jovanu Bhulaso Nahi",
-    "subTitle": "The presenter sheds light on the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127140000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 19:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Power Play Political",
-    "subTitle": "The host sheds light on the latest news stories and developments pertaining to various political issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127140000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:30:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Samachar Sathe Aaj",
-    "subTitle": "The presenter provides the latest updates regarding a number of social, political and economic events transpiring around the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127160000",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 21:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Divas Bhar No Hisab",
-    "subTitle": "The host provides insight into the latest and most significant news, developments and current affairs that took place throughout the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127160000",
-    "stopRaw": "20251127170000",
-    "start": "2025-11-27 21:30:00 IST",
-    "stop": "2025-11-27 22:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Family Doctor Nidan",
-    "subTitle": "The host invites a medical expert to address common health concerns and provide advice for their diagnosis and treatment.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127170000",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:30:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-1790",
-    "title": "Political Samachar",
-    "subTitle": "The host delivers the latest political news, analyses and insights, offering a balanced view on national events shaping the country today.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127180000",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:30:00 IST",
-    "channel": "jio-1790",
-    "title": "Khas Tamara Mate Powerplay",
-    "subTitle": "The host has a conversation with various experts regarding the latest news stories and developments in the world of sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127180000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:30:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-1790",
-    "title": "Powerplay",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127193000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1344,6 +894,456 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Aajana Mukhya Samachr",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129200000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 01:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Family Doctor",
+    "subTitle": "The host speaks with experts in medicine regarding common ailments that affect individuals and provides various remedies for the same.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129200000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:30:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Off Beat Story",
+    "subTitle": "The host sheds light on the top news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Viral Video",
+    "subTitle": "The host sheds light on a compilation of interesting and entertaining videos that have gone viral on social networking websites.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Mukhya Samachar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Kayda Na Fayda",
+    "subTitle": "The host has a conversation with qualified experts regarding various topics of interest to understand their opinions on the matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Samachar Savar Ma",
+    "subTitle": "A religious scholar provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Cha Sathe Su Thayu?",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Khabari Ni Khabar",
+    "subTitle": "The host presents latest news updates and information on social, political, cultural and economic topics of global significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130010000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 06:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Bhagwan Na Darshan",
+    "subTitle": "A religious leader guides devotees in offering their worship and prayers to the Almighty while encouraging them to walk the path of righteousness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130010000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:30:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Taja Samachar",
+    "subTitle": "The host presents a round-up on the latest social, political and economic news updates and stories from across the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130020000",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 07:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Trending Samachar",
+    "subTitle": "The host presents the trending news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130020000",
+    "stopRaw": "20251130023000",
+    "start": "2025-11-30 07:30:00 IST",
+    "stop": "2025-11-30 08:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Samachar Thi Saruvat",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130023000",
+    "stopRaw": "20251130030000",
+    "start": "2025-11-30 08:00:00 IST",
+    "stop": "2025-11-30 08:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Astrology",
+    "subTitle": "A renowned astrologer predicts the future based on people's horoscopes and suggests astrological remedies for a fulfilling life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130030000",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 08:30:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Bhavishyavani",
+    "subTitle": "A well-known astrologer makes predictions about the future and gives advice based on the positions of the celestial bodies and the twelve signs of the zodiac.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130040000",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 09:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Samchar Sathe Saruvat",
+    "subTitle": "The host presents various updates on the latest events related to society, politics and economics in a detailed, yet concise manner.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130040000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:30:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Ajana Sachot Samachar",
+    "subTitle": "The host delivers in-depth news coverage and analysis by providing comprehensive insights into the day's most important stories.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130050000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 10:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050000",
+    "stopRaw": "20251130053000",
+    "start": "2025-11-30 10:30:00 IST",
+    "stop": "2025-11-30 11:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130053000",
+    "stopRaw": "20251130060000",
+    "start": "2025-11-30 11:00:00 IST",
+    "stop": "2025-11-30 11:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Samachar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130060000",
+    "stopRaw": "20251130063000",
+    "start": "2025-11-30 11:30:00 IST",
+    "stop": "2025-11-30 12:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Jovo Aajana Samachar",
+    "subTitle": "The host delivers comprehensive and timely updates on the most important current events, offering accurate and objective reporting on the issues that matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063000",
+    "stopRaw": "20251130070000",
+    "start": "2025-11-30 12:00:00 IST",
+    "stop": "2025-11-30 12:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Gujarat Na Samachar",
+    "subTitle": "The host provides a comprehensive coverage of regional developments, issues, events and stories from all across Gujarat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130070000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 12:30:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Shaher Na Samachar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events in the city.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130080000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 13:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Desh Na Samachar",
+    "subTitle": "The host presents latest updates and developments of the day pertaining to the political, social and economic issues of the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130080000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:30:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130090000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 14:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Family Doctor Sathe",
+    "subTitle": "A medical expert offers valuable insights and clear queries regarding various health concerns of individuals and shares possible solutions to recover from their illnesses.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130090000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:30:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Political Samachar",
+    "subTitle": "The host delivers the latest political news, analyses and insights, offering a balanced view on national events shaping the country today.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130100000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 15:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Samachar Sathe Cha",
+    "subTitle": "The host sheds light on the top news stories pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130100000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 15:30:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Nava Samachar",
+    "subTitle": "The host sheds light on the top news stories pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130110000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 16:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Kayda Na Fayda",
+    "subTitle": "The host has a conversation with qualified experts regarding various topics of interest to understand their opinions on the matter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130110000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:30:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Janva Jevu",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130120000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 17:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Off Beat Samachar",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:30:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Ajab Gajab",
+    "subTitle": "The host presents information and lesser known facts about several topics including history, contemporary issues and religion.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130130000",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 18:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Trending Viral",
+    "subTitle": "The host presents trending and viral stories of the day pertaining to the various fields and gives an in-depth insight of the events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:30:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Jovanu Bhulaso Nahi",
+    "subTitle": "The presenter sheds light on the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130140000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 19:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Power Play Political",
+    "subTitle": "The host sheds light on the latest news stories and developments pertaining to various political issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:30:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Powerplay",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Samachar Sathe Aaj",
+    "subTitle": "The presenter provides the latest updates regarding a number of social, political and economic events transpiring around the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130160000",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 21:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Divas Bhar No Hisab",
+    "subTitle": "The host provides insight into the latest and most significant news, developments and current affairs that took place throughout the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130160000",
+    "stopRaw": "20251130170000",
+    "start": "2025-11-30 21:30:00 IST",
+    "stop": "2025-11-30 22:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Family Doctor Nidan",
+    "subTitle": "The host invites a medical expert to address common health concerns and provide advice for their diagnosis and treatment.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130170000",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:30:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-1790",
+    "title": "Political Samachar",
+    "subTitle": "The host delivers the latest political news, analyses and insights, offering a balanced view on national events shaping the country today.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130180000",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:30:00 IST",
+    "channel": "jio-1790",
+    "title": "Khas Tamara Mate Powerplay",
+    "subTitle": "The host has a conversation with various experts regarding the latest news stories and developments in the world of sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130180000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:30:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-1790",
     "title": "Powerplay",
     "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",

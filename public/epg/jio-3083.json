@@ -1,105 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Lokgeet",
-    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Mix Bhajan",
-    "subTitle": "A comprehensive compilation of devotional songs sung by various renowned artists in praise of different gods and goddesses played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Morning Lokgeet",
-    "subTitle": "A comprehensive compilation of some of the most popular devotional songs, specially curated for the morning, played in succession by various artists.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Filmy Comedy &amp; Comedy Drama",
-    "subTitle": "A comprehensive compilation of comedy scenes from popular movies featuring talented artists is played in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Lokgeet",
-    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Lokgeet",
-    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Filmy Song",
-    "subTitle": "A comprehensive compilation of popular melodious songs from movies featuring prominent stars is played in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-3083",
-    "title": "Comedy Night",
-    "subTitle": "Talented comedians come together and perform hilarious sketches jesting the invited celebrities as well as entertaining the audiences.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-3083",
-    "title": "Lokgeet Night",
-    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251128003000",
     "start": "2025-11-28 00:00:00 IST",
@@ -294,6 +194,106 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 21:00:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-3083",
+    "title": "Lokgeet Night",
+    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Lokgeet",
+    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Mix Bhajan",
+    "subTitle": "A comprehensive compilation of devotional songs sung by various renowned artists in praise of different gods and goddesses played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Morning Lokgeet",
+    "subTitle": "A comprehensive compilation of some of the most popular devotional songs, specially curated for the morning, played in succession by various artists.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130063000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 12:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Filmy Comedy &amp; Comedy Drama",
+    "subTitle": "A comprehensive compilation of comedy scenes from popular movies featuring talented artists is played in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 12:00:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Lokgeet",
+    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Lokgeet",
+    "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Filmy Song",
+    "subTitle": "A comprehensive compilation of popular melodious songs from movies featuring prominent stars is played in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-3083",
+    "title": "Comedy Night",
+    "subTitle": "Talented comedians come together and perform hilarious sketches jesting the invited celebrities as well as entertaining the audiences.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-3083",
     "title": "Lokgeet Night",
     "subTitle": "A comprehensive compilation comprising some of the most popular Indian folk songs composed by various artists, played in succession.",

@@ -1,205 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-748",
-    "title": "Metro Night",
-    "subTitle": "A night-time treat for music lovers, presenting a handpicked collection of soulful, peppy and high-energy Tamil tunes to match every mood.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-748",
-    "title": "Deiveega Raagam",
-    "subTitle": "The host plays a comprehensive compilation of various devotional songs performed and composed by different artists in praise of the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-748",
-    "title": "Wakeup Tamizha",
-    "subTitle": "The host strikes a conversation with the people over the phone and plays some of their favourite songs while sharing the wishes and dedications of the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127023000",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 08:00:00 IST",
-    "channel": "jio-748",
-    "title": "Breakfast Tunes",
-    "subTitle": "A comprehensive collection of soul-stirring melodies from the latest Tamil movies featuring renowned artists and musicians, played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023000",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 08:00:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-748",
-    "title": "Breakfree Songs",
-    "subTitle": "A comprehensive compilation of songs from Tamil movies, showcasing a diverse range of music to elevate the mood of listeners.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-748",
-    "title": "Endrum Punnagai Live",
-    "subTitle": "The host plays popular songs from movies and indulges in casual conversation with the viewers about various topics over the phone, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-748",
-    "title": "Ellame Rajathaan",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-748",
-    "title": "Music Highway",
-    "subTitle": "A comprehensive compilation of some of the latest and most popular musical numbers from famous movies in the Indian film industry.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-748",
-    "title": "Lunch Box- Live",
-    "subTitle": "Tune in for a non-stop musical journey featuring a diverse lineup of Tamil songs, from nostalgic classics to contemporary chart-toppers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-748",
-    "title": "7 Tunes",
-    "subTitle": "A comprehensive compilation of catchy and melodious songs composed and performed by talented artists, musicians and singers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-748",
-    "title": "Flash Back",
-    "subTitle": "A tuneful compilation of songs from movies released by the Tamil film industry in the 1980s to entertain and delight audiences.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-748",
-    "title": "Love Beats",
-    "subTitle": "A comprehensive compilation of soulful romantic love songs recorded by popular musicians and artists for major blockbuster movies.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-748",
-    "title": "All About Music",
-    "subTitle": "A comprehensive compilation of some of the most popular songs from the latest films, performed by talented artists and musicians, played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-748",
-    "title": "Coffee Break Live",
-    "subTitle": "The host presents an entertaining compilation of the latest musical numbers from famous movies in the Tamil film industry, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-748",
-    "title": "Climax Live",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-748",
-    "title": "Happy Hours",
-    "subTitle": "A comprehensive compilation of some of the most entertaining chart-topping songs by various popular artists, musicians, singers and songwriters.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-748",
-    "title": "One By Two",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127163000",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 22:00:00 IST",
-    "channel": "jio-748",
-    "title": "Ellame Rajathaan",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163000",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-748",
-    "title": "Flash Back",
-    "subTitle": "A tuneful compilation of songs from movies released by the Tamil film industry in the 1980s to entertain and delight audiences.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-748",
-    "title": "Metro Night",
-    "subTitle": "A night-time treat for music lovers, presenting a handpicked collection of soulful, peppy and high-energy Tamil tunes to match every mood.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127233000",
     "start": "2025-11-28 00:00:00 IST",
@@ -604,6 +404,206 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-748",
+    "title": "Metro Night",
+    "subTitle": "A night-time treat for music lovers, presenting a handpicked collection of soulful, peppy and high-energy Tamil tunes to match every mood.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-748",
+    "title": "Metro Night",
+    "subTitle": "A night-time treat for music lovers, presenting a handpicked collection of soulful, peppy and high-energy Tamil tunes to match every mood.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-748",
+    "title": "Deiveega Raagam",
+    "subTitle": "The host plays a comprehensive compilation of various devotional songs performed and composed by different artists in praise of the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-748",
+    "title": "Wakeup Tamizha",
+    "subTitle": "The host strikes a conversation with the people over the phone and plays some of their favourite songs while sharing the wishes and dedications of the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130023000",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 08:00:00 IST",
+    "channel": "jio-748",
+    "title": "Breakfast Tunes",
+    "subTitle": "A comprehensive collection of soul-stirring melodies from the latest Tamil movies featuring renowned artists and musicians, played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130023000",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 08:00:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-748",
+    "title": "Breakfree Songs",
+    "subTitle": "A comprehensive compilation of songs from Tamil movies, showcasing a diverse range of music to elevate the mood of listeners.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-748",
+    "title": "Top 9",
+    "subTitle": "A comprehensive compilation of the top nine songs from the latest movies performed by talented singers and features popular actors.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130053000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 11:00:00 IST",
+    "channel": "jio-748",
+    "title": "Ellame Rajathaan",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130053000",
+    "stopRaw": "20251130063000",
+    "start": "2025-11-30 11:00:00 IST",
+    "stop": "2025-11-30 12:00:00 IST",
+    "channel": "jio-748",
+    "title": "Coffee Break",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 12:00:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-748",
+    "title": "Lunch Box",
+    "subTitle": "A compilation of some of the best songs recorded and composed by famous musicians and artists for popular Tamil movies played back-to-back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-748",
+    "title": "7 Tunes",
+    "subTitle": "A comprehensive compilation of catchy and melodious songs composed and performed by talented artists, musicians and singers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-748",
+    "title": "Flash Back",
+    "subTitle": "A tuneful compilation of songs from movies released by the Tamil film industry in the 1980s to entertain and delight audiences.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-748",
+    "title": "Love Beats",
+    "subTitle": "A comprehensive compilation of soulful romantic love songs recorded by popular musicians and artists for major blockbuster movies.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-748",
+    "title": "Coffee Break",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-748",
+    "title": "Climax Songs Only",
+    "subTitle": "A comprehensive compilation of various popular songs from hit films, composed by talented musicians and artists is played.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-748",
+    "title": "Climax Songs Only",
+    "subTitle": "A comprehensive compilation of various popular songs from hit films, composed by talented musicians and artists is played.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-748",
+    "title": "Star Tune",
+    "subTitle": "A comprehensive collection of soul-stirring melodies and musical numbers from popular movies released in the Tamil film industry is played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-748",
+    "title": "Idhu Enga Choice",
+    "subTitle": "A compilation of the greatest foot-tapping Tamil songs are played back to back in order to entertain the audience.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130163000",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 22:00:00 IST",
+    "channel": "jio-748",
+    "title": "Ellame Rajathaan",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163000",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:00:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-748",
+    "title": "Dream Tunes",
+    "subTitle": "A comprehensive compilation of some of the best and most popular songs performed by various noteworthy artists and musicians.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-748",
     "title": "Metro Night",
     "subTitle": "A night-time treat for music lovers, presenting a handpicked collection of soulful, peppy and high-energy Tamil tunes to match every mood.",

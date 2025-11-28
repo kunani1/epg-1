@@ -1,475 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126195600",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Health Naxatra",
-    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126195600",
-    "stopRaw": "20251126202600",
-    "start": "2025-11-27 01:26:00 IST",
-    "stop": "2025-11-27 01:56:00 IST",
-    "channel": "jio-3086",
-    "title": "To the Point",
-    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126202600",
-    "stopRaw": "20251126205600",
-    "start": "2025-11-27 01:56:00 IST",
-    "stop": "2025-11-27 02:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Express",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126205600",
-    "stopRaw": "20251126212600",
-    "start": "2025-11-27 02:26:00 IST",
-    "stop": "2025-11-27 02:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126212600",
-    "stopRaw": "20251126215600",
-    "start": "2025-11-27 02:56:00 IST",
-    "stop": "2025-11-27 03:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bihar",
-    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126215600",
-    "stopRaw": "20251126222600",
-    "start": "2025-11-27 03:26:00 IST",
-    "stop": "2025-11-27 03:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Express",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126222600",
-    "stopRaw": "20251126225600",
-    "start": "2025-11-27 03:56:00 IST",
-    "stop": "2025-11-27 04:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126225600",
-    "stopRaw": "20251126232600",
-    "start": "2025-11-27 04:26:00 IST",
-    "stop": "2025-11-27 04:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Jharkhand",
-    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126232600",
-    "stopRaw": "20251126235600",
-    "start": "2025-11-27 04:56:00 IST",
-    "stop": "2025-11-27 05:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Express",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126235600",
-    "stopRaw": "20251127002600",
-    "start": "2025-11-27 05:26:00 IST",
-    "stop": "2025-11-27 05:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127002600",
-    "stopRaw": "20251127005600",
-    "start": "2025-11-27 05:56:00 IST",
-    "stop": "2025-11-27 06:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Suvachan",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127005600",
-    "stopRaw": "20251127012600",
-    "start": "2025-11-27 06:26:00 IST",
-    "stop": "2025-11-27 06:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Bhakti Ras",
-    "subTitle": "Various melodious hymns and devotional songs are sung to appease the Almighty and seek divine blessings in order to live a fulfilling life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127012600",
-    "stopRaw": "20251127015600",
-    "start": "2025-11-27 06:56:00 IST",
-    "stop": "2025-11-27 07:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127015600",
-    "stopRaw": "20251127022600",
-    "start": "2025-11-27 07:26:00 IST",
-    "stop": "2025-11-27 07:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Trending Videos",
-    "subTitle": "The host presents viral and trending videos from Jharkhand and Bihar, offering insight into local culture, public sentiment and the stories behind the online buzz.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127022600",
-    "stopRaw": "20251127025600",
-    "start": "2025-11-27 07:56:00 IST",
-    "stop": "2025-11-27 08:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Jharkhand",
-    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127025600",
-    "stopRaw": "20251127032600",
-    "start": "2025-11-27 08:26:00 IST",
-    "stop": "2025-11-27 08:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Grah Naxatra",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127032600",
-    "stopRaw": "20251127035600",
-    "start": "2025-11-27 08:56:00 IST",
-    "stop": "2025-11-27 09:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bihar",
-    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127035600",
-    "stopRaw": "20251127042600",
-    "start": "2025-11-27 09:26:00 IST",
-    "stop": "2025-11-27 09:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Health Naxatra",
-    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127042600",
-    "stopRaw": "20251127045600",
-    "start": "2025-11-27 09:56:00 IST",
-    "stop": "2025-11-27 10:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Reporter Live",
-    "subTitle": "The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the field, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127045600",
-    "stopRaw": "20251127052600",
-    "start": "2025-11-27 10:26:00 IST",
-    "stop": "2025-11-27 10:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Rising Star",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127052600",
-    "stopRaw": "20251127055600",
-    "start": "2025-11-27 10:56:00 IST",
-    "stop": "2025-11-27 11:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127055600",
-    "stopRaw": "20251127062600",
-    "start": "2025-11-27 11:26:00 IST",
-    "stop": "2025-11-27 11:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Sports Bulletin",
-    "subTitle": "The host presents some of the latest news and important developments pertaining to the world of sports of national and global significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127062600",
-    "stopRaw": "20251127065600",
-    "start": "2025-11-27 11:56:00 IST",
-    "stop": "2025-11-27 12:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bihar",
-    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127065600",
-    "stopRaw": "20251127072600",
-    "start": "2025-11-27 12:26:00 IST",
-    "stop": "2025-11-27 12:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bazar",
-    "subTitle": "The host analyses financial movements, investment trends and market opportunities influencing commerce in Bihar and Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127072600",
-    "stopRaw": "20251127075600",
-    "start": "2025-11-27 12:56:00 IST",
-    "stop": "2025-11-27 13:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Jharkhand",
-    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127075600",
-    "stopRaw": "20251127082600",
-    "start": "2025-11-27 13:26:00 IST",
-    "stop": "2025-11-27 13:56:00 IST",
-    "channel": "jio-3086",
-    "title": "KG To PG",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127082600",
-    "stopRaw": "20251127085600",
-    "start": "2025-11-27 13:56:00 IST",
-    "stop": "2025-11-27 14:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra 50-53",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127085600",
-    "stopRaw": "20251127092600",
-    "start": "2025-11-27 14:26:00 IST",
-    "stop": "2025-11-27 14:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Health Naxatra",
-    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127092600",
-    "stopRaw": "20251127095500",
-    "start": "2025-11-27 14:56:00 IST",
-    "stop": "2025-11-27 15:25:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Special",
-    "subTitle": "The host provides a detailed report on the latest news stories and significant developments in governance, social, economic, sports, and political issues of both national and international importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127095500",
-    "stopRaw": "20251127102600",
-    "start": "2025-11-27 15:25:00 IST",
-    "stop": "2025-11-27 15:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Khana Khazana",
-    "subTitle": "Well-known Indian celebrity chef Sanjeev Kapoor creates magic with delectable recipes by mixing the traditional with the contemporary and gives tips on how to prepare delicious dishes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127102600",
-    "stopRaw": "20251127105600",
-    "start": "2025-11-27 15:56:00 IST",
-    "stop": "2025-11-27 16:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127105600",
-    "stopRaw": "20251127112600",
-    "start": "2025-11-27 16:26:00 IST",
-    "stop": "2025-11-27 16:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Trending Videos",
-    "subTitle": "The host presents viral and trending videos from Jharkhand and Bihar, offering insight into local culture, public sentiment and the stories behind the online buzz.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127112600",
-    "stopRaw": "20251127115600",
-    "start": "2025-11-27 16:56:00 IST",
-    "stop": "2025-11-27 17:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Special",
-    "subTitle": "The host provides a detailed report on the latest news stories and significant developments in governance, social, economic, sports, and political issues of both national and international importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127115600",
-    "stopRaw": "20251127122600",
-    "start": "2025-11-27 17:26:00 IST",
-    "stop": "2025-11-27 17:56:00 IST",
-    "channel": "jio-3086",
-    "title": "KG To PG",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127122600",
-    "stopRaw": "20251127125600",
-    "start": "2025-11-27 17:56:00 IST",
-    "stop": "2025-11-27 18:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127125600",
-    "stopRaw": "20251127132600",
-    "start": "2025-11-27 18:26:00 IST",
-    "stop": "2025-11-27 18:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bazar",
-    "subTitle": "The host analyses financial movements, investment trends and market opportunities influencing commerce in Bihar and Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127132600",
-    "stopRaw": "20251127135600",
-    "start": "2025-11-27 18:56:00 IST",
-    "stop": "2025-11-27 19:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bihar",
-    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127135600",
-    "stopRaw": "20251127142600",
-    "start": "2025-11-27 19:26:00 IST",
-    "stop": "2025-11-27 19:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Jharkhand",
-    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127142600",
-    "stopRaw": "20251127145600",
-    "start": "2025-11-27 19:56:00 IST",
-    "stop": "2025-11-27 20:26:00 IST",
-    "channel": "jio-3086",
-    "title": "To The Point",
-    "subTitle": "The host provides a comprehensive analysis of current political and socio-economic issues across the country with expert discussions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127145600",
-    "stopRaw": "20251127152600",
-    "start": "2025-11-27 20:26:00 IST",
-    "stop": "2025-11-27 20:56:00 IST",
-    "channel": "jio-3086",
-    "title": "To The Point",
-    "subTitle": "The host provides a comprehensive analysis of current political and socio-economic issues across the country with expert discussions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127152600",
-    "stopRaw": "20251127155600",
-    "start": "2025-11-27 20:56:00 IST",
-    "stop": "2025-11-27 21:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra National",
-    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127155600",
-    "stopRaw": "20251127162600",
-    "start": "2025-11-27 21:26:00 IST",
-    "stop": "2025-11-27 21:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Sports",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127162600",
-    "stopRaw": "20251127165600",
-    "start": "2025-11-27 21:56:00 IST",
-    "stop": "2025-11-27 22:26:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Express",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127165600",
-    "stopRaw": "20251127172600",
-    "start": "2025-11-27 22:26:00 IST",
-    "stop": "2025-11-27 22:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Bihar",
-    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127172600",
-    "stopRaw": "20251127175600",
-    "start": "2025-11-27 22:56:00 IST",
-    "stop": "2025-11-27 23:26:00 IST",
-    "channel": "jio-3086",
-    "title": "To the Point",
-    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127175600",
-    "stopRaw": "20251127182600",
-    "start": "2025-11-27 23:26:00 IST",
-    "stop": "2025-11-27 23:56:00 IST",
-    "channel": "jio-3086",
-    "title": "Naxatra Jharkhand",
-    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127182600",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:56:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-3086",
-    "title": "Health Naxatra",
-    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127195600",
     "start": "2025-11-28 00:00:00 IST",
@@ -1404,6 +934,476 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:56:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-3086",
+    "title": "Health Naxatra",
+    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129195600",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 01:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Health Naxatra",
+    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129195600",
+    "stopRaw": "20251129202600",
+    "start": "2025-11-30 01:26:00 IST",
+    "stop": "2025-11-30 01:56:00 IST",
+    "channel": "jio-3086",
+    "title": "To the Point",
+    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129202600",
+    "stopRaw": "20251129205600",
+    "start": "2025-11-30 01:56:00 IST",
+    "stop": "2025-11-30 02:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Express",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129205600",
+    "stopRaw": "20251129212600",
+    "start": "2025-11-30 02:26:00 IST",
+    "stop": "2025-11-30 02:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129212600",
+    "stopRaw": "20251129215600",
+    "start": "2025-11-30 02:56:00 IST",
+    "stop": "2025-11-30 03:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Bihar",
+    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129215600",
+    "stopRaw": "20251129222600",
+    "start": "2025-11-30 03:26:00 IST",
+    "stop": "2025-11-30 03:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Express",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129222600",
+    "stopRaw": "20251129225600",
+    "start": "2025-11-30 03:56:00 IST",
+    "stop": "2025-11-30 04:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129225600",
+    "stopRaw": "20251129232600",
+    "start": "2025-11-30 04:26:00 IST",
+    "stop": "2025-11-30 04:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Jharkhand",
+    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129232600",
+    "stopRaw": "20251129235600",
+    "start": "2025-11-30 04:56:00 IST",
+    "stop": "2025-11-30 05:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Express",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129235600",
+    "stopRaw": "20251130002600",
+    "start": "2025-11-30 05:26:00 IST",
+    "stop": "2025-11-30 05:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130002600",
+    "stopRaw": "20251130005600",
+    "start": "2025-11-30 05:56:00 IST",
+    "stop": "2025-11-30 06:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Suvachan",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130005600",
+    "stopRaw": "20251130012600",
+    "start": "2025-11-30 06:26:00 IST",
+    "stop": "2025-11-30 06:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Bhakti Ras",
+    "subTitle": "Various melodious hymns and devotional songs are sung to appease the Almighty and seek divine blessings in order to live a fulfilling life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130012600",
+    "stopRaw": "20251130015600",
+    "start": "2025-11-30 06:56:00 IST",
+    "stop": "2025-11-30 07:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130015600",
+    "stopRaw": "20251130022600",
+    "start": "2025-11-30 07:26:00 IST",
+    "stop": "2025-11-30 07:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Trending Videos",
+    "subTitle": "The host presents viral and trending videos from Jharkhand and Bihar, offering insight into local culture, public sentiment and the stories behind the online buzz.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130022600",
+    "stopRaw": "20251130025600",
+    "start": "2025-11-30 07:56:00 IST",
+    "stop": "2025-11-30 08:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Jharkhand",
+    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130025600",
+    "stopRaw": "20251130032600",
+    "start": "2025-11-30 08:26:00 IST",
+    "stop": "2025-11-30 08:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Grah Naxatra",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130032600",
+    "stopRaw": "20251130035600",
+    "start": "2025-11-30 08:56:00 IST",
+    "stop": "2025-11-30 09:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Bihar",
+    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130035600",
+    "stopRaw": "20251130042600",
+    "start": "2025-11-30 09:26:00 IST",
+    "stop": "2025-11-30 09:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Health Naxatra",
+    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130042600",
+    "stopRaw": "20251130045600",
+    "start": "2025-11-30 09:56:00 IST",
+    "stop": "2025-11-30 10:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Reporter Live",
+    "subTitle": "The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the field, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130045600",
+    "stopRaw": "20251130052600",
+    "start": "2025-11-30 10:26:00 IST",
+    "stop": "2025-11-30 10:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Khas Mulakat",
+    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130052600",
+    "stopRaw": "20251130055600",
+    "start": "2025-11-30 10:56:00 IST",
+    "stop": "2025-11-30 11:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130055600",
+    "stopRaw": "20251130062600",
+    "start": "2025-11-30 11:26:00 IST",
+    "stop": "2025-11-30 11:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Film Review",
+    "subTitle": "The host offers a critical look at new film releases, analysing their performances, direction and storytelling while gauging audience response across regions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130062600",
+    "stopRaw": "20251130065600",
+    "start": "2025-11-30 11:56:00 IST",
+    "stop": "2025-11-30 12:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Bihar",
+    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130065600",
+    "stopRaw": "20251130072600",
+    "start": "2025-11-30 12:26:00 IST",
+    "stop": "2025-11-30 12:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Crime This Week",
+    "subTitle": "The host investigates major criminal cases of the week in Jharkhand and Bihar, examining evidence, police actions and their effect on local communities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130072600",
+    "stopRaw": "20251130075600",
+    "start": "2025-11-30 12:56:00 IST",
+    "stop": "2025-11-30 13:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Jharkhand",
+    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130075600",
+    "stopRaw": "20251130082600",
+    "start": "2025-11-30 13:26:00 IST",
+    "stop": "2025-11-30 13:56:00 IST",
+    "channel": "jio-3086",
+    "title": "KG To PG",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130082600",
+    "stopRaw": "20251130085600",
+    "start": "2025-11-30 13:56:00 IST",
+    "stop": "2025-11-30 14:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra 50-56",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130085600",
+    "stopRaw": "20251130092600",
+    "start": "2025-11-30 14:26:00 IST",
+    "stop": "2025-11-30 14:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Health Naxatra",
+    "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130092600",
+    "stopRaw": "20251130095500",
+    "start": "2025-11-30 14:56:00 IST",
+    "stop": "2025-11-30 15:25:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Special",
+    "subTitle": "The host provides a detailed report on the latest news stories and significant developments in governance, social, economic, sports, and political issues of both national and international importance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130095500",
+    "stopRaw": "20251130102600",
+    "start": "2025-11-30 15:25:00 IST",
+    "stop": "2025-11-30 15:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Khas Mulakat",
+    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130102600",
+    "stopRaw": "20251130105600",
+    "start": "2025-11-30 15:56:00 IST",
+    "stop": "2025-11-30 16:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130105600",
+    "stopRaw": "20251130112600",
+    "start": "2025-11-30 16:26:00 IST",
+    "stop": "2025-11-30 16:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Trending Videos",
+    "subTitle": "The host presents viral and trending videos from Jharkhand and Bihar, offering insight into local culture, public sentiment and the stories behind the online buzz.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130112600",
+    "stopRaw": "20251130115600",
+    "start": "2025-11-30 16:56:00 IST",
+    "stop": "2025-11-30 17:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Safar Zindagi Hai",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130115600",
+    "stopRaw": "20251130122600",
+    "start": "2025-11-30 17:26:00 IST",
+    "stop": "2025-11-30 17:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Legel",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130122600",
+    "stopRaw": "20251130125600",
+    "start": "2025-11-30 17:56:00 IST",
+    "stop": "2025-11-30 18:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130125600",
+    "stopRaw": "20251130132600",
+    "start": "2025-11-30 18:26:00 IST",
+    "stop": "2025-11-30 18:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Crime This Week",
+    "subTitle": "The host investigates major criminal cases of the week in Jharkhand and Bihar, examining evidence, police actions and their effect on local communities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130132600",
+    "stopRaw": "20251130135600",
+    "start": "2025-11-30 18:56:00 IST",
+    "stop": "2025-11-30 19:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Bihar",
+    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130135600",
+    "stopRaw": "20251130142600",
+    "start": "2025-11-30 19:26:00 IST",
+    "stop": "2025-11-30 19:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Jharkhand",
+    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130142600",
+    "stopRaw": "20251130145600",
+    "start": "2025-11-30 19:56:00 IST",
+    "stop": "2025-11-30 20:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Sports Bulletin",
+    "subTitle": "The host presents some of the latest news and important developments pertaining to the world of sports of national and global significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130145600",
+    "stopRaw": "20251130152600",
+    "start": "2025-11-30 20:26:00 IST",
+    "stop": "2025-11-30 20:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Rising Star",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130152600",
+    "stopRaw": "20251130155600",
+    "start": "2025-11-30 20:56:00 IST",
+    "stop": "2025-11-30 21:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra National",
+    "subTitle": "The host sheds light on the top stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130155600",
+    "stopRaw": "20251130162600",
+    "start": "2025-11-30 21:26:00 IST",
+    "stop": "2025-11-30 21:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Film Review",
+    "subTitle": "The host offers a critical look at new film releases, analysing their performances, direction and storytelling while gauging audience response across regions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130162600",
+    "stopRaw": "20251130165600",
+    "start": "2025-11-30 21:56:00 IST",
+    "stop": "2025-11-30 22:26:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Express",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130165600",
+    "stopRaw": "20251130172600",
+    "start": "2025-11-30 22:26:00 IST",
+    "stop": "2025-11-30 22:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Bihar",
+    "subTitle": "The host presents the current affairs, and updates about the social, political and economical issues pertaining to state of Bihar, India and all around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130172600",
+    "stopRaw": "20251130175600",
+    "start": "2025-11-30 22:56:00 IST",
+    "stop": "2025-11-30 23:26:00 IST",
+    "channel": "jio-3086",
+    "title": "To the Point",
+    "subTitle": "The host invites a panel of experts from different fields to discuss and share their views and opinions on important topics related to various current issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130175600",
+    "stopRaw": "20251130182600",
+    "start": "2025-11-30 23:26:00 IST",
+    "stop": "2025-11-30 23:56:00 IST",
+    "channel": "jio-3086",
+    "title": "Naxatra Jharkhand",
+    "subTitle": "The host sheds light on the top news stories and developments pertaining to various political and socio-economic issues around the state of Jharkhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130182600",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:56:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-3086",
     "title": "Health Naxatra",
     "subTitle": "The host invites health experts to discuss common health ailments and offers valuable tips and advice on how to improve and maintain a healthy lifestyle.",

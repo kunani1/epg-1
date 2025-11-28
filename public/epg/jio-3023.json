@@ -1,145 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126184000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:10:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarat Ni Baat",
-    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126184000",
-    "stopRaw": "20251127020000",
-    "start": "2025-11-27 00:10:00 IST",
-    "stop": "2025-11-27 07:30:00 IST",
-    "channel": "jio-3023",
-    "title": "Advertisment / Extrashow",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127020000",
-    "stopRaw": "20251127024500",
-    "start": "2025-11-27 07:30:00 IST",
-    "stop": "2025-11-27 08:15:00 IST",
-    "channel": "jio-3023",
-    "title": "Rashi Chakra",
-    "subTitle": "A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127024500",
-    "stopRaw": "20251127030500",
-    "start": "2025-11-27 08:15:00 IST",
-    "stop": "2025-11-27 08:35:00 IST",
-    "channel": "jio-3023",
-    "title": "Rashifal",
-    "subTitle": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127030500",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 08:35:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarati Bulletin",
-    "subTitle": "The host collates and presents the latest and the most important news updates from politics, economics, current affairs and sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127080000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 13:30:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarati Bulletin Afternoon",
-    "subTitle": "The host delivers the latest updates on significant social, political and economic events, providing comprehensive coverage of key developments shaping the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127080000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 13:30:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-3023",
-    "title": "Food Show",
-    "subTitle": "The host introduces a wide range of delicious recipes and shares useful culinary tips on how to enhance the flavour of the dishes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127104500",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 16:15:00 IST",
-    "channel": "jio-3023",
-    "title": "Janadesh Express",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127104500",
-    "stopRaw": "20251127130000",
-    "start": "2025-11-27 16:15:00 IST",
-    "stop": "2025-11-27 18:30:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarat Ni Baat",
-    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127130000",
-    "stopRaw": "20251127140000",
-    "start": "2025-11-27 18:30:00 IST",
-    "stop": "2025-11-27 19:30:00 IST",
-    "channel": "jio-3023",
-    "title": "Maru Gujarat",
-    "subTitle": "The host provides comprehensive insights into various significant historical events concerning the Indian state of Gujarat.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127140000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 19:30:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarati Bulletin Evening",
-    "subTitle": "The host collates and presents the latest and the most important news updates from politics, economics, current affairs and sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127163500",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 22:05:00 IST",
-    "channel": "jio-3023",
-    "title": "National News",
-    "subTitle": "The host presents the latest news updates and developments regarding social, economic and political issues from across the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163500",
-    "stopRaw": "20251127174000",
-    "start": "2025-11-27 22:05:00 IST",
-    "stop": "2025-11-27 23:10:00 IST",
-    "channel": "jio-3023",
-    "title": "Gujarati Bulletin Afternoon",
-    "subTitle": "The host delivers the latest updates on significant social, political and economic events, providing comprehensive coverage of key developments shaping the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127174000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:10:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-3023",
-    "title": "Gujarat Ni Baat",
-    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127184000",
     "start": "2025-11-28 00:00:00 IST",
@@ -404,6 +264,146 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:10:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-3023",
+    "title": "Gujarat Ni Baat",
+    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129184000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 00:10:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarat Ni Baat",
+    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129184000",
+    "stopRaw": "20251130020000",
+    "start": "2025-11-30 00:10:00 IST",
+    "stop": "2025-11-30 07:30:00 IST",
+    "channel": "jio-3023",
+    "title": "Advertisment / Extrashow",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130020000",
+    "stopRaw": "20251130024500",
+    "start": "2025-11-30 07:30:00 IST",
+    "stop": "2025-11-30 08:15:00 IST",
+    "channel": "jio-3023",
+    "title": "Rashi Chakra",
+    "subTitle": "A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130024500",
+    "stopRaw": "20251130030500",
+    "start": "2025-11-30 08:15:00 IST",
+    "stop": "2025-11-30 08:35:00 IST",
+    "channel": "jio-3023",
+    "title": "Rashifal",
+    "subTitle": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130030500",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 08:35:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarati Bulletin",
+    "subTitle": "The host collates and presents the latest and the most important news updates from politics, economics, current affairs and sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarati Bulletin Afternoon",
+    "subTitle": "The host delivers the latest updates on significant social, political and economic events, providing comprehensive coverage of key developments shaping the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-3023",
+    "title": "Food Show",
+    "subTitle": "The host introduces a wide range of delicious recipes and shares useful culinary tips on how to enhance the flavour of the dishes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130104500",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 16:15:00 IST",
+    "channel": "jio-3023",
+    "title": "Janadesh Express",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130104500",
+    "stopRaw": "20251130130000",
+    "start": "2025-11-30 16:15:00 IST",
+    "stop": "2025-11-30 18:30:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarat Ni Baat",
+    "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130000",
+    "stopRaw": "20251130140000",
+    "start": "2025-11-30 18:30:00 IST",
+    "stop": "2025-11-30 19:30:00 IST",
+    "channel": "jio-3023",
+    "title": "Maru Gujarat",
+    "subTitle": "The host provides comprehensive insights into various significant historical events concerning the Indian state of Gujarat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 19:30:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarati Bulletin Evening",
+    "subTitle": "The host collates and presents the latest and the most important news updates from politics, economics, current affairs and sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130163500",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 22:05:00 IST",
+    "channel": "jio-3023",
+    "title": "National News",
+    "subTitle": "The host presents the latest news updates and developments regarding social, economic and political issues from across the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163500",
+    "stopRaw": "20251130174000",
+    "start": "2025-11-30 22:05:00 IST",
+    "stop": "2025-11-30 23:10:00 IST",
+    "channel": "jio-3023",
+    "title": "Gujarati Bulletin Afternoon",
+    "subTitle": "The host delivers the latest updates on significant social, political and economic events, providing comprehensive coverage of key developments shaping the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130174000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:10:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-3023",
     "title": "Gujarat Ni Baat",
     "subTitle": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",

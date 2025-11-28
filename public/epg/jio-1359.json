@@ -559,8 +559,17 @@
   },
   {
     "startRaw": "20251128183000",
-    "stopRaw": "20251128193000",
+    "stopRaw": "20251128190000",
     "start": "2025-11-29 00:00:00 IST",
+    "stop": "2025-11-29 00:30:00 IST",
+    "channel": "jio-1359",
+    "title": "Teleshopping",
+    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251128190000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:30:00 IST",
     "stop": "2025-11-29 01:00:00 IST",
     "channel": "jio-1359",
     "title": "Teleshopping",

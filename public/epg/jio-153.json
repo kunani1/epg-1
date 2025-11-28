@@ -298,21 +298,39 @@
   },
   {
     "startRaw": "20251128183000",
-    "stopRaw": "20251128210000",
+    "stopRaw": "20251128183600",
     "start": "2025-11-29 00:00:00 IST",
-    "stop": "2025-11-29 02:30:00 IST",
+    "stop": "2025-11-29 00:06:00 IST",
     "channel": "jio-153",
     "title": "Comedy Chya Gudgulya",
     "subTitle": "Gifted comics and stand-up sketch artists perform hilarious skits, entertaining both the judges as well as the audience."
   },
   {
-    "startRaw": "20251128210000",
-    "stopRaw": "20251128233000",
-    "start": "2025-11-29 02:30:00 IST",
-    "stop": "2025-11-29 05:00:00 IST",
+    "startRaw": "20251128183600",
+    "stopRaw": "20251128205800",
+    "start": "2025-11-29 00:06:00 IST",
+    "stop": "2025-11-29 02:28:00 IST",
+    "channel": "jio-153",
+    "title": "Dharmaveer Mukkam Post Thane",
+    "subTitle": "Explores Anand Dighe's life, tracing his political journey and capturing the essence of his impactful legacy as a prominent figure."
+  },
+  {
+    "startRaw": "20251128205800",
+    "stopRaw": "20251128231600",
+    "start": "2025-11-29 02:28:00 IST",
+    "stop": "2025-11-29 04:46:00 IST",
     "channel": "jio-153",
     "title": "Tumcha Aamcha Jamla",
     "subTitle": "Nagya, the black sheep of his family, usurps his father's wealth after murdering him and throws his virtuous brother, Krishna, out of their village."
+  },
+  {
+    "startRaw": "20251128231600",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:46:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-153",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
   },
   {
     "startRaw": "20251128233000",

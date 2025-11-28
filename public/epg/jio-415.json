@@ -289,12 +289,21 @@
   },
   {
     "startRaw": "20251128183000",
-    "stopRaw": "20251128193000",
+    "stopRaw": "20251128185000",
     "start": "2025-11-29 00:00:00 IST",
-    "stop": "2025-11-29 01:00:00 IST",
+    "stop": "2025-11-29 00:20:00 IST",
     "channel": "jio-415",
     "title": "Loha",
     "subTitle": "After a bid to arrest Sher Singh fails, officer Dayal is crippled and his partner Amar's career is sabotaged. When Amar gets another chance to nab Sher Singh, he hires two crooks for the job."
+  },
+  {
+    "startRaw": "20251128185000",
+    "stopRaw": "20251128193000",
+    "start": "2025-11-29 00:20:00 IST",
+    "stop": "2025-11-29 01:00:00 IST",
+    "channel": "jio-415",
+    "title": "Ramayan",
+    "subTitle": "Lord Rama strives to overcome various challenges in order to defeat the evil forces and rescue his wife, Sita, from Ravana."
   },
   {
     "startRaw": "20251128193000",
@@ -307,26 +316,35 @@
   },
   {
     "startRaw": "20251128203000",
-    "stopRaw": "20251128233000",
+    "stopRaw": "20251128230000",
     "start": "2025-11-29 02:00:00 IST",
-    "stop": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 04:30:00 IST",
     "channel": "jio-415",
     "title": "Adharm",
     "subTitle": "Mr Verma's decision to disown his son Jaggan sparks a vow of retribution. Years later, Jaggan devises a plan to destroy his family and retaliate against his father."
   },
   {
+    "startRaw": "20251128230000",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:30:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-415",
+    "title": "Akbar Birbal",
+    "subTitle": "Clever Birbal aids Emperor Akbar in witty adventures, solving puzzles and delivering justice across Mughal India, unfolding tales of wisdom and humor."
+  },
+  {
     "startRaw": "20251128233000",
-    "stopRaw": "20251129012900",
+    "stopRaw": "20251129003000",
     "start": "2025-11-29 05:00:00 IST",
-    "stop": "2025-11-29 06:59:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
     "channel": "jio-415",
     "title": "Teleshopping",
     "subTitle": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
   },
   {
-    "startRaw": "20251129012900",
+    "startRaw": "20251129003000",
     "stopRaw": "20251129023300",
-    "start": "2025-11-29 06:59:00 IST",
+    "start": "2025-11-29 06:00:00 IST",
     "stop": "2025-11-29 08:03:00 IST",
     "channel": "jio-415",
     "title": "Yodha No 1",

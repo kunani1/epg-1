@@ -199,12 +199,21 @@
   },
   {
     "startRaw": "20251128183000",
-    "stopRaw": "20251128205000",
+    "stopRaw": "20251128185400",
     "start": "2025-11-29 00:00:00 IST",
-    "stop": "2025-11-29 02:20:00 IST",
+    "stop": "2025-11-29 00:24:00 IST",
     "channel": "jio-185",
     "title": "Baaghi",
     "subTitle": "Raja loves Rani, but she commits suicide after falling prey to Manmohan, who wants her at any cost. A devastated Raja turns to the world of crime and becomes a professional killer."
+  },
+  {
+    "startRaw": "20251128185400",
+    "stopRaw": "20251128205000",
+    "start": "2025-11-29 00:24:00 IST",
+    "stop": "2025-11-29 02:20:00 IST",
+    "channel": "jio-185",
+    "title": "Ujda Chaman",
+    "subTitle": "Chaman, a lecturer, has trouble finding a suitable bride due to his receding hairline. Chaos ensues when an astrologer predicts that he will remain celibate if unmarried till the age of 31."
   },
   {
     "startRaw": "20251128205000",
@@ -217,17 +226,17 @@
   },
   {
     "startRaw": "20251128222000",
-    "stopRaw": "20251129003000",
+    "stopRaw": "20251129003300",
     "start": "2025-11-29 03:50:00 IST",
-    "stop": "2025-11-29 06:00:00 IST",
+    "stop": "2025-11-29 06:03:00 IST",
     "channel": "jio-185",
     "title": "Cheeni Kum",
     "subTitle": "Buddhadev Gupta, a 64-year-old chef, falls in love with a 34-year-old software engineer, Nina. However, their future becomes uncertain when he discovers that her father is six years his junior."
   },
   {
-    "startRaw": "20251129003000",
+    "startRaw": "20251129003300",
     "stopRaw": "20251129033000",
-    "start": "2025-11-29 06:00:00 IST",
+    "start": "2025-11-29 06:03:00 IST",
     "stop": "2025-11-29 09:00:00 IST",
     "channel": "jio-185",
     "title": "Movie",

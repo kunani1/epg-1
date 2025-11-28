@@ -253,35 +253,62 @@
   },
   {
     "startRaw": "20251128183000",
-    "stopRaw": "20251128193500",
+    "stopRaw": "20251128191000",
     "start": "2025-11-29 00:00:00 IST",
-    "stop": "2025-11-29 01:05:00 IST",
+    "stop": "2025-11-29 00:40:00 IST",
     "channel": "jio-488",
     "title": "The Real Don Returns 2",
     "subTitle": "Pullu Giri is trying to live a peaceful life and forget his ruffian past. Following an incident, he gets dragged into the affairs of some local gangs."
   },
   {
-    "startRaw": "20251128193500",
-    "stopRaw": "20251128203000",
-    "start": "2025-11-29 01:05:00 IST",
-    "stop": "2025-11-29 02:00:00 IST",
+    "startRaw": "20251128191000",
+    "stopRaw": "20251128192900",
+    "start": "2025-11-29 00:40:00 IST",
+    "stop": "2025-11-29 00:59:00 IST",
+    "channel": "jio-488",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251128192900",
+    "stopRaw": "20251128202900",
+    "start": "2025-11-29 00:59:00 IST",
+    "stop": "2025-11-29 01:59:00 IST",
     "channel": "jio-488",
     "title": "Teleshopping",
     "subTitle": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
   },
   {
-    "startRaw": "20251128203000",
-    "stopRaw": "20251129020000",
-    "start": "2025-11-29 02:00:00 IST",
-    "stop": "2025-11-29 07:30:00 IST",
+    "startRaw": "20251128202900",
+    "stopRaw": "20251128223300",
+    "start": "2025-11-29 01:59:00 IST",
+    "stop": "2025-11-29 04:03:00 IST",
     "channel": "jio-488",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television."
+    "title": "Tripura",
+    "subTitle": "Tripura, whose dreams turn into reality, is taken to Hyderabad for treatment. She falls in love with and marries her doctor, whom she, one day, dreams of killing."
   },
   {
-    "startRaw": "20251129020000",
+    "startRaw": "20251128223300",
+    "stopRaw": "20251128224500",
+    "start": "2025-11-29 04:03:00 IST",
+    "stop": "2025-11-29 04:15:00 IST",
+    "channel": "jio-488",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses."
+  },
+  {
+    "startRaw": "20251128224500",
+    "stopRaw": "20251129003000",
+    "start": "2025-11-29 04:15:00 IST",
+    "stop": "2025-11-29 06:00:00 IST",
+    "channel": "jio-488",
+    "title": "Vidhaata The Suprimo",
+    "subTitle": "Durga impresses Chandra Sekhar by killing his enemy and helping his wife get well. In reality, he is on a mission to kill Chandra Sekhar's son at the behest of his friend-turned-enemy, Visweswara Rao."
+  },
+  {
+    "startRaw": "20251129003000",
     "stopRaw": "20251129033000",
-    "start": "2025-11-29 07:30:00 IST",
+    "start": "2025-11-29 06:00:00 IST",
     "stop": "2025-11-29 09:00:00 IST",
     "channel": "jio-488",
     "title": "Movie",

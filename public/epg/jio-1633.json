@@ -244,8 +244,44 @@
   },
   {
     "startRaw": "20251128071500",
-    "stopRaw": "20251128093000",
+    "stopRaw": "20251128073000",
     "start": "2025-11-28 12:45:00 IST",
+    "stop": "2025-11-28 13:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251128073000",
+    "stopRaw": "20251128081500",
+    "start": "2025-11-28 13:00:00 IST",
+    "stop": "2025-11-28 13:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Dharmika Phala",
+    "subTitle": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives."
+  },
+  {
+    "startRaw": "20251128081500",
+    "stopRaw": "20251128083000",
+    "start": "2025-11-28 13:45:00 IST",
+    "stop": "2025-11-28 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home."
+  },
+  {
+    "startRaw": "20251128083000",
+    "stopRaw": "20251128091500",
+    "start": "2025-11-28 14:00:00 IST",
+    "stop": "2025-11-28 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
+    "subTitle": "Bringing the best in television."
+  },
+  {
+    "startRaw": "20251128091500",
+    "stopRaw": "20251128093000",
+    "start": "2025-11-28 14:45:00 IST",
     "stop": "2025-11-28 15:00:00 IST",
     "channel": "jio-1633",
     "title": "Commercial Slot",
@@ -253,26 +289,44 @@
   },
   {
     "startRaw": "20251128093000",
-    "stopRaw": "20251128123000",
+    "stopRaw": "20251128120900",
     "start": "2025-11-28 15:00:00 IST",
+    "stop": "2025-11-28 17:39:00 IST",
+    "channel": "jio-1633",
+    "title": "Agni Panjara",
+    "subTitle": "Raja and Vinaya are a happily married couple who live with their son and Raja's mother. However, things take a turn when Vinaya, a firm believer in astrology, learns about their inauspicious future."
+  },
+  {
+    "startRaw": "20251128120900",
+    "stopRaw": "20251128123000",
+    "start": "2025-11-28 17:39:00 IST",
     "stop": "2025-11-28 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251128123000",
-    "stopRaw": "20251128153000",
+    "stopRaw": "20251128154700",
     "start": "2025-11-28 18:00:00 IST",
-    "stop": "2025-11-28 21:00:00 IST",
+    "stop": "2025-11-28 21:17:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Snehitara Saval",
+    "subTitle": "Prasad and Raja, two best friends who get separated in a fire, grow up in two different communities. However, after a few years, they unite to fight against an evil man."
+  },
+  {
+    "startRaw": "20251128154700",
+    "stopRaw": "20251128160000",
+    "start": "2025-11-28 21:17:00 IST",
+    "stop": "2025-11-28 21:30:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television."
   },
   {
-    "startRaw": "20251128153000",
+    "startRaw": "20251128160000",
     "stopRaw": "20251128182959",
-    "start": "2025-11-28 21:00:00 IST",
+    "start": "2025-11-28 21:30:00 IST",
     "stop": "2025-11-28 23:59:59 IST",
     "channel": "jio-1633",
     "title": "Movie",

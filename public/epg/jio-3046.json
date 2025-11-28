@@ -199,12 +199,21 @@
   },
   {
     "startRaw": "20251127233300",
-    "stopRaw": "20251128015100",
+    "stopRaw": "20251127235300",
     "start": "2025-11-28 05:03:00 IST",
-    "stop": "2025-11-28 07:21:00 IST",
+    "stop": "2025-11-28 05:23:00 IST",
     "channel": "jio-3046",
     "title": "Chef vs Fridge",
     "subTitle": "Thinking outside the box is not going to cut it. These chefs must think inside the mystery refrigerator to prove their culinary skills and creativity."
+  },
+  {
+    "startRaw": "20251127235300",
+    "stopRaw": "20251128015100",
+    "start": "2025-11-28 05:23:00 IST",
+    "stop": "2025-11-28 07:21:00 IST",
+    "channel": "jio-3046",
+    "title": "Rescue Dawn",
+    "subTitle": "Following a crash during the Vietnam War, fighter pilot Dieter gets caught by peasants. In captivity, he hatches and executes an escape plan with five deranged prisoners only to face bigger hurdles."
   },
   {
     "startRaw": "20251128015100",
@@ -334,8 +343,17 @@
   },
   {
     "startRaw": "20251128235100",
-    "stopRaw": "20251129020000",
+    "stopRaw": "20251129001500",
     "start": "2025-11-29 05:21:00 IST",
+    "stop": "2025-11-29 05:45:00 IST",
+    "channel": "jio-3046",
+    "title": "Peninsula",
+    "subTitle": "A former soldier along with his teammates sets out on a mission to battle hordes of post-apocalyptic zombies in the Korean peninsula wastelands."
+  },
+  {
+    "startRaw": "20251129001500",
+    "stopRaw": "20251129020000",
+    "start": "2025-11-29 05:45:00 IST",
     "stop": "2025-11-29 07:30:00 IST",
     "channel": "jio-3046",
     "title": "Peninsula",

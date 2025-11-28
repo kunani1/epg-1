@@ -388,12 +388,21 @@
   },
   {
     "startRaw": "20251128210000",
-    "stopRaw": "20251128233000",
+    "stopRaw": "20251128225500",
     "start": "2025-11-29 02:30:00 IST",
-    "stop": "2025-11-29 05:00:00 IST",
+    "stop": "2025-11-29 04:25:00 IST",
     "channel": "jio-1358",
     "title": "Tumcha Aamcha Jamla",
     "subTitle": "Nagya, the black sheep of his family, usurps his father's wealth after murdering him and throws his virtuous brother, Krishna, out of their village."
+  },
+  {
+    "startRaw": "20251128225500",
+    "stopRaw": "20251128233000",
+    "start": "2025-11-29 04:25:00 IST",
+    "stop": "2025-11-29 05:00:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television."
   },
   {
     "startRaw": "20251128233000",

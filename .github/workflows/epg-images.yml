@@ -2,7 +2,7 @@ name: Update EPG Titles DB
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC)
   workflow_dispatch:
 
 jobs:
@@ -13,20 +13,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}   # 👈 your PAT with repo permission
+          token: ${{ secrets.GH_TOKEN }}   # PAT with repo permission
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Run updater script
+      - name: Run image DB updater
         run: node update-epg-db.mjs
+
+      - name: Run XML EPG merger
+        run: node scripts/update-epg.mjs
 
       - name: Commit & push changes
         run: |
           git config user.name "kunani1"
           git config user.email "kunanisaitarun55@gmail.com"
-          git add data || echo "Nothing to add"
-          git commit -m "Update EPG title→image DB" || echo "No changes"
+          git add data public || echo "Nothing to add"
+          git commit -m "Update EPG title→image DB + EPG" || echo "No changes"
           git push origin HEAD:main

@@ -1,5 +1,625 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-789",
+    "title": "Ranniti",
+    "subTitle": "The host provides comprehensive analysis on the evolving political strategies, shedding light on key decisions and their implications for the country's future.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-789",
+    "title": "Ranniti",
+    "subTitle": "The host provides comprehensive analysis on the evolving political strategies, shedding light on key decisions and their implications for the country's future.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-789",
+    "title": "Aapki Awaz",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-789",
+    "title": "Din Bhar",
+    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126212500",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:55:00 IST",
+    "channel": "jio-789",
+    "title": "Din Bhar",
+    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126212500",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:55:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-789",
+    "title": "Top 50 News",
+    "subTitle": "The host presents the top 50 news stories on a range of political, social and economic issues affecting the lives of many people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-789",
+    "title": "Uttrakhand News",
+    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-789",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-789",
+    "title": "White Paper",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-789",
+    "title": "Uttrakhand News",
+    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-789",
+    "title": "Aapki Awaaz",
+    "subTitle": "The host presents all the recent news, updates and developments pertaining to various political and social affairs from the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127001500",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 05:45:00 IST",
+    "channel": "jio-789",
+    "title": "Sri-Sri Ravi",
+    "subTitle": "Spiritual leader Sri Sri Ravi Shankar delivers a discourse praising the divine and offering practical guidance to his followers on leading a healthy and harmonious life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127001500",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:45:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-789",
+    "title": "TOP 50",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-789",
+    "title": "Up Special R",
+    "subTitle": "The host sheds light on the latest news updates and developments from Uttar Pradesh pertaining to social and political issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127012500",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 06:55:00 IST",
+    "channel": "jio-789",
+    "title": "Defence Debate",
+    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127012500",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:55:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-789",
+    "title": "JK 24x7 News",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127015800",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:28:00 IST",
+    "channel": "jio-789",
+    "title": "Uttrakhand News",
+    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127015800",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:28:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-789",
+    "title": "Good Morning India",
+    "subTitle": "The host provides insights into the latest national and international news, current affairs and developments on a wide range of topics.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127025500",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:25:00 IST",
+    "channel": "jio-789",
+    "title": "Good Morning India",
+    "subTitle": "The host provides insights into the latest national and international news, current affairs and developments on a wide range of topics.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127025500",
+    "stopRaw": "20251127030500",
+    "start": "2025-11-27 08:25:00 IST",
+    "stop": "2025-11-27 08:35:00 IST",
+    "channel": "jio-789",
+    "title": "JK 24x7 News",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030500",
+    "stopRaw": "20251127032500",
+    "start": "2025-11-27 08:35:00 IST",
+    "stop": "2025-11-27 08:55:00 IST",
+    "channel": "jio-789",
+    "title": "Salam JK",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127032500",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:55:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-789",
+    "title": "Salam JK",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-789",
+    "title": "Salam JK",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127042500",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 09:55:00 IST",
+    "channel": "jio-789",
+    "title": "Salam JK",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127042500",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:55:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-789",
+    "title": "Salam JK",
+    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127044500",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:15:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127044500",
+    "stopRaw": "20251127051000",
+    "start": "2025-11-27 10:15:00 IST",
+    "stop": "2025-11-27 10:40:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127051000",
+    "stopRaw": "20251127051500",
+    "start": "2025-11-27 10:40:00 IST",
+    "stop": "2025-11-27 10:45:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127051500",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:45:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-789",
+    "title": "JK 24x7 News",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127061500",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:45:00 IST",
+    "channel": "jio-789",
+    "title": "Newsroom Live",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127061500",
+    "stopRaw": "20251127062000",
+    "start": "2025-11-27 11:45:00 IST",
+    "stop": "2025-11-27 11:50:00 IST",
+    "channel": "jio-789",
+    "title": "Top 50 Nat / Global 10",
+    "subTitle": "The host presents the top 50 news updates in quick succession; the host shares the top 10 current affairs of global significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127062000",
+    "stopRaw": "20251127062500",
+    "start": "2025-11-27 11:50:00 IST",
+    "stop": "2025-11-27 11:55:00 IST",
+    "channel": "jio-789",
+    "title": "Muk Badhir News",
+    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127062500",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:55:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-789",
+    "title": "Bollywood Top 13",
+    "subTitle": "The host presents the top 13 latest news stories, important developments and major updates from Bollywood, the Hindi language movie industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127065500",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:25:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127065500",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:25:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-789",
+    "title": "Muk Badhir News",
+    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-789",
+    "title": "Aapki Awaz",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127081500",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:45:00 IST",
+    "channel": "jio-789",
+    "title": "Ranniti",
+    "subTitle": "The host provides comprehensive analysis on the evolving political strategies, shedding light on key decisions and their implications for the country's future.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127081500",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:45:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-789",
+    "title": "Top 50 UP/UK",
+    "subTitle": "The host presents the top 50 news updates, stories and developments from various regions of Uttar Pradesh and Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127091000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:40:00 IST",
+    "channel": "jio-789",
+    "title": "Uttar Pradesh News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Uttar Pradesh.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127091000",
+    "stopRaw": "20251127091500",
+    "start": "2025-11-27 14:40:00 IST",
+    "stop": "2025-11-27 14:45:00 IST",
+    "channel": "jio-789",
+    "title": "Muk Badhir News",
+    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127091500",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:45:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-789",
+    "title": "Top 50 News",
+    "subTitle": "The host presents the top 50 news stories on a range of political, social and economic issues affecting the lives of many people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127101000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:40:00 IST",
+    "channel": "jio-789",
+    "title": "Defence Debate",
+    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127101000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:40:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-789",
+    "title": "Ground Report",
+    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-789",
+    "title": "Lalkaar",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127111500",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 16:45:00 IST",
+    "channel": "jio-789",
+    "title": "MP News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Madhya Pradesh.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127111500",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:45:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-789",
+    "title": "Chhattisgarh News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Chhattisgarh.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127121000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:40:00 IST",
+    "channel": "jio-789",
+    "title": "Baat Bharat Ki",
+    "subTitle": "The host presents and discusses the crucial and key informational aspects of Prime Minister Narendra Modi's speech on India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127121000",
+    "stopRaw": "20251127121500",
+    "start": "2025-11-27 17:40:00 IST",
+    "stop": "2025-11-27 17:45:00 IST",
+    "channel": "jio-789",
+    "title": "Baat Bharat Ki",
+    "subTitle": "The host presents and discusses the crucial and key informational aspects of Prime Minister Narendra Modi's speech on India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127121500",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:45:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-789",
+    "title": "Top 50 National",
+    "subTitle": "The host presents the top 50 news updates and developments pertaining to various pressing issues from different sectors across the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-789",
+    "title": "Uttrakhand News",
+    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127132000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 18:50:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127132000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:50:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127135000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:20:00 IST",
+    "channel": "jio-789",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127135000",
+    "stopRaw": "20251127141500",
+    "start": "2025-11-27 19:20:00 IST",
+    "stop": "2025-11-27 19:45:00 IST",
+    "channel": "jio-789",
+    "title": "City Reporter",
+    "subTitle": "The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture from different cities in India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127141500",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:45:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-789",
+    "title": "HR Doc+ Fillers",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-789",
+    "title": "Special Report",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-789",
+    "title": "White Paper",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-789",
+    "title": "UP Special",
+    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from Uttar Pradesh.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127165500",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:25:00 IST",
+    "channel": "jio-789",
+    "title": "Din Bhar",
+    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127165500",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:25:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-789",
+    "title": "Din Bhar",
+    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-789",
+    "title": "Defence Debate",
+    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-789",
+    "title": "Uttrakhand News",
+    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1234,626 +1854,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-789",
-    "title": "Uttrakhand News",
-    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-789",
-    "title": "Ranniti",
-    "subTitle": "The host provides comprehensive analysis on the evolving political strategies, shedding light on key decisions and their implications for the country's future.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-789",
-    "title": "Ranniti",
-    "subTitle": "The host provides comprehensive analysis on the evolving political strategies, shedding light on key decisions and their implications for the country's future.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-789",
-    "title": "Aapki Awaz",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-789",
-    "title": "Din Bhar",
-    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129212500",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:55:00 IST",
-    "channel": "jio-789",
-    "title": "Din Bhar",
-    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129212500",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:55:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-789",
-    "title": "Top 50 News",
-    "subTitle": "The host presents the top 50 news stories on a range of political, social and economic issues affecting the lives of many people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-789",
-    "title": "Uttrakhand News",
-    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129223000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 04:00:00 IST",
-    "channel": "jio-789",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129223000",
-    "stopRaw": "20251129230000",
-    "start": "2025-11-30 04:00:00 IST",
-    "stop": "2025-11-30 04:30:00 IST",
-    "channel": "jio-789",
-    "title": "White Paper",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129230000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-789",
-    "title": "Uttrakhand News",
-    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-789",
-    "title": "Aapki Awaaz",
-    "subTitle": "The host presents all the recent news, updates and developments pertaining to various political and social affairs from the state.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130001500",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 05:45:00 IST",
-    "channel": "jio-789",
-    "title": "Sri-Sri Ravi",
-    "subTitle": "Spiritual leader Sri Sri Ravi Shankar delivers a discourse praising the divine and offering practical guidance to his followers on leading a healthy and harmonious life.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130001500",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:45:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-789",
-    "title": "TOP 50",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-789",
-    "title": "Up Special R",
-    "subTitle": "The host sheds light on the latest news updates and developments from Uttar Pradesh pertaining to social and political issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130012500",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 06:55:00 IST",
-    "channel": "jio-789",
-    "title": "Defence Debate",
-    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130012500",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:55:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-789",
-    "title": "JK 24x7 News",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130015800",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:28:00 IST",
-    "channel": "jio-789",
-    "title": "Uttrakhand News",
-    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130015800",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:28:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-789",
-    "title": "Good Morning India",
-    "subTitle": "The host provides insights into the latest national and international news, current affairs and developments on a wide range of topics.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130025500",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:25:00 IST",
-    "channel": "jio-789",
-    "title": "Good Morning India",
-    "subTitle": "The host provides insights into the latest national and international news, current affairs and developments on a wide range of topics.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130025500",
-    "stopRaw": "20251130030500",
-    "start": "2025-11-30 08:25:00 IST",
-    "stop": "2025-11-30 08:35:00 IST",
-    "channel": "jio-789",
-    "title": "JK 24x7 News",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030500",
-    "stopRaw": "20251130032500",
-    "start": "2025-11-30 08:35:00 IST",
-    "stop": "2025-11-30 08:55:00 IST",
-    "channel": "jio-789",
-    "title": "Salam JK",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130032500",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:55:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-789",
-    "title": "Salam JK",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-789",
-    "title": "Salam JK",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130042500",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 09:55:00 IST",
-    "channel": "jio-789",
-    "title": "Salam JK",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130042500",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:55:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-789",
-    "title": "Salam JK",
-    "subTitle": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130044500",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:15:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130044500",
-    "stopRaw": "20251130051000",
-    "start": "2025-11-30 10:15:00 IST",
-    "stop": "2025-11-30 10:40:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130051000",
-    "stopRaw": "20251130051500",
-    "start": "2025-11-30 10:40:00 IST",
-    "stop": "2025-11-30 10:45:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130051500",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:45:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-789",
-    "title": "JK 24x7 News",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130061500",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:45:00 IST",
-    "channel": "jio-789",
-    "title": "Newsroom Live",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130061500",
-    "stopRaw": "20251130062000",
-    "start": "2025-11-30 11:45:00 IST",
-    "stop": "2025-11-30 11:50:00 IST",
-    "channel": "jio-789",
-    "title": "Top 50 Nat / Global 10",
-    "subTitle": "The host presents the top 50 news updates in quick succession; the host shares the top 10 current affairs of global significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130062000",
-    "stopRaw": "20251130062500",
-    "start": "2025-11-30 11:50:00 IST",
-    "stop": "2025-11-30 11:55:00 IST",
-    "channel": "jio-789",
-    "title": "Muk Badhir News",
-    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130062500",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:55:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-789",
-    "title": "Bollywood Top 16",
-    "subTitle": "The host presents the top 16 latest news stories, important developments and major updates from Bollywood, the Hindi language movie industry.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130065500",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:25:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130065500",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:25:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-789",
-    "title": "Muk Badhir News",
-    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-789",
-    "title": "Aapki Awaz",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130081500",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:45:00 IST",
-    "channel": "jio-789",
-    "title": "Power Files + Aap Ki Awaz",
-    "subTitle": "The host presents the latest news and updates on national and international topics; the host presents the latest headlines on important national and international topics.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130081500",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:45:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-789",
-    "title": "Top 50 UP/UK",
-    "subTitle": "The host presents the top 50 news updates, stories and developments from various regions of Uttar Pradesh and Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130091000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:40:00 IST",
-    "channel": "jio-789",
-    "title": "Uttar Pradesh News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Uttar Pradesh.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130091000",
-    "stopRaw": "20251130091500",
-    "start": "2025-11-30 14:40:00 IST",
-    "stop": "2025-11-30 14:45:00 IST",
-    "channel": "jio-789",
-    "title": "Muk Badhir News",
-    "subTitle": "The host presents the latest news updates and developments on some of the various trending topics to hearing-impaired individuals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130091500",
-    "stopRaw": "20251130093000",
-    "start": "2025-11-30 14:45:00 IST",
-    "stop": "2025-11-30 15:00:00 IST",
-    "channel": "jio-789",
-    "title": "Top 50 News",
-    "subTitle": "The host presents the top 50 news stories on a range of political, social and economic issues affecting the lives of many people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130093000",
-    "stopRaw": "20251130101000",
-    "start": "2025-11-30 15:00:00 IST",
-    "stop": "2025-11-30 15:40:00 IST",
-    "channel": "jio-789",
-    "title": "Defence Debate",
-    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130101000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:40:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-789",
-    "title": "Ground Report",
-    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-789",
-    "title": "Lalkaar",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130111500",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 16:45:00 IST",
-    "channel": "jio-789",
-    "title": "MP News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Madhya Pradesh.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130111500",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:45:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-789",
-    "title": "Chhattisgarh News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Chhattisgarh.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130121000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:40:00 IST",
-    "channel": "jio-789",
-    "title": "Bihar Mein Ka ba",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130121000",
-    "stopRaw": "20251130121500",
-    "start": "2025-11-30 17:40:00 IST",
-    "stop": "2025-11-30 17:45:00 IST",
-    "channel": "jio-789",
-    "title": "Bihar Mein Ka ba",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130121500",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:45:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-789",
-    "title": "Top 50 National",
-    "subTitle": "The host presents the top 50 news updates and developments pertaining to various pressing issues from different sectors across the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-789",
-    "title": "Uttrakhand News",
-    "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130132000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 18:50:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130132000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:50:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130135000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:20:00 IST",
-    "channel": "jio-789",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130135000",
-    "stopRaw": "20251130141500",
-    "start": "2025-11-30 19:20:00 IST",
-    "stop": "2025-11-30 19:45:00 IST",
-    "channel": "jio-789",
-    "title": "City Reporter",
-    "subTitle": "The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture from different cities in India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130141500",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:45:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-789",
-    "title": "HR Doc+ Fillers",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130150000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:30:00 IST",
-    "channel": "jio-789",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130150000",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 20:30:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-789",
-    "title": "White Paper",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-789",
-    "title": "UP Special",
-    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from Uttar Pradesh.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130165500",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:25:00 IST",
-    "channel": "jio-789",
-    "title": "Din Bhar",
-    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130165500",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 22:25:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-789",
-    "title": "Din Bhar",
-    "subTitle": "The host presents the latest developments and updates on key issues across various frameworks affecting the lives of countless people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-789",
-    "title": "Defence Debate",
-    "subTitle": "The host facilitates a comprehensive and detailed discussion with experts, regarding the country's defence and security.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-789",
     "title": "Uttrakhand News",
     "subTitle": "The host discusses recent developments in the field of politics, business, entertainment, education, technology and sports in Uttarakhand.",

@@ -1,5 +1,335 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Gulf Focus",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter",
+    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-1250",
+    "title": "24 Round Up",
+    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Gulf Today",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter",
+    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Varthamazha",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter",
+    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-1250",
+    "title": "News Breaks",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Good Morning",
+    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Breaking News",
+    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Big News",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-1250",
+    "title": "1 PM News",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events affecting the lives of many individuals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Pradeshika Varthakal",
+    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Police Diary",
+    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Riding Reporter",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Van Vartha",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Evening Show Reel",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Good Evening With 24",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Cid 24",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Vartha Sandhya",
+    "subTitle": "The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Pothujanam Kazhuthayalla Sir",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter",
+    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Prime Time With SKN",
+    "subTitle": "The host presents the latest information, advances and developments on various important issues impacting the lives of many people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Kutavum Shikshayum",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Varthamazha",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Police Diary",
+    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Late Edition",
+    "subTitle": "The host sheds light on the latest updates and developments pertaining to political and socio-economic news and updates from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-1250",
+    "title": "Gulf Today",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -345,8 +675,8 @@
     "start": "2025-11-29 00:30:00 IST",
     "stop": "2025-11-29 01:30:00 IST",
     "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "title": "Election Stunt",
+    "subTitle": "The hosts shed light on the latest updates and key developments surrounding elections whilst providing information on contending candidates.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -365,8 +695,8 @@
     "start": "2025-11-29 02:00:00 IST",
     "stop": "2025-11-29 02:30:00 IST",
     "channel": "jio-1250",
-    "title": "24 Round Up",
-    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
+    "title": "Good Night",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events taking place in the state.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -375,8 +705,8 @@
     "start": "2025-11-29 02:30:00 IST",
     "stop": "2025-11-29 03:00:00 IST",
     "channel": "jio-1250",
-    "title": "Gulf Today",
-    "subTitle": "",
+    "title": "Gulf Focus",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -395,8 +725,8 @@
     "start": "2025-11-29 03:30:00 IST",
     "stop": "2025-11-29 05:00:00 IST",
     "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "title": "Encounter Prime",
+    "subTitle": "The host invites a panel of guests to discuss and provide an in-depth insight into current national issues of public interest with important updates.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -405,8 +735,8 @@
     "start": "2025-11-29 05:00:00 IST",
     "stop": "2025-11-29 05:30:00 IST",
     "channel": "jio-1250",
-    "title": "Varthamazha",
-    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
+    "title": "Innu Sambhavichathu",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -415,28 +745,18 @@
     "start": "2025-11-29 05:30:00 IST",
     "stop": "2025-11-29 06:00:00 IST",
     "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129003000",
-    "stopRaw": "20251129010000",
-    "start": "2025-11-29 06:00:00 IST",
-    "stop": "2025-11-29 06:30:00 IST",
-    "channel": "jio-1250",
     "title": "100 News",
     "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129010000",
+    "startRaw": "20251129003000",
     "stopRaw": "20251129013000",
-    "start": "2025-11-29 06:30:00 IST",
+    "start": "2025-11-29 06:00:00 IST",
     "stop": "2025-11-29 07:00:00 IST",
     "channel": "jio-1250",
-    "title": "News Breaks",
-    "subTitle": "",
+    "title": "Morning Walk",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -451,22 +771,22 @@
   },
   {
     "startRaw": "20251129050000",
-    "stopRaw": "20251129063000",
+    "stopRaw": "20251129060000",
     "start": "2025-11-29 10:30:00 IST",
-    "stop": "2025-11-29 12:00:00 IST",
+    "stop": "2025-11-29 11:30:00 IST",
     "channel": "jio-1250",
-    "title": "Breaking News",
-    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments.",
+    "title": "Breaking Hours With Hashmi",
+    "subTitle": "Host Hashmi presents the latest news and updates regarding important political and economic developments around the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129063000",
+    "startRaw": "20251129060000",
     "stopRaw": "20251129070000",
-    "start": "2025-11-29 12:00:00 IST",
+    "start": "2025-11-29 11:30:00 IST",
     "stop": "2025-11-29 12:30:00 IST",
     "channel": "jio-1250",
-    "title": "Big News",
-    "subTitle": "",
+    "title": "24 Breaking",
+    "subTitle": "The host presents a comprehensive and detailed report on the top 24 latest news and developments, domestically and internationally.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -475,28 +795,18 @@
     "start": "2025-11-29 12:30:00 IST",
     "stop": "2025-11-29 13:00:00 IST",
     "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "title": "World Roundup",
+    "subTitle": "The host talks about the latest and the most important socio-economic and political news, updates and developments of the day.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129073000",
-    "stopRaw": "20251129080000",
-    "start": "2025-11-29 13:00:00 IST",
-    "stop": "2025-11-29 13:30:00 IST",
-    "channel": "jio-1250",
-    "title": "1 PM News",
-    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events affecting the lives of many individuals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129080000",
     "stopRaw": "20251129083000",
-    "start": "2025-11-29 13:30:00 IST",
+    "start": "2025-11-29 13:00:00 IST",
     "stop": "2025-11-29 14:00:00 IST",
     "channel": "jio-1250",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance.",
+    "title": "Varthamazha",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -505,8 +815,8 @@
     "start": "2025-11-29 14:00:00 IST",
     "stop": "2025-11-29 14:30:00 IST",
     "channel": "jio-1250",
-    "title": "Police Diary",
-    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -515,58 +825,18 @@
     "start": "2025-11-29 14:30:00 IST",
     "stop": "2025-11-29 15:00:00 IST",
     "channel": "jio-1250",
-    "title": "Riding Reporter",
-    "subTitle": "",
+    "title": "Police Diary",
+    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129093000",
-    "stopRaw": "20251129100000",
-    "start": "2025-11-29 15:00:00 IST",
-    "stop": "2025-11-29 15:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Van Vartha",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129100000",
-    "stopRaw": "20251129103000",
-    "start": "2025-11-29 15:30:00 IST",
-    "stop": "2025-11-29 16:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Evening Show Reel",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129103000",
-    "stopRaw": "20251129113000",
-    "start": "2025-11-29 16:00:00 IST",
-    "stop": "2025-11-29 17:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Good Evening With 24",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129113000",
-    "stopRaw": "20251129120000",
-    "start": "2025-11-29 17:00:00 IST",
-    "stop": "2025-11-29 17:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Cid 24",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129120000",
     "stopRaw": "20251129123000",
-    "start": "2025-11-29 17:30:00 IST",
+    "start": "2025-11-29 15:00:00 IST",
     "stop": "2025-11-29 18:00:00 IST",
     "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "title": "Womens Evening",
+    "subTitle": "Bringing the best in television.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -581,28 +851,38 @@
   },
   {
     "startRaw": "20251129130000",
-    "stopRaw": "20251129133000",
+    "stopRaw": "20251129134500",
     "start": "2025-11-29 18:30:00 IST",
-    "stop": "2025-11-29 19:00:00 IST",
+    "stop": "2025-11-29 19:15:00 IST",
     "channel": "jio-1250",
     "title": "Pothujanam Kazhuthayalla Sir",
     "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129133000",
-    "stopRaw": "20251129143000",
-    "start": "2025-11-29 19:00:00 IST",
-    "stop": "2025-11-29 20:00:00 IST",
+    "startRaw": "20251129134500",
+    "stopRaw": "20251129140000",
+    "start": "2025-11-29 19:15:00 IST",
+    "stop": "2025-11-29 19:30:00 IST",
     "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
+    "title": "Kooryanam",
+    "subTitle": "The host satirises various comments made by politicians and government officials, illuminating critical societal issues.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129143000",
+    "startRaw": "20251129140000",
+    "stopRaw": "20251129150000",
+    "start": "2025-11-29 19:30:00 IST",
+    "stop": "2025-11-29 20:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter Prime",
+    "subTitle": "The host invites a panel of guests to discuss and provide an in-depth insight into current national issues of public interest with important updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129150000",
     "stopRaw": "20251129160000",
-    "start": "2025-11-29 20:00:00 IST",
+    "start": "2025-11-29 20:30:00 IST",
     "stop": "2025-11-29 21:30:00 IST",
     "channel": "jio-1250",
     "title": "Prime Time With SKN",
@@ -611,18 +891,8 @@
   },
   {
     "startRaw": "20251129160000",
-    "stopRaw": "20251129163000",
-    "start": "2025-11-29 21:30:00 IST",
-    "stop": "2025-11-29 22:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Kutavum Shikshayum",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129163000",
     "stopRaw": "20251129170000",
-    "start": "2025-11-29 22:00:00 IST",
+    "start": "2025-11-29 21:30:00 IST",
     "stop": "2025-11-29 22:30:00 IST",
     "channel": "jio-1250",
     "title": "Varthamazha",
@@ -645,8 +915,8 @@
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:30:00 IST",
     "channel": "jio-1250",
-    "title": "Late Edition",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to political and socio-economic news and updates from around the world.",
+    "title": "24 Round Up",
+    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -657,336 +927,6 @@
     "channel": "jio-1250",
     "title": "Arabia This Week",
     "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Gulf Focus",
-    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-1250",
-    "title": "24 Round Up",
-    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Gulf Today",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Varthamazha",
-    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-1250",
-    "title": "News Breaks",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Good Morning",
-    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Breaking News",
-    "subTitle": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Big News",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130080000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:30:00 IST",
-    "channel": "jio-1250",
-    "title": "1 PM News",
-    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events affecting the lives of many individuals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130080000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:30:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Police Diary",
-    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130093000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 15:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Riding Reporter",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130093000",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 15:00:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Van Vartha",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-1250",
-    "title": "World Roundup",
-    "subTitle": "The host talks about the latest and the most important socio-economic and political news, updates and developments of the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Good Evening With 24",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Cid 24",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Nam Munnottu",
-    "subTitle": "The host invites prominent personalities from different fields and has a conversation with them regarding the various social and political issues that the country faces.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Vartha Sandhya",
-    "subTitle": "The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Pothujanam Kazhuthayalla Sir",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Prime Time With SKN",
-    "subTitle": "The host presents the latest information, advances and developments on various important issues impacting the lives of many people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130163000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Kutavum Shikshayum",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130163000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 22:00:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Varthamazha",
-    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Police Diary",
-    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Late Edition",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to political and socio-economic news and updates from around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
-    "channel": "jio-1250",
-    "title": "Gulf Today",
-    "subTitle": "",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   }
 ]

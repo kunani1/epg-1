@@ -1,5 +1,615 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126195500",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:25:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126195500",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:25:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-142",
+    "title": "Tech Now",
+    "subTitle": "Exploring the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space, from AI and robotics, to health, climate, transport, and gaming.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-142",
+    "title": "The Context",
+    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-142",
+    "title": "The Context",
+    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-142",
+    "title": "The Context USA",
+    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126215500",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:25:00 IST",
+    "channel": "jio-142",
+    "title": "The Context USA",
+    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126215500",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:25:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-142",
+    "title": "Tech Now",
+    "subTitle": "Exploring the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space, from AI and robotics, to health, climate, transport, and gaming.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC World News America",
+    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-142",
+    "title": "Newsnight",
+    "subTitle": "Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC World News America",
+    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-142",
+    "title": "Newscast",
+    "subTitle": "Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-142",
+    "title": "Global Women",
+    "subTitle": "The animated film KPop Demon Hunters became an instant global hit when it was released in June, and it brought Korean-American star Arden Cho a new generation of fans. Cho tells BBC Global Women about her childhood in Texas, and her struggles with her identity and the way she looked. But now, with the international rise in popularity of Korean culture and entertainment and the success of this film, she says she feels proud of her heritage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127024500",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127024500",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:15:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127034500",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127034500",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:15:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127044500",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127044500",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:15:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127065500",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:25:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127065500",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:25:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127075500",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:25:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127075500",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:25:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127095500",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127095500",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:25:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127114500",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127114500",
+    "stopRaw": "20251127115500",
+    "start": "2025-11-27 17:15:00 IST",
+    "stop": "2025-11-27 17:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127115500",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:25:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127135500",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127135500",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:25:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127144500",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127144500",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 20:15:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127164500",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127164500",
+    "stopRaw": "20251127165500",
+    "start": "2025-11-27 22:15:00 IST",
+    "stop": "2025-11-27 22:25:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127165500",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:25:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Movies",
+    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-142",
+    "title": "Focus on Africa",
+    "subTitle": "A presentation of the biggest stories from all over Africa and around the world, led by the BBC team.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1074,446 +1684,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-142",
-    "title": "Tech Now",
-    "subTitle": "Suranjana Tewari explores the latest innovations at CEATEC: Japan's biggest annual tech show. Adrienne Murray meets the engineers designing icebreaker ship technology for accessing the Arctic.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "As Singapore turns 60, Carmen Roberts returns to the country of her birth to find out more about her Chinese Peranakan roots.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-142",
-    "title": "AI Decoded",
-    "subTitle": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129230000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 04:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129230000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-142",
-    "title": "Talking Business",
-    "subTitle": "Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-142",
-    "title": "This Cultural Life",
-    "subTitle": "Gillian Anderson's breakthrough television role in the sci-fi series The X Files made her a global star in 1993, and she played cool-headed Agent Dana Scully for nearly a decade. She also starred in period dramas, including an acclaimed film adaptation of Edith Wharton's novel The House of Mirth and, on television, in Bleak House, Great Expectations and War and Peace.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130020000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:30:00 IST",
-    "channel": "jio-142",
-    "title": "Syria to Omagh: Lost &amp; Missing",
-    "subTitle": "Tied by trauma - a father searching for his vanished family and another whose only son died in the Omagh bombing. Jennifer O'Leary follows the trail of tears, from Tyrone to Syria.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130020000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:30:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-142",
-    "title": "AI Decoded",
-    "subTitle": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-142",
-    "title": "Global Eye",
-    "subTitle": "Uncovering a growing culture of surveillance and informants in Hong Kong in the wake of the so-called patriots law and Carine Torbey reports on the situation in Lebanon.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-142",
-    "title": "Tech Now",
-    "subTitle": "Suranjana Tewari explores the latest innovations at CEATEC: Japan's biggest annual tech show. Adrienne Murray meets the engineers designing icebreaker ship technology for accessing the Arctic.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130060000",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:30:00 IST",
-    "channel": "jio-142",
-    "title": "Talking Business",
-    "subTitle": "Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130060000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "As Singapore turns 60, Carmen Roberts returns to the country of her birth to find out more about her Chinese Peranakan roots.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130080000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:30:00 IST",
-    "channel": "jio-142",
-    "title": "This Cultural Life",
-    "subTitle": "Gillian Anderson's breakthrough television role in the sci-fi series The X Files made her a global star in 1993, and she played cool-headed Agent Dana Scully for nearly a decade. She also starred in period dramas, including an acclaimed film adaptation of Edith Wharton's novel The House of Mirth and, on television, in Bleak House, Great Expectations and War and Peace.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130080000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:30:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-142",
-    "title": "Syria to Omagh: Lost &amp; Missing",
-    "subTitle": "Tied by trauma - a father searching for his vanished family and another whose only son died in the Omagh bombing. Jennifer O'Leary follows the trail of tears, from Tyrone to Syria.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Media Show",
-    "subTitle": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-142",
-    "title": "The President's Path",
-    "subTitle": "Caitríona, Courtney and Bernd talk about Donald Trump's response to the Washington DC plane crash. They also chat tariffs, diversity schemes and Trump's US immigration crackdown.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "As Singapore turns 60, Carmen Roberts returns to the country of her birth to find out more about her Chinese Peranakan roots.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130140000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:30:00 IST",
-    "channel": "jio-142",
-    "title": "Tech Now",
-    "subTitle": "Suranjana Tewari explores the latest innovations at CEATEC: Japan's biggest annual tech show. Adrienne Murray meets the engineers designing icebreaker ship technology for accessing the Arctic.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130140000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:30:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130150000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:30:00 IST",
-    "channel": "jio-142",
-    "title": "AI Decoded",
-    "subTitle": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130150000",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 20:30:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-142",
-    "title": "Global Eye",
-    "subTitle": "Uncovering a growing culture of surveillance and informants in Hong Kong in the wake of the so-called patriots law and Carine Torbey reports on the situation in Lebanon.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130163000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130163000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 22:00:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-142",
-    "title": "Talking Business",
-    "subTitle": "Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-142",
     "title": "BBC News",
     "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",

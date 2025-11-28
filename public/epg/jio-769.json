@@ -1,5 +1,405 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-769",
+    "title": "Teenmaar Vaarthalu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-769",
+    "title": "Hamara Hyderabad",
+    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-769",
+    "title": "Late Night News",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-769",
+    "title": "Teenmaar Vaarthalu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-769",
+    "title": "Telanganam",
+    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy and recent updates from the state of Telangana.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-769",
+    "title": "Hamara Hyderabad",
+    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-769",
+    "title": "Late Night News",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-769",
+    "title": "Teenmaar Vaarthalu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127012800",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 06:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127012800",
+    "stopRaw": "20251127014500",
+    "start": "2025-11-27 06:58:00 IST",
+    "stop": "2025-11-27 07:15:00 IST",
+    "channel": "jio-769",
+    "title": "V6 News",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127014500",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:15:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-769",
+    "title": "Good Morning Telangana",
+    "subTitle": "The host presents the latest news stories and developments surrounding various social and political matters concerning the state of Telangana.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-769",
+    "title": "Teenmaar Vaarthalu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127031500",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 08:45:00 IST",
+    "channel": "jio-769",
+    "title": "Manasaveena",
+    "subTitle": "A compilation featuring various popular soundtracks from films, sung by talented artists, is played back-to-back to entertain the audience.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127031500",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:45:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-769",
+    "title": "9 AM News",
+    "subTitle": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127052800",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:58:00 IST",
+    "channel": "jio-769",
+    "title": "10 AM News",
+    "subTitle": "The host provides a detailed analysis on the latest developments and updates on key issues across various frameworks affecting the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127052800",
+    "stopRaw": "20251127061500",
+    "start": "2025-11-27 10:58:00 IST",
+    "stop": "2025-11-27 11:45:00 IST",
+    "channel": "jio-769",
+    "title": "11 AM News",
+    "subTitle": "The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127061500",
+    "stopRaw": "20251127062800",
+    "start": "2025-11-27 11:45:00 IST",
+    "stop": "2025-11-27 11:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127062800",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 11:58:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-769",
+    "title": "12 PM News",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127072800",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 12:58:00 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127072800",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 12:58:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-769",
+    "title": "News Lunch",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-769",
+    "title": "2 PM News",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127092800",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 14:58:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127092800",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 14:58:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-769",
+    "title": "3 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127102800",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 15:58:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127102800",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 15:58:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-769",
+    "title": "4 PM News",
+    "subTitle": "The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127112800",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 16:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127112800",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 16:58:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-769",
+    "title": "5 PM News",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127122800",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 17:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127122800",
+    "stopRaw": "20251127132800",
+    "start": "2025-11-27 17:58:00 IST",
+    "stop": "2025-11-27 18:58:00 IST",
+    "channel": "jio-769",
+    "title": "Telanganam",
+    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy and recent updates from the state of Telangana.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127132800",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 18:58:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-769",
+    "title": "7 PM News",
+    "subTitle": "The host invites a panel of experts from different fields to discuss the latest updates and significant events related to current affairs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127152800",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:58:00 IST",
+    "channel": "jio-769",
+    "title": "8 Pm Discussion",
+    "subTitle": "The host interacts with a panel of experts who share their opinions and views on several social, political and economic issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127152800",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 20:58:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-769",
+    "title": "News Junction",
+    "subTitle": "The host presents a comprehensive news bulletin comprising the latest regional and national events, updates and developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127162800",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 21:58:00 IST",
+    "channel": "jio-769",
+    "title": "Teenmaar Vaarthalu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127162800",
+    "stopRaw": "20251127172800",
+    "start": "2025-11-27 21:58:00 IST",
+    "stop": "2025-11-27 22:58:00 IST",
+    "channel": "jio-769",
+    "title": "Hamara Hyderabad",
+    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127172800",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 22:58:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-769",
+    "title": "Late Night News",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -555,8 +955,8 @@
     "start": "2025-11-29 06:00:00 IST",
     "stop": "2025-11-29 06:30:00 IST",
     "channel": "jio-769",
-    "title": "Cinema Talkies",
-    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -611,28 +1011,28 @@
   },
   {
     "startRaw": "20251129031500",
-    "stopRaw": "20251129033000",
+    "stopRaw": "20251129032800",
     "start": "2025-11-29 08:45:00 IST",
-    "stop": "2025-11-29 09:00:00 IST",
+    "stop": "2025-11-29 08:58:00 IST",
     "channel": "jio-769",
     "title": "Commercial",
     "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129033000",
-    "stopRaw": "20251129042800",
-    "start": "2025-11-29 09:00:00 IST",
-    "stop": "2025-11-29 09:58:00 IST",
+    "startRaw": "20251129032800",
+    "stopRaw": "20251129043000",
+    "start": "2025-11-29 08:58:00 IST",
+    "stop": "2025-11-29 10:00:00 IST",
     "channel": "jio-769",
     "title": "9 AM News",
     "subTitle": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129042800",
+    "startRaw": "20251129043000",
     "stopRaw": "20251129052800",
-    "start": "2025-11-29 09:58:00 IST",
+    "start": "2025-11-29 10:00:00 IST",
     "stop": "2025-11-29 10:58:00 IST",
     "channel": "jio-769",
     "title": "10 AM News",
@@ -641,18 +1041,18 @@
   },
   {
     "startRaw": "20251129052800",
-    "stopRaw": "20251129060000",
+    "stopRaw": "20251129061500",
     "start": "2025-11-29 10:58:00 IST",
-    "stop": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 11:45:00 IST",
     "channel": "jio-769",
     "title": "11 AM News",
     "subTitle": "The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129060000",
+    "startRaw": "20251129061500",
     "stopRaw": "20251129062800",
-    "start": "2025-11-29 11:30:00 IST",
+    "start": "2025-11-29 11:45:00 IST",
     "stop": "2025-11-29 11:58:00 IST",
     "channel": "jio-769",
     "title": "Commercial",
@@ -681,22 +1081,12 @@
   },
   {
     "startRaw": "20251129072800",
-    "stopRaw": "20251129081500",
+    "stopRaw": "20251129083000",
     "start": "2025-11-29 12:58:00 IST",
-    "stop": "2025-11-29 13:45:00 IST",
+    "stop": "2025-11-29 14:00:00 IST",
     "channel": "jio-769",
     "title": "News Lunch",
     "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129081500",
-    "stopRaw": "20251129083000",
-    "start": "2025-11-29 13:45:00 IST",
-    "stop": "2025-11-29 14:00:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -715,8 +1105,8 @@
     "start": "2025-11-29 14:30:00 IST",
     "stop": "2025-11-29 14:58:00 IST",
     "channel": "jio-769",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -735,8 +1125,8 @@
     "start": "2025-11-29 15:30:00 IST",
     "stop": "2025-11-29 15:58:00 IST",
     "channel": "jio-769",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -795,8 +1185,8 @@
     "start": "2025-11-29 18:58:00 IST",
     "stop": "2025-11-29 20:00:00 IST",
     "channel": "jio-769",
-    "title": "7 PM News",
-    "subTitle": "The host invites a panel of experts from different fields to discuss the latest updates and significant events related to current affairs.",
+    "title": "7 PM Live",
+    "subTitle": "The host presents a comprehensive analysis of the most important political, socio-economic and sports news updates, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -864,426 +1254,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-769",
-    "title": "Cinema Talkies",
-    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-769",
-    "title": "Teenmaar Vaarthalu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-769",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-769",
-    "title": "Hamara Hyderabad",
-    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-769",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-769",
-    "title": "Late Night News",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-769",
-    "title": "Teenmaar Vaarthalu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129223000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 04:00:00 IST",
-    "channel": "jio-769",
-    "title": "Telanganam",
-    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy and recent updates from the state of Telangana.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129223000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:00:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-769",
-    "title": "Hamara Hyderabad",
-    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-769",
-    "title": "Late Night News",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-769",
-    "title": "Teenmaar Vaarthalu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130012800",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 06:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130012800",
-    "stopRaw": "20251130014500",
-    "start": "2025-11-30 06:58:00 IST",
-    "stop": "2025-11-30 07:15:00 IST",
-    "channel": "jio-769",
-    "title": "V6 News",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130014500",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:15:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-769",
-    "title": "Good Morning Telangana",
-    "subTitle": "The host presents the latest news stories and developments surrounding various social and political matters concerning the state of Telangana.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-769",
-    "title": "Teenmaar Vaarthalu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130031500",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 08:45:00 IST",
-    "channel": "jio-769",
-    "title": "Manasaveena",
-    "subTitle": "A compilation featuring various popular soundtracks from films, sung by talented artists, is played back-to-back to entertain the audience.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130031500",
-    "stopRaw": "20251130032800",
-    "start": "2025-11-30 08:45:00 IST",
-    "stop": "2025-11-30 08:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130032800",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 08:58:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-769",
-    "title": "9 AM News",
-    "subTitle": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130052800",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:58:00 IST",
-    "channel": "jio-769",
-    "title": "10 AM News",
-    "subTitle": "The host provides a detailed analysis on the latest developments and updates on key issues across various frameworks affecting the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130052800",
-    "stopRaw": "20251130061500",
-    "start": "2025-11-30 10:58:00 IST",
-    "stop": "2025-11-30 11:45:00 IST",
-    "channel": "jio-769",
-    "title": "11 AM News",
-    "subTitle": "The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130061500",
-    "stopRaw": "20251130062800",
-    "start": "2025-11-30 11:45:00 IST",
-    "stop": "2025-11-30 11:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130062800",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 11:58:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-769",
-    "title": "12 PM News",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130072800",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 12:58:00 IST",
-    "channel": "jio-769",
-    "title": "Stream Engage",
-    "subTitle": "The host explores popular films and shows, providing in-depth insights and suggestions for streaming content across multiple OTT platforms.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130072800",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 12:58:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-769",
-    "title": "News Lunch",
-    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-769",
-    "title": "2 PM News",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130092800",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 14:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130092800",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 14:58:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-769",
-    "title": "3 PM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130102800",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 15:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130102800",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 15:58:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-769",
-    "title": "4 PM News",
-    "subTitle": "The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130112800",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 16:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130112800",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 16:58:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-769",
-    "title": "5 PM News",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130122800",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 17:58:00 IST",
-    "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130122800",
-    "stopRaw": "20251130132800",
-    "start": "2025-11-30 17:58:00 IST",
-    "stop": "2025-11-30 18:58:00 IST",
-    "channel": "jio-769",
-    "title": "Telanganam",
-    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy and recent updates from the state of Telangana.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130132800",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 18:58:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-769",
-    "title": "7 PM Live",
-    "subTitle": "The host presents a comprehensive analysis of the most important political, socio-economic and sports news updates, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130150000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:30:00 IST",
-    "channel": "jio-769",
-    "title": "CHITCHAT",
-    "subTitle": "The host engages in conversations with various famous personalities regarding their careers and experiences in their respective fields of work.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130150000",
-    "stopRaw": "20251130152800",
-    "start": "2025-11-30 20:30:00 IST",
-    "stop": "2025-11-30 20:58:00 IST",
-    "channel": "jio-769",
-    "title": "Cinema Talkies",
-    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130152800",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 20:58:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-769",
-    "title": "News Junction",
-    "subTitle": "The host presents a comprehensive news bulletin comprising the latest regional and national events, updates and developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130162800",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 21:58:00 IST",
-    "channel": "jio-769",
-    "title": "Weekend Teenmaar",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130162800",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 21:58:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-769",
-    "title": "Hamara Hyderabad",
-    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130172800",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 22:58:00 IST",
-    "channel": "jio-769",
-    "title": "Special Stories",
-    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130172800",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 22:58:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-769",
-    "title": "Late Night News",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-769",
     "title": "Cinema Talkies",
     "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",

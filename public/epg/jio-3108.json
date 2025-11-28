@@ -1,5 +1,455 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Nation Ki Awaz",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues across India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Fast Track News",
+    "subTitle": "The host presents the latest news updates and significant developments on governance, social, economic, and political issues in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Khabar Gujarat",
+    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Special Bhakti",
+    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-3108",
+    "title": "News",
+    "subTitle": "The host presents the latest news updates pertaining to the political, social, economic and sports fronts from around the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Bhakti Sagar",
+    "subTitle": "A comprehensive compilation of devotional songs and hymns composed and performed by various artists is played back-to-back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Filmy Dunia",
+    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding prominent personalities from the film industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Khabar Super Fast",
+    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Prime Time",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News",
+    "subTitle": "The host presents the latest news updates pertaining to the political, social, economic and sports fronts from around the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Special Bhakti",
+    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Prime Time",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Morning News",
+    "subTitle": "The host presents detailed information and in-depth insights on various news of economics, social issues, politics and current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Super 10",
+    "subTitle": "The host presents the latest events, developments and updates on the top 10 news stories that significantly affect the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Tea Time News",
+    "subTitle": "The host provides a comprehensive insight into the latest news, developments and current affairs of national and global importance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Good Morning",
+    "subTitle": "The host delivers the latest news stories and significant developments on governance, social, economic, sports, and political issues impacting the people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Special Bhakti",
+    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-3108",
+    "title": "9 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Khas Mulakat",
+    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Badi Khabare",
+    "subTitle": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political matters of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Top 20",
+    "subTitle": "The host sheds light on the top 20 stories and news updates taking place in the country and all over the world in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News At 11",
+    "subTitle": "The presenter reports the most important news stories and updates from around the world and provides updates on socio-political events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Kahani Apke Gaon Ki",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, from the country's villages.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News 12 PM",
+    "subTitle": "The host presents the latest developments and events pertaining to significant political, social, economic, and sporting matters.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Bollywood News",
+    "subTitle": "The presenter reports the latest updates, top news stories and key developments pertaining to Bollywood and its personalities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News Room Live",
+    "subTitle": "The host discusses current social, economic and political issues with an expert, exploring their views and detailed opinions, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Good Afternoon",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Crime News",
+    "subTitle": "The host presents information about the crime related incidents that have occurred in the local area and provides updates on the proceedings of certain cases.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News @ 3pm",
+    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Mahila News",
+    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding women from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Garvi Gujarat Gujarati",
+    "subTitle": "The host presents the most recent political, social and economic news, updates and developments from around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Vote Par Charcha",
+    "subTitle": "The host invites prominent personalities to conduct insightful discussions on various socio-political matters impacting people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Apka Gaon Apki Baat",
+    "subTitle": "The host delivers a detailed report covering the latest updates, top news stories and key developments from villages across the nation, providing valuable insights into rural life and issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Evening News",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Khabardaar",
+    "subTitle": "The reporter sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social elements.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Local News",
+    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Prime Time",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Desh Ki Awaz",
+    "subTitle": "The host presents the latest updates and key news stories on social, political, economic, and governance matters, along with major developments across India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Khabar",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-3108",
+    "title": "News @ 9 PM",
+    "subTitle": "The host presents some of the latest news updates and developments pertaining to various social, political and economic issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Mudde Apki Batayenge Hum",
+    "subTitle": "The host interacts with the citizens who share their perspectives on important matters pertaining to the state and country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-3108",
+    "title": "Crime News",
+    "subTitle": "The host presents information about the crime related incidents that have occurred in the local area and provides updates on the proceedings of certain cases.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-3108",
+    "title": "Garvi Gujarat Gujarati",
+    "subTitle": "The host presents the most recent political, social and economic news, updates and developments from around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-3108",
+    "title": "Khabardaar",
+    "subTitle": "The reporter sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social elements.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127193000",
     "start": "2025-11-28 00:00:00 IST",
@@ -894,456 +1344,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-3108",
-    "title": "Khabardaar",
-    "subTitle": "The reporter sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social elements.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Nation Ki Awaz",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues across India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Fast Track News",
-    "subTitle": "The host presents the latest news updates and significant developments on governance, social, economic, and political issues in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Khabar Gujarat",
-    "subTitle": "The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Special Bhakti",
-    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-3108",
-    "title": "News",
-    "subTitle": "The host presents the latest news updates pertaining to the political, social, economic and sports fronts from around the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Bhakti Sagar",
-    "subTitle": "A comprehensive compilation of devotional songs and hymns composed and performed by various artists is played back-to-back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129223000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 04:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Filmy Dunia",
-    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding prominent personalities from the film industry.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129223000",
-    "stopRaw": "20251129230000",
-    "start": "2025-11-30 04:00:00 IST",
-    "stop": "2025-11-30 04:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Khabar Super Fast",
-    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129230000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Prime Time",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News",
-    "subTitle": "The host presents the latest news updates pertaining to the political, social, economic and sports fronts from around the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Special Bhakti",
-    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Prime Time",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Morning News",
-    "subTitle": "The host presents detailed information and in-depth insights on various news of economics, social issues, politics and current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130020000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Super 10",
-    "subTitle": "The host presents the latest events, developments and updates on the top 10 news stories that significantly affect the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130020000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:30:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Tea Time News",
-    "subTitle": "The host provides a comprehensive insight into the latest news, developments and current affairs of national and global importance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Good Morning",
-    "subTitle": "The host delivers the latest news stories and significant developments on governance, social, economic, sports, and political issues impacting the people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Special Bhakti",
-    "subTitle": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead a spiritual teachings.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-3108",
-    "title": "9 AM News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Khas Mulakat",
-    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Badi Khabare",
-    "subTitle": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political matters of the day.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Top 20",
-    "subTitle": "The host sheds light on the top 20 stories and news updates taking place in the country and all over the world in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130060000",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News At 11",
-    "subTitle": "The presenter reports the most important news stories and updates from around the world and provides updates on socio-political events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130060000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Kahani Apke Gaon Ki",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, from the country's villages.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News 12 PM",
-    "subTitle": "The host presents the latest developments and events pertaining to significant political, social, economic, and sporting matters.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Bollywood News",
-    "subTitle": "The presenter reports the latest updates, top news stories and key developments pertaining to Bollywood and its personalities.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130080000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News Room Live",
-    "subTitle": "The host discusses current social, economic and political issues with an expert, exploring their views and detailed opinions, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130080000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:30:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Good Afternoon",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130093000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 15:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Crime News",
-    "subTitle": "The host presents information about the crime related incidents that have occurred in the local area and provides updates on the proceedings of certain cases.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130093000",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 15:00:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News @ 3pm",
-    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Mahila News",
-    "subTitle": "The host provides a detailed report featuring the latest updates and key developments surrounding women from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Garvi Gujarat Gujarati",
-    "subTitle": "The host presents the most recent political, social and economic news, updates and developments from around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Vote Par Charcha",
-    "subTitle": "The host invites prominent personalities to conduct insightful discussions on various socio-political matters impacting people.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Apka Gaon Apki Baat",
-    "subTitle": "The host delivers a detailed report covering the latest updates, top news stories and key developments from villages across the nation, providing valuable insights into rural life and issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Evening News",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Khabardaar",
-    "subTitle": "The reporter sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social elements.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Local News",
-    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the region.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130140000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Prime Time",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130140000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:30:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Desh Ki Awaz",
-    "subTitle": "The host presents the latest updates and key news stories on social, political, economic, and governance matters, along with major developments across India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Khabar",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-3108",
-    "title": "News @ 9 PM",
-    "subTitle": "The host presents some of the latest news updates and developments pertaining to various social, political and economic issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Mudde Apki Batayenge Hum",
-    "subTitle": "The host interacts with the citizens who share their perspectives on important matters pertaining to the state and country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-3108",
-    "title": "Crime News",
-    "subTitle": "The host presents information about the crime related incidents that have occurred in the local area and provides updates on the proceedings of certain cases.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-3108",
-    "title": "Garvi Gujarat Gujarati",
-    "subTitle": "The host presents the most recent political, social and economic news, updates and developments from around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-3108",
     "title": "Khabardaar",
     "subTitle": "The reporter sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social elements.",

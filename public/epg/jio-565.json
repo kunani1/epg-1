@@ -1,5 +1,595 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-565",
+    "title": "Wow Emi Ruchi",
+    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-565",
+    "title": "Indian Kitchen",
+    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-565",
+    "title": "Only Non-veg",
+    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126201500",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 01:45:00 IST",
+    "channel": "jio-565",
+    "title": "Gorumuddalu",
+    "subTitle": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126201500",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:45:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-565",
+    "title": "Young Chef",
+    "subTitle": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-565",
+    "title": "Aaharaveedhilo",
+    "subTitle": "The host visits some of the most popular fast food restaurants and joints in the city that serve delicious street delicacies.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-565",
+    "title": "Wow Emi Ruchi",
+    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126214500",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:15:00 IST",
+    "channel": "jio-565",
+    "title": "Amma Chethi Vanta",
+    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126214500",
+    "stopRaw": "20251126221500",
+    "start": "2025-11-27 03:15:00 IST",
+    "stop": "2025-11-27 03:45:00 IST",
+    "channel": "jio-565",
+    "title": "Indian Kitchen",
+    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126221500",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:45:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-565",
+    "title": "Diet Menu",
+    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126224500",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:15:00 IST",
+    "channel": "jio-565",
+    "title": "Young Chef",
+    "subTitle": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126224500",
+    "stopRaw": "20251126231500",
+    "start": "2025-11-27 04:15:00 IST",
+    "stop": "2025-11-27 04:45:00 IST",
+    "channel": "jio-565",
+    "title": "Wow Emi Ruchi",
+    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126231500",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:45:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-565",
+    "title": "Super Chef",
+    "subTitle": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251126234500",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:15:00 IST",
+    "channel": "jio-565",
+    "title": "Amma Chethi Vanta",
+    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126234500",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:15:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-565",
+    "title": "Diet Menu",
+    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127001500",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 05:45:00 IST",
+    "channel": "jio-565",
+    "title": "Young Chef",
+    "subTitle": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127001500",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:45:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-565",
+    "title": "Gorumuddalu",
+    "subTitle": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-565",
+    "title": "Good Morning Abhiruchi",
+    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-565",
+    "title": "Good Morning Abhiruchi",
+    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-565",
+    "title": "Ruchula Vindhu",
+    "subTitle": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-565",
+    "title": "Good Morning Abhiruchi",
+    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-565",
+    "title": "Good Morning Abhiruchi",
+    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-565",
+    "title": "Meekosam",
+    "subTitle": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-565",
+    "title": "Prayana Phalaharalu",
+    "subTitle": "A prominent chef demonstrates his culinary skills by preparing a variety of delicious dishes and provides tips and suggestions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-565",
+    "title": "Lunchbox",
+    "subTitle": "The host sheds light on the art of cooking various delicious food items while also giving tips to cook tasty and healthy dishes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-565",
+    "title": "Karalu Podulu",
+    "subTitle": "The host invites guest chefs to share their best recipes that are healthy and easy-to-cook, asking them to demonstrate how to prepare them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-565",
+    "title": "Trendy Treats",
+    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127054500",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:15:00 IST",
+    "channel": "jio-565",
+    "title": "Amma Chethi Vanta",
+    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127054500",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:15:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-565",
+    "title": "Super food",
+    "subTitle": "A culinary expert prepares a variety of delicious dishes and shares their recipes while providing useful cooking tips and techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-565",
+    "title": "Only Non-veg",
+    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-565",
+    "title": "Pavitra Vrukshalu",
+    "subTitle": "Religious experts and Ayurvedic physicians present detailed reports about the various types of plants, their history and numerous mythologicals anecdotes pertaining to them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-565",
+    "title": "Wow Emi Ruchi",
+    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-565",
+    "title": "Ra Randoi Vantalu Cheddam",
+    "subTitle": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127081500",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 13:45:00 IST",
+    "channel": "jio-565",
+    "title": "Amma Chethi Vanta",
+    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127081500",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:45:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-565",
+    "title": "Diet Menu",
+    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-565",
+    "title": "Kitchen Mantra",
+    "subTitle": "A culinary expert shares various cooking tips and recipes to motivate viewers into cooking healthy and sumptuous meals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127091500",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 14:45:00 IST",
+    "channel": "jio-565",
+    "title": "Young Chef",
+    "subTitle": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127091500",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:45:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-565",
+    "title": "Ruchula Bandi",
+    "subTitle": "Experts share an extensive range of cooking tips and recipes for various dishes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-565",
+    "title": "Only Non-veg",
+    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-565",
+    "title": "Meekosam",
+    "subTitle": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127104500",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:15:00 IST",
+    "channel": "jio-565",
+    "title": "Super Chef",
+    "subTitle": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127104500",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:15:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-565",
+    "title": "Chai Biscuit",
+    "subTitle": "A culinary expert demonstrates the preparation of healthy and delicious snack recipes that can accompany one's evening tea.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127111500",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 16:45:00 IST",
+    "channel": "jio-565",
+    "title": "Snax",
+    "subTitle": "A culinary expert prepares nutritious and delectable snack recipes, offering helpful tips and suggestions to curb fast food cravings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127111500",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:45:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-565",
+    "title": "Soups &amp; Starters",
+    "subTitle": "The host prepares an assortment of tantalising appetisers and soups, sharing delectable step-by-step recipes and cooking tips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-565",
+    "title": "Aayurveda Aaharam",
+    "subTitle": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-565",
+    "title": "Healthy &amp; Tasty",
+    "subTitle": "The hosts share recipes of an assortment of delicious dishes that are nutritious by nature and demonstrates their preparation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-565",
+    "title": "Pavitra Vrukshalu",
+    "subTitle": "Religious experts and Ayurvedic physicians present detailed reports about the various types of plants, their history and numerous mythologicals anecdotes pertaining to them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-565",
+    "title": "Wow Emi Ruchi",
+    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-565",
+    "title": "Viral Vantalakka",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-565",
+    "title": "Ra Randoi Vantalu Cheddam",
+    "subTitle": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127144500",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:15:00 IST",
+    "channel": "jio-565",
+    "title": "Diet Menu",
+    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127144500",
+    "stopRaw": "20251127151500",
+    "start": "2025-11-27 20:15:00 IST",
+    "stop": "2025-11-27 20:45:00 IST",
+    "channel": "jio-565",
+    "title": "Kitchen Mantra",
+    "subTitle": "A culinary expert shares various cooking tips and recipes to motivate viewers into cooking healthy and sumptuous meals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127151500",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:45:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-565",
+    "title": "Amma Chethi Vanta",
+    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-565",
+    "title": "Indian Kitchen",
+    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-565",
+    "title": "Healthy &amp; Tasty",
+    "subTitle": "The hosts share recipes of an assortment of delicious dishes that are nutritious by nature and demonstrates their preparation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-565",
+    "title": "Only Non-veg",
+    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-565",
+    "title": "Aaharaveedhilo",
+    "subTitle": "The host visits some of the most popular fast food restaurants and joints in the city that serve delicious street delicacies.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-565",
+    "title": "Ruchula Vindhu",
+    "subTitle": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-565",
+    "title": "Prayana Phalaharalu",
+    "subTitle": "A prominent chef demonstrates his culinary skills by preparing a variety of delicious dishes and provides tips and suggestions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1164,546 +1754,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-565",
-    "title": "Prayana Phalaharalu",
-    "subTitle": "A prominent chef demonstrates his culinary skills by preparing a variety of delicious dishes and provides tips and suggestions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-565",
-    "title": "Wow Emi Ruchi",
-    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-565",
-    "title": "Indian Kitchen",
-    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-565",
-    "title": "Aayurveda Aaharam",
-    "subTitle": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129201500",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 01:45:00 IST",
-    "channel": "jio-565",
-    "title": "Gorumuddalu",
-    "subTitle": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129201500",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:45:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-565",
-    "title": "Young Chef",
-    "subTitle": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-565",
-    "title": "Good Morning Abhiruchi",
-    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-565",
-    "title": "Wow Emi Ruchi",
-    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129214500",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 03:15:00 IST",
-    "channel": "jio-565",
-    "title": "Amma Chethi Vanta",
-    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129214500",
-    "stopRaw": "20251129221500",
-    "start": "2025-11-30 03:15:00 IST",
-    "stop": "2025-11-30 03:45:00 IST",
-    "channel": "jio-565",
-    "title": "Indian Kitchen",
-    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129221500",
-    "stopRaw": "20251129224500",
-    "start": "2025-11-30 03:45:00 IST",
-    "stop": "2025-11-30 04:15:00 IST",
-    "channel": "jio-565",
-    "title": "Aaharaveedhilo",
-    "subTitle": "The host visits some of the most popular fast food restaurants and joints in the city that serve delicious street delicacies.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129224500",
-    "stopRaw": "20251129231500",
-    "start": "2025-11-30 04:15:00 IST",
-    "stop": "2025-11-30 04:45:00 IST",
-    "channel": "jio-565",
-    "title": "Wow Emi Ruchi",
-    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129231500",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:45:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-565",
-    "title": "Gorumuddalu",
-    "subTitle": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251129234500",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:15:00 IST",
-    "channel": "jio-565",
-    "title": "Amma Chethi Vanta",
-    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129234500",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:15:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-565",
-    "title": "Diet Menu",
-    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-565",
-    "title": "Athidi",
-    "subTitle": "The host visits various homemakers and plays entertaining games with the family members and discusses the many facets of their lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-565",
-    "title": "Good Morning Abhiruchi",
-    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-565",
-    "title": "Good Morning Abhiruchi",
-    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130020000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:30:00 IST",
-    "channel": "jio-565",
-    "title": "Ruchula Vindhu",
-    "subTitle": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130020000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:30:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-565",
-    "title": "Good Morning Abhiruchi",
-    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-565",
-    "title": "Good Morning Abhiruchi",
-    "subTitle": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-565",
-    "title": "Meekosam",
-    "subTitle": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-565",
-    "title": "Indian Kitchen",
-    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-565",
-    "title": "Perati Ruchulu",
-    "subTitle": "The host visits the houses of various people, who grow vegetables and fruits in their garden and use organic farming techniques to take care of their plants.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-565",
-    "title": "Karalu Podulu",
-    "subTitle": "The host invites guest chefs to share their best recipes that are healthy and easy-to-cook, asking them to demonstrate how to prepare them.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-565",
-    "title": "Ra Randoi Vantalu Cheddam",
-    "subTitle": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130060000",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:30:00 IST",
-    "channel": "jio-565",
-    "title": "Meekosam",
-    "subTitle": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130060000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-565",
-    "title": "Viral Vantalakka",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130064500",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:15:00 IST",
-    "channel": "jio-565",
-    "title": "Gorumuddalu",
-    "subTitle": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130064500",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:15:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-565",
-    "title": "Amma Chethi Vanta",
-    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-565",
-    "title": "Millets Magic",
-    "subTitle": "The host creates several delectable dishes using millets, a highly nutritious food item, as the main ingredient in the recipes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130080000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:30:00 IST",
-    "channel": "jio-565",
-    "title": "Athidi",
-    "subTitle": "The host visits various homemakers and plays entertaining games with the family members and discusses the many facets of their lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130080000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:30:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-565",
-    "title": "Aahara Vedilo",
-    "subTitle": "The host travels to various hotels and restaurants to savour their popular recipes and interact with the chefs and customers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130084500",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:15:00 IST",
-    "channel": "jio-565",
-    "title": "Ruchula Bandi",
-    "subTitle": "Experts share an extensive range of cooking tips and recipes for various dishes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130084500",
-    "stopRaw": "20251130091500",
-    "start": "2025-11-30 14:15:00 IST",
-    "stop": "2025-11-30 14:45:00 IST",
-    "channel": "jio-565",
-    "title": "Indian Kitchen",
-    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130091500",
-    "stopRaw": "20251130094500",
-    "start": "2025-11-30 14:45:00 IST",
-    "stop": "2025-11-30 15:15:00 IST",
-    "channel": "jio-565",
-    "title": "Only Non-veg",
-    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130094500",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 15:15:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-565",
-    "title": "Super Chef",
-    "subTitle": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-565",
-    "title": "Perati Ruchulu",
-    "subTitle": "The host visits the houses of various people, who grow vegetables and fruits in their garden and use organic farming techniques to take care of their plants.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-565",
-    "title": "Viral Vantalakka",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-565",
-    "title": "Wow Emi Ruchi",
-    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-565",
-    "title": "Aayurveda Aaharam",
-    "subTitle": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-565",
-    "title": "Athidi",
-    "subTitle": "The host visits various homemakers and plays entertaining games with the family members and discusses the many facets of their lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-565",
-    "title": "Meekosam",
-    "subTitle": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-565",
-    "title": "Wow Emi Ruchi",
-    "subTitle": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130140000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:30:00 IST",
-    "channel": "jio-565",
-    "title": "Aahara Vedilo",
-    "subTitle": "The host travels to various hotels and restaurants to savour their popular recipes and interact with the chefs and customers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130140000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:30:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-565",
-    "title": "Ra Randoi Vantalu Cheddam",
-    "subTitle": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130144500",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:15:00 IST",
-    "channel": "jio-565",
-    "title": "Diet Menu",
-    "subTitle": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130144500",
-    "stopRaw": "20251130151500",
-    "start": "2025-11-30 20:15:00 IST",
-    "stop": "2025-11-30 20:45:00 IST",
-    "channel": "jio-565",
-    "title": "Kitchen Mantra",
-    "subTitle": "A culinary expert shares various cooking tips and recipes to motivate viewers into cooking healthy and sumptuous meals.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130151500",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 20:45:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-565",
-    "title": "Amma Chethi Vanta",
-    "subTitle": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style food cuisine and tips and tricks of other cooking recipes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-565",
-    "title": "Indian Kitchen",
-    "subTitle": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130163000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:00:00 IST",
-    "channel": "jio-565",
-    "title": "Healthy &amp; Tasty",
-    "subTitle": "The hosts share recipes of an assortment of delicious dishes that are nutritious by nature and demonstrates their preparation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130163000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 22:00:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-565",
-    "title": "Aayurveda Aaharam",
-    "subTitle": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-565",
-    "title": "Only Non-veg",
-    "subTitle": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-565",
-    "title": "Ruchula Vindhu",
-    "subTitle": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-565",
     "title": "Prayana Phalaharalu",
     "subTitle": "A prominent chef demonstrates his culinary skills by preparing a variety of delicious dishes and provides tips and suggestions.",

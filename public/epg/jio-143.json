@@ -1,5 +1,265 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-143",
+    "title": "Power Lunch",
+    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-143",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-143",
+    "title": "Fast Money",
+    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Asia",
+    "subTitle": "The hosts cover the pre-game and opening of Asia's business trading day, the top stories from the stock market and the views of various experts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-143",
+    "title": "Global Lens",
+    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Morning Call",
+    "subTitle": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Open Exchange",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-143",
+    "title": "Bazaar Corporate Radar",
+    "subTitle": "The host invites the top businessmen, economists and analysts to provide their perspectives on the latest trends in the market.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-143",
+    "title": "U.S. Markets Edition",
+    "subTitle": "The host delivers the latest news updates and key developments concerning global market data, stock markets and the world economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Global Reset",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-143",
+    "title": "The Big C (India)",
+    "subTitle": "The host talks about currencies, commodities and crypto, exploring finance's dynamic world, market trends and digital assets in today's global economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk Box Europe",
+    "subTitle": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-143",
+    "title": "NSE Closing Bell",
+    "subTitle": "The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-143",
+    "title": "Markets Forward",
+    "subTitle": "Experts analyse and discuss forward markets, the over-the-counter financial markets that are essential for contracts for future delivery.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-143",
+    "title": "Worldwide Exchange",
+    "subTitle": "The hosts discuss and analyse economic trends around the world and interview important political and economic personalities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-143",
+    "title": "US Squawk Box",
+    "subTitle": "Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk on the Street",
+    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-143",
+    "title": "Global Lens",
+    "subTitle": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-143",
+    "title": "Squawk on the Street",
+    "subTitle": "The host presents the most significant updates and developments from the first 90 minutes of trading in the US stock market.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-143",
+    "title": "Money Movers",
+    "subTitle": "A comprehensive and detailed coverage of the latest stock market developments, with insights into the latest business news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-143",
+    "title": "Half Time Report",
+    "subTitle": "Financial experts and analysts shed light on latest news and updates pertaining to the economy, stock markets, real estate, media and technology.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-143",
+    "title": "The Exchange",
+    "subTitle": "The host presents the latest financial and economic news updates and headlines that impact the economy from around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -275,8 +535,8 @@
     "start": "2025-11-29 00:30:00 IST",
     "stop": "2025-11-29 01:30:00 IST",
     "channel": "jio-143",
-    "title": "Millennial Money",
-    "subTitle": "The filmmakers look at the spending, saving and earning practices of millenials across different states of the United States of America.",
+    "title": "Power Lunch",
+    "subTitle": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -285,8 +545,8 @@
     "start": "2025-11-29 01:30:00 IST",
     "stop": "2025-11-29 02:30:00 IST",
     "channel": "jio-143",
-    "title": "Millennial Money",
-    "subTitle": "The filmmakers look at the spending, saving and earning practices of millenials across different states of the United States of America.",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -301,22 +561,12 @@
   },
   {
     "startRaw": "20251128220000",
-    "stopRaw": "20251128223000",
-    "start": "2025-11-29 03:30:00 IST",
-    "stop": "2025-11-29 04:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251128223000",
     "stopRaw": "20251128230000",
-    "start": "2025-11-29 04:00:00 IST",
+    "start": "2025-11-29 03:30:00 IST",
     "stop": "2025-11-29 04:30:00 IST",
     "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
+    "title": "Fast Money",
+    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -325,8 +575,8 @@
     "start": "2025-11-29 04:30:00 IST",
     "stop": "2025-11-29 05:00:00 IST",
     "channel": "jio-143",
-    "title": "Built For Billions 1",
-    "subTitle": "",
+    "title": "Sustain. Future",
+    "subTitle": "The host invites guests and experts in order to engage in a discussion about the sustainability of the future by citing various examples.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -335,8 +585,8 @@
     "start": "2025-11-29 05:00:00 IST",
     "stop": "2025-11-29 05:30:00 IST",
     "channel": "jio-143",
-    "title": "Who Owns 3",
-    "subTitle": "",
+    "title": "Managing Asia",
+    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -345,28 +595,18 @@
     "start": "2025-11-29 05:30:00 IST",
     "stop": "2025-11-29 06:30:00 IST",
     "channel": "jio-143",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+    "title": "Millennial Money",
+    "subTitle": "The filmmakers look at the spending, saving and earning practices of millenials across different states of the United States of America.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129010000",
-    "stopRaw": "20251129013000",
-    "start": "2025-11-29 06:30:00 IST",
-    "stop": "2025-11-29 07:00:00 IST",
-    "channel": "jio-143",
-    "title": "Built For Billions 1",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129013000",
     "stopRaw": "20251129020000",
-    "start": "2025-11-29 07:00:00 IST",
+    "start": "2025-11-29 06:30:00 IST",
     "stop": "2025-11-29 07:30:00 IST",
     "channel": "jio-143",
-    "title": "Who Owns 3",
-    "subTitle": "",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -375,8 +615,8 @@
     "start": "2025-11-29 07:30:00 IST",
     "stop": "2025-11-29 08:00:00 IST",
     "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
+    "title": "Converge Live",
+    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -385,18 +625,28 @@
     "start": "2025-11-29 08:00:00 IST",
     "stop": "2025-11-29 08:30:00 IST",
     "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
+    "title": "The Global Eye",
+    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129030000",
-    "stopRaw": "20251129040000",
+    "stopRaw": "20251129033000",
     "start": "2025-11-29 08:30:00 IST",
+    "stop": "2025-11-29 09:00:00 IST",
+    "channel": "jio-143",
+    "title": "Storyboard18",
+    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129033000",
+    "stopRaw": "20251129040000",
+    "start": "2025-11-29 09:00:00 IST",
     "stop": "2025-11-29 09:30:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -415,8 +665,8 @@
     "start": "2025-11-29 10:00:00 IST",
     "stop": "2025-11-29 10:30:00 IST",
     "channel": "jio-143",
-    "title": "IPO KYC",
-    "subTitle": "The host engages in a conversation with the prominent personalities of a company in order to discuss the initial public offering of its shares.",
+    "title": "CNBC-TV18 Market Editor",
+    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -431,22 +681,22 @@
   },
   {
     "startRaw": "20251129053000",
-    "stopRaw": "20251129060000",
+    "stopRaw": "20251129063000",
     "start": "2025-11-29 11:00:00 IST",
-    "stop": "2025-11-29 11:30:00 IST",
+    "stop": "2025-11-29 12:00:00 IST",
     "channel": "jio-143",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129060000",
+    "startRaw": "20251129063000",
     "stopRaw": "20251129070000",
-    "start": "2025-11-29 11:30:00 IST",
+    "start": "2025-11-29 12:00:00 IST",
     "stop": "2025-11-29 12:30:00 IST",
     "channel": "jio-143",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+    "title": "CNBC-TV18 Market Masters",
+    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -455,8 +705,8 @@
     "start": "2025-11-29 12:30:00 IST",
     "stop": "2025-11-29 13:00:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "Tokenomics",
+    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -465,8 +715,8 @@
     "start": "2025-11-29 13:00:00 IST",
     "stop": "2025-11-29 13:30:00 IST",
     "channel": "jio-143",
-    "title": "Global Eye",
-    "subTitle": "Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.",
+    "title": "Overdrive",
+    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -475,8 +725,8 @@
     "start": "2025-11-29 13:30:00 IST",
     "stop": "2025-11-29 14:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Ceo Panel",
-    "subTitle": "",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -485,8 +735,8 @@
     "start": "2025-11-29 14:00:00 IST",
     "stop": "2025-11-29 14:30:00 IST",
     "channel": "jio-143",
-    "title": "Medicine Box",
-    "subTitle": "The host interacts with some of the key decision-makers from India's healthcare industry and discusses the major challenges and opportunities in the sector.",
+    "title": "Indianomics",
+    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -495,8 +745,8 @@
     "start": "2025-11-29 14:30:00 IST",
     "stop": "2025-11-29 15:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Townhall",
-    "subTitle": "",
+    "title": "Media Dialogues With Storyboard18",
+    "subTitle": "The host invites marketing experts to discuss brands' strategies for leveraging the impact of IPL on digital media to reach their audience.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -505,8 +755,8 @@
     "start": "2025-11-29 15:00:00 IST",
     "stop": "2025-11-29 15:30:00 IST",
     "channel": "jio-143",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -515,8 +765,8 @@
     "start": "2025-11-29 15:30:00 IST",
     "stop": "2025-11-29 16:00:00 IST",
     "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
+    "title": "Converge Live",
+    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -525,28 +775,18 @@
     "start": "2025-11-29 16:00:00 IST",
     "stop": "2025-11-29 16:30:00 IST",
     "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
+    "title": "CNBC-TV18 Market Masters",
+    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129110000",
-    "stopRaw": "20251129113000",
-    "start": "2025-11-29 16:30:00 IST",
-    "stop": "2025-11-29 17:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129113000",
     "stopRaw": "20251129120000",
-    "start": "2025-11-29 17:00:00 IST",
+    "start": "2025-11-29 16:30:00 IST",
     "stop": "2025-11-29 17:30:00 IST",
     "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
+    "title": "Unlocked",
+    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -555,8 +795,8 @@
     "start": "2025-11-29 17:30:00 IST",
     "stop": "2025-11-29 18:30:00 IST",
     "channel": "jio-143",
-    "title": "The Leadership Language",
-    "subTitle": "",
+    "title": "Young Turks Reloaded",
+    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -565,8 +805,8 @@
     "start": "2025-11-29 18:30:00 IST",
     "stop": "2025-11-29 19:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Marisa Gerads",
-    "subTitle": "",
+    "title": "On Assignment",
+    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -575,8 +815,8 @@
     "start": "2025-11-29 19:00:00 IST",
     "stop": "2025-11-29 19:30:00 IST",
     "channel": "jio-143",
-    "title": "Global Eye",
-    "subTitle": "Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.",
+    "title": "The Global Eye",
+    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -585,8 +825,8 @@
     "start": "2025-11-29 19:30:00 IST",
     "stop": "2025-11-29 20:00:00 IST",
     "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
+    "title": "Let's Talk Money",
+    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -595,38 +835,48 @@
     "start": "2025-11-29 20:00:00 IST",
     "stop": "2025-11-29 20:30:00 IST",
     "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
+    "title": "Indianomics",
+    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129150000",
-    "stopRaw": "20251129160000",
+    "stopRaw": "20251129153000",
     "start": "2025-11-29 20:30:00 IST",
+    "stop": "2025-11-29 21:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129153000",
+    "stopRaw": "20251129160000",
+    "start": "2025-11-29 21:00:00 IST",
     "stop": "2025-11-29 21:30:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
     "startRaw": "20251129160000",
-    "stopRaw": "20251129170000",
+    "stopRaw": "20251129163000",
     "start": "2025-11-29 21:30:00 IST",
-    "stop": "2025-11-29 22:30:00 IST",
+    "stop": "2025-11-29 22:00:00 IST",
     "channel": "jio-143",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+    "title": "CNBC-TV18 Market Editor",
+    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
-    "startRaw": "20251129170000",
+    "startRaw": "20251129163000",
     "stopRaw": "20251129173000",
-    "start": "2025-11-29 22:30:00 IST",
+    "start": "2025-11-29 22:00:00 IST",
     "stop": "2025-11-29 23:00:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC-TV18 FFF",
+    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -635,8 +885,8 @@
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:30:00 IST",
     "channel": "jio-143",
-    "title": "Medicine Box",
-    "subTitle": "The host interacts with some of the key decision-makers from India's healthcare industry and discusses the major challenges and opportunities in the sector.",
+    "title": "Tokenomics",
+    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -645,418 +895,8 @@
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
     "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-143",
-    "title": "Built For Billions 1",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-143",
-    "title": "Who Owns 3",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129223000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 04:00:00 IST",
-    "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129223000",
-    "stopRaw": "20251129230000",
-    "start": "2025-11-30 04:00:00 IST",
-    "stop": "2025-11-30 04:30:00 IST",
-    "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129230000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130020000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:30:00 IST",
-    "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130020000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:30:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-143",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-143",
-    "title": "IPO KYC",
-    "subTitle": "The host engages in a conversation with the prominent personalities of a company in order to discuss the initial public offering of its shares.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130060000",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:30:00 IST",
-    "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130060000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-143",
-    "title": "Medicine Box",
-    "subTitle": "The host interacts with some of the key decision-makers from India's healthcare industry and discusses the major challenges and opportunities in the sector.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-143",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Marisa Gerads",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-143",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-143",
-    "title": "Global Eye",
-    "subTitle": "Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130093000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 15:00:00 IST",
-    "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Marisa Gerads",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130093000",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 15:00:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Townhall",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-143",
-    "title": "The Leadership Language",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130140000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:30:00 IST",
-    "channel": "jio-143",
-    "title": "Global Eye",
-    "subTitle": "Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130140000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:30:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130150000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:30:00 IST",
-    "channel": "jio-143",
-    "title": "Executive Decisions",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130150000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 20:30:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-143",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-143",
-    "title": "CNBC-TV18 Future, Female, Forward- Ceo Panel",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
-    "channel": "jio-143",
-    "title": "Managing Asia",
-    "subTitle": "The host sheds light on some of the top business leaders and talks about their milestones and how the new global economy helps in shaping their growth and development plans.",
+    "title": "Overdrive",
+    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   }
 ]

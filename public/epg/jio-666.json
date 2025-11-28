@@ -1,5 +1,485 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126190000",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 00:30:00 IST",
+    "channel": "jio-666",
+    "title": "Midnight News Live",
+    "subTitle": "The anchor provides the latest state, national and international updates on a wide variety of topics, keeping viewers informed and engaged, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126190000",
+    "stopRaw": "20251126193000",
+    "start": "2025-11-27 00:30:00 IST",
+    "stop": "2025-11-27 01:00:00 IST",
+    "channel": "jio-666",
+    "title": "Abn # Break @ Fast",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126193000",
+    "stopRaw": "20251126200000",
+    "start": "2025-11-27 01:00:00 IST",
+    "stop": "2025-11-27 01:30:00 IST",
+    "channel": "jio-666",
+    "title": "Abn # Break @ Fast",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126200000",
+    "stopRaw": "20251126203000",
+    "start": "2025-11-27 01:30:00 IST",
+    "stop": "2025-11-27 02:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Signature",
+    "subTitle": "The host presents various updates and latest development pertaining to the social, political, economic and current affairs of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126203000",
+    "stopRaw": "20251126210000",
+    "start": "2025-11-27 02:00:00 IST",
+    "stop": "2025-11-27 02:30:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126210000",
+    "stopRaw": "20251126213000",
+    "start": "2025-11-27 02:30:00 IST",
+    "stop": "2025-11-27 03:00:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213000",
+    "stopRaw": "20251126220000",
+    "start": "2025-11-27 03:00:00 IST",
+    "stop": "2025-11-27 03:30:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126220000",
+    "stopRaw": "20251126223000",
+    "start": "2025-11-27 03:30:00 IST",
+    "stop": "2025-11-27 04:00:00 IST",
+    "channel": "jio-666",
+    "title": "Inside",
+    "subTitle": "The host uses satire to shed light on various political movements and changes taking place in the country and also provides the profile of leaders from different parties.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126223000",
+    "stopRaw": "20251126230000",
+    "start": "2025-11-27 04:00:00 IST",
+    "stop": "2025-11-27 04:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126230000",
+    "stopRaw": "20251126233000",
+    "start": "2025-11-27 04:30:00 IST",
+    "stop": "2025-11-27 05:00:00 IST",
+    "channel": "jio-666",
+    "title": "Rapid Fire",
+    "subTitle": "The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126233000",
+    "stopRaw": "20251127000000",
+    "start": "2025-11-27 05:00:00 IST",
+    "stop": "2025-11-27 05:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127000000",
+    "stopRaw": "20251127003000",
+    "start": "2025-11-27 05:30:00 IST",
+    "stop": "2025-11-27 06:00:00 IST",
+    "channel": "jio-666",
+    "title": "Sampradayam",
+    "subTitle": "Srikar hails from a cultured family. When circumstances force him to move to the US, he continues to uphold his values and stays rooted to his traditions at all costs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003000",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:00:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-666",
+    "title": "Speed News",
+    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-666",
+    "title": "Chitrajyothy",
+    "subTitle": "The host presents a compilation of the latest and most important news updates and developments related to cinema and entertainment.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-666",
+    "title": "Head Lines Show Live",
+    "subTitle": "The host sheds light on the latest news and updates regarding business, sports, entertainment and politics that are making headlines around the world, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-666",
+    "title": "Inside",
+    "subTitle": "The host uses satire to shed light on various political movements and changes taking place in the country and also provides the profile of leaders from different parties.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-666",
+    "title": "Abn # Break @ Fast",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-666",
+    "title": "Abn # Break @ Fast",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127040000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 09:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN @ 9 AM Live",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127040000",
+    "stopRaw": "20251127043000",
+    "start": "2025-11-27 09:30:00 IST",
+    "stop": "2025-11-27 10:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Bits Live",
+    "subTitle": "The host presents the latest updates on social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127043000",
+    "stopRaw": "20251127050000",
+    "start": "2025-11-27 10:00:00 IST",
+    "stop": "2025-11-27 10:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Prime Time Live",
+    "subTitle": "The host presents the latest global news stories, updates and developments of political, social and economic significance, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127050000",
+    "stopRaw": "20251127053000",
+    "start": "2025-11-27 10:30:00 IST",
+    "stop": "2025-11-27 11:00:00 IST",
+    "channel": "jio-666",
+    "title": "Spotlight",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127053000",
+    "stopRaw": "20251127060000",
+    "start": "2025-11-27 11:00:00 IST",
+    "stop": "2025-11-27 11:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127060000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 11:30:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Signature",
+    "subTitle": "The host presents various updates and latest development pertaining to the social, political, economic and current affairs of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-666",
+    "title": "News at Noon",
+    "subTitle": "The host presents news, updates and developments on the latest happenings and socio-political events in India and across the globe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-666",
+    "title": "News at Noon",
+    "subTitle": "The host presents news, updates and developments on the latest happenings and socio-political events in India and across the globe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Bits Live",
+    "subTitle": "The host presents the latest updates on social, economic and political news from around the world and provides information on relevant current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-666",
+    "title": "Advt. Star Hospital Clinic",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127113000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 17:00:00 IST",
+    "channel": "jio-666",
+    "title": "ADVT RJR Herbal (Slot)",
+    "subTitle": "The host sheds light on the wide range of services provided at the RJR Herbal Hospital and promotes natural healing methods.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127113000",
+    "stopRaw": "20251127120000",
+    "start": "2025-11-27 17:00:00 IST",
+    "stop": "2025-11-27 17:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127120000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 17:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-666",
+    "title": "Inside",
+    "subTitle": "The host uses satire to shed light on various political movements and changes taking place in the country and also provides the profile of leaders from different parties.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-666",
+    "title": "The Debate",
+    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-666",
+    "title": "ABN Signature",
+    "subTitle": "The host presents various updates and latest development pertaining to the social, political, economic and current affairs of the day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-666",
+    "title": "News Dine @ Nine Live",
+    "subTitle": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-666",
+    "title": "News Dine @ Nine Live",
+    "subTitle": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-666",
+    "title": "Red Alert",
+    "subTitle": "The presenter delivers updates on contemporary issues to equip viewers with essential information and make them conscious of the threats and disasters affecting the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-666",
+    "title": "Chitrajyothy",
+    "subTitle": "The host presents a compilation of the latest and most important news updates and developments related to cinema and entertainment.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-666",
+    "title": "ABN News",
+    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-666",
+    "title": "Rapid Fire",
+    "subTitle": "The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -605,8 +1085,8 @@
     "start": "2025-11-29 06:00:00 IST",
     "stop": "2025-11-29 06:30:00 IST",
     "channel": "jio-666",
-    "title": "Speed News",
-    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "title": "Speed News Live",
+    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the country and the world, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -645,8 +1125,8 @@
     "start": "2025-11-29 08:00:00 IST",
     "stop": "2025-11-29 08:30:00 IST",
     "channel": "jio-666",
-    "title": "Abn # Break @ Fast",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "ABN#BREAK@FAST Live",
+    "subTitle": "The host provides news updates and discusses various topics of social, political and economic significance from across the world, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -655,8 +1135,8 @@
     "start": "2025-11-29 08:30:00 IST",
     "stop": "2025-11-29 09:00:00 IST",
     "channel": "jio-666",
-    "title": "Abn # Break @ Fast",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "ABN#BREAK@FAST Live",
+    "subTitle": "The host provides news updates and discusses various topics of social, political and economic significance from across the world, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -695,8 +1175,8 @@
     "start": "2025-11-29 10:30:00 IST",
     "stop": "2025-11-29 11:00:00 IST",
     "channel": "jio-666",
-    "title": "Spotlight",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
+    "title": "Spotlight Live",
+    "subTitle": "Bringing the best in television.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -705,8 +1185,8 @@
     "start": "2025-11-29 11:00:00 IST",
     "stop": "2025-11-29 11:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -725,8 +1205,8 @@
     "start": "2025-11-29 12:00:00 IST",
     "stop": "2025-11-29 12:30:00 IST",
     "channel": "jio-666",
-    "title": "News at Noon",
-    "subTitle": "The host presents news, updates and developments on the latest happenings and socio-political events in India and across the globe.",
+    "title": "News At Noon Live",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -735,8 +1215,8 @@
     "start": "2025-11-29 12:30:00 IST",
     "stop": "2025-11-29 13:00:00 IST",
     "channel": "jio-666",
-    "title": "Ground Report",
-    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
+    "title": "ADVT Real City (Real Estate)",
+    "subTitle": "Advertisers and realtors showcase various properties pertaining to real estate in hopes of connecting buyers with their dream property.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -755,8 +1235,8 @@
     "start": "2025-11-29 13:30:00 IST",
     "stop": "2025-11-29 14:00:00 IST",
     "channel": "jio-666",
-    "title": "ABN Lunch Box Live",
-    "subTitle": "The host presents latest updates and developments pertaining to the socio-political and economy matters across the country, live.",
+    "title": "ABN Express (Local to Global) Live",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -765,8 +1245,8 @@
     "start": "2025-11-29 14:00:00 IST",
     "stop": "2025-11-29 14:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -785,8 +1265,8 @@
     "start": "2025-11-29 15:00:00 IST",
     "stop": "2025-11-29 15:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -795,8 +1275,8 @@
     "start": "2025-11-29 15:30:00 IST",
     "stop": "2025-11-29 16:00:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN Express (Local to Global) Live",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -805,8 +1285,8 @@
     "start": "2025-11-29 16:00:00 IST",
     "stop": "2025-11-29 16:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -815,8 +1295,8 @@
     "start": "2025-11-29 16:30:00 IST",
     "stop": "2025-11-29 17:00:00 IST",
     "channel": "jio-666",
-    "title": "Advt Real City",
-    "subTitle": "The host discusses the current state of the real estate market and sheds light on some of the most profitable and popular projects.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -825,8 +1305,8 @@
     "start": "2025-11-29 17:00:00 IST",
     "stop": "2025-11-29 17:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -845,8 +1325,8 @@
     "start": "2025-11-29 18:00:00 IST",
     "stop": "2025-11-29 18:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -855,8 +1335,8 @@
     "start": "2025-11-29 18:30:00 IST",
     "stop": "2025-11-29 19:00:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -865,8 +1345,8 @@
     "start": "2025-11-29 19:00:00 IST",
     "stop": "2025-11-29 19:30:00 IST",
     "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "title": "The Debate Live",
+    "subTitle": "The host invites a panel of experts from various fields and conducts an insightful discussion on several social, economic and political issues.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -875,8 +1355,8 @@
     "start": "2025-11-29 19:30:00 IST",
     "stop": "2025-11-29 20:00:00 IST",
     "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "title": "The Debate Live",
+    "subTitle": "The host invites a panel of experts from various fields and conducts an insightful discussion on several social, economic and political issues.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -885,8 +1365,8 @@
     "start": "2025-11-29 20:00:00 IST",
     "stop": "2025-11-29 20:30:00 IST",
     "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "title": "The Debate Live",
+    "subTitle": "The host invites a panel of experts from various fields and conducts an insightful discussion on several social, economic and political issues.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -895,8 +1375,8 @@
     "start": "2025-11-29 20:30:00 IST",
     "stop": "2025-11-29 21:00:00 IST",
     "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
+    "title": "Weekend Comment By RK",
+    "subTitle": "Popular presenter Vemuri Radha Krishna offers insight into various contemporary issues that impact regional and national politics.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -915,8 +1395,8 @@
     "start": "2025-11-29 21:30:00 IST",
     "stop": "2025-11-29 22:00:00 IST",
     "channel": "jio-666",
-    "title": "The World This Week",
-    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the world.",
+    "title": "News Dine @ Nine Live",
+    "subTitle": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -925,8 +1405,8 @@
     "start": "2025-11-29 22:00:00 IST",
     "stop": "2025-11-29 22:30:00 IST",
     "channel": "jio-666",
-    "title": "Red Alert",
-    "subTitle": "The presenter delivers updates on contemporary issues to equip viewers with essential information and make them conscious of the threats and disasters affecting the country.",
+    "title": "Citylights Live",
+    "subTitle": "The host presents live key updates on city affairs, providing insights into local political developments, social issues and community stories, giving a comprehensive view of the urban environment.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -945,8 +1425,8 @@
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:30:00 IST",
     "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
+    "title": "ABN News Live",
+    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   },
   {
@@ -957,486 +1437,6 @@
     "channel": "jio-666",
     "title": "Rapid Fire",
     "subTitle": "The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129190000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 00:30:00 IST",
-    "channel": "jio-666",
-    "title": "Midnight News Live",
-    "subTitle": "The anchor provides the latest state, national and international updates on a wide variety of topics, keeping viewers informed and engaged, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129190000",
-    "stopRaw": "20251129193000",
-    "start": "2025-11-30 00:30:00 IST",
-    "stop": "2025-11-30 01:00:00 IST",
-    "channel": "jio-666",
-    "title": "Abn # Break @ Fast",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129193000",
-    "stopRaw": "20251129200000",
-    "start": "2025-11-30 01:00:00 IST",
-    "stop": "2025-11-30 01:30:00 IST",
-    "channel": "jio-666",
-    "title": "Abn # Break @ Fast",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129200000",
-    "stopRaw": "20251129203000",
-    "start": "2025-11-30 01:30:00 IST",
-    "stop": "2025-11-30 02:00:00 IST",
-    "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129203000",
-    "stopRaw": "20251129210000",
-    "start": "2025-11-30 02:00:00 IST",
-    "stop": "2025-11-30 02:30:00 IST",
-    "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129210000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 02:30:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251129220000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 03:30:00 IST",
-    "channel": "jio-666",
-    "title": "The Debate",
-    "subTitle": "The host invites prominent personalities from various fields to discuss and debate diverse socio-political matters impacting people around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129220000",
-    "stopRaw": "20251129223000",
-    "start": "2025-11-30 03:30:00 IST",
-    "stop": "2025-11-30 04:00:00 IST",
-    "channel": "jio-666",
-    "title": "Inside",
-    "subTitle": "The host uses satire to shed light on various political movements and changes taking place in the country and also provides the profile of leaders from different parties.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129223000",
-    "stopRaw": "20251129230000",
-    "start": "2025-11-30 04:00:00 IST",
-    "stop": "2025-11-30 04:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129230000",
-    "stopRaw": "20251129233000",
-    "start": "2025-11-30 04:30:00 IST",
-    "stop": "2025-11-30 05:00:00 IST",
-    "channel": "jio-666",
-    "title": "Rapid Fire",
-    "subTitle": "The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129233000",
-    "stopRaw": "20251130000000",
-    "start": "2025-11-30 05:00:00 IST",
-    "stop": "2025-11-30 05:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News",
-    "subTitle": "The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130000000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 05:30:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-666",
-    "title": "Sampradayam",
-    "subTitle": "Srikar hails from a cultured family. When circumstances force him to move to the US, he continues to uphold his values and stays rooted to his traditions at all costs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-666",
-    "title": "Speed News Live",
-    "subTitle": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the country and the world, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-666",
-    "title": "Sampradayam",
-    "subTitle": "Srikar hails from a cultured family. When circumstances force him to move to the US, he continues to uphold his values and stays rooted to his traditions at all costs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130020000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 07:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130020000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:30:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-666",
-    "title": "S V Vaibhavam",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130030000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 08:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130030000",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:30:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-666",
-    "title": "Weekend Comment By RK",
-    "subTitle": "Popular presenter Vemuri Radha Krishna offers insight into various contemporary issues that impact regional and national politics.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130040000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 09:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN @ 9 AM Live",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130040000",
-    "stopRaw": "20251130043000",
-    "start": "2025-11-30 09:30:00 IST",
-    "stop": "2025-11-30 10:00:00 IST",
-    "channel": "jio-666",
-    "title": "Abn 360",
-    "subTitle": "The host provides the latest news and updates on matters related to politics, socio-economic development and current affairs in the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130043000",
-    "stopRaw": "20251130050000",
-    "start": "2025-11-30 10:00:00 IST",
-    "stop": "2025-11-30 10:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN Prime Time Live",
-    "subTitle": "The host presents the latest global news stories, updates and developments of political, social and economic significance, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130050000",
-    "stopRaw": "20251130053000",
-    "start": "2025-11-30 10:30:00 IST",
-    "stop": "2025-11-30 11:00:00 IST",
-    "channel": "jio-666",
-    "title": "Advt 'money Mantra'(commerciali) Recorded",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130053000",
-    "stopRaw": "20251130060000",
-    "start": "2025-11-30 11:00:00 IST",
-    "stop": "2025-11-30 11:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130060000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 11:30:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-666",
-    "title": "Cars &amp; Bikes",
-    "subTitle": "The host discusses and dives into the salient features of the latest cars and bikes launched in the Indian automobile sector.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130070000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 12:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130070000",
-    "stopRaw": "20251130073000",
-    "start": "2025-11-30 12:30:00 IST",
-    "stop": "2025-11-30 13:00:00 IST",
-    "channel": "jio-666",
-    "title": "Abn Indian Kitchen",
-    "subTitle": "A chef demonstrates step-by-step recipes for delectable dishes, while sharing important tips and tricks for a gastronomic experience.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130073000",
-    "stopRaw": "20251130080000",
-    "start": "2025-11-30 13:00:00 IST",
-    "stop": "2025-11-30 13:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN Lunch Box Live",
-    "subTitle": "The host presents latest updates and developments pertaining to the socio-political and economy matters across the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130080000",
-    "stopRaw": "20251130083000",
-    "start": "2025-11-30 13:30:00 IST",
-    "stop": "2025-11-30 14:00:00 IST",
-    "channel": "jio-666",
-    "title": "Advt'real City(real Estate) (recorded)",
-    "subTitle": "The host sheds light on the various properties and projects of renowned real-estate companies and encourages people to invest in them.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130083000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 14:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130093000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 15:00:00 IST",
-    "channel": "jio-666",
-    "title": "Tech Today",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments related to the world of technology.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130093000",
-    "stopRaw": "20251130100000",
-    "start": "2025-11-30 15:00:00 IST",
-    "stop": "2025-11-30 15:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130100000",
-    "stopRaw": "20251130103000",
-    "start": "2025-11-30 15:30:00 IST",
-    "stop": "2025-11-30 16:00:00 IST",
-    "channel": "jio-666",
-    "title": "ADVT RJR Herbal (Slot)",
-    "subTitle": "The host sheds light on the wide range of services provided at the RJR Herbal Hospital and promotes natural healing methods.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130103000",
-    "stopRaw": "20251130110000",
-    "start": "2025-11-30 16:00:00 IST",
-    "stop": "2025-11-30 16:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130110000",
-    "stopRaw": "20251130113000",
-    "start": "2025-11-30 16:30:00 IST",
-    "stop": "2025-11-30 17:00:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130113000",
-    "stopRaw": "20251130120000",
-    "start": "2025-11-30 17:00:00 IST",
-    "stop": "2025-11-30 17:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130120000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 17:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-666",
-    "title": "Sampradayam",
-    "subTitle": "Srikar hails from a cultured family. When circumstances force him to move to the US, he continues to uphold his values and stays rooted to his traditions at all costs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130130000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 18:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130130000",
-    "stopRaw": "20251130133000",
-    "start": "2025-11-30 18:30:00 IST",
-    "stop": "2025-11-30 19:00:00 IST",
-    "channel": "jio-666",
-    "title": "Vyavasayam@Organic",
-    "subTitle": "An agricultural expert sheds light on beneficial farming practices while also educating viewers on various kinds of plants and their uses.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130133000",
-    "stopRaw": "20251130140000",
-    "start": "2025-11-30 19:00:00 IST",
-    "stop": "2025-11-30 19:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130140000",
-    "stopRaw": "20251130143000",
-    "start": "2025-11-30 19:30:00 IST",
-    "stop": "2025-11-30 20:00:00 IST",
-    "channel": "jio-666",
-    "title": "Weekend Exclusives",
-    "subTitle": "The host presents a detailed analysis of the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130143000",
-    "stopRaw": "20251130150000",
-    "start": "2025-11-30 20:00:00 IST",
-    "stop": "2025-11-30 20:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130150000",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 20:30:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-666",
-    "title": "ABN Signature Live",
-    "subTitle": "The host presents various updates and latest developments pertaining to the current affairs of the country and the world, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130160000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 21:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130160000",
-    "stopRaw": "20251130163000",
-    "start": "2025-11-30 21:30:00 IST",
-    "stop": "2025-11-30 22:00:00 IST",
-    "channel": "jio-666",
-    "title": "Abn 360",
-    "subTitle": "The host provides the latest news and updates on matters related to politics, socio-economic development and current affairs in the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130163000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 22:00:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN Edition Live",
-    "subTitle": "The host presents the latest news stories, updates and developments concerning the social, economic, political and entertainment spheres, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-666",
-    "title": "Weekend Chitrajyothy",
-    "subTitle": "The host presents a compilation of the latest and most important news updates and developments related to cinema and entertainment.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130180000",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:30:00 IST",
-    "channel": "jio-666",
-    "title": "ABN News Live",
-    "subTitle": "The host presents the latest political, economic, sports and entertainment updates and developments from around the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130180000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:30:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
-    "channel": "jio-666",
-    "title": "Tech Today",
-    "subTitle": "The host collates and presents some of the most important news, updates and developments related to the world of technology.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
   }
 ]

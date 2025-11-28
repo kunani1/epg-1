@@ -1,5 +1,335 @@
 [
   {
+    "startRaw": "20251126183000",
+    "stopRaw": "20251126204300",
+    "start": "2025-11-27 00:00:00 IST",
+    "stop": "2025-11-27 02:13:00 IST",
+    "channel": "jio-638",
+    "title": "Sivaji",
+    "subTitle": "A software engineer arrives in India to serve the nation and invest in the country's welfare but a few evil and corrupt politicians try to stop him.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126204300",
+    "stopRaw": "20251126213300",
+    "start": "2025-11-27 02:13:00 IST",
+    "stop": "2025-11-27 03:03:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126213300",
+    "stopRaw": "20251126234500",
+    "start": "2025-11-27 03:03:00 IST",
+    "stop": "2025-11-27 05:15:00 IST",
+    "channel": "jio-638",
+    "title": "Ranga Ranga Vaibhavanga",
+    "subTitle": "A mishap sows discord between two childhood friends. Yet, destiny reunites them at the same medical college, where their bond rekindles and blossoms into love.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251126234500",
+    "stopRaw": "20251127003100",
+    "start": "2025-11-27 05:15:00 IST",
+    "stop": "2025-11-27 06:01:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127003100",
+    "stopRaw": "20251127010000",
+    "start": "2025-11-27 06:01:00 IST",
+    "stop": "2025-11-27 06:30:00 IST",
+    "channel": "jio-638",
+    "title": "TWR Premdhara",
+    "subTitle": "A religious leader sheds light on various biblical teachings and principles whilst encouraging the devotees to reflect on the same.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127010000",
+    "stopRaw": "20251127013000",
+    "start": "2025-11-27 06:30:00 IST",
+    "stop": "2025-11-27 07:00:00 IST",
+    "channel": "jio-638",
+    "title": "Calvary Swar",
+    "subTitle": "A passionate religious leader shares inspiring messages of faith, focusing on love and scripture, encouraging his followers to embrace their beliefs and strengthen their connection with the divine.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127013000",
+    "stopRaw": "20251127020000",
+    "start": "2025-11-27 07:00:00 IST",
+    "stop": "2025-11-27 07:30:00 IST",
+    "channel": "jio-638",
+    "title": "Bhakthi Samacharam",
+    "subTitle": "Get to know about the various pilgrimage centres all throughout India, alongside their rich history and cultural significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127020000",
+    "stopRaw": "20251127023000",
+    "start": "2025-11-27 07:30:00 IST",
+    "stop": "2025-11-27 08:00:00 IST",
+    "channel": "jio-638",
+    "title": "Srikaram Subhakaram",
+    "subTitle": "A renowned astrologer gives out daily horoscopes and predicts the outcomes and changes in an individual's life based on planetary positions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127023000",
+    "stopRaw": "20251127030000",
+    "start": "2025-11-27 08:00:00 IST",
+    "stop": "2025-11-27 08:30:00 IST",
+    "channel": "jio-638",
+    "title": "Omkaram",
+    "subTitle": "A renowned astrologer predicts the future of the people and offers remedies to viewers suffering from problems in their personal and professional lives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127030000",
+    "stopRaw": "20251127033000",
+    "start": "2025-11-27 08:30:00 IST",
+    "stop": "2025-11-27 09:00:00 IST",
+    "channel": "jio-638",
+    "title": "Aarogyame Mahayogam",
+    "subTitle": "The host interacts with an expert who shares insightful tips and suggestions with viewers on maintaining a healthy lifestyle using traditional Indian techniques.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127033000",
+    "stopRaw": "20251127063000",
+    "start": "2025-11-27 09:00:00 IST",
+    "stop": "2025-11-27 12:00:00 IST",
+    "channel": "jio-638",
+    "title": "Oh My Friend",
+    "subTitle": "Two friends, Chandu and Siri, fall in love with Ritu and Uday respectively, but their friendship is put to the test when their partners begin to doubt them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127063000",
+    "stopRaw": "20251127070000",
+    "start": "2025-11-27 12:00:00 IST",
+    "stop": "2025-11-27 12:30:00 IST",
+    "channel": "jio-638",
+    "title": "Mukku Pudaka",
+    "subTitle": "Avani, who works as a tour guide, does not wear a nose ring according to her lineage but her future mother-in-law wants her to hold a fair, vow to the village deity and wear it on that day.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127070000",
+    "stopRaw": "20251127073000",
+    "start": "2025-11-27 12:30:00 IST",
+    "stop": "2025-11-27 13:00:00 IST",
+    "channel": "jio-638",
+    "title": "Ummadi Kutumbam",
+    "subTitle": "Ananda Bhairavi, who is in search of a homely daughter-in-law, finds Saranya to be a perfect match. However, Saranya's younger sister's contrasting personality proves to be challenging for Ananda.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127073000",
+    "stopRaw": "20251127080000",
+    "start": "2025-11-27 13:00:00 IST",
+    "stop": "2025-11-27 13:30:00 IST",
+    "channel": "jio-638",
+    "title": "Deergha Sumangali Bhava",
+    "subTitle": "Ahalya's romance with soldier Indra ends in tragedy. Fate intertwines her life with his brother Gowtham, promising new beginnings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127080000",
+    "stopRaw": "20251127083000",
+    "start": "2025-11-27 13:30:00 IST",
+    "stop": "2025-11-27 14:00:00 IST",
+    "channel": "jio-638",
+    "title": "Gundamma Katha",
+    "subTitle": "Geetha, constantly ridiculed for being overweight, is compelled to marry Ram due to unfortunate events, and strives to win his heart.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127083000",
+    "stopRaw": "20251127090000",
+    "start": "2025-11-27 14:00:00 IST",
+    "stop": "2025-11-27 14:30:00 IST",
+    "channel": "jio-638",
+    "title": "Kalavari Kodalu Kanaka Mahalakshmi",
+    "subTitle": "A loving father seeks a marriage alliance for his beloved daughter but is rejected by his relatives. Soon, her wedding is fixed with a man who does not approve of her, leading her to face some issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127090000",
+    "stopRaw": "20251127093000",
+    "start": "2025-11-27 14:30:00 IST",
+    "stop": "2025-11-27 15:00:00 IST",
+    "channel": "jio-638",
+    "title": "Ennallo Vechina Hrudayam",
+    "subTitle": "Tripura, a kind-hearted teacher, steps into the life of Bala, a former businessman left with brain damage after an accident, forming a bond that transforms their lives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127093000",
+    "stopRaw": "20251127100000",
+    "start": "2025-11-27 15:00:00 IST",
+    "stop": "2025-11-27 15:30:00 IST",
+    "channel": "jio-638",
+    "title": "Gharana Mogudu",
+    "subTitle": "Venkatesh learns that he is to inherit a business that his relatives plot to seize from him. However, while his aunt conspires to control him, he secretly plans her ruin.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127100000",
+    "stopRaw": "20251127103000",
+    "start": "2025-11-27 15:30:00 IST",
+    "stop": "2025-11-27 16:00:00 IST",
+    "channel": "jio-638",
+    "title": "Prema Yuddham",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127103000",
+    "stopRaw": "20251127110000",
+    "start": "2025-11-27 16:00:00 IST",
+    "stop": "2025-11-27 16:30:00 IST",
+    "channel": "jio-638",
+    "title": "Prema Entha Madhuram",
+    "subTitle": "When a rich middle-aged businessman and a young woman fall in love and decide to get married, they are faced with the challenge of finding acceptance for their unconventional life choices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127110000",
+    "stopRaw": "20251127123000",
+    "start": "2025-11-27 16:30:00 IST",
+    "stop": "2025-11-27 18:00:00 IST",
+    "channel": "jio-638",
+    "title": "Coolie No. 1",
+    "subTitle": "A matchmaker sets out to teach Hoshiyar Chand a lesson while hilarity ensues when he asks Raju, a coolie, to pretend to be a millionaire.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127123000",
+    "stopRaw": "20251127130000",
+    "start": "2025-11-27 18:00:00 IST",
+    "stop": "2025-11-27 18:30:00 IST",
+    "channel": "jio-638",
+    "title": "Nindu Noorella Saavasam",
+    "subTitle": "When an Indian Armed Force Major's wife passes away, her spirit stays in the house till the time she feels the ideal person to take care of her children has not arrived.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127130000",
+    "stopRaw": "20251127133000",
+    "start": "2025-11-27 18:30:00 IST",
+    "stop": "2025-11-27 19:00:00 IST",
+    "channel": "jio-638",
+    "title": "Padamati Sandhya Ragam",
+    "subTitle": "After her mother's loss, Aadhya, who is under the care of Janaki, her aunt, is despised by Janaki's family because of her modern habits. Janaki tries hard to keep Aadhya happy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127133000",
+    "stopRaw": "20251127140000",
+    "start": "2025-11-27 19:00:00 IST",
+    "stop": "2025-11-27 19:30:00 IST",
+    "channel": "jio-638",
+    "title": "Lakshmi Nivasam",
+    "subTitle": "Lakshmi and Srinivas are a happily married couple who want to build their dream house. However, they must first navigate through familial problems, generational conflicts and financial struggles.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127140000",
+    "stopRaw": "20251127143000",
+    "start": "2025-11-27 19:30:00 IST",
+    "stop": "2025-11-27 20:00:00 IST",
+    "channel": "jio-638",
+    "title": "Meghasandesham",
+    "subTitle": "A fire accident separates Bhoomi and Gagan from their respective fathers. While Bhoomi yearns to reunite with her family, Gagan hates his father, believing he abandoned him.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127143000",
+    "stopRaw": "20251127150000",
+    "start": "2025-11-27 20:00:00 IST",
+    "stop": "2025-11-27 20:30:00 IST",
+    "channel": "jio-638",
+    "title": "Jayam",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127150000",
+    "stopRaw": "20251127153000",
+    "start": "2025-11-27 20:30:00 IST",
+    "stop": "2025-11-27 21:00:00 IST",
+    "channel": "jio-638",
+    "title": "Chamanthi",
+    "subTitle": "Chamanthi moves to the city with her mother after finding work as a servant in a politician's house. However, her life takes a turn when she marries the politician's son.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127153000",
+    "stopRaw": "20251127160000",
+    "start": "2025-11-27 21:00:00 IST",
+    "stop": "2025-11-27 21:30:00 IST",
+    "channel": "jio-638",
+    "title": "Jagadhatri",
+    "subTitle": "A young woman faces various challenges as she navigates the dual roles of a responsible elder daughter within her family and her undercover mission as an agent.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127160000",
+    "stopRaw": "20251127163000",
+    "start": "2025-11-27 21:30:00 IST",
+    "stop": "2025-11-27 22:00:00 IST",
+    "channel": "jio-638",
+    "title": "Auto Vijayashanthi",
+    "subTitle": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127163000",
+    "stopRaw": "20251127170000",
+    "start": "2025-11-27 22:00:00 IST",
+    "stop": "2025-11-27 22:30:00 IST",
+    "channel": "jio-638",
+    "title": "Ammayi Garu",
+    "subTitle": "Roopa, the neglected daughter of Prathap Surya Dev, a wealthy minister, yearns for her father's love. She soon develops a close bond with Prathap's confidant, Raju.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127170000",
+    "stopRaw": "20251127173000",
+    "start": "2025-11-27 22:30:00 IST",
+    "stop": "2025-11-27 23:00:00 IST",
+    "channel": "jio-638",
+    "title": "Gharana Mogudu",
+    "subTitle": "Venkatesh learns that he is to inherit a business that his relatives plot to seize from him. However, while his aunt conspires to control him, he secretly plans her ruin.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127173000",
+    "stopRaw": "20251127180000",
+    "start": "2025-11-27 23:00:00 IST",
+    "stop": "2025-11-27 23:30:00 IST",
+    "channel": "jio-638",
+    "title": "Jagadhatri",
+    "subTitle": "A young woman faces various challenges as she navigates the dual roles of a responsible elder daughter within her family and her undercover mission as an agent.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251127180000",
+    "stopRaw": "20251127182959",
+    "start": "2025-11-27 23:30:00 IST",
+    "stop": "2025-11-27 23:59:59 IST",
+    "channel": "jio-638",
+    "title": "Meghasandesham",
+    "subTitle": "A fire accident separates Bhoomi and Gagan from their respective fathers. While Bhoomi yearns to reunite with her family, Gagan hates his father, believing he abandoned him.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127203900",
     "start": "2025-11-28 00:00:00 IST",
@@ -624,136 +954,6 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:00:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
-    "channel": "jio-638",
-    "title": "Ideabaaz",
-    "subTitle": "Aspiring business owners from smaller cities pitch innovative concepts to top investors, seeking crucial funding and expert guidance for success.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129183000",
-    "stopRaw": "20251129213000",
-    "start": "2025-11-30 00:00:00 IST",
-    "stop": "2025-11-30 03:00:00 IST",
-    "channel": "jio-638",
-    "title": "Geetha Govindam",
-    "subTitle": "Vijay Govind, a young lecturer in a college, wishes to get married at the earliest. He tries to woo Geetha, an independent and a level-headed woman, who is not easy to convince.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251129213000",
-    "stopRaw": "20251130003000",
-    "start": "2025-11-30 03:00:00 IST",
-    "stop": "2025-11-30 06:00:00 IST",
-    "channel": "jio-638",
-    "title": "Seethamma Vakitlo Sirimalle Chettu",
-    "subTitle": "Two unemployed brothers who do not get along well due to their contrasting natures try to marry the women they love before an accident changes their lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130003000",
-    "stopRaw": "20251130010000",
-    "start": "2025-11-30 06:00:00 IST",
-    "stop": "2025-11-30 06:30:00 IST",
-    "channel": "jio-638",
-    "title": "Bhakthi Samacharam",
-    "subTitle": "Explore India's amazing pilgrimage centers! Discover their rich histories and significance, and find out why these sacred spots draw countless visitors seeking spiritual growth and connection.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130010000",
-    "stopRaw": "20251130013000",
-    "start": "2025-11-30 06:30:00 IST",
-    "stop": "2025-11-30 07:00:00 IST",
-    "channel": "jio-638",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130013000",
-    "stopRaw": "20251130023000",
-    "start": "2025-11-30 07:00:00 IST",
-    "stop": "2025-11-30 08:00:00 IST",
-    "channel": "jio-638",
-    "title": "Sach- Subhash Chandra Show",
-    "subTitle": "The host delivers an inspirational discourse, offering advice on life's major challenges before having a friendly discussion with prominent figures from various fields and sharing ideas and knowledge.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130023000",
-    "stopRaw": "20251130033000",
-    "start": "2025-11-30 08:00:00 IST",
-    "stop": "2025-11-30 09:00:00 IST",
-    "channel": "jio-638",
-    "title": "Omkaram",
-    "subTitle": "A renowned astrologer predicts the future of the people and offers remedies to viewers suffering from problems in their personal and professional lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130033000",
-    "stopRaw": "20251130063000",
-    "start": "2025-11-30 09:00:00 IST",
-    "stop": "2025-11-30 12:00:00 IST",
-    "channel": "jio-638",
-    "title": "Malliswari",
-    "subTitle": "Bhavani Shankar, the caretaker of a young girl, Malliswari, plans to kill her and inherit the entire property before she becomes an adult at the age of 21.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130063000",
-    "stopRaw": "20251130090000",
-    "start": "2025-11-30 12:00:00 IST",
-    "stop": "2025-11-30 14:30:00 IST",
-    "channel": "jio-638",
-    "title": "Kanyakumari",
-    "subTitle": "Kanyakumari, a girl who aspires to become a software engineer, falls in love with Tirupati, a farmer. She soon finds herself confronted with a dilemma, having to choose between love and ambition.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130090000",
-    "stopRaw": "20251130123000",
-    "start": "2025-11-30 14:30:00 IST",
-    "stop": "2025-11-30 18:00:00 IST",
-    "channel": "jio-638",
-    "title": "Indra",
-    "subTitle": "Indrasen and Shivraj's families are rivals residing in a village. However, one day, the people of the village seek Indrasen's help to build a water reservoir, but he is stopped by his enemy, Shivraj.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130123000",
-    "stopRaw": "20251130153000",
-    "start": "2025-11-30 18:00:00 IST",
-    "stop": "2025-11-30 21:00:00 IST",
-    "channel": "jio-638",
-    "title": "Maaman",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130153000",
-    "stopRaw": "20251130170000",
-    "start": "2025-11-30 21:00:00 IST",
-    "stop": "2025-11-30 22:30:00 IST",
-    "channel": "jio-638",
-    "title": "Sa Re Ga Ma Pa Little Champs 2025",
-    "subTitle": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130170000",
-    "stopRaw": "20251130173000",
-    "start": "2025-11-30 22:30:00 IST",
-    "stop": "2025-11-30 23:00:00 IST",
-    "channel": "jio-638",
-    "title": "Best of Drama Juniors",
-    "subTitle": "A compilation of some of the best and most memorable moments of Drama Juniors is played back-to-back to enthral the audience.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251130173000",
-    "stopRaw": "20251130182959",
-    "start": "2025-11-30 23:00:00 IST",
-    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-638",
     "title": "Ideabaaz",
     "subTitle": "Aspiring business owners from smaller cities pitch innovative concepts to top investors, seeking crucial funding and expert guidance for success.",

@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 // Channels to fetch from the API path
-const CHANNEL_IDS = [239, 681, 433, 138, 681, 238, 119, 127, 867, 1340, 118]; // add more, e.g. [239, 114, 240, 241]
+const CHANNEL_IDS = [239, 681, 433, 138, 681, 238, 119, 127, 867, 1340, 118, 114, 45, 144, 587]; // add more, e.g. [239, 114, 240, 241]
 
 const BASE_URL =
   "https://ts-more-api.videoready.tv/content-detail/pub/api/v6/channels";

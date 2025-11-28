@@ -1,40 +1,47 @@
-name: Update EPG
+name: Update EPG Titles DB
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours
-  workflow_dispatch:        # allow manual run
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC)
+  workflow_dispatch:
 
 jobs:
-  update-epg:
+  update:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write       # allow pushing back to repo
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}   # your PAT with repo permissions
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: 20
 
-      - name: Install dependencies
-        run: npm install
+      # If you have package.json and maybe package-lock.json,
+      # this will install your dependencies.
+      - name: Install dependencies (if any)
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found, skipping npm install"
+          fi
 
-      - name: Run EPG update script
-        run: npm run update-epg
+      - name: Run image DB updater (TataPlay → data/*.json)
+        run: node update-epg-db.mjs
 
-      - name: Commit and push if changed
+      - name: Run EPG merger (Jio XML → public/epg/*.json with images)
+        run: node scripts/update-epg.mjs
+
+      - name: Commit & push changes
         run: |
           git config user.name "kunani1"
           git config user.email "kunanisaitarun55@gmail.com"
-          git add public
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update EPG data"
-            git push
-          fi
+          git add data public || echo "Nothing to add"
+          git commit -m "Update EPG title→image DB + EPG" || echo "No changes"
+          git push origin HEAD:main

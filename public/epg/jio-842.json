@@ -1,535 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-842",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126200000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 01:30:00 IST",
-    "channel": "jio-842",
-    "title": "Ragalayam",
-    "subTitle": "The host presents a comprehensive compilation of some of the most popular yesteryear Malayalam movie songs composed by renowned musicians.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126200000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:30:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-842",
-    "title": "Devaragam",
-    "subTitle": "A comprehensive compilation of melodious devotional songs composed and performed by talented musicians to imbue oneself with peace and devotion to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-842",
-    "title": "Kaazhchappathippu",
-    "subTitle": "The host interacts with people who have experienced harsh realities of life and sheds light on the problems faced by them.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-842",
-    "title": "Nalathe Vartha",
-    "subTitle": "The host invites prominent personalities and has a discussion with them pertaining to the latest political developments in the state.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-842",
-    "title": "News Malayalam",
-    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the nation and around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126223000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:00:00 IST",
-    "channel": "jio-842",
-    "title": "Ente Ishta Ganangal",
-    "subTitle": "The host speaks to celebrities in the film industry as they share notable experiences from their careers and present their favourite songs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126223000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 04:00:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-842",
-    "title": "Film Online",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-842",
-    "title": "Memories",
-    "subTitle": "Eminent personalities from different fields share their unforgettable memories, offering insights into pivotal moments that shaped their lives and careers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-842",
-    "title": "Prabhatha Geethangal",
-    "subTitle": "A comprehensive compilation of some of the most popular songs sung by various renowned singers and musicians, played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-842",
-    "title": "Prabhatha Geethangal",
-    "subTitle": "A comprehensive compilation of some of the most popular songs sung by various renowned singers and musicians, played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-842",
-    "title": "Holy Mass",
-    "subTitle": "A religious leader conducts a service for a group of devotees to follow along in unison and offer their prayers to the Almighty.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127020000",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 07:30:00 IST",
-    "channel": "jio-842",
-    "title": "Pranavam",
-    "subTitle": "An astrologer talks about the study of celestial objects, the science behind it and how it affects various zodiac signs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127020000",
-    "stopRaw": "20251127023000",
-    "start": "2025-11-27 07:30:00 IST",
-    "stop": "2025-11-27 08:00:00 IST",
-    "channel": "jio-842",
-    "title": "Old Is Gold",
-    "subTitle": "A rich and soulful collection of soothing, melodious songs from vintage movies is played in succession to take listeners back in time.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023000",
-    "stopRaw": "20251127025700",
-    "start": "2025-11-27 08:00:00 IST",
-    "stop": "2025-11-27 08:27:00 IST",
-    "channel": "jio-842",
-    "title": "Capital Times",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127025700",
-    "stopRaw": "20251127030000",
-    "start": "2025-11-27 08:27:00 IST",
-    "stop": "2025-11-27 08:30:00 IST",
-    "channel": "jio-842",
-    "title": "Tintu Mon",
-    "subTitle": "Tintu Mon, a mischievous little boy, plays pranks on his friends and family, and dumbfounds them with his silly questions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127030000",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 08:30:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-842",
-    "title": "Memories",
-    "subTitle": "Eminent personalities from different fields share their unforgettable memories, offering insights into pivotal moments that shaped their lives and careers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127040000",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 09:30:00 IST",
-    "channel": "jio-842",
-    "title": "Comedy Couples",
-    "subTitle": "Talented comedians pair up to play the roles of a couple and enact various skits to tickle the funny bones with their humorous acts.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127040000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:30:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-842",
-    "title": "Hit Songs",
-    "subTitle": "A comprehensive compilation of some of the most popular songs performed by various eminent musicians played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127050000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 10:30:00 IST",
-    "channel": "jio-842",
-    "title": "News Malayalam",
-    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the nation and around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 10:30:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-842",
-    "title": "Nalathe Vartha",
-    "subTitle": "The host invites prominent personalities and has a discussion with them pertaining to the latest political developments in the state.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127060000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 11:30:00 IST",
-    "channel": "jio-842",
-    "title": "News Malayalam",
-    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the nation and around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127060000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:30:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-842",
-    "title": "Gulf News Week",
-    "subTitle": "The host presents the latest news updates and developments of the previous week from the Middle East along with in-depth analyses.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127070000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 12:30:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan News",
-    "subTitle": "The most recent social, political and economic news updates and developments from Kerala and around the world are telecast.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127070000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-842",
-    "title": "Prime Minister Speaking",
-    "subTitle": "The prime minister of India addresses a gathering and voices his thoughts and concerns about various issues and motivates the crowd to work for the betterment of the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127080000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 13:30:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan News",
-    "subTitle": "The most recent social, political and economic news updates and developments from Kerala and around the world are telecast.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127080000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:30:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-842",
-    "title": "Pothuyogam",
-    "subTitle": "Bringing the best in televisison.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127083200",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 14:02:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan Headlines",
-    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083200",
-    "stopRaw": "20251127090000",
-    "start": "2025-11-27 14:02:00 IST",
-    "stop": "2025-11-27 14:30:00 IST",
-    "channel": "jio-842",
-    "title": "Film Online",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127090000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:30:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-842",
-    "title": "Capital Times",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-842",
-    "title": "Lottery Live",
-    "subTitle": "The host offers fabulous prizes ranging from huge amounts of money to new cars in an exciting game of chance based on numbers, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127110000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 16:30:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan News",
-    "subTitle": "The most recent social, political and economic news updates and developments from Kerala and around the world are telecast.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127110000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:30:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-842",
-    "title": "Ragalayam",
-    "subTitle": "The host presents a comprehensive compilation of some of the most popular yesteryear Malayalam movie songs composed by renowned musicians.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127113200",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 17:02:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan Headlines",
-    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113200",
-    "stopRaw": "20251127120000",
-    "start": "2025-11-27 17:02:00 IST",
-    "stop": "2025-11-27 17:30:00 IST",
-    "channel": "jio-842",
-    "title": "Loud Speaker",
-    "subTitle": "The hosts give an insight into the world of celebrities and provide the latest updates and gossip from the world of entertainment.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127120000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-842",
-    "title": "Malayala Cinema At 90",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127123200",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 18:02:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan Headlines",
-    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123200",
-    "stopRaw": "20251127130000",
-    "start": "2025-11-27 18:02:00 IST",
-    "stop": "2025-11-27 18:30:00 IST",
-    "channel": "jio-842",
-    "title": "Ente Ishta Ganangal",
-    "subTitle": "The host speaks to celebrities in the film industry as they share notable experiences from their careers and present their favourite songs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127130000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:30:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-842",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127140000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 19:30:00 IST",
-    "channel": "jio-842",
-    "title": "Pranavam",
-    "subTitle": "An astrologer talks about the study of celestial objects, the science behind it and how it affects various zodiac signs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127140000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:30:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-842",
-    "title": "Puthan Pattu",
-    "subTitle": "A comprehensive compilation of new and popular musical numbers from the latest and upcoming feature films, played back to back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127150000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 20:30:00 IST",
-    "channel": "jio-842",
-    "title": "Misty Rain",
-    "subTitle": "Talented singers and bands from across different genres come to perform a compilation of popular songs and their own compositions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127150000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:30:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-842",
-    "title": "Memories",
-    "subTitle": "Eminent personalities from different fields share their unforgettable memories, offering insights into pivotal moments that shaped their lives and careers.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127153200",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 21:02:00 IST",
-    "channel": "jio-842",
-    "title": "Jeevan Headlines",
-    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153200",
-    "stopRaw": "20251127155500",
-    "start": "2025-11-27 21:02:00 IST",
-    "stop": "2025-11-27 21:25:00 IST",
-    "channel": "jio-842",
-    "title": "Film Online",
-    "subTitle": "Bringing the best in television.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127155500",
-    "stopRaw": "20251127160000",
-    "start": "2025-11-27 21:25:00 IST",
-    "stop": "2025-11-27 21:30:00 IST",
-    "channel": "jio-842",
-    "title": "Tintu Mon",
-    "subTitle": "Tintu Mon, a mischievous little boy, plays pranks on his friends and family, and dumbfounds them with his silly questions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127160000",
-    "stopRaw": "20251127163000",
-    "start": "2025-11-27 21:30:00 IST",
-    "stop": "2025-11-27 22:00:00 IST",
-    "channel": "jio-842",
-    "title": "Shubharathri",
-    "subTitle": "The host interacts with prominent personalities from various fields and tries to find out the inspiration and reasons behind their success.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163000",
-    "stopRaw": "20251127170000",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 22:30:00 IST",
-    "channel": "jio-842",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127170000",
-    "stopRaw": "20251127172500",
-    "start": "2025-11-27 22:30:00 IST",
-    "stop": "2025-11-27 22:55:00 IST",
-    "channel": "jio-842",
-    "title": "Star Chat",
-    "subTitle": "The host invites celebrities and has a light-hearted conversation with them about their life, career and plans for the future.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127172500",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:55:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-842",
-    "title": "Gafoor Ka Dosth",
-    "subTitle": "Movie star Mamukkoya, portrayed as an animated character, deals with various social issues as he goes through everyday life in a hilarious manner.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127180000",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:30:00 IST",
-    "channel": "jio-842",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127180000",
-    "stopRaw": "20251127182800",
-    "start": "2025-11-27 23:30:00 IST",
-    "stop": "2025-11-27 23:58:00 IST",
-    "channel": "jio-842",
-    "title": "News",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127182800",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:58:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-842",
-    "title": "Jeevan Headlines",
-    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127193000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1584,6 +1054,486 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:58:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-842",
+    "title": "Jeevan Headlines",
+    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-842",
+    "title": "Kaazhchappathippu",
+    "subTitle": "The host interacts with people who have experienced harsh realities of life and sheds light on the problems faced by them.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-842",
+    "title": "Nalathe Vartha",
+    "subTitle": "The host invites prominent personalities and has a discussion with them pertaining to the latest political developments in the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-842",
+    "title": "News Malayalam",
+    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the nation and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-842",
+    "title": "Chiri Cheppu",
+    "subTitle": "Artists take the stage and perform comedic acts using various styles and techniques to entertain the audience with laughter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-842",
+    "title": "Ente Ishta Ganangal",
+    "subTitle": "The host speaks to celebrities in the film industry as they share notable experiences from their careers and present their favourite songs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-842",
+    "title": "Gulf News Week",
+    "subTitle": "The host presents the latest news updates and developments of the previous week from the Middle East along with in-depth analyses.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-842",
+    "title": "Prabhatha Geethangal",
+    "subTitle": "A comprehensive compilation of some of the most popular songs sung by various renowned singers and musicians, played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-842",
+    "title": "Prabhatha Geethangal",
+    "subTitle": "A comprehensive compilation of some of the most popular songs sung by various renowned singers and musicians, played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130010000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 06:30:00 IST",
+    "channel": "jio-842",
+    "title": "Vachana Deepthi",
+    "subTitle": "A priest delivers discourses on Christianity from the Holy Bible and helps the faithful followers and devotees to get closer to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130010000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:30:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-842",
+    "title": "Holy Mass",
+    "subTitle": "A religious leader conducts a service for a group of devotees to follow along in unison and offer their prayers to the Almighty.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130020000",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 07:30:00 IST",
+    "channel": "jio-842",
+    "title": "Pranavam",
+    "subTitle": "An astrologer talks about the study of celestial objects, the science behind it and how it affects various zodiac signs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130020000",
+    "stopRaw": "20251130023000",
+    "start": "2025-11-30 07:30:00 IST",
+    "stop": "2025-11-30 08:00:00 IST",
+    "channel": "jio-842",
+    "title": "Old Is Gold",
+    "subTitle": "A rich and soulful collection of soothing, melodious songs from vintage movies is played in succession to take listeners back in time.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130023000",
+    "stopRaw": "20251130025700",
+    "start": "2025-11-30 08:00:00 IST",
+    "stop": "2025-11-30 08:27:00 IST",
+    "channel": "jio-842",
+    "title": "Ragalayam",
+    "subTitle": "The host presents a comprehensive compilation of some of the most popular yesteryear Malayalam movie songs composed by renowned musicians.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130025700",
+    "stopRaw": "20251130030000",
+    "start": "2025-11-30 08:27:00 IST",
+    "stop": "2025-11-30 08:30:00 IST",
+    "channel": "jio-842",
+    "title": "Tintu Mon",
+    "subTitle": "Tintu Mon, a mischievous little boy, plays pranks on his friends and family, and dumbfounds them with his silly questions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130030000",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 08:30:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-842",
+    "title": "Capital Times",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130040000",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 09:30:00 IST",
+    "channel": "jio-842",
+    "title": "Comedy Couples",
+    "subTitle": "Talented comedians pair up to play the roles of a couple and enact various skits to tickle the funny bones with their humorous acts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130040000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:30:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-842",
+    "title": "Hit Songs",
+    "subTitle": "A comprehensive compilation of some of the most popular songs performed by various eminent musicians played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130050000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 10:30:00 IST",
+    "channel": "jio-842",
+    "title": "News Malayalam",
+    "subTitle": "The host presents a round-up of the latest social, political and economic news updates and developments from the nation and around the world.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 10:30:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130080000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 13:30:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan News",
+    "subTitle": "The most recent social, political and economic news updates and developments from Kerala and around the world are telecast.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130080000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:30:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-842",
+    "title": "Aazhchavattom",
+    "subTitle": "The host presents a round-up of all the important social, political and economic news updates and developments from the previous week.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130083200",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 14:02:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan Headlines",
+    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083200",
+    "stopRaw": "20251130090000",
+    "start": "2025-11-30 14:02:00 IST",
+    "stop": "2025-11-30 14:30:00 IST",
+    "channel": "jio-842",
+    "title": "Puthan Pattu",
+    "subTitle": "A comprehensive compilation of new and popular musical numbers from the latest and upcoming feature films, played back to back.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130090000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:30:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-842",
+    "title": "Memories",
+    "subTitle": "Eminent personalities from different fields share their unforgettable memories, offering insights into pivotal moments that shaped their lives and careers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-842",
+    "title": "Lottery Live",
+    "subTitle": "The host offers fabulous prizes ranging from huge amounts of money to new cars in an exciting game of chance based on numbers, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130110000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 16:30:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan News",
+    "subTitle": "The most recent social, political and economic news updates and developments from Kerala and around the world are telecast.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130110000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:30:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-842",
+    "title": "Loud Speaker",
+    "subTitle": "The hosts give an insight into the world of celebrities and provide the latest updates and gossip from the world of entertainment.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130113200",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 17:02:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan Headlines",
+    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113200",
+    "stopRaw": "20251130120000",
+    "start": "2025-11-30 17:02:00 IST",
+    "stop": "2025-11-30 17:30:00 IST",
+    "channel": "jio-842",
+    "title": "Amara Sangeetham",
+    "subTitle": "Popular singers and musicians perform a comprehensive compilation of melodious evergreen songs to entertain the viewers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:30:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-842",
+    "title": "Malayala Cinema At 90",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130123200",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 18:02:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan Headlines",
+    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123200",
+    "stopRaw": "20251130130000",
+    "start": "2025-11-30 18:02:00 IST",
+    "stop": "2025-11-30 18:30:00 IST",
+    "channel": "jio-842",
+    "title": "Remedy",
+    "subTitle": "Doctors highlight different health issues, discuss possible remedies and talk about the latest medical treatments and the future of the healthcare system.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:30:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130140000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 19:30:00 IST",
+    "channel": "jio-842",
+    "title": "Nam Munnottu",
+    "subTitle": "The host invites prominent personalities from different fields and has a conversation with them regarding the various social and political issues that the country faces.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:30:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-842",
+    "title": "Capital Times",
+    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130150000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 20:30:00 IST",
+    "channel": "jio-842",
+    "title": "Pranavam",
+    "subTitle": "An astrologer talks about the study of celestial objects, the science behind it and how it affects various zodiac signs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130150000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:30:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-842",
+    "title": "Sundarikutty",
+    "subTitle": "Children under the age of 15 showcase their fashion skills to impress the panel of judges and win the coveted pageant contest.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130153200",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 21:02:00 IST",
+    "channel": "jio-842",
+    "title": "Jeevan Headlines",
+    "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153200",
+    "stopRaw": "20251130155500",
+    "start": "2025-11-30 21:02:00 IST",
+    "stop": "2025-11-30 21:25:00 IST",
+    "channel": "jio-842",
+    "title": "Film Online",
+    "subTitle": "Bringing the best in television.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130155500",
+    "stopRaw": "20251130160000",
+    "start": "2025-11-30 21:25:00 IST",
+    "stop": "2025-11-30 21:30:00 IST",
+    "channel": "jio-842",
+    "title": "Tintu Mon",
+    "subTitle": "Tintu Mon, a mischievous little boy, plays pranks on his friends and family, and dumbfounds them with his silly questions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130160000",
+    "stopRaw": "20251130163000",
+    "start": "2025-11-30 21:30:00 IST",
+    "stop": "2025-11-30 22:00:00 IST",
+    "channel": "jio-842",
+    "title": "Shubharathri",
+    "subTitle": "The host interacts with prominent personalities from various fields and tries to find out the inspiration and reasons behind their success.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163000",
+    "stopRaw": "20251130170000",
+    "start": "2025-11-30 22:00:00 IST",
+    "stop": "2025-11-30 22:30:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130170000",
+    "stopRaw": "20251130172500",
+    "start": "2025-11-30 22:30:00 IST",
+    "stop": "2025-11-30 22:55:00 IST",
+    "channel": "jio-842",
+    "title": "Nalathe Vartha",
+    "subTitle": "The host invites prominent personalities and has a discussion with them pertaining to the latest political developments in the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130172500",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:55:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-842",
+    "title": "Gafoor Ka Dosth",
+    "subTitle": "Movie star Mamukkoya, portrayed as an animated character, deals with various social issues as he goes through everyday life in a hilarious manner.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130180000",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:30:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130180000",
+    "stopRaw": "20251130182800",
+    "start": "2025-11-30 23:30:00 IST",
+    "stop": "2025-11-30 23:58:00 IST",
+    "channel": "jio-842",
+    "title": "News",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130182800",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:58:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-842",
     "title": "Jeevan Headlines",
     "subTitle": "The host presents the latest national and international news headlines and the most recent social, political and economic updates.",

@@ -1,435 +1,5 @@
 [
   {
-    "startRaw": "20251126183000",
-    "stopRaw": "20251126190000",
-    "start": "2025-11-27 00:00:00 IST",
-    "stop": "2025-11-27 00:30:00 IST",
-    "channel": "jio-771",
-    "title": "Bhagyoday",
-    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126190000",
-    "stopRaw": "20251126193000",
-    "start": "2025-11-27 00:30:00 IST",
-    "stop": "2025-11-27 01:00:00 IST",
-    "channel": "jio-771",
-    "title": "Manoranjan Live",
-    "subTitle": "The host gives the latest news updates on the events and happenings from the entertainment industry, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126193000",
-    "stopRaw": "20251126203000",
-    "start": "2025-11-27 01:00:00 IST",
-    "stop": "2025-11-27 02:00:00 IST",
-    "channel": "jio-771",
-    "title": "Desh Duniya Ek Nazar",
-    "subTitle": "The host presents a comprehensive coverage of latest news stories, featuring a group of experts who provide their insights and analysis on various issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126203000",
-    "stopRaw": "20251126210000",
-    "start": "2025-11-27 02:00:00 IST",
-    "stop": "2025-11-27 02:30:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126210000",
-    "stopRaw": "20251126213000",
-    "start": "2025-11-27 02:30:00 IST",
-    "stop": "2025-11-27 03:00:00 IST",
-    "channel": "jio-771",
-    "title": "Urban Update",
-    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126213000",
-    "stopRaw": "20251126220000",
-    "start": "2025-11-27 03:00:00 IST",
-    "stop": "2025-11-27 03:30:00 IST",
-    "channel": "jio-771",
-    "title": "Regional Express",
-    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126220000",
-    "stopRaw": "20251126230000",
-    "start": "2025-11-27 03:30:00 IST",
-    "stop": "2025-11-27 04:30:00 IST",
-    "channel": "jio-771",
-    "title": "Badi Bahas",
-    "subTitle": "The host invites a group of experts and notable guests to explore important topics, providing viewers with diverse perspectives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126230000",
-    "stopRaw": "20251126233000",
-    "start": "2025-11-27 04:30:00 IST",
-    "stop": "2025-11-27 05:00:00 IST",
-    "channel": "jio-771",
-    "title": "Bhagyoday",
-    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251126233000",
-    "stopRaw": "20251127000000",
-    "start": "2025-11-27 05:00:00 IST",
-    "stop": "2025-11-27 05:30:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127000000",
-    "stopRaw": "20251127003000",
-    "start": "2025-11-27 05:30:00 IST",
-    "stop": "2025-11-27 06:00:00 IST",
-    "channel": "jio-771",
-    "title": "Mera Desh - Mera Gaon",
-    "subTitle": "The host provides comprehensive coverage of news from rural villages across India, focusing on local issues and community developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127003000",
-    "stopRaw": "20251127010000",
-    "start": "2025-11-27 06:00:00 IST",
-    "stop": "2025-11-27 06:30:00 IST",
-    "channel": "jio-771",
-    "title": "Suprabhat",
-    "subTitle": "The host presents information on the latest political, cultural, sports and socio-economical news updates from around the country.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127010000",
-    "stopRaw": "20251127013000",
-    "start": "2025-11-27 06:30:00 IST",
-    "stop": "2025-11-27 07:00:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127013000",
-    "stopRaw": "20251127020000",
-    "start": "2025-11-27 07:00:00 IST",
-    "stop": "2025-11-27 07:30:00 IST",
-    "channel": "jio-771",
-    "title": "Morning Live",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127020000",
-    "stopRaw": "20251127023000",
-    "start": "2025-11-27 07:30:00 IST",
-    "stop": "2025-11-27 08:00:00 IST",
-    "channel": "jio-771",
-    "title": "Bhagyoday",
-    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127023000",
-    "stopRaw": "20251127030000",
-    "start": "2025-11-27 08:00:00 IST",
-    "stop": "2025-11-27 08:30:00 IST",
-    "channel": "jio-771",
-    "title": "Morning Live",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127030000",
-    "stopRaw": "20251127033000",
-    "start": "2025-11-27 08:30:00 IST",
-    "stop": "2025-11-27 09:00:00 IST",
-    "channel": "jio-771",
-    "title": "UP Live",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the state of Uttar Pradesh, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127033000",
-    "stopRaw": "20251127040000",
-    "start": "2025-11-27 09:00:00 IST",
-    "stop": "2025-11-27 09:30:00 IST",
-    "channel": "jio-771",
-    "title": "Uttarakhand Live",
-    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127040000",
-    "stopRaw": "20251127043000",
-    "start": "2025-11-27 09:30:00 IST",
-    "stop": "2025-11-27 10:00:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127043000",
-    "stopRaw": "20251127050000",
-    "start": "2025-11-27 10:00:00 IST",
-    "stop": "2025-11-27 10:30:00 IST",
-    "channel": "jio-771",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127050000",
-    "stopRaw": "20251127053000",
-    "start": "2025-11-27 10:30:00 IST",
-    "stop": "2025-11-27 11:00:00 IST",
-    "channel": "jio-771",
-    "title": "Badi Bahas",
-    "subTitle": "The host invites a group of experts and notable guests to explore important topics, providing viewers with diverse perspectives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127053000",
-    "stopRaw": "20251127060000",
-    "start": "2025-11-27 11:00:00 IST",
-    "stop": "2025-11-27 11:30:00 IST",
-    "channel": "jio-771",
-    "title": "Regional Express",
-    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127060000",
-    "stopRaw": "20251127063000",
-    "start": "2025-11-27 11:30:00 IST",
-    "stop": "2025-11-27 12:00:00 IST",
-    "channel": "jio-771",
-    "title": "Crime Report",
-    "subTitle": "The host presents a detailed report on recent crime stories, providing in-depth coverage of the incidents and their effects on the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127063000",
-    "stopRaw": "20251127070000",
-    "start": "2025-11-27 12:00:00 IST",
-    "stop": "2025-11-27 12:30:00 IST",
-    "channel": "jio-771",
-    "title": "News Live",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127070000",
-    "stopRaw": "20251127073000",
-    "start": "2025-11-27 12:30:00 IST",
-    "stop": "2025-11-27 13:00:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127073000",
-    "stopRaw": "20251127080000",
-    "start": "2025-11-27 13:00:00 IST",
-    "stop": "2025-11-27 13:30:00 IST",
-    "channel": "jio-771",
-    "title": "UP Live",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the state of Uttar Pradesh, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127080000",
-    "stopRaw": "20251127083000",
-    "start": "2025-11-27 13:30:00 IST",
-    "stop": "2025-11-27 14:00:00 IST",
-    "channel": "jio-771",
-    "title": "Urban Update",
-    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127083000",
-    "stopRaw": "20251127090000",
-    "start": "2025-11-27 14:00:00 IST",
-    "stop": "2025-11-27 14:30:00 IST",
-    "channel": "jio-771",
-    "title": "Uttarakhand Live",
-    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127090000",
-    "stopRaw": "20251127093000",
-    "start": "2025-11-27 14:30:00 IST",
-    "stop": "2025-11-27 15:00:00 IST",
-    "channel": "jio-771",
-    "title": "Manoranjan Live",
-    "subTitle": "The host gives the latest news updates on the events and happenings from the entertainment industry, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127093000",
-    "stopRaw": "20251127100000",
-    "start": "2025-11-27 15:00:00 IST",
-    "stop": "2025-11-27 15:30:00 IST",
-    "channel": "jio-771",
-    "title": "3 Ki Bat",
-    "subTitle": "The host sheds light on the most recent and important news, updates and developments that are making headlines around the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127100000",
-    "stopRaw": "20251127103000",
-    "start": "2025-11-27 15:30:00 IST",
-    "stop": "2025-11-27 16:00:00 IST",
-    "channel": "jio-771",
-    "title": "Dev Darshan",
-    "subTitle": "The host presents a tour of several important Hindu pilgrimage sites and temples while discussing their history and spiritual significance.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127103000",
-    "stopRaw": "20251127110000",
-    "start": "2025-11-27 16:00:00 IST",
-    "stop": "2025-11-27 16:30:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127110000",
-    "stopRaw": "20251127113000",
-    "start": "2025-11-27 16:30:00 IST",
-    "stop": "2025-11-27 17:00:00 IST",
-    "channel": "jio-771",
-    "title": "Urban Update",
-    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127113000",
-    "stopRaw": "20251127120000",
-    "start": "2025-11-27 17:00:00 IST",
-    "stop": "2025-11-27 17:30:00 IST",
-    "channel": "jio-771",
-    "title": "UP Live",
-    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the state of Uttar Pradesh, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127120000",
-    "stopRaw": "20251127123000",
-    "start": "2025-11-27 17:30:00 IST",
-    "stop": "2025-11-27 18:00:00 IST",
-    "channel": "jio-771",
-    "title": "Mera Desh - Mera Gaon",
-    "subTitle": "The host provides comprehensive coverage of news from rural villages across India, focusing on local issues and community developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127123000",
-    "stopRaw": "20251127130000",
-    "start": "2025-11-27 18:00:00 IST",
-    "stop": "2025-11-27 18:30:00 IST",
-    "channel": "jio-771",
-    "title": "Uttarakhand Live",
-    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127130000",
-    "stopRaw": "20251127133000",
-    "start": "2025-11-27 18:30:00 IST",
-    "stop": "2025-11-27 19:00:00 IST",
-    "channel": "jio-771",
-    "title": "Samachar Shatak",
-    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127133000",
-    "stopRaw": "20251127143000",
-    "start": "2025-11-27 19:00:00 IST",
-    "stop": "2025-11-27 20:00:00 IST",
-    "channel": "jio-771",
-    "title": "Badi Bahas",
-    "subTitle": "The host invites a group of experts and notable guests to explore important topics, providing viewers with diverse perspectives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127143000",
-    "stopRaw": "20251127150000",
-    "start": "2025-11-27 20:00:00 IST",
-    "stop": "2025-11-27 20:30:00 IST",
-    "channel": "jio-771",
-    "title": "Lucknow Live",
-    "subTitle": "The host delivers real-time updates and comprehensive news coverage from Lucknow, keeping viewers informed with the latest developments, live.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127150000",
-    "stopRaw": "20251127153000",
-    "start": "2025-11-27 20:30:00 IST",
-    "stop": "2025-11-27 21:00:00 IST",
-    "channel": "jio-771",
-    "title": "Delhi Live",
-    "subTitle": "The host presents the latest news updates related to the socio-economic, political and cultural issues happening in and around Delhi.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127153000",
-    "stopRaw": "20251127160000",
-    "start": "2025-11-27 21:00:00 IST",
-    "stop": "2025-11-27 21:30:00 IST",
-    "channel": "jio-771",
-    "title": "Regional Express",
-    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127160000",
-    "stopRaw": "20251127163000",
-    "start": "2025-11-27 21:30:00 IST",
-    "stop": "2025-11-27 22:00:00 IST",
-    "channel": "jio-771",
-    "title": "Crime Report",
-    "subTitle": "The host presents a detailed report on recent crime stories, providing in-depth coverage of the incidents and their effects on the nation.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127163000",
-    "stopRaw": "20251127173000",
-    "start": "2025-11-27 22:00:00 IST",
-    "stop": "2025-11-27 23:00:00 IST",
-    "channel": "jio-771",
-    "title": "Desh Duniya Ek Nazar",
-    "subTitle": "The host presents a comprehensive coverage of latest news stories, featuring a group of experts who provide their insights and analysis on various issues.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
-    "startRaw": "20251127173000",
-    "stopRaw": "20251127182959",
-    "start": "2025-11-27 23:00:00 IST",
-    "stop": "2025-11-27 23:59:59 IST",
-    "channel": "jio-771",
-    "title": "Badi Bahas",
-    "subTitle": "The host invites a group of experts and notable guests to explore important topics, providing viewers with diverse perspectives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
-  },
-  {
     "startRaw": "20251127183000",
     "stopRaw": "20251127190000",
     "start": "2025-11-28 00:00:00 IST",
@@ -1284,6 +854,456 @@
     "stopRaw": "20251129182959",
     "start": "2025-11-29 23:30:00 IST",
     "stop": "2025-11-29 23:59:59 IST",
+    "channel": "jio-771",
+    "title": "Khas Baat",
+    "subTitle": "The host presents a comprehensive analysis on important issues pertaining to current affairs that have an impact on the community.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129183000",
+    "stopRaw": "20251129190000",
+    "start": "2025-11-30 00:00:00 IST",
+    "stop": "2025-11-30 00:30:00 IST",
+    "channel": "jio-771",
+    "title": "Bhagyoday",
+    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129190000",
+    "stopRaw": "20251129193000",
+    "start": "2025-11-30 00:30:00 IST",
+    "stop": "2025-11-30 01:00:00 IST",
+    "channel": "jio-771",
+    "title": "Bollywood Special",
+    "subTitle": "The host presents the latest updates on new releases and announcements and news about Bollywood stars.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129193000",
+    "stopRaw": "20251129203000",
+    "start": "2025-11-30 01:00:00 IST",
+    "stop": "2025-11-30 02:00:00 IST",
+    "channel": "jio-771",
+    "title": "Desh Duniya Ek Nazar",
+    "subTitle": "The host presents a comprehensive coverage of latest news stories, featuring a group of experts who provide their insights and analysis on various issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129203000",
+    "stopRaw": "20251129210000",
+    "start": "2025-11-30 02:00:00 IST",
+    "stop": "2025-11-30 02:30:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129210000",
+    "stopRaw": "20251129213000",
+    "start": "2025-11-30 02:30:00 IST",
+    "stop": "2025-11-30 03:00:00 IST",
+    "channel": "jio-771",
+    "title": "Urban Update",
+    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129213000",
+    "stopRaw": "20251129220000",
+    "start": "2025-11-30 03:00:00 IST",
+    "stop": "2025-11-30 03:30:00 IST",
+    "channel": "jio-771",
+    "title": "Regional Express",
+    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129220000",
+    "stopRaw": "20251129223000",
+    "start": "2025-11-30 03:30:00 IST",
+    "stop": "2025-11-30 04:00:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129223000",
+    "stopRaw": "20251129230000",
+    "start": "2025-11-30 04:00:00 IST",
+    "stop": "2025-11-30 04:30:00 IST",
+    "channel": "jio-771",
+    "title": "Comedy Live",
+    "subTitle": "In a live telecast, comedians perform skits, stand-up acts and crack jokes in a satirical manner to entertain the audience.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129230000",
+    "stopRaw": "20251129233000",
+    "start": "2025-11-30 04:30:00 IST",
+    "stop": "2025-11-30 05:00:00 IST",
+    "channel": "jio-771",
+    "title": "Bhagyoday",
+    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251129233000",
+    "stopRaw": "20251130000000",
+    "start": "2025-11-30 05:00:00 IST",
+    "stop": "2025-11-30 05:30:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130000000",
+    "stopRaw": "20251130003000",
+    "start": "2025-11-30 05:30:00 IST",
+    "stop": "2025-11-30 06:00:00 IST",
+    "channel": "jio-771",
+    "title": "Panchayat Live",
+    "subTitle": "The host converses with the inhabitants in a bid to understand their perspective on the socio-political issues in the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130003000",
+    "stopRaw": "20251130010000",
+    "start": "2025-11-30 06:00:00 IST",
+    "stop": "2025-11-30 06:30:00 IST",
+    "channel": "jio-771",
+    "title": "Suprabhat",
+    "subTitle": "The host presents information on the latest political, cultural, sports and socio-economical news updates from around the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130010000",
+    "stopRaw": "20251130013000",
+    "start": "2025-11-30 06:30:00 IST",
+    "stop": "2025-11-30 07:00:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130013000",
+    "stopRaw": "20251130020000",
+    "start": "2025-11-30 07:00:00 IST",
+    "stop": "2025-11-30 07:30:00 IST",
+    "channel": "jio-771",
+    "title": "Morning Live",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130020000",
+    "stopRaw": "20251130023000",
+    "start": "2025-11-30 07:30:00 IST",
+    "stop": "2025-11-30 08:00:00 IST",
+    "channel": "jio-771",
+    "title": "Bhagyoday",
+    "subTitle": "An astrology expert interprets celestial movements to provide insights into personalities, relationships and life events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130023000",
+    "stopRaw": "20251130030000",
+    "start": "2025-11-30 08:00:00 IST",
+    "stop": "2025-11-30 08:30:00 IST",
+    "channel": "jio-771",
+    "title": "Morning Live",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130030000",
+    "stopRaw": "20251130033000",
+    "start": "2025-11-30 08:30:00 IST",
+    "stop": "2025-11-30 09:00:00 IST",
+    "channel": "jio-771",
+    "title": "UP Live",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the state of Uttar Pradesh, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130033000",
+    "stopRaw": "20251130040000",
+    "start": "2025-11-30 09:00:00 IST",
+    "stop": "2025-11-30 09:30:00 IST",
+    "channel": "jio-771",
+    "title": "Uttarakhand Live",
+    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130040000",
+    "stopRaw": "20251130043000",
+    "start": "2025-11-30 09:30:00 IST",
+    "stop": "2025-11-30 10:00:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130043000",
+    "stopRaw": "20251130050000",
+    "start": "2025-11-30 10:00:00 IST",
+    "stop": "2025-11-30 10:30:00 IST",
+    "channel": "jio-771",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130050000",
+    "stopRaw": "20251130053000",
+    "start": "2025-11-30 10:30:00 IST",
+    "stop": "2025-11-30 11:00:00 IST",
+    "channel": "jio-771",
+    "title": "Bollywood Special",
+    "subTitle": "The host presents the latest updates on new releases and announcements and news about Bollywood stars.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130053000",
+    "stopRaw": "20251130060000",
+    "start": "2025-11-30 11:00:00 IST",
+    "stop": "2025-11-30 11:30:00 IST",
+    "channel": "jio-771",
+    "title": "Regional Express",
+    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130060000",
+    "stopRaw": "20251130063000",
+    "start": "2025-11-30 11:30:00 IST",
+    "stop": "2025-11-30 12:00:00 IST",
+    "channel": "jio-771",
+    "title": "Jawab To Dena Hoga",
+    "subTitle": "The host analyses various decisions of the government and raises questions on the pros and cons of their implementations.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130063000",
+    "stopRaw": "20251130070000",
+    "start": "2025-11-30 12:00:00 IST",
+    "stop": "2025-11-30 12:30:00 IST",
+    "channel": "jio-771",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130070000",
+    "stopRaw": "20251130073000",
+    "start": "2025-11-30 12:30:00 IST",
+    "stop": "2025-11-30 13:00:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130073000",
+    "stopRaw": "20251130080000",
+    "start": "2025-11-30 13:00:00 IST",
+    "stop": "2025-11-30 13:30:00 IST",
+    "channel": "jio-771",
+    "title": "UP Live",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the state of Uttar Pradesh, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130080000",
+    "stopRaw": "20251130083000",
+    "start": "2025-11-30 13:30:00 IST",
+    "stop": "2025-11-30 14:00:00 IST",
+    "channel": "jio-771",
+    "title": "Urban Update",
+    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130083000",
+    "stopRaw": "20251130090000",
+    "start": "2025-11-30 14:00:00 IST",
+    "stop": "2025-11-30 14:30:00 IST",
+    "channel": "jio-771",
+    "title": "Uttarakhand Live",
+    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130090000",
+    "stopRaw": "20251130093000",
+    "start": "2025-11-30 14:30:00 IST",
+    "stop": "2025-11-30 15:00:00 IST",
+    "channel": "jio-771",
+    "title": "Comedy Live",
+    "subTitle": "In a live telecast, comedians perform skits, stand-up acts and crack jokes in a satirical manner to entertain the audience.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130093000",
+    "stopRaw": "20251130103000",
+    "start": "2025-11-30 15:00:00 IST",
+    "stop": "2025-11-30 16:00:00 IST",
+    "channel": "jio-771",
+    "title": "2019 Ka King Kaun",
+    "subTitle": "A group of experts analyse different political parties, their approaches and the results of the 2019 elections, offering insightful perspectives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130103000",
+    "stopRaw": "20251130110000",
+    "start": "2025-11-30 16:00:00 IST",
+    "stop": "2025-11-30 16:30:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130110000",
+    "stopRaw": "20251130113000",
+    "start": "2025-11-30 16:30:00 IST",
+    "stop": "2025-11-30 17:00:00 IST",
+    "channel": "jio-771",
+    "title": "Urban Update",
+    "subTitle": "The host delivers timely updates and insightful analysis on the latest news stories and current events unfolding in India's urban cities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130113000",
+    "stopRaw": "20251130120000",
+    "start": "2025-11-30 17:00:00 IST",
+    "stop": "2025-11-30 17:30:00 IST",
+    "channel": "jio-771",
+    "title": "Dangal 2019",
+    "subTitle": "The host delivers an extensive and in-depth analysis of the recent significant political developments and events regarding elections in 2019.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130120000",
+    "stopRaw": "20251130123000",
+    "start": "2025-11-30 17:30:00 IST",
+    "stop": "2025-11-30 18:00:00 IST",
+    "channel": "jio-771",
+    "title": "Panchayat Live",
+    "subTitle": "The host converses with the inhabitants in a bid to understand their perspective on the socio-political issues in the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130123000",
+    "stopRaw": "20251130130000",
+    "start": "2025-11-30 18:00:00 IST",
+    "stop": "2025-11-30 18:30:00 IST",
+    "channel": "jio-771",
+    "title": "Uttarakhand Live",
+    "subTitle": "The host sheds light on the latest news and updates regarding social, political and economic issues from around Uttarakhand, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130130000",
+    "stopRaw": "20251130133000",
+    "start": "2025-11-30 18:30:00 IST",
+    "stop": "2025-11-30 19:00:00 IST",
+    "channel": "jio-771",
+    "title": "Samachar Shatak",
+    "subTitle": "The host presents the top 100 news stories from across the world, offering updates and insights into the latest developments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130133000",
+    "stopRaw": "20251130140000",
+    "start": "2025-11-30 19:00:00 IST",
+    "stop": "2025-11-30 19:30:00 IST",
+    "channel": "jio-771",
+    "title": "News Live",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130140000",
+    "stopRaw": "20251130143000",
+    "start": "2025-11-30 19:30:00 IST",
+    "stop": "2025-11-30 20:00:00 IST",
+    "channel": "jio-771",
+    "title": "Jawab To Dena Hoga",
+    "subTitle": "The host analyses various decisions of the government and raises questions on the pros and cons of their implementations.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130143000",
+    "stopRaw": "20251130150000",
+    "start": "2025-11-30 20:00:00 IST",
+    "stop": "2025-11-30 20:30:00 IST",
+    "channel": "jio-771",
+    "title": "Lucknow Live",
+    "subTitle": "The host delivers real-time updates and comprehensive news coverage from Lucknow, keeping viewers informed with the latest developments, live.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130150000",
+    "stopRaw": "20251130153000",
+    "start": "2025-11-30 20:30:00 IST",
+    "stop": "2025-11-30 21:00:00 IST",
+    "channel": "jio-771",
+    "title": "Khas Baat",
+    "subTitle": "The host presents a comprehensive analysis on important issues pertaining to current affairs that have an impact on the community.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130153000",
+    "stopRaw": "20251130160000",
+    "start": "2025-11-30 21:00:00 IST",
+    "stop": "2025-11-30 21:30:00 IST",
+    "channel": "jio-771",
+    "title": "Regional Express",
+    "subTitle": "The presenter sheds light on the latest social, political and economic news updates from the rural cities of India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130160000",
+    "stopRaw": "20251130163000",
+    "start": "2025-11-30 21:30:00 IST",
+    "stop": "2025-11-30 22:00:00 IST",
+    "channel": "jio-771",
+    "title": "Surkhiyon Se Aage",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130163000",
+    "stopRaw": "20251130173000",
+    "start": "2025-11-30 22:00:00 IST",
+    "stop": "2025-11-30 23:00:00 IST",
+    "channel": "jio-771",
+    "title": "Desh Duniya Ek Nazar",
+    "subTitle": "The host presents a comprehensive coverage of latest news stories, featuring a group of experts who provide their insights and analysis on various issues.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130173000",
+    "stopRaw": "20251130180000",
+    "start": "2025-11-30 23:00:00 IST",
+    "stop": "2025-11-30 23:30:00 IST",
+    "channel": "jio-771",
+    "title": "Surkhiyon Se Aage",
+    "subTitle": "The host gives the latest news updates on the political, socio-economical and cultural situation in the country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png"
+  },
+  {
+    "startRaw": "20251130180000",
+    "stopRaw": "20251130182959",
+    "start": "2025-11-30 23:30:00 IST",
+    "stop": "2025-11-30 23:59:59 IST",
     "channel": "jio-771",
     "title": "Khas Baat",
     "subTitle": "The host presents a comprehensive analysis on important issues pertaining to current affairs that have an impact on the community.",

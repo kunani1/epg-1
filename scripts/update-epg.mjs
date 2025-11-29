@@ -19,7 +19,7 @@ const CHANNEL_IMAGE_ID_MAP = {
 
 // Default image if no specific poster found for a title
 const DEFAULT_IMAGE =
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TV_icon_black.svg/512px-TV_icon_black.svg.png";
+  "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg";
 
 // Load a single image DB file and build title -> image map
 function loadImageMapFile(fileId) {

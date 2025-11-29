@@ -1,0 +1,5560 @@
+{
+    "channels": [
+        {
+            "id": "840",
+            "name": "ShirdiSaiBaba",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "842",
+            "name": "SomnathTemple",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "121",
+            "name": "TataPlayFitness",
+            "genres": [
+                "Lifestyle",
+                "Specials"
+            ]
+        },
+        {
+            "id": "618",
+            "name": "TataPlayBeauty",
+            "genres": [
+                "Lifestyle",
+                "Specials"
+            ]
+        },
+        {
+            "id": "641",
+            "name": "TataPlayCooking",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Specials"
+            ]
+        },
+        {
+            "id": "959",
+            "name": "TataPlayRomance",
+            "genres": [
+                "Movies",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "STARPlusHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "244",
+            "name": "StarBharatHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "SETHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "556",
+            "name": "SET",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "48",
+            "name": "SONYSABHD",
+            "genres": [
+                "Entertainment",
+                "HD",
+                "Comedy"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "SONYSAB",
+            "genres": [
+                "Entertainment",
+                "Comedy"
+            ]
+        },
+        {
+            "id": "40",
+            "name": "&tvHD",
+            "genres": [
+                "Entertainment",
+                "HD",
+                "Comedy"
+            ]
+        },
+        {
+            "id": "578",
+            "name": "&TV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "ZeeTVHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "557",
+            "name": "ZEeTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "811",
+            "name": "TataPlayAdbhutKahaniyan",
+            "genres": [
+                "Thriller",
+                "Entertainment",
+                "Horror"
+            ]
+        },
+        {
+            "id": "52",
+            "name": "ColorsHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "543",
+            "name": "Colors",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "95",
+            "name": "TataPlayJavedAkhtar",
+            "genres": [
+                "Entertainment",
+                "Specials"
+            ]
+        },
+        {
+            "id": "943",
+            "name": "TataPlayVideshiKahaniyan",
+            "genres": [
+                "Entertainment",
+                "Specials"
+            ]
+        },
+        {
+            "id": "964",
+            "name": "TataPlayClassicTV",
+            "genres": [
+                "Movies",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "142",
+            "name": "UTVBindass",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "986",
+            "name": "TataPlayZindagi",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1276",
+            "name": "InvestigationDiscoveryHD",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "633",
+            "name": "InvestigationDiscovery",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "551",
+            "name": "STARUtsav",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "523",
+            "name": "ZeeAnmol",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "438",
+            "name": "ColorsRishtey",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "SonyPal",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "54",
+            "name": "TheQ",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "297",
+            "name": "BigMagic",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "51",
+            "name": "Dangal",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "180",
+            "name": "AnjanTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "ShemarooTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "888",
+            "name": "Ishara",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1045",
+            "name": "ShemarooUMANG",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "965",
+            "name": "ManoranjanGrand",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "191",
+            "name": "DDNational",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "DDKisan",
+            "genres": [
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "808",
+            "name": "TataPlayHits",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "187",
+            "name": "ColorsInfinityHD",
+            "genres": [
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "307",
+            "name": "ComedyCentralHD",
+            "genres": [
+                "Entertainment",
+                "HD",
+                "Comedy"
+            ]
+        },
+        {
+            "id": "306",
+            "name": "ComedyCentral",
+            "genres": [
+                "Entertainment",
+                "Comedy"
+            ]
+        },
+        {
+            "id": "544",
+            "name": "ColorsInfinity",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "486",
+            "name": "TataPlayBollywoodPremiere",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "789",
+            "name": "TataPlayHollywoodLocal",
+            "genres": [
+                "Movies",
+                "Specials"
+            ]
+        },
+        {
+            "id": "245",
+            "name": "StarGOLDHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "1130",
+            "name": "TataPlayBollywoodMasala",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "SONYMAXHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "132",
+            "name": "SONYMAX",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "741",
+            "name": "TataPlayClassicCinema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "ZeeCinemaHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "123",
+            "name": "ZeeCinema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "175",
+            "name": "ZeeBollywood",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "727",
+            "name": "ZeeClassic",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "666",
+            "name": "TataPlayTheatreHD",
+            "genres": [
+                "Movies",
+                "HD",
+                "Specials"
+            ]
+        },
+        {
+            "id": "267",
+            "name": "&picturesHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "148",
+            "name": "&pictures",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1183",
+            "name": "&XplorHD",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "677",
+            "name": "TataPlayShortsTV",
+            "genres": [
+                "Movies",
+                "Entertainment",
+                "Specials"
+            ]
+        },
+        {
+            "id": "61",
+            "name": "ColorsCineplexHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "ColorsCineplex",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "730",
+            "name": "B4UKadak",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "100",
+            "name": "ActionCinema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1003",
+            "name": "TataPlaySouthTalkies",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "SonyWah",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "B4UMovies",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "120",
+            "name": "SONYMAX2",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "276",
+            "name": "WoWCinemaOne",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "194",
+            "name": "Dangal2",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "296",
+            "name": "BFLIX",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "ZeeAnmolCinema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1000",
+            "name": "ColorsCineplexBollywood",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1321",
+            "name": "ALLTimeMOVIES",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "823",
+            "name": "Goldmines",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "731",
+            "name": "ManoranjanTV",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "ZeeAnmolCinema2",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "173",
+            "name": "MoviesNow",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "234",
+            "name": "MNX",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1269",
+            "name": "ChumbakTV",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "32",
+            "name": "SONYPIXHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "558",
+            "name": "SONYPIX",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "562",
+            "name": "MoviesNowHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "210",
+            "name": "MN+HD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "599",
+            "name": "MNXHD",
+            "genres": [
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "174",
+            "name": "RomedyNow",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "223",
+            "name": "DDSports",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "78",
+            "name": "StarSports1HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "235",
+            "name": "StarSports2HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "StarSports1HindiHD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "246",
+            "name": "StarSportsSelect1HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "463",
+            "name": "StarSportsSelect2HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "81",
+            "name": "SONYSPORTSTEN1HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "SONYSPORTSTEN1",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "SONYSPORTSTEN2HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "170",
+            "name": "SONYSPORTSTEN2",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "464",
+            "name": "SONYSPORTSTEN3HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "171",
+            "name": "SONYSPORTSTEN3",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "35",
+            "name": "SONYSPORTSTEN5HD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "1033",
+            "name": "Sports18-1HD",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "980",
+            "name": "Sports18-1",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "812",
+            "name": "EurosportHD",
+            "genres": [
+                "Sports",
+                "HD"
+            ]
+        },
+        {
+            "id": "693",
+            "name": "Eurosport",
+            "genres": [
+                "Sports"
+            ]
+        },
+        {
+            "id": "691",
+            "name": "DDNewsHD",
+            "genres": [
+                "News",
+                "HD"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "DDNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "ABPNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "783",
+            "name": "TataPlaySeniors",
+            "genres": [
+                "Lifestyle",
+                "Specials"
+            ]
+        },
+        {
+            "id": "179",
+            "name": "NDTVIndia",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "689",
+            "name": "AajTakHD",
+            "genres": [
+                "News",
+                "HD"
+            ]
+        },
+        {
+            "id": "153",
+            "name": "AajTak",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "259",
+            "name": "ZeeNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "872",
+            "name": "TataPlayAstroDuniya",
+            "genres": [
+                "Devotional",
+                "Spiritual",
+                "Astrology"
+            ]
+        },
+        {
+            "id": "104",
+            "name": "IndiaTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1056",
+            "name": "TataPlayHarGharStartup",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "209",
+            "name": "News24",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "929",
+            "name": "TataPlayJEEPrep",
+            "genres": [
+                "Educational",
+                "Knowledge",
+                "Specials"
+            ]
+        },
+        {
+            "id": "928",
+            "name": "TataPlayNEETPrep",
+            "genres": [
+                "Educational",
+                "Knowledge",
+                "Specials"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "News18India",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "514",
+            "name": "ZeeBharat",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "696",
+            "name": "RBharat",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "183",
+            "name": "IndiaNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "36",
+            "name": "NewsNation",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "706",
+            "name": "TV9Bharatvarsh",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "485",
+            "name": "TOTALTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "932",
+            "name": "TimesNowNavbharatHD",
+            "genres": [
+                "News",
+                "HD"
+            ]
+        },
+        {
+            "id": "966",
+            "name": "TimesNowNavbharat",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "NewsIndia24x7",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1010",
+            "name": "Bharat24",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1031",
+            "name": "SuryaSamachar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "475",
+            "name": "SudarshanNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1051",
+            "name": "BharatExpress",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1084",
+            "name": "IndiaDailyLive",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "286",
+            "name": "APNNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "950",
+            "name": "ETNowSwadesh",
+            "genres": [
+                "Business",
+                "News"
+            ]
+        },
+        {
+            "id": "685",
+            "name": "IndiaVoice",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "414",
+            "name": "News1India",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "344",
+            "name": "HindiKhabar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "291",
+            "name": "BharatSamachar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "384",
+            "name": "KhabarainAbhiTak",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "848",
+            "name": "Network10",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "701",
+            "name": "JantantraTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "HarKhabar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1274",
+            "name": "SwadeshNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "260",
+            "name": "ZeeBusiness",
+            "genres": [
+                "Business",
+                "News"
+            ]
+        },
+        {
+            "id": "278",
+            "name": "GoodNewsToday",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "204",
+            "name": "CNBCAwaaz",
+            "genres": [
+                "Business",
+                "News"
+            ]
+        },
+        {
+            "id": "213",
+            "name": "SansadTV1",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "212",
+            "name": "SansadTV2",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "NDTV24x7",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "547",
+            "name": "TimesNowWorld",
+            "genres": [
+                "News",
+                "HD"
+            ]
+        },
+        {
+            "id": "90",
+            "name": "TIMESNOW",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1",
+            "name": "INDIATODAY",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "206",
+            "name": "CNNNews18.",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "189",
+            "name": "NewsX",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "591",
+            "name": "MirrorNow",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "255",
+            "name": "WION",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "72",
+            "name": "REPUBLICTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "304",
+            "name": "CNBCTV18",
+            "genres": [
+                "Business",
+                "HD",
+                "News"
+            ]
+        },
+        {
+            "id": "324",
+            "name": "DDIndia",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "93",
+            "name": "NDTVProfitPrime",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "CNBCTV18PrimeHD",
+            "genres": [
+                "Business",
+                "News"
+            ]
+        },
+        {
+            "id": "88",
+            "name": "ETNOW",
+            "genres": [
+                "Business",
+                "News"
+            ]
+        },
+        {
+            "id": "1136",
+            "name": "BloombergTelevision",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "243",
+            "name": "CNNInternational",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "188",
+            "name": "BBCWorldNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "190",
+            "name": "AlJazeera",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "157",
+            "name": "ChannelNewsAsia",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "131",
+            "name": "France24",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "65",
+            "name": "TV5MondeAsie",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "DW",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "98",
+            "name": "RussiaToday",
+            "genres": [
+                "International News",
+                "News"
+            ]
+        },
+        {
+            "id": "976",
+            "name": "NHKWorldJapan",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "587",
+            "name": "SuperHungama",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "114",
+            "name": "Disney",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "71",
+            "name": "TataPlayEnglishinHindi",
+            "genres": [
+                "Knowledge",
+                "Kids",
+                "Specials"
+            ]
+        },
+        {
+            "id": "433",
+            "name": "NickHD+",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "138",
+            "name": "Nick",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "626",
+            "name": "TataPlayFunLearnPreschool",
+            "genres": [
+                "Educational",
+                "Animation",
+                "Kids",
+                "Cartoons",
+                "Specials"
+            ]
+        },
+        {
+            "id": "627",
+            "name": "TataPlayFunLearnJunior",
+            "genres": [
+                "Educational",
+                "Animation",
+                "Kids",
+                "Cartoons",
+                "Specials"
+            ]
+        },
+        {
+            "id": "681",
+            "name": "CartoonNetworkHD+",
+            "genres": [
+                "Animation",
+                "HD",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "238",
+            "name": "CartoonNetwork",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "Pogo",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "119",
+            "name": "DiscoveryKids",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "127",
+            "name": "Sonic",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "45",
+            "name": "SONYYAY!",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "994",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Kids"
+            ]
+        },
+        {
+            "id": "867",
+            "name": "Gubbare",
+            "genres": [
+                "Kids"
+            ]
+        },
+        {
+            "id": "1340",
+            "name": "ETVBalBharatHD",
+            "genres": [
+                "Kids"
+            ]
+        },
+        {
+            "id": "905",
+            "name": "ETVBalBharat",
+            "genres": [
+                "Kids"
+            ]
+        },
+        {
+            "id": "1363",
+            "name": "TataPlayAnimeLocal",
+            "genres": [
+                "Entertainment",
+                "Kids",
+                "Specials"
+            ]
+        },
+        {
+            "id": "118",
+            "name": "NickJr",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "144",
+            "name": "DisneyJunior",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "816",
+            "name": "CBeeBies",
+            "genres": [
+                "Animation",
+                "Kids",
+                "Cartoons"
+            ]
+        },
+        {
+            "id": "111",
+            "name": "TataPlaySmartManager",
+            "genres": [
+                "Knowledge",
+                "Specials"
+            ]
+        },
+        {
+            "id": "167",
+            "name": "TataPlayVedicMaths",
+            "genres": [
+                "Educational",
+                "Knowledge",
+                "Kids",
+                "Specials"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "NationalGeographicHD",
+            "genres": [
+                "Documentary",
+                "Knowledge",
+                "HD"
+            ]
+        },
+        {
+            "id": "137",
+            "name": "NationalGeographic",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "413",
+            "name": "NatGeoWildHD",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge",
+                "HD"
+            ]
+        },
+        {
+            "id": "184",
+            "name": "NatGeoWild",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "341",
+            "name": "DiscoveryHDWorld",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge",
+                "HD"
+            ]
+        },
+        {
+            "id": "219",
+            "name": "DiscoveryChannel",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "287",
+            "name": "AnimalPlanetHDWorld",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge",
+                "HD"
+            ]
+        },
+        {
+            "id": "130",
+            "name": "AnimalPlanet",
+            "genres": [
+                "Nature",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "113",
+            "name": "DiscoveryScience",
+            "genres": [
+                "Educational",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "616",
+            "name": "HistoryTV18HD",
+            "genres": [
+                "Documentary",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "HistoryTV18",
+            "genres": [
+                "Documentary",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "460",
+            "name": "SONYBBCEarthHD",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge",
+                "HD"
+            ]
+        },
+        {
+            "id": "158",
+            "name": "SONYBBCEarth",
+            "genres": [
+                "Documentary",
+                "Nature",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "923",
+            "name": "TravelXP4KHDR",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "EPIC",
+            "genres": [
+                "Documentary",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "StarLifeHD",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "646",
+            "name": "DDGyanDarshan",
+            "genres": [
+                "Educational",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "TLCHD",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "135",
+            "name": "TLC",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "136",
+            "name": "GOODTiMES",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "DiscoveryTurbo",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "484",
+            "name": "TravelxpHD",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "55",
+            "name": "Travelxp",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "FoodFood",
+            "genres": [
+                "Food",
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "227",
+            "name": "FashionTV",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "735",
+            "name": "TataPlayIbaadat",
+            "genres": [
+                "Devotional",
+                "Spiritual",
+                "Specials"
+            ]
+        },
+        {
+            "id": "406",
+            "name": "MTVHD",
+            "genres": [
+                "Music",
+                "HD"
+            ]
+        },
+        {
+            "id": "103",
+            "name": "MTV",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "139",
+            "name": "9XM",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "96",
+            "name": "Zoom",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "224",
+            "name": "E24",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "405",
+            "name": "MTVBeatsHD",
+            "genres": [
+                "Music",
+                "HD"
+            ]
+        },
+        {
+            "id": "236",
+            "name": "MTVBeats",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "B4UMusic",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Mastiii",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "517",
+            "name": "Zing",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "39",
+            "name": "9XJalwa",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "733",
+            "name": "Showbox",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "539",
+            "name": "VH1HD",
+            "genres": [
+                "Music",
+                "HD"
+            ]
+        },
+        {
+            "id": "742",
+            "name": "TataPlayAradhana",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "38",
+            "name": "Aastha",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "43",
+            "name": "Sanskar",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "446",
+            "name": "ParasGoldOne",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "397",
+            "name": "MHOneShraddha",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "447",
+            "name": "SadhnaTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "SharnamTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "420",
+            "name": "PeaceofMind",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "373",
+            "name": "JinvaniChannel",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "288",
+            "name": "DharmaSandesh",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "594",
+            "name": "IshwarTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "SatsangTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "458",
+            "name": "ShubhTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1372",
+            "name": "Bhaktisagar",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "283",
+            "name": "AasthaBhajan",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "500",
+            "name": "Vedic",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "728",
+            "name": "SubhartiTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "775",
+            "name": "DIVYA",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "935",
+            "name": "Awakening",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "911",
+            "name": "Santwani",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "969",
+            "name": "AadinathTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "StudioOne+",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "HareKrsna",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "790",
+            "name": "EkOnkar",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "970",
+            "name": "MHOneDilSe",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "814",
+            "name": "ZeeBiskope",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "830",
+            "name": "FilamchiBhojpuri",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "181",
+            "name": "BhojpuriCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "431",
+            "name": "OscarMoviesBhojpuri.",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "729",
+            "name": "B4UBhojpuri",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "899",
+            "name": "Pasand",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1165",
+            "name": "Raapchik",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "838",
+            "name": "KashishNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "79",
+            "name": "News18UttarPradeshUttarakhand",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "637",
+            "name": "ZeeUttarPradeshUttarakhand",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "News18BiharJharkhand",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "ZeeBiharJharkhand",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "IndiaNewsUPUK",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "613",
+            "name": "NewsStateUPUttarakhand",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "827",
+            "name": "SadhnaPlusNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1267",
+            "name": "HNNNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1344",
+            "name": "NaxatraNews",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "316",
+            "name": "DDBharati",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "339",
+            "name": "DDUttarPradesh",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "317",
+            "name": "DDBihar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "203",
+            "name": "News18MadhyaPradeshChhattisgarh",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "512",
+            "name": "ZeeMadhyaPradeshChattisgarh",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "27",
+            "name": "IBC24",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "652",
+            "name": "BansalNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "698",
+            "name": "INH24X7",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "222",
+            "name": "IndiaNewsMPCG",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "643",
+            "name": "NewsStateMPCG",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "577",
+            "name": "SwarajExpressSMBC",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "829",
+            "name": "SadhnaNewsMPCG",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "902",
+            "name": "News24MadhyapradeshChattisgarh",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "937",
+            "name": "AnaadiTV",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1009",
+            "name": "TV27News",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1074",
+            "name": "TV24",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "NDTVMPCG",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1315",
+            "name": "VistaarNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1353",
+            "name": "DANewsPlus",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1376",
+            "name": "BSTV",
+            "genres": [
+                "Hindi Regional"
+            ]
+        },
+        {
+            "id": "330",
+            "name": "DDMadhyaPradesh",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "News18Rajasthan",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "583",
+            "name": "ZeeRajasthanNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "650",
+            "name": "FirstIndiaRajasthan",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "IndiaNewsRajasthan",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "870",
+            "name": "JanTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1075",
+            "name": "SachBedhadak",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1152",
+            "name": "NDTVRajasthan",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "332",
+            "name": "DDRajasthan",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "354",
+            "name": "News18JammuKashmirLadakhHimachalHaryana",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "518",
+            "name": "SalaamTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "ChannelWIN",
+            "genres": [
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "365",
+            "name": "GulistanNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "338",
+            "name": "DDUrdu",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "308",
+            "name": "ColorsMarathiHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "134",
+            "name": "ColorsMarathi",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "501",
+            "name": "ZeeMarathiHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "251",
+            "name": "ZeeMarathi",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "622",
+            "name": "TataPlayMarathiCinema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "248",
+            "name": "ZeeYUVA",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "658",
+            "name": "SonyMarathi",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1444",
+            "name": "TataPlayMarathiClassics",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "515",
+            "name": "ZeeTalkiesHD",
+            "genres": [
+                "Regional",
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "249",
+            "name": "ZeeTalkies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FaktMarathi",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "800",
+            "name": "ShemarooMarathiBana",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Animation",
+                "Cartoons",
+                "Kids"
+            ]
+        },
+        {
+            "id": "155",
+            "name": "ABPMajha",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "140",
+            "name": "News18Lokmat",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "261",
+            "name": "Zee24Taas",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "546",
+            "name": "SaamTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "233",
+            "name": "JaiMaharashtra",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "97",
+            "name": "TV9Marathi",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "826",
+            "name": "LokshahiMarathi",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1102",
+            "name": "PudhariNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1343",
+            "name": "NDTVMARATHI",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "336",
+            "name": "DDSahyadri",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "217",
+            "name": "SangeetMarathi",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "305",
+            "name": "ColorsBanglaHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "26",
+            "name": "ColorsBangla",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "522",
+            "name": "ZeeBanglaHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "468",
+            "name": "StarJalshaHD",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "34",
+            "name": "SONYAATH",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "995",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Animation",
+                "Cartoons",
+                "Kids"
+            ]
+        },
+        {
+            "id": "129",
+            "name": "AakaashAath",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "RuposhiBangla",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "788",
+            "name": "Enterr10Bangla",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "537",
+            "name": "JalshaMoviesHD",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "254",
+            "name": "ZeeBanglaCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "896",
+            "name": "ColorsBanglaCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "379",
+            "name": "KhushbooBangla",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "RongeenTV",
+            "genres": [
+                "Regional",
+                "Kids"
+            ]
+        },
+        {
+            "id": "102",
+            "name": "ABPAnanda",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "258",
+            "name": "Zee24Ghanta",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "381",
+            "name": "KolkataTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "23",
+            "name": "News18Bangla",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "873",
+            "name": "TV9Bangla",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "890",
+            "name": "RepublicBangla",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "207",
+            "name": "NewsTimeBangla",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "311",
+            "name": "CTVNAKDPlus",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "648",
+            "name": "CalcuttaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "314",
+            "name": "DDBangla",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "215",
+            "name": "SangeetBangla",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "635",
+            "name": "ZeeTeluguHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "250",
+            "name": "ZeeTelugu",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "355",
+            "name": "GeminiTVHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "956",
+            "name": "STARMaaHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "516",
+            "name": "STARMaaHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "ETVHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "145",
+            "name": "ETVTelugu",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "361",
+            "name": "GeminiLife",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1342",
+            "name": "ETVPlusHD",
+            "genres": [
+                "Regional",
+                "Regional Telugu"
+            ]
+        },
+        {
+            "id": "352",
+            "name": "ETVPlus",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "996",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Animation",
+                "Cartoons",
+                "Kids"
+            ]
+        },
+        {
+            "id": "590",
+            "name": "TeluguNaaptol",
+            "genres": [
+                "Shopping"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "VissaTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "645",
+            "name": "TataPlayEnglishinTelugu",
+            "genres": [
+                "Regional",
+                "Knowledge",
+                "Kids",
+                "Specials"
+            ]
+        },
+        {
+            "id": "1389",
+            "name": "MahaaMax",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "362",
+            "name": "GeminiMoviesHD",
+            "genres": [
+                "Regional",
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "387",
+            "name": "StarMaaMoviesHD",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "957",
+            "name": "StarMaaMoviesHD",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "954",
+            "name": "StarMaaGold",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "388",
+            "name": "StarMaaGold",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1168",
+            "name": "TataPlayHollywoodLocalTelugu",
+            "genres": [
+                "Entertainment",
+                "Movies",
+                "Specials"
+            ]
+        },
+        {
+            "id": "636",
+            "name": "ZeeCinemaluHD",
+            "genres": [
+                "Regional",
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "252",
+            "name": "ZeeCinemalu",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1341",
+            "name": "ETVCinemaHD",
+            "genres": [
+                "Regional Telugu"
+            ]
+        },
+        {
+            "id": "128",
+            "name": "ETVCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1073",
+            "name": "TataPlayTeluguClassics",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "268",
+            "name": "ETVLife",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "ETVAbhiruchi",
+            "genres": [
+                "Regional",
+                "Food",
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "596",
+            "name": "SakshiTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "146",
+            "name": "ETVAndhraPradesh",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "320",
+            "name": "TV5News",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "TV9Telugu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "160",
+            "name": "NTVTelugu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "225",
+            "name": "ABNAndhraJyothy",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "49",
+            "name": "TNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "274",
+            "name": "V6Telugu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "83",
+            "name": "ETVTelangana",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "349",
+            "name": "HMTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "430",
+            "name": "RajNewsTelugu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "266",
+            "name": "10TV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1027",
+            "name": "SwatantraTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "774",
+            "name": "4tvNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1099",
+            "name": "Prime9Plus",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1100",
+            "name": "BIGTVTelugu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "MAHAANEWS",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1194",
+            "name": "BRKNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1288",
+            "name": "ZeeTeluguNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "337",
+            "name": "DDSaptagiri",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "548",
+            "name": "DDYadagiri",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "429",
+            "name": "RajMusixTelugu",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "BhaktiTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "445",
+            "name": "ShubhavaartaTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "285",
+            "name": "AradanaTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "351",
+            "name": "SwaraSagar",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "630",
+            "name": "HinduDharmam",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1378",
+            "name": "NireekshanaTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "521",
+            "name": "SunTVHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "1260",
+            "name": "TataPlayTamilClassics",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "474",
+            "name": "SunLife",
+            "genres": [
+                "Regional",
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "496",
+            "name": "StarVijayHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "1167",
+            "name": "TataPlayHollywoodLocalTamil",
+            "genres": [
+                "Movies",
+                "Regional",
+                "Specials"
+            ]
+        },
+        {
+            "id": "608",
+            "name": "ZeeTamilHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "257",
+            "name": "ZeeTamil",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "674",
+            "name": "ColorsTamilHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "418",
+            "name": "ColorsTamil",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "708",
+            "name": "JayaTVHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "200",
+            "name": "KalaignarTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "997",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Animation",
+                "Cartoons",
+                "Kids"
+            ]
+        },
+        {
+            "id": "439",
+            "name": "RajTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "99",
+            "name": "DTamil",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "426",
+            "name": "RajDigitalPlus",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "37",
+            "name": "MegaTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "723",
+            "name": "TamilNaaptol",
+            "genres": [
+                "Regional",
+                "Shopping"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "VasanthTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "611",
+            "name": "Sirippoli",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "272",
+            "name": "PolimerTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "392",
+            "name": "MakkalTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "659",
+            "name": "VendharTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1322",
+            "name": "ThanthiOne",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "380",
+            "name": "KTVHD",
+            "genres": [
+                "Regional",
+                "Movies",
+                "HD"
+            ]
+        },
+        {
+            "id": "201",
+            "name": "JMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1182",
+            "name": "ZeeThiraiHD",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "797",
+            "name": "ZeeThirai",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "444",
+            "name": "TravelxpTamil",
+            "genres": [
+                "Food",
+                "Lifestyle",
+                "Travel"
+            ]
+        },
+        {
+            "id": "220",
+            "name": "PuthiyaThalaimurai",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "524",
+            "name": "ThanthiTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "198",
+            "name": "JayaPlus",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "509",
+            "name": "PolimerNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "58",
+            "name": "News18TamilNadu",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "44",
+            "name": "SeithigalTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "525",
+            "name": "RajNewsTamil.",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "455",
+            "name": "SathiyamTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "391",
+            "name": "MalaiMurasuSeithigal",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "702",
+            "name": "NewsJ",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "968",
+            "name": "NewsTamil24x7",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1317",
+            "name": "TamilJanam",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "199",
+            "name": "JayaMax",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "425",
+            "name": "RajMusix",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "647",
+            "name": "Isaiaruvi",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "411",
+            "name": "MurasuTV",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "400",
+            "name": "MegaMusiq",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "434",
+            "name": "JothiTV",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "390",
+            "name": "MadhaTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "282",
+            "name": "AngelTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "408",
+            "name": "NambikkaiTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1459",
+            "name": "TataPlayDeiveegam",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "490",
+            "name": "SVBC2",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "334",
+            "name": "DDTamil",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "492",
+            "name": "UdayaTVHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "612",
+            "name": "ColorsKannadaHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "ColorsKannada",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "467",
+            "name": "StarSuvarnaHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "675",
+            "name": "ZeeKannadaHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "256",
+            "name": "ZeeKannada",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "372",
+            "name": "JeevanTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "533",
+            "name": "ColorsSUPER",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "566",
+            "name": "KannadaNaaptol",
+            "genres": [
+                "Regional",
+                "Shopping"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "SIRIKANNADAAlltime",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "UdayaMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "540",
+            "name": "StarSuvarnaPlus",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "667",
+            "name": "ColorsKannadaCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "1181",
+            "name": "ZeePiccharHD",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "810",
+            "name": "ZeePicchar",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "661",
+            "name": "PublicMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "152",
+            "name": "TV9Kannada",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "News18Kannada",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "33",
+            "name": "PublicTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "555",
+            "name": "AsianetSuvarnaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "629",
+            "name": "TV5Kannada",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "510",
+            "name": "RajNewsKannada",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "342",
+            "name": "RKannada",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "824",
+            "name": "PowerTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "913",
+            "name": "News1stKannada",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1287",
+            "name": "ZeeKannadaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "321",
+            "name": "DDChandana",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "427",
+            "name": "RajMusixKannada",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "424",
+            "name": "PublicMusic",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "477",
+            "name": "SriSankaraTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "660",
+            "name": "AyushTV",
+            "genres": [
+                "Regional",
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "971",
+            "name": "SVBC3",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "107",
+            "name": "ColorsGujarati",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "772",
+            "name": "TataPlayGujaratiCinema",
+            "genres": [
+                "Regional",
+                "Movies",
+                "Specials"
+            ]
+        },
+        {
+            "id": "692",
+            "name": "ColorsGujaratiCinema",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "489",
+            "name": "TV9Gujarati",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "552",
+            "name": "GujaratSamacharTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "586",
+            "name": "SandeshNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "303",
+            "name": "CNBCBajaar",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "News18Gujarati",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "73",
+            "name": "ABPAsmita",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "497",
+            "name": "VTVNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "507",
+            "name": "Zee24Kalak",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "654",
+            "name": "IndiaNewsGujarat",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "974",
+            "name": "1stGujarat",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1286",
+            "name": "NewsCapital",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "323",
+            "name": "DDGirnar",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1097",
+            "name": "AasthaGujarati",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "TataPlayLakshyaTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1349",
+            "name": "TataPlayKartavyaTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1351",
+            "name": "TataPlayKalyanTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "893",
+            "name": "TataPlayValamTV",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "115",
+            "name": "ColorsOriya",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "597",
+            "name": "ZeeSarthak",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "978",
+            "name": "SidharthTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "421",
+            "name": "PeppersTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1170",
+            "name": "SidharthGOLD",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "376",
+            "name": "KanakNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "375",
+            "name": "KalingaTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "News18Odia",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "448",
+            "name": "News7",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "805",
+            "name": "NandighoshaTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "907",
+            "name": "ArgusNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "333",
+            "name": "DDOdia",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1169",
+            "name": "JayJagannath.",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "230",
+            "name": "SuryaTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "292",
+            "name": "AsianetHD",
+            "genres": [
+                "Regional",
+                "Entertainment",
+                "HD"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "AsianetPlus",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "694",
+            "name": "ZeeKeralamHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "684",
+            "name": "ZeeKeralam",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Flowers",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "395",
+            "name": "MazhavilManoramaHD",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "31",
+            "name": "MazhavilManorama",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "25",
+            "name": "KairaliTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "553",
+            "name": "WeTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "178",
+            "name": "AmritaTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "229",
+            "name": "SuryaMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "293",
+            "name": "AsianetMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "933",
+            "name": "AsianetMovies",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "436",
+            "name": "SafariTV",
+            "genres": [
+                "Regional",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "532",
+            "name": "AsianetNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "66",
+            "name": "News18Kerala",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "87",
+            "name": "ManoramaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "394",
+            "name": "MathrubhumiNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "211",
+            "name": "KairaliNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "370",
+            "name": "JaihindTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "576",
+            "name": "MediaOne",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "270",
+            "name": "JanamTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "378",
+            "name": "KaumudyTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "428",
+            "name": "RajNewsMalayalam",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "799",
+            "name": "TwentyFour",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1124",
+            "name": "ReporterTV",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1313",
+            "name": "SHEKINAH",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "541",
+            "name": "RajMusixMalayalam",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "377",
+            "name": "KappaTV",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "Goodness",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "356",
+            "name": "GodTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "457",
+            "name": "ShalomTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "348",
+            "name": "HarvestTV24x7",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "571",
+            "name": "TataPlayPunjabDeRang",
+            "genres": [
+                "Regional",
+                "Movies",
+                "Specials"
+            ]
+        },
+        {
+            "id": "796",
+            "name": "ZeePunjabi",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "PTCPunjabi",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "MHOne",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "998",
+            "name": "TataPlayToons+",
+            "genres": [
+                "Animation",
+                "Cartoons",
+                "Kids"
+            ]
+        },
+        {
+            "id": "624",
+            "name": "PitaaraMovies",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "794",
+            "name": "PTCPunjabiGold",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "580",
+            "name": "ZeePunjabHaryanaHimachalPradesh",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "91",
+            "name": "PTCNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "232",
+            "name": "News18Punjab",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "366",
+            "name": "IndiaNewsPunjab",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "IndiaNewsHaryana",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "371",
+            "name": "JantaTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "401",
+            "name": "MHOneNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "787",
+            "name": "ANBNEWS",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "793",
+            "name": "LivingIndiaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "972",
+            "name": "KhabarFast",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "262",
+            "name": "ZeeDelhiNCRHaryana",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "989",
+            "name": "STVHaryanaNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1078",
+            "name": "DailyPostPunjabHaryanaHimachal",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "335",
+            "name": "DDPunjabi",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "PTCChakDe",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "922",
+            "name": "PTCMusic",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "193",
+            "name": "ChardiklaTimeTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "773",
+            "name": "PTCSimran",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "567",
+            "name": "Nepal1",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "101",
+            "name": "Rang",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "RengoniTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1082",
+            "name": "TataPlayAsomiyaMonoronjan",
+            "genres": [
+                "Others",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1352",
+            "name": "PearTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "368",
+            "name": "Indradhanu",
+            "genres": [
+                "Regional",
+                "Movies"
+            ]
+        },
+        {
+            "id": "47",
+            "name": "JonackTV",
+            "genres": [
+                "Others",
+                "Regional"
+            ]
+        },
+        {
+            "id": "353",
+            "name": "DY365",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "68",
+            "name": "News18AssamNorthEast",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "226",
+            "name": "NEWSLIVE",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "221",
+            "name": "ProtidinTime",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "423",
+            "name": "PragNews",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "417",
+            "name": "NorthEastLive",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "894",
+            "name": "NKTVPLUS",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "HornbillTV",
+            "genres": [
+                "Others",
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "977",
+            "name": "ND24-Newsdaily.in",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "NBNews",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1115",
+            "name": "PrathamKhabar24x7",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1268",
+            "name": "NENEWS",
+            "genres": [
+                "Others",
+                "Regional"
+            ]
+        },
+        {
+            "id": "331",
+            "name": "DDNorthEast",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "325",
+            "name": "DDKashir",
+            "genres": [
+                "Regional",
+                "News"
+            ]
+        },
+        {
+            "id": "449",
+            "name": "Ramdhenu",
+            "genres": [
+                "Regional",
+                "Music"
+            ]
+        },
+        {
+            "id": "991",
+            "name": "DDMeghalaya",
+            "genres": [
+                "Others",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1285",
+            "name": "SanaTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1284",
+            "name": "SanaPlusTV",
+            "genres": [
+                "Regional",
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1281",
+            "name": "Samachar24News",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "PrimeTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "849",
+            "name": "KashiVishwanathTemple,Varanasi",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "930",
+            "name": "BuletinIndia",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "791",
+            "name": "FatehTV",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "912",
+            "name": "HaryanaBeats",
+            "genres": [
+                "Music",
+                "Regional"
+            ]
+        },
+        {
+            "id": "807",
+            "name": "InGoa24x7",
+            "genres": [
+                "Entertainment",
+                "Regional"
+            ]
+        },
+        {
+            "id": "782",
+            "name": "NammaTV",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "781",
+            "name": "Prudent",
+            "genres": [
+                "Entertainment",
+                "Regional"
+            ]
+        },
+        {
+            "id": "819",
+            "name": "RDXGoa",
+            "genres": [
+                "Entertainment",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1290",
+            "name": "TVRIWorld",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "865",
+            "name": "BanglaBhakti",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "TaraNews",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "GarvGurbani",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "883",
+            "name": "SwarShree",
+            "genres": [
+                "Devotional",
+                "Regional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1379",
+            "name": "BharatTimesNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "910",
+            "name": "CNewsBharat",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1380",
+            "name": "News21",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1371",
+            "name": "BVG",
+            "genres": [
+                "Lifestyle"
+            ]
+        },
+        {
+            "id": "1254",
+            "name": "NationalNewsLive",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "OyeMusic",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "1257",
+            "name": "SangamTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1255",
+            "name": "UpdateIndia",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "841",
+            "name": "MahakaleshwarTemple,Ujjain",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1381",
+            "name": "ANANDHAMTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1382",
+            "name": "DHARSANTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1336",
+            "name": "ShresthbharatTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "931",
+            "name": "GreenChilliesTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1338",
+            "name": "TV45News",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "892",
+            "name": "SamaraNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "ShikshaTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1332",
+            "name": "ABSTARNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1334",
+            "name": "KBCNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1333",
+            "name": "ABCNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "947",
+            "name": "LivePatnaSahibPatna",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1337",
+            "name": "SristiTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "949",
+            "name": "LiveSriNagaSaiMandirCoimbatore",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Atmadarshan",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1339",
+            "name": "TNPNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "962",
+            "name": "ANNNews",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1002",
+            "name": "SaileelaTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1004",
+            "name": "ShriGangaAarti,Varanasi",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1008",
+            "name": "ShriISKCONGirgaon,Mumbai",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1007",
+            "name": "ShriAshtavinayakMahaganpati,Ranjangaon",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1006",
+            "name": "ShriMahalaxmiTemple,\u00c2\u00a0Mumbai",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1005",
+            "name": "ShriBabulnaathTemple,Mumbai",
+            "genres": [
+                "Devotional",
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1023",
+            "name": "DaijiWorldTV",
+            "genres": [
+                "Educational",
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "1018",
+            "name": "RealNewsKerala",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1019",
+            "name": "7xMusic",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "1040",
+            "name": "Jansetu",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1042",
+            "name": "BlessTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1043",
+            "name": "NakshatraDigital",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1044",
+            "name": "GlobalIndia",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "LivePunjabi",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "AajKiKhabar",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1059",
+            "name": "IndianNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1386",
+            "name": "NTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1070",
+            "name": "MEDIA9",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1079",
+            "name": "TTN24",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1080",
+            "name": "UBanglaTV",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1171",
+            "name": "ShreeIchchhapuranBalajiMandir",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1196",
+            "name": "EkamraBharatOdia",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1197",
+            "name": "EkamraNilachakra",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1198",
+            "name": "EkamraCynema",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1199",
+            "name": "EkamraMusic",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "1200",
+            "name": "EkamraJatra",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1201",
+            "name": "EkamraParamatma",
+            "genres": [
+                "Devotional"
+            ]
+        },
+        {
+            "id": "1202",
+            "name": "EkamraOnepaschima",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1203",
+            "name": "India24x7",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1204",
+            "name": "KalingaBharat",
+            "genres": [
+                "Music"
+            ]
+        },
+        {
+            "id": "1205",
+            "name": "Omm",
+            "genres": [
+                "Devotional"
+            ]
+        },
+        {
+            "id": "1206",
+            "name": "EkamraBaiscope",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1207",
+            "name": "EkamraManoranjan",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1208",
+            "name": "News8odia",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1209",
+            "name": "Ekamrasnews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1245",
+            "name": "NationalToday24x7",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "35MM",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "In24News",
+            "genres": [
+                "Regional"
+            ]
+        },
+        {
+            "id": "1246",
+            "name": "VandeBharatNews",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1252",
+            "name": "HaryanaBuzz",
+            "genres": [
+                "Knowledge"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "JeewanBhakti",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "NIJAMTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1384",
+            "name": "SURIYANTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1385",
+            "name": "SUBINTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1388",
+            "name": "UTV",
+            "genres": [
+                "Entertainment"
+            ]
+        },
+        {
+            "id": "1392",
+            "name": "Sadvidya",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1391",
+            "name": "BhakthiSiri",
+            "genres": [
+                "Devotional"
+            ]
+        },
+        {
+            "id": "1393",
+            "name": "In24LiveNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1415",
+            "name": "VSTIndia",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1414",
+            "name": "DKPNews",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1413",
+            "name": "HIFFMovies",
+            "genres": [
+                "Movies"
+            ]
+        },
+        {
+            "id": "1447",
+            "name": "GarviGujaratGujarati",
+            "genres": [
+                "Gujarati"
+            ]
+        },
+        {
+            "id": "1446",
+            "name": "SanmargTV",
+            "genres": [
+                "Spiritual"
+            ]
+        },
+        {
+            "id": "1448",
+            "name": "24HrsTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1445",
+            "name": "TarTV",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1460",
+            "name": "BHIChannel",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1461",
+            "name": "NewsGround24x7",
+            "genres": [
+                "News",
+                "Regional"
+            ]
+        },
+        {
+            "id": "1462",
+            "name": "22Scope",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "1463",
+            "name": "ExpressNewsBharat",
+            "genres": [
+                "News"
+            ]
+        },
+        {
+            "id": "664",
+            "name": "StarSports3",
+            "genres": [
+                "Sports"
+            ]
+        }
+    ]
+}

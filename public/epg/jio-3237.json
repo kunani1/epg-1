@@ -1,5 +1,95 @@
 [
   {
+    "startRaw": "20251127183000",
+    "stopRaw": "20251128003000",
+    "start": "2025-11-28 00:00:00 IST",
+    "stop": "2025-11-28 06:00:00 IST",
+    "channel": "jio-3237",
+    "title": "Songs",
+    "subTitle": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128003000",
+    "stopRaw": "20251128030000",
+    "start": "2025-11-28 06:00:00 IST",
+    "stop": "2025-11-28 08:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Annavra Makkalu",
+    "subTitle": "A set of triplets get separated from each other at their birth. However, things take a turn for the better when the trio reunite as grown-ups to avenge their father's death.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128030000",
+    "stopRaw": "20251128050000",
+    "start": "2025-11-28 08:30:00 IST",
+    "stop": "2025-11-28 10:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Anaatha",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128050000",
+    "stopRaw": "20251128070000",
+    "start": "2025-11-28 10:30:00 IST",
+    "stop": "2025-11-28 12:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Antarala",
+    "subTitle": "A man falls in love with his friend's sister; however, things begin to change as they begin to grow apart because of another woman in his life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128070000",
+    "stopRaw": "20251128100000",
+    "start": "2025-11-28 12:30:00 IST",
+    "stop": "2025-11-28 15:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Anthima Ghatta",
+    "subTitle": "A middle-aged man seeks help from a reputed lawyer after he is charged with murdering his wife. However, a shocking mystery unfolds after the lawyer uncovers the identity of the killer.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128100000",
+    "stopRaw": "20251128120000",
+    "start": "2025-11-28 15:30:00 IST",
+    "stop": "2025-11-28 17:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Antinta Gandu Naanalla",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128120000",
+    "stopRaw": "20251128140000",
+    "start": "2025-11-28 17:30:00 IST",
+    "stop": "2025-11-28 19:30:00 IST",
+    "channel": "jio-3237",
+    "title": "Annavra Makkalu",
+    "subTitle": "A set of triplets get separated from each other at their birth. However, things take a turn for the better when the trio reunite as grown-ups to avenge their father's death.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128140000",
+    "stopRaw": "20251128143000",
+    "start": "2025-11-28 19:30:00 IST",
+    "stop": "2025-11-28 20:00:00 IST",
+    "channel": "jio-3237",
+    "title": "Anaatha",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251128143000",
+    "stopRaw": "20251128182959",
+    "start": "2025-11-28 20:00:00 IST",
+    "stop": "2025-11-28 23:59:59 IST",
+    "channel": "jio-3237",
+    "title": "Antarala",
+    "subTitle": "A man falls in love with his friend's sister; however, things begin to change as they begin to grow apart because of another woman in his life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251128183000",
     "stopRaw": "20251129003000",
     "start": "2025-11-29 00:00:00 IST",
@@ -75,8 +165,8 @@
     "start": "2025-11-29 19:30:00 IST",
     "stop": "2025-11-29 20:00:00 IST",
     "channel": "jio-3237",
-    "title": "Annaatthe",
-    "subTitle": "After a girl marries her lover and moves to Kolkata, she comes across many threatening situations. Kaaliyan, her brother, leaves no stone unturned to protect her.",
+    "title": "Anaatha",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -95,8 +185,8 @@
     "start": "2025-11-30 00:00:00 IST",
     "stop": "2025-11-30 06:00:00 IST",
     "channel": "jio-3237",
-    "title": "Pool Songs",
-    "subTitle": "",
+    "title": "Songs",
+    "subTitle": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -115,8 +205,8 @@
     "start": "2025-11-30 08:30:00 IST",
     "stop": "2025-11-30 10:30:00 IST",
     "channel": "jio-3237",
-    "title": "Antha",
-    "subTitle": "An honest police officer's life takes a drastic turn when he is tasked with a mission to gather intelligence on a criminal gang led by his doppelganger.",
+    "title": "Anaatha",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -165,8 +255,8 @@
     "start": "2025-11-30 19:30:00 IST",
     "stop": "2025-11-30 20:00:00 IST",
     "channel": "jio-3237",
-    "title": "Antha",
-    "subTitle": "An honest police officer's life takes a drastic turn when he is tasked with a mission to gather intelligence on a criminal gang led by his doppelganger.",
+    "title": "Anaatha",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -174,96 +264,6 @@
     "stopRaw": "20251130182959",
     "start": "2025-11-30 20:00:00 IST",
     "stop": "2025-11-30 23:59:59 IST",
-    "channel": "jio-3237",
-    "title": "Antarala",
-    "subTitle": "A man falls in love with his friend's sister; however, things begin to change as they begin to grow apart because of another woman in his life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251130183000",
-    "stopRaw": "20251201003000",
-    "start": "2025-12-01 00:00:00 IST",
-    "stop": "2025-12-01 06:00:00 IST",
-    "channel": "jio-3237",
-    "title": "Pool Songs",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201003000",
-    "stopRaw": "20251201030000",
-    "start": "2025-12-01 06:00:00 IST",
-    "stop": "2025-12-01 08:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Annavra Makkalu",
-    "subTitle": "A set of triplets get separated from each other at their birth. However, things take a turn for the better when the trio reunite as grown-ups to avenge their father's death.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201030000",
-    "stopRaw": "20251201050000",
-    "start": "2025-12-01 08:30:00 IST",
-    "stop": "2025-12-01 10:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Antha",
-    "subTitle": "An honest police officer's life takes a drastic turn when he is tasked with a mission to gather intelligence on a criminal gang led by his doppelganger.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201050000",
-    "stopRaw": "20251201070000",
-    "start": "2025-12-01 10:30:00 IST",
-    "stop": "2025-12-01 12:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Antarala",
-    "subTitle": "A man falls in love with his friend's sister; however, things begin to change as they begin to grow apart because of another woman in his life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201070000",
-    "stopRaw": "20251201100000",
-    "start": "2025-12-01 12:30:00 IST",
-    "stop": "2025-12-01 15:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Anthima Ghatta",
-    "subTitle": "A middle-aged man seeks help from a reputed lawyer after he is charged with murdering his wife. However, a shocking mystery unfolds after the lawyer uncovers the identity of the killer.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201100000",
-    "stopRaw": "20251201120000",
-    "start": "2025-12-01 15:30:00 IST",
-    "stop": "2025-12-01 17:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Antinta Gandu Naanalla",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201120000",
-    "stopRaw": "20251201140000",
-    "start": "2025-12-01 17:30:00 IST",
-    "stop": "2025-12-01 19:30:00 IST",
-    "channel": "jio-3237",
-    "title": "Annavra Makkalu",
-    "subTitle": "A set of triplets get separated from each other at their birth. However, things take a turn for the better when the trio reunite as grown-ups to avenge their father's death.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201140000",
-    "stopRaw": "20251201143000",
-    "start": "2025-12-01 19:30:00 IST",
-    "stop": "2025-12-01 20:00:00 IST",
-    "channel": "jio-3237",
-    "title": "Antha",
-    "subTitle": "An honest police officer's life takes a drastic turn when he is tasked with a mission to gather intelligence on a criminal gang led by his doppelganger.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251201143000",
-    "stopRaw": "20251201182959",
-    "start": "2025-12-01 20:00:00 IST",
-    "stop": "2025-12-01 23:59:59 IST",
     "channel": "jio-3237",
     "title": "Antarala",
     "subTitle": "A man falls in love with his friend's sister; however, things begin to change as they begin to grow apart because of another woman in his life.",

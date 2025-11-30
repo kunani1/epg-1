@@ -431,18 +431,28 @@
   },
   {
     "startRaw": "20251130183000",
-    "stopRaw": "20251130213000",
+    "stopRaw": "20251130193900",
     "start": "2025-12-01 00:00:00 IST",
-    "stop": "2025-12-01 03:00:00 IST",
+    "stop": "2025-12-01 01:09:00 IST",
     "channel": "jio-685",
     "title": "Game",
     "subTitle": "An action thriller directed by Bala Yadav, featuring Jeet.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251130213000",
+    "startRaw": "20251130193900",
+    "stopRaw": "20251130214000",
+    "start": "2025-12-01 01:09:00 IST",
+    "stop": "2025-12-01 03:10:00 IST",
+    "channel": "jio-685",
+    "title": "Saving Account",
+    "subTitle": "Abhimanyu Sen enters a bank and holds people hostage. Later, when the police get involved, he puts forth eight demands in order for the hostages to be released.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130214000",
     "stopRaw": "20251130233000",
-    "start": "2025-12-01 03:00:00 IST",
+    "start": "2025-12-01 03:10:00 IST",
     "stop": "2025-12-01 05:00:00 IST",
     "channel": "jio-685",
     "title": "Aamar Pratigya",

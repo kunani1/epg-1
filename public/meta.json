@@ -1,7 +1,7 @@
 {
-  "lastUpdate": "2025-12-02T21:43:27.506Z",
-  "totalProgrammes": 113563,
-  "totalChannels": 1200,
+  "lastUpdate": "2025-12-02T21:58:35.695Z",
+  "totalProgrammes": 114197,
+  "totalChannels": 1202,
   "timeZone": "Asia/Kolkata (IST, UTC+5:30)",
   "note": "start/stop fields are formatted in IST; startRaw/stopRaw hold original XMLTV timestamps. 'image' field comes from TataPlay image DB or default.",
   "source": "https://tsepg.cf/jio.xml.gz"

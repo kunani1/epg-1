@@ -1,5 +1,695 @@
 [
   {
+    "startRaw": "20251130183000",
+    "stopRaw": "20251130190000",
+    "start": "2025-12-01 00:00:00 IST",
+    "stop": "2025-12-01 00:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130190000",
+    "stopRaw": "20251130195608",
+    "start": "2025-12-01 00:30:00 IST",
+    "stop": "2025-12-01 01:26:08 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130195608",
+    "stopRaw": "20251130202533",
+    "start": "2025-12-01 01:26:08 IST",
+    "stop": "2025-12-01 01:55:33 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130202533",
+    "stopRaw": "20251130205919",
+    "start": "2025-12-01 01:55:33 IST",
+    "stop": "2025-12-01 02:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130205919",
+    "stopRaw": "20251130210003",
+    "start": "2025-12-01 02:29:19 IST",
+    "stop": "2025-12-01 02:30:03 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130210003",
+    "stopRaw": "20251130211834",
+    "start": "2025-12-01 02:30:03 IST",
+    "stop": "2025-12-01 02:48:34 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130211834",
+    "stopRaw": "20251130212444",
+    "start": "2025-12-01 02:48:34 IST",
+    "stop": "2025-12-01 02:54:44 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130212444",
+    "stopRaw": "20251130222409",
+    "start": "2025-12-01 02:54:44 IST",
+    "stop": "2025-12-01 03:54:09 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130222409",
+    "stopRaw": "20251130223109",
+    "start": "2025-12-01 03:54:09 IST",
+    "stop": "2025-12-01 04:01:09 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130223109",
+    "stopRaw": "20251130225958",
+    "start": "2025-12-01 04:01:09 IST",
+    "stop": "2025-12-01 04:29:58 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130225958",
+    "stopRaw": "20251130232619",
+    "start": "2025-12-01 04:29:58 IST",
+    "stop": "2025-12-01 04:56:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130232619",
+    "stopRaw": "20251130232721",
+    "start": "2025-12-01 04:56:19 IST",
+    "stop": "2025-12-01 04:57:21 IST",
+    "channel": "jio-1607",
+    "title": "Spritual Quotations",
+    "subTitle": "Quotations By Spiritual Masters",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130232721",
+    "stopRaw": "20251130233417",
+    "start": "2025-12-01 04:57:21 IST",
+    "stop": "2025-12-01 05:04:17 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251130233417",
+    "stopRaw": "20251201002931",
+    "start": "2025-12-01 05:04:17 IST",
+    "stop": "2025-12-01 05:59:31 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201002931",
+    "stopRaw": "20251201003015",
+    "start": "2025-12-01 05:59:31 IST",
+    "stop": "2025-12-01 06:00:15 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201003015",
+    "stopRaw": "20251201005919",
+    "start": "2025-12-01 06:00:15 IST",
+    "stop": "2025-12-01 06:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201005919",
+    "stopRaw": "20251201013543",
+    "start": "2025-12-01 06:29:19 IST",
+    "stop": "2025-12-01 07:05:43 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201013543",
+    "stopRaw": "20251201014032",
+    "start": "2025-12-01 07:05:43 IST",
+    "stop": "2025-12-01 07:10:32 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201014032",
+    "stopRaw": "20251201014116",
+    "start": "2025-12-01 07:10:32 IST",
+    "stop": "2025-12-01 07:11:16 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201014116",
+    "stopRaw": "20251201014734",
+    "start": "2025-12-01 07:11:16 IST",
+    "stop": "2025-12-01 07:17:34 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-05",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201014734",
+    "stopRaw": "20251201021801",
+    "start": "2025-12-01 07:17:34 IST",
+    "stop": "2025-12-01 07:48:01 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201021801",
+    "stopRaw": "20251201022343",
+    "start": "2025-12-01 07:48:01 IST",
+    "stop": "2025-12-01 07:53:43 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201022343",
+    "stopRaw": "20251201023000",
+    "start": "2025-12-01 07:53:43 IST",
+    "stop": "2025-12-01 08:00:00 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201023000",
+    "stopRaw": "20251201030000",
+    "start": "2025-12-01 08:00:00 IST",
+    "stop": "2025-12-01 08:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201030000",
+    "stopRaw": "20251201035608",
+    "start": "2025-12-01 08:30:00 IST",
+    "stop": "2025-12-01 09:26:08 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201035608",
+    "stopRaw": "20251201042533",
+    "start": "2025-12-01 09:26:08 IST",
+    "stop": "2025-12-01 09:55:33 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201042533",
+    "stopRaw": "20251201045919",
+    "start": "2025-12-01 09:55:33 IST",
+    "stop": "2025-12-01 10:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201045919",
+    "stopRaw": "20251201050003",
+    "start": "2025-12-01 10:29:19 IST",
+    "stop": "2025-12-01 10:30:03 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201050003",
+    "stopRaw": "20251201051834",
+    "start": "2025-12-01 10:30:03 IST",
+    "stop": "2025-12-01 10:48:34 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201051834",
+    "stopRaw": "20251201052444",
+    "start": "2025-12-01 10:48:34 IST",
+    "stop": "2025-12-01 10:54:44 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201052444",
+    "stopRaw": "20251201062409",
+    "start": "2025-12-01 10:54:44 IST",
+    "stop": "2025-12-01 11:54:09 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201062409",
+    "stopRaw": "20251201063109",
+    "start": "2025-12-01 11:54:09 IST",
+    "stop": "2025-12-01 12:01:09 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201063109",
+    "stopRaw": "20251201065958",
+    "start": "2025-12-01 12:01:09 IST",
+    "stop": "2025-12-01 12:29:58 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201065958",
+    "stopRaw": "20251201072619",
+    "start": "2025-12-01 12:29:58 IST",
+    "stop": "2025-12-01 12:56:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201072619",
+    "stopRaw": "20251201072721",
+    "start": "2025-12-01 12:56:19 IST",
+    "stop": "2025-12-01 12:57:21 IST",
+    "channel": "jio-1607",
+    "title": "Spritual Quotations",
+    "subTitle": "Quotations By Spiritual Masters",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201072721",
+    "stopRaw": "20251201073417",
+    "start": "2025-12-01 12:57:21 IST",
+    "stop": "2025-12-01 13:04:17 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201073417",
+    "stopRaw": "20251201082931",
+    "start": "2025-12-01 13:04:17 IST",
+    "stop": "2025-12-01 13:59:31 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201082931",
+    "stopRaw": "20251201083015",
+    "start": "2025-12-01 13:59:31 IST",
+    "stop": "2025-12-01 14:00:15 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201083015",
+    "stopRaw": "20251201085919",
+    "start": "2025-12-01 14:00:15 IST",
+    "stop": "2025-12-01 14:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201085919",
+    "stopRaw": "20251201093543",
+    "start": "2025-12-01 14:29:19 IST",
+    "stop": "2025-12-01 15:05:43 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201093543",
+    "stopRaw": "20251201094032",
+    "start": "2025-12-01 15:05:43 IST",
+    "stop": "2025-12-01 15:10:32 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201094032",
+    "stopRaw": "20251201094116",
+    "start": "2025-12-01 15:10:32 IST",
+    "stop": "2025-12-01 15:11:16 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201094116",
+    "stopRaw": "20251201094734",
+    "start": "2025-12-01 15:11:16 IST",
+    "stop": "2025-12-01 15:17:34 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-05",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201094734",
+    "stopRaw": "20251201101801",
+    "start": "2025-12-01 15:17:34 IST",
+    "stop": "2025-12-01 15:48:01 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201101801",
+    "stopRaw": "20251201102343",
+    "start": "2025-12-01 15:48:01 IST",
+    "stop": "2025-12-01 15:53:43 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201102343",
+    "stopRaw": "20251201103000",
+    "start": "2025-12-01 15:53:43 IST",
+    "stop": "2025-12-01 16:00:00 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201103000",
+    "stopRaw": "20251201110000",
+    "start": "2025-12-01 16:00:00 IST",
+    "stop": "2025-12-01 16:30:00 IST",
+    "channel": "jio-1607",
+    "title": "Aarti",
+    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201110000",
+    "stopRaw": "20251201115608",
+    "start": "2025-12-01 16:30:00 IST",
+    "stop": "2025-12-01 17:26:08 IST",
+    "channel": "jio-1607",
+    "title": "Yog Sanjeevani",
+    "subTitle": "Yoga Based Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201115608",
+    "stopRaw": "20251201122533",
+    "start": "2025-12-01 17:26:08 IST",
+    "stop": "2025-12-01 17:55:33 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201122533",
+    "stopRaw": "20251201125919",
+    "start": "2025-12-01 17:55:33 IST",
+    "stop": "2025-12-01 18:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Pravachan-Shri Satpal Ji Maharaj",
+    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201125919",
+    "stopRaw": "20251201130003",
+    "start": "2025-12-01 18:29:19 IST",
+    "stop": "2025-12-01 18:30:03 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201130003",
+    "stopRaw": "20251201131834",
+    "start": "2025-12-01 18:30:03 IST",
+    "stop": "2025-12-01 18:48:34 IST",
+    "channel": "jio-1607",
+    "title": "Mission Education",
+    "subTitle": "Social Initiative By MUSS",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201131834",
+    "stopRaw": "20251201132444",
+    "start": "2025-12-01 18:48:34 IST",
+    "stop": "2025-12-01 18:54:44 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-02",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201132444",
+    "stopRaw": "20251201142409",
+    "start": "2025-12-01 18:54:44 IST",
+    "stop": "2025-12-01 19:54:09 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201142409",
+    "stopRaw": "20251201143109",
+    "start": "2025-12-01 19:54:09 IST",
+    "stop": "2025-12-01 20:01:09 IST",
+    "channel": "jio-1607",
+    "title": "Bhajan",
+    "subTitle": "Devotional Bhajans",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201143109",
+    "stopRaw": "20251201145958",
+    "start": "2025-12-01 20:01:09 IST",
+    "stop": "2025-12-01 20:29:58 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201145958",
+    "stopRaw": "20251201152619",
+    "start": "2025-12-01 20:29:58 IST",
+    "stop": "2025-12-01 20:56:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201152619",
+    "stopRaw": "20251201152721",
+    "start": "2025-12-01 20:56:19 IST",
+    "stop": "2025-12-01 20:57:21 IST",
+    "channel": "jio-1607",
+    "title": "Spritual Quotations",
+    "subTitle": "Quotations By Spiritual Masters",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201152721",
+    "stopRaw": "20251201153417",
+    "start": "2025-12-01 20:57:21 IST",
+    "stop": "2025-12-01 21:04:17 IST",
+    "channel": "jio-1607",
+    "title": "Aarogya",
+    "subTitle": "Special Show on Ayurveda",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201153417",
+    "stopRaw": "20251201162931",
+    "start": "2025-12-01 21:04:17 IST",
+    "stop": "2025-12-01 21:59:31 IST",
+    "channel": "jio-1607",
+    "title": "Srijan",
+    "subTitle": "Cultural Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201162931",
+    "stopRaw": "20251201163015",
+    "start": "2025-12-01 21:59:31 IST",
+    "stop": "2025-12-01 22:00:15 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201163015",
+    "stopRaw": "20251201165919",
+    "start": "2025-12-01 22:00:15 IST",
+    "stop": "2025-12-01 22:29:19 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara M",
+    "subTitle": "Discourse By Mahatma Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201165919",
+    "stopRaw": "20251201173543",
+    "start": "2025-12-01 22:29:19 IST",
+    "stop": "2025-12-01 23:05:43 IST",
+    "channel": "jio-1607",
+    "title": "Satsang Dhara B",
+    "subTitle": "Discourse by Bai Ji",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201173543",
+    "stopRaw": "20251201174032",
+    "start": "2025-12-01 23:05:43 IST",
+    "stop": "2025-12-01 23:10:32 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-01",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201174032",
+    "stopRaw": "20251201174116",
+    "start": "2025-12-01 23:10:32 IST",
+    "stop": "2025-12-01 23:11:16 IST",
+    "channel": "jio-1607",
+    "title": "Promo",
+    "subTitle": "All Program Mix Promo",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201174116",
+    "stopRaw": "20251201174733",
+    "start": "2025-12-01 23:11:16 IST",
+    "stop": "2025-12-01 23:17:33 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201174733",
+    "stopRaw": "20251201181800",
+    "start": "2025-12-01 23:17:33 IST",
+    "stop": "2025-12-01 23:48:00 IST",
+    "channel": "jio-1607",
+    "title": "Hansvani",
+    "subTitle": "Bhajan Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201181800",
+    "stopRaw": "20251201182342",
+    "start": "2025-12-01 23:48:00 IST",
+    "stop": "2025-12-01 23:53:42 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-03",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251201182342",
+    "stopRaw": "20251201182959",
+    "start": "2025-12-01 23:53:42 IST",
+    "stop": "2025-12-01 23:59:59 IST",
+    "channel": "jio-1607",
+    "title": "Shri Hans Ji Maharaj-04",
+    "subTitle": "Animation Story on Shri Hans Ji maharaj",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251201183000",
     "stopRaw": "20251201190000",
     "start": "2025-12-02 00:00:00 IST",
@@ -1407,726 +2097,6 @@
     "channel": "jio-1607",
     "title": "Hansvani",
     "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203183000",
-    "stopRaw": "20251203190000",
-    "start": "2025-12-04 00:00:00 IST",
-    "stop": "2025-12-04 00:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203190000",
-    "stopRaw": "20251203200206",
-    "start": "2025-12-04 00:30:00 IST",
-    "stop": "2025-12-04 01:32:06 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203200206",
-    "stopRaw": "20251203204157",
-    "start": "2025-12-04 01:32:06 IST",
-    "stop": "2025-12-04 02:11:57 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203204157",
-    "stopRaw": "20251203213210",
-    "start": "2025-12-04 02:11:57 IST",
-    "stop": "2025-12-04 03:02:10 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203213210",
-    "stopRaw": "20251203213659",
-    "start": "2025-12-04 03:02:10 IST",
-    "stop": "2025-12-04 03:06:59 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203213659",
-    "stopRaw": "20251203214309",
-    "start": "2025-12-04 03:06:59 IST",
-    "stop": "2025-12-04 03:13:09 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203214309",
-    "stopRaw": "20251203223149",
-    "start": "2025-12-04 03:13:09 IST",
-    "stop": "2025-12-04 04:01:49 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203223149",
-    "stopRaw": "20251203224724",
-    "start": "2025-12-04 04:01:49 IST",
-    "stop": "2025-12-04 04:17:24 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203224724",
-    "stopRaw": "20251203233048",
-    "start": "2025-12-04 04:17:24 IST",
-    "stop": "2025-12-04 05:00:48 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203233048",
-    "stopRaw": "20251203233630",
-    "start": "2025-12-04 05:00:48 IST",
-    "stop": "2025-12-04 05:06:30 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203233630",
-    "stopRaw": "20251203235543",
-    "start": "2025-12-04 05:06:30 IST",
-    "stop": "2025-12-04 05:25:43 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251203235543",
-    "stopRaw": "20251204002554",
-    "start": "2025-12-04 05:25:43 IST",
-    "stop": "2025-12-04 05:55:54 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204002554",
-    "stopRaw": "20251204003115",
-    "start": "2025-12-04 05:55:54 IST",
-    "stop": "2025-12-04 06:01:15 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204003115",
-    "stopRaw": "20251204003125",
-    "start": "2025-12-04 06:01:15 IST",
-    "stop": "2025-12-04 06:01:25 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204003125",
-    "stopRaw": "20251204005603",
-    "start": "2025-12-04 06:01:25 IST",
-    "stop": "2025-12-04 06:26:03 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204005603",
-    "stopRaw": "20251204011315",
-    "start": "2025-12-04 06:26:03 IST",
-    "stop": "2025-12-04 06:43:15 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204011315",
-    "stopRaw": "20251204011359",
-    "start": "2025-12-04 06:43:15 IST",
-    "stop": "2025-12-04 06:43:59 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204011359",
-    "stopRaw": "20251204012449",
-    "start": "2025-12-04 06:43:59 IST",
-    "stop": "2025-12-04 06:54:49 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204012449",
-    "stopRaw": "20251204013106",
-    "start": "2025-12-04 06:54:49 IST",
-    "stop": "2025-12-04 07:01:06 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204013106",
-    "stopRaw": "20251204022208",
-    "start": "2025-12-04 07:01:06 IST",
-    "stop": "2025-12-04 07:52:08 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204022208",
-    "stopRaw": "20251204022252",
-    "start": "2025-12-04 07:52:08 IST",
-    "stop": "2025-12-04 07:52:52 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204022252",
-    "stopRaw": "20251204022910",
-    "start": "2025-12-04 07:52:52 IST",
-    "stop": "2025-12-04 07:59:10 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-05",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204022910",
-    "stopRaw": "20251204022916",
-    "start": "2025-12-04 07:59:10 IST",
-    "stop": "2025-12-04 07:59:16 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204022916",
-    "stopRaw": "20251204023000",
-    "start": "2025-12-04 07:59:16 IST",
-    "stop": "2025-12-04 08:00:00 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204023000",
-    "stopRaw": "20251204030000",
-    "start": "2025-12-04 08:00:00 IST",
-    "stop": "2025-12-04 08:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204030000",
-    "stopRaw": "20251204040206",
-    "start": "2025-12-04 08:30:00 IST",
-    "stop": "2025-12-04 09:32:06 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204040206",
-    "stopRaw": "20251204044157",
-    "start": "2025-12-04 09:32:06 IST",
-    "stop": "2025-12-04 10:11:57 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204044157",
-    "stopRaw": "20251204053210",
-    "start": "2025-12-04 10:11:57 IST",
-    "stop": "2025-12-04 11:02:10 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204053210",
-    "stopRaw": "20251204053659",
-    "start": "2025-12-04 11:02:10 IST",
-    "stop": "2025-12-04 11:06:59 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204053659",
-    "stopRaw": "20251204054309",
-    "start": "2025-12-04 11:06:59 IST",
-    "stop": "2025-12-04 11:13:09 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204054309",
-    "stopRaw": "20251204063149",
-    "start": "2025-12-04 11:13:09 IST",
-    "stop": "2025-12-04 12:01:49 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204063149",
-    "stopRaw": "20251204064724",
-    "start": "2025-12-04 12:01:49 IST",
-    "stop": "2025-12-04 12:17:24 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204064724",
-    "stopRaw": "20251204073048",
-    "start": "2025-12-04 12:17:24 IST",
-    "stop": "2025-12-04 13:00:48 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204073048",
-    "stopRaw": "20251204073630",
-    "start": "2025-12-04 13:00:48 IST",
-    "stop": "2025-12-04 13:06:30 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204073630",
-    "stopRaw": "20251204075543",
-    "start": "2025-12-04 13:06:30 IST",
-    "stop": "2025-12-04 13:25:43 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204075543",
-    "stopRaw": "20251204082554",
-    "start": "2025-12-04 13:25:43 IST",
-    "stop": "2025-12-04 13:55:54 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204082554",
-    "stopRaw": "20251204083115",
-    "start": "2025-12-04 13:55:54 IST",
-    "stop": "2025-12-04 14:01:15 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204083115",
-    "stopRaw": "20251204083125",
-    "start": "2025-12-04 14:01:15 IST",
-    "stop": "2025-12-04 14:01:25 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204083125",
-    "stopRaw": "20251204085603",
-    "start": "2025-12-04 14:01:25 IST",
-    "stop": "2025-12-04 14:26:03 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204085603",
-    "stopRaw": "20251204091315",
-    "start": "2025-12-04 14:26:03 IST",
-    "stop": "2025-12-04 14:43:15 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204091315",
-    "stopRaw": "20251204091359",
-    "start": "2025-12-04 14:43:15 IST",
-    "stop": "2025-12-04 14:43:59 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204091359",
-    "stopRaw": "20251204092449",
-    "start": "2025-12-04 14:43:59 IST",
-    "stop": "2025-12-04 14:54:49 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204092449",
-    "stopRaw": "20251204093106",
-    "start": "2025-12-04 14:54:49 IST",
-    "stop": "2025-12-04 15:01:06 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204093106",
-    "stopRaw": "20251204102208",
-    "start": "2025-12-04 15:01:06 IST",
-    "stop": "2025-12-04 15:52:08 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204102208",
-    "stopRaw": "20251204102252",
-    "start": "2025-12-04 15:52:08 IST",
-    "stop": "2025-12-04 15:52:52 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204102252",
-    "stopRaw": "20251204102910",
-    "start": "2025-12-04 15:52:52 IST",
-    "stop": "2025-12-04 15:59:10 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-05",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204102910",
-    "stopRaw": "20251204102916",
-    "start": "2025-12-04 15:59:10 IST",
-    "stop": "2025-12-04 15:59:16 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204102916",
-    "stopRaw": "20251204103000",
-    "start": "2025-12-04 15:59:16 IST",
-    "stop": "2025-12-04 16:00:00 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204103000",
-    "stopRaw": "20251204110000",
-    "start": "2025-12-04 16:00:00 IST",
-    "stop": "2025-12-04 16:30:00 IST",
-    "channel": "jio-1607",
-    "title": "Aarti",
-    "subTitle": "Aarti- Guru Maharaj Ji and Mata Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204110000",
-    "stopRaw": "20251204120206",
-    "start": "2025-12-04 16:30:00 IST",
-    "stop": "2025-12-04 17:32:06 IST",
-    "channel": "jio-1607",
-    "title": "Yog Sanjeevani",
-    "subTitle": "Yoga Based Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204120206",
-    "stopRaw": "20251204124157",
-    "start": "2025-12-04 17:32:06 IST",
-    "stop": "2025-12-04 18:11:57 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204124157",
-    "stopRaw": "20251204133210",
-    "start": "2025-12-04 18:11:57 IST",
-    "stop": "2025-12-04 19:02:10 IST",
-    "channel": "jio-1607",
-    "title": "Pravachan-Shri Satpal Ji Maharaj",
-    "subTitle": "Discourse: Shri Satpal Ji Maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204133210",
-    "stopRaw": "20251204133659",
-    "start": "2025-12-04 19:02:10 IST",
-    "stop": "2025-12-04 19:06:59 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-01",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204133659",
-    "stopRaw": "20251204134309",
-    "start": "2025-12-04 19:06:59 IST",
-    "stop": "2025-12-04 19:13:09 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-02",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204134309",
-    "stopRaw": "20251204143149",
-    "start": "2025-12-04 19:13:09 IST",
-    "stop": "2025-12-04 20:01:49 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204143149",
-    "stopRaw": "20251204144724",
-    "start": "2025-12-04 20:01:49 IST",
-    "stop": "2025-12-04 20:17:24 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204144724",
-    "stopRaw": "20251204153048",
-    "start": "2025-12-04 20:17:24 IST",
-    "stop": "2025-12-04 21:00:48 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204153048",
-    "stopRaw": "20251204153630",
-    "start": "2025-12-04 21:00:48 IST",
-    "stop": "2025-12-04 21:06:30 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-03",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204153630",
-    "stopRaw": "20251204155543",
-    "start": "2025-12-04 21:06:30 IST",
-    "stop": "2025-12-04 21:25:43 IST",
-    "channel": "jio-1607",
-    "title": "Bhuli -An Uttarakhand Story",
-    "subTitle": "Social Initiative By MUSS",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204155543",
-    "stopRaw": "20251204162554",
-    "start": "2025-12-04 21:25:43 IST",
-    "stop": "2025-12-04 21:55:54 IST",
-    "channel": "jio-1607",
-    "title": "Hansvani",
-    "subTitle": "Bhajan Program",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204162554",
-    "stopRaw": "20251204163115",
-    "start": "2025-12-04 21:55:54 IST",
-    "stop": "2025-12-04 22:01:15 IST",
-    "channel": "jio-1607",
-    "title": "Aarogya",
-    "subTitle": "Special Show on Ayurveda",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204163115",
-    "stopRaw": "20251204163125",
-    "start": "2025-12-04 22:01:15 IST",
-    "stop": "2025-12-04 22:01:25 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204163125",
-    "stopRaw": "20251204165603",
-    "start": "2025-12-04 22:01:25 IST",
-    "stop": "2025-12-04 22:26:03 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara M",
-    "subTitle": "Discourse By Mahatma Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204165603",
-    "stopRaw": "20251204171315",
-    "start": "2025-12-04 22:26:03 IST",
-    "stop": "2025-12-04 22:43:15 IST",
-    "channel": "jio-1607",
-    "title": "Satsang Dhara B",
-    "subTitle": "Discourse by Bai Ji",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204171315",
-    "stopRaw": "20251204171359",
-    "start": "2025-12-04 22:43:15 IST",
-    "stop": "2025-12-04 22:43:59 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204171359",
-    "stopRaw": "20251204172449",
-    "start": "2025-12-04 22:43:59 IST",
-    "stop": "2025-12-04 22:54:49 IST",
-    "channel": "jio-1607",
-    "title": "Bhajan",
-    "subTitle": "Devotional Bhajans",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204172449",
-    "stopRaw": "20251204173106",
-    "start": "2025-12-04 22:54:49 IST",
-    "stop": "2025-12-04 23:01:06 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204173106",
-    "stopRaw": "20251204182208",
-    "start": "2025-12-04 23:01:06 IST",
-    "stop": "2025-12-04 23:52:08 IST",
-    "channel": "jio-1607",
-    "title": "Srijan",
-    "subTitle": "Cultural Show",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204182208",
-    "stopRaw": "20251204182252",
-    "start": "2025-12-04 23:52:08 IST",
-    "stop": "2025-12-04 23:52:52 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204182252",
-    "stopRaw": "20251204182909",
-    "start": "2025-12-04 23:52:52 IST",
-    "stop": "2025-12-04 23:59:09 IST",
-    "channel": "jio-1607",
-    "title": "Shri Hans Ji Maharaj-04",
-    "subTitle": "Animation Story on Shri Hans Ji maharaj",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204182909",
-    "stopRaw": "20251204182915",
-    "start": "2025-12-04 23:59:09 IST",
-    "stop": "2025-12-04 23:59:15 IST",
-    "channel": "jio-1607",
-    "title": "Genric ID",
-    "subTitle": "Channel ID",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251204182915",
-    "stopRaw": "20251204182959",
-    "start": "2025-12-04 23:59:15 IST",
-    "stop": "2025-12-04 23:59:59 IST",
-    "channel": "jio-1607",
-    "title": "Promo",
-    "subTitle": "All Program Mix Promo",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

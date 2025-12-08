@@ -201,12 +201,42 @@
   },
   {
     "startRaw": "20251208063000",
-    "stopRaw": "20251208093000",
+    "stopRaw": "20251208081500",
     "start": "2025-12-08 12:00:00 IST",
-    "stop": "2025-12-08 15:00:00 IST",
+    "stop": "2025-12-08 13:45:00 IST",
     "channel": "jio-1633",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251208081500",
+    "stopRaw": "20251208083000",
+    "start": "2025-12-08 13:45:00 IST",
+    "stop": "2025-12-08 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251208083000",
+    "stopRaw": "20251208091500",
+    "start": "2025-12-08 14:00:00 IST",
+    "stop": "2025-12-08 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251208091500",
+    "stopRaw": "20251208093000",
+    "start": "2025-12-08 14:45:00 IST",
+    "stop": "2025-12-08 15:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -215,27 +245,27 @@
     "start": "2025-12-08 15:00:00 IST",
     "stop": "2025-12-08 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Satva Parikshe",
+    "subTitle": "Bringing the best in cinema.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251208123000",
-    "stopRaw": "20251208153000",
+    "stopRaw": "20251208154600",
     "start": "2025-12-08 18:00:00 IST",
-    "stop": "2025-12-08 21:00:00 IST",
+    "stop": "2025-12-08 21:16:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Golibar",
+    "subTitle": "Kapali, a corrupt politician forces his rule on the city, until Arjun, a police officer takes over as the incharge of the region and makes him pay.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251208153000",
+    "startRaw": "20251208154600",
     "stopRaw": "20251208182959",
-    "start": "2025-12-08 21:00:00 IST",
+    "start": "2025-12-08 21:16:00 IST",
     "stop": "2025-12-08 23:59:59 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },

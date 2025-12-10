@@ -321,12 +321,42 @@
   },
   {
     "startRaw": "20251210073000",
-    "stopRaw": "20251210093000",
+    "stopRaw": "20251210081500",
     "start": "2025-12-10 13:00:00 IST",
-    "stop": "2025-12-10 15:00:00 IST",
+    "stop": "2025-12-10 13:45:00 IST",
     "channel": "jio-1633",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210081500",
+    "stopRaw": "20251210083000",
+    "start": "2025-12-10 13:45:00 IST",
+    "stop": "2025-12-10 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210083000",
+    "stopRaw": "20251210091500",
+    "start": "2025-12-10 14:00:00 IST",
+    "stop": "2025-12-10 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210091500",
+    "stopRaw": "20251210093000",
+    "start": "2025-12-10 14:45:00 IST",
+    "stop": "2025-12-10 15:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -335,24 +365,34 @@
     "start": "2025-12-10 15:00:00 IST",
     "stop": "2025-12-10 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "400",
+    "subTitle": "A 400-year-old island mysteriously disappears and two friends set out to investigate this phenomenon. However, they uncover shocking truths about the disappearance when they consult some socialites.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251210123000",
-    "stopRaw": "20251210153000",
+    "stopRaw": "20251210154600",
     "start": "2025-12-10 18:00:00 IST",
-    "stop": "2025-12-10 21:00:00 IST",
+    "stop": "2025-12-10 21:16:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Beda Krishna Ranginata",
+    "subTitle": "Krishna makes his living by executing tough challenges proposed by his friend. Soon, he finds himself in a sticky situation when he is asked to make a rich man's daughter fall in love with him.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210154600",
+    "stopRaw": "20251210160000",
+    "start": "2025-12-10 21:16:00 IST",
+    "stop": "2025-12-10 21:30:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251210153000",
+    "startRaw": "20251210160000",
     "stopRaw": "20251210182959",
-    "start": "2025-12-10 21:00:00 IST",
+    "start": "2025-12-10 21:30:00 IST",
     "stop": "2025-12-10 23:59:59 IST",
     "channel": "jio-1633",
     "title": "Movie",

@@ -1,315 +1,5 @@
 [
   {
-    "startRaw": "20251208183000",
-    "stopRaw": "20251208193000",
-    "start": "2025-12-09 00:00:00 IST",
-    "stop": "2025-12-09 01:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Hindi",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251208193000",
-    "stopRaw": "20251208203000",
-    "start": "2025-12-09 01:00:00 IST",
-    "stop": "2025-12-09 02:00:00 IST",
-    "channel": "jio-3302",
-    "title": "English",
-    "subTitle": "A subject matter expert presents a detailed lecture explaining various grammatical concepts in the English language using suitable examples in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251208203000",
-    "stopRaw": "20251208213000",
-    "start": "2025-12-09 02:00:00 IST",
-    "stop": "2025-12-09 03:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Quantitative Aptitude",
-    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251208213000",
-    "stopRaw": "20251208223000",
-    "start": "2025-12-09 03:00:00 IST",
-    "stop": "2025-12-09 04:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Physics",
-    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251208223000",
-    "stopRaw": "20251208233000",
-    "start": "2025-12-09 04:00:00 IST",
-    "stop": "2025-12-09 05:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Art Education",
-    "subTitle": "A subject matter expert delivers a lecture on the importance of art education using relevant examples in a simple manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251208233000",
-    "stopRaw": "20251209003000",
-    "start": "2025-12-09 05:00:00 IST",
-    "stop": "2025-12-09 06:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Vyavasayam",
-    "subTitle": "An expert provides an in-depth insight at farming practices and tips to help farmers increase their agricultural production and business activity.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209003000",
-    "stopRaw": "20251209013000",
-    "start": "2025-12-09 06:00:00 IST",
-    "stop": "2025-12-09 07:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Art Education",
-    "subTitle": "A subject matter expert delivers a lecture on the importance of art education using relevant examples in a simple manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209013000",
-    "stopRaw": "20251209023000",
-    "start": "2025-12-09 07:00:00 IST",
-    "stop": "2025-12-09 08:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Hindi",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209023000",
-    "stopRaw": "20251209030000",
-    "start": "2025-12-09 08:00:00 IST",
-    "stop": "2025-12-09 08:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Spoken Hindi",
-    "subTitle": "A subject matter expert provides a comprehensive lecture on various concepts pertaining to spoken Hindi in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209030000",
-    "stopRaw": "20251209033000",
-    "start": "2025-12-09 08:30:00 IST",
-    "stop": "2025-12-09 09:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Geography - Ba - 4 Sem",
-    "subTitle": "A subject matter expert explains topics related to geography in a way that is easy-to-understand with appropriate examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209033000",
-    "stopRaw": "20251209040000",
-    "start": "2025-12-09 09:00:00 IST",
-    "stop": "2025-12-09 09:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Psychology - BA - 3 Sem",
-    "subTitle": "An expert in the field of Psychology conducts a session on the topics included in the syllabus in a brief, simple and easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209040000",
-    "stopRaw": "20251209043000",
-    "start": "2025-12-09 09:30:00 IST",
-    "stop": "2025-12-09 10:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Sociology - BA - 5 Sem",
-    "subTitle": "A subject matter expert conducts a comprehensive session on sociology in a manner that is easy and simple to understand.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209043000",
-    "stopRaw": "20251209053000",
-    "start": "2025-12-09 10:00:00 IST",
-    "stop": "2025-12-09 11:00:00 IST",
-    "channel": "jio-3302",
-    "title": "History",
-    "subTitle": "A subject matter expert gives a detailed lecture on history topics in a way that is easy to understand with appropriate examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209053000",
-    "stopRaw": "20251209063000",
-    "start": "2025-12-09 11:00:00 IST",
-    "stop": "2025-12-09 12:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Dept. of School Education",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209063000",
-    "stopRaw": "20251209070000",
-    "start": "2025-12-09 12:00:00 IST",
-    "stop": "2025-12-09 12:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Social Exclusion",
-    "subTitle": "A subject matter expert explores marginalisation, analysing economic, social and political factors shaping exclusion in different communities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209070000",
-    "stopRaw": "20251209073000",
-    "start": "2025-12-09 12:30:00 IST",
-    "stop": "2025-12-09 13:00:00 IST",
-    "channel": "jio-3302",
-    "title": "TG History (Modern)",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209073000",
-    "stopRaw": "20251209080000",
-    "start": "2025-12-09 13:00:00 IST",
-    "stop": "2025-12-09 13:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Indian Acts",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209080000",
-    "stopRaw": "20251209083000",
-    "start": "2025-12-09 13:30:00 IST",
-    "stop": "2025-12-09 14:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Current Affairs",
-    "subTitle": "A subject matter expert provides a list of current affairs and guides the students to understand world events in a clear and concise manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209083000",
-    "stopRaw": "20251209093000",
-    "start": "2025-12-09 14:00:00 IST",
-    "stop": "2025-12-09 15:00:00 IST",
-    "channel": "jio-3302",
-    "title": "DR. Braou Open University Program",
-    "subTitle": "A subject matter expert provides a comprehensive overview of BRAOU University's educational programmes and admissions procedures.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209093000",
-    "stopRaw": "20251209100000",
-    "start": "2025-12-09 15:00:00 IST",
-    "stop": "2025-12-09 15:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Ind. Geography",
-    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on Indian geography in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209100000",
-    "stopRaw": "20251209103000",
-    "start": "2025-12-09 15:30:00 IST",
-    "stop": "2025-12-09 16:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Indian Economy",
-    "subTitle": "The host offers insights into India's current economic landscape, highlighting recent updates and analysing significant trends shaping the nation's financial outlook.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209103000",
-    "stopRaw": "20251209113000",
-    "start": "2025-12-09 16:00:00 IST",
-    "stop": "2025-12-09 17:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Horticulture",
-    "subTitle": "A subject matter expert delivers an informative lecture on horticulture with suitable examples in a simple and easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209113000",
-    "stopRaw": "20251209120000",
-    "start": "2025-12-09 17:00:00 IST",
-    "stop": "2025-12-09 17:30:00 IST",
-    "channel": "jio-3302",
-    "title": "English - Paper - I",
-    "subTitle": "A subjet matter expert explains various concepts from the English language with relavant examples in a simple yet detailed lecture.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209120000",
-    "stopRaw": "20251209123000",
-    "start": "2025-12-09 17:30:00 IST",
-    "stop": "2025-12-09 18:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Physics - Paper - II",
-    "subTitle": "A subject matter expert sheds light on the second paper of physics in a detailed but simple and easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209123000",
-    "stopRaw": "20251209130000",
-    "start": "2025-12-09 18:00:00 IST",
-    "stop": "2025-12-09 18:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Child DVP,. - Paper I &amp; II",
-    "subTitle": "A subject matter expert delivers a detailed lecture on various concepts pertaining to child development in a simple and easy manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209130000",
-    "stopRaw": "20251209133000",
-    "start": "2025-12-09 18:30:00 IST",
-    "stop": "2025-12-09 19:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Telugu - Paper - II",
-    "subTitle": "A language expert sheds light on the various aspects of Telugu language and explains them in detail with appropriate examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209133000",
-    "stopRaw": "20251209143000",
-    "start": "2025-12-09 19:00:00 IST",
-    "stop": "2025-12-09 20:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Quantitative Aptitude",
-    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209143000",
-    "stopRaw": "20251209153000",
-    "start": "2025-12-09 20:00:00 IST",
-    "stop": "2025-12-09 21:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Financial Awareness",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209153000",
-    "stopRaw": "20251209163000",
-    "start": "2025-12-09 21:00:00 IST",
-    "stop": "2025-12-09 22:00:00 IST",
-    "channel": "jio-3302",
-    "title": "Physics",
-    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209163000",
-    "stopRaw": "20251209173000",
-    "start": "2025-12-09 22:00:00 IST",
-    "stop": "2025-12-09 23:00:00 IST",
-    "channel": "jio-3302",
-    "title": "English",
-    "subTitle": "A subject matter expert presents a detailed lecture explaining various grammatical concepts in the English language using suitable examples in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251209173000",
-    "stopRaw": "20251209182959",
-    "start": "2025-12-09 23:00:00 IST",
-    "stop": "2025-12-09 23:59:59 IST",
-    "channel": "jio-3302",
-    "title": "Art Education",
-    "subTitle": "A subject matter expert delivers a lecture on the importance of art education using relevant examples in a simple manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20251209183000",
     "stopRaw": "20251209193000",
     "start": "2025-12-10 00:00:00 IST",
@@ -681,42 +371,22 @@
   },
   {
     "startRaw": "20251211003000",
-    "stopRaw": "20251211010000",
-    "start": "2025-12-11 06:00:00 IST",
-    "stop": "2025-12-11 06:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Ind. History",
-    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211010000",
     "stopRaw": "20251211013000",
-    "start": "2025-12-11 06:30:00 IST",
+    "start": "2025-12-11 06:00:00 IST",
     "stop": "2025-12-11 07:00:00 IST",
     "channel": "jio-3302",
-    "title": "Ind. History",
-    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "title": "Art Education",
+    "subTitle": "A subject matter expert provides a comprehensive overview of the importance of various art activities in education using relevant examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211013000",
-    "stopRaw": "20251211020000",
-    "start": "2025-12-11 07:00:00 IST",
-    "stop": "2025-12-11 07:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Ind. Geography-p2",
-    "subTitle": "A subject-matter expert in the field of geography delves into details about India's topography and explains its various characteristics.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211020000",
     "stopRaw": "20251211023000",
-    "start": "2025-12-11 07:30:00 IST",
+    "start": "2025-12-11 07:00:00 IST",
     "stop": "2025-12-11 08:00:00 IST",
     "channel": "jio-3302",
-    "title": "TG Economy",
-    "subTitle": "A subject matter expert provides a detailed understanding of TG economy to the students while providing the appropriate examples.",
+    "title": "Biology",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on lessons in biology in an easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,8 +395,8 @@
     "start": "2025-12-11 08:00:00 IST",
     "stop": "2025-12-11 08:30:00 IST",
     "channel": "jio-3302",
-    "title": "SC &amp; Technology",
-    "subTitle": "A subject matter expert explains lessons pertaining to science and technology in a clear and concise manner with relevant examples.",
+    "title": "Spoken Hindi",
+    "subTitle": "A subject matter expert provides a comprehensive lecture on various concepts pertaining to spoken Hindi in an easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -735,8 +405,8 @@
     "start": "2025-12-11 08:30:00 IST",
     "stop": "2025-12-11 09:00:00 IST",
     "channel": "jio-3302",
-    "title": "Geography - Ba - 6 Sem",
-    "subTitle": "A subject matter expert delivers a simple yet detailed BA level lecture on the various concepts in the subject of Geography.",
+    "title": "Geography - Ba - 4 Sem",
+    "subTitle": "A subject matter expert explains topics related to geography in a way that is easy-to-understand with appropriate examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -745,8 +415,8 @@
     "start": "2025-12-11 09:00:00 IST",
     "stop": "2025-12-11 09:30:00 IST",
     "channel": "jio-3302",
-    "title": "Sociology",
-    "subTitle": "A subject matter expert provides a comprehensive lecture on various concepts pertaining to sociology in an easy-to-understand manner.",
+    "title": "Psychology - BA - 3 Sem",
+    "subTitle": "An expert in the field of Psychology conducts a session on the topics included in the syllabus in a brief, simple and easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -755,28 +425,18 @@
     "start": "2025-12-11 09:30:00 IST",
     "stop": "2025-12-11 10:00:00 IST",
     "channel": "jio-3302",
-    "title": "Psychology - Ba - 1 Sem",
-    "subTitle": "A subject matter expert delivers a simple yet detailed BA level lecture on the various concepts in the subject of Psychology.",
+    "title": "Sociology - BA - 5 Sem",
+    "subTitle": "A subject matter expert conducts a comprehensive session on sociology in a manner that is easy and simple to understand.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211043000",
-    "stopRaw": "20251211050000",
-    "start": "2025-12-11 10:00:00 IST",
-    "stop": "2025-12-11 10:30:00 IST",
-    "channel": "jio-3302",
-    "title": "General Intelligence",
-    "subTitle": "A subject matter expert sheds light on the various aspects of general intelligence to prepare the students for competitive examinations in a simple manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211050000",
     "stopRaw": "20251211053000",
-    "start": "2025-12-11 10:30:00 IST",
+    "start": "2025-12-11 10:00:00 IST",
     "stop": "2025-12-11 11:00:00 IST",
     "channel": "jio-3302",
-    "title": "Quantitative Aptitude",
-    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
+    "title": "Physics",
+    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -785,18 +445,28 @@
     "start": "2025-12-11 11:00:00 IST",
     "stop": "2025-12-11 12:00:00 IST",
     "channel": "jio-3302",
-    "title": "Economics",
-    "subTitle": "A subject matter expert presents a detailed lecture on the basic definitions and concepts of economics in a simple way, using relevant examples.",
+    "title": "Dept. of School Education",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211063000",
-    "stopRaw": "20251211073000",
+    "stopRaw": "20251211070000",
     "start": "2025-12-11 12:00:00 IST",
+    "stop": "2025-12-11 12:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Social Exclusion",
+    "subTitle": "A subject matter expert explores marginalisation, analysing economic, social and political factors shaping exclusion in different communities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211070000",
+    "stopRaw": "20251211073000",
+    "start": "2025-12-11 12:30:00 IST",
     "stop": "2025-12-11 13:00:00 IST",
     "channel": "jio-3302",
-    "title": "Mathematics",
-    "subTitle": "A subject matter expert sheds light on the various concepts related to mathematics with the help of appropriate examples.",
+    "title": "TG History (Modern)",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -805,8 +475,8 @@
     "start": "2025-12-11 13:00:00 IST",
     "stop": "2025-12-11 13:30:00 IST",
     "channel": "jio-3302",
-    "title": "Entrepreneurship",
-    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on lessons in entrepreneurship with suitable examples.",
+    "title": "Indian Acts",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -825,18 +495,28 @@
     "start": "2025-12-11 14:00:00 IST",
     "stop": "2025-12-11 15:00:00 IST",
     "channel": "jio-3302",
-    "title": "Dr.br Ambedkar Open University Programme",
-    "subTitle": "A subject matter expert provides information on Dr. B.R. Ambedkar Open University programme in an easy-to-understand manner.",
+    "title": "DR. Braou Open University Program",
+    "subTitle": "A subject matter expert provides a comprehensive overview of BRAOU University's educational programmes and admissions procedures.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211093000",
-    "stopRaw": "20251211103000",
+    "stopRaw": "20251211100000",
     "start": "2025-12-11 15:00:00 IST",
+    "stop": "2025-12-11 15:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. Geography",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on Indian geography in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211100000",
+    "stopRaw": "20251211103000",
+    "start": "2025-12-11 15:30:00 IST",
     "stop": "2025-12-11 16:00:00 IST",
     "channel": "jio-3302",
-    "title": "Physics",
-    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
+    "title": "Indian Economy",
+    "subTitle": "The host offers insights into India's current economic landscape, highlighting recent updates and analysing significant trends shaping the nation's financial outlook.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -855,8 +535,8 @@
     "start": "2025-12-11 17:00:00 IST",
     "stop": "2025-12-11 17:30:00 IST",
     "channel": "jio-3302",
-    "title": "Ind. History",
-    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "title": "English - Paper - I",
+    "subTitle": "A subjet matter expert explains various concepts from the English language with relavant examples in a simple yet detailed lecture.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,8 +545,8 @@
     "start": "2025-12-11 17:30:00 IST",
     "stop": "2025-12-11 18:00:00 IST",
     "channel": "jio-3302",
-    "title": "Ind. History",
-    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "title": "Physics - Paper - II",
+    "subTitle": "A subject matter expert sheds light on the second paper of physics in a detailed but simple and easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -875,8 +555,8 @@
     "start": "2025-12-11 18:00:00 IST",
     "stop": "2025-12-11 18:30:00 IST",
     "channel": "jio-3302",
-    "title": "TG. History",
-    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on the history of Telangana in an easy-to-understand manner.",
+    "title": "Child Development - P-i&amp;ii",
+    "subTitle": "A subject matter expert delivers a detailed lecture on various concepts pertaining to child development in a simple and easy manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -885,68 +565,38 @@
     "start": "2025-12-11 18:30:00 IST",
     "stop": "2025-12-11 19:00:00 IST",
     "channel": "jio-3302",
-    "title": "Ind. Geography-p2",
-    "subTitle": "A subject-matter expert in the field of geography delves into details about India's topography and explains its various characteristics.",
+    "title": "Telugu - Paper - II",
+    "subTitle": "A language expert sheds light on the various aspects of Telugu language and explains them in detail with appropriate examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211133000",
-    "stopRaw": "20251211140000",
-    "start": "2025-12-11 19:00:00 IST",
-    "stop": "2025-12-11 19:30:00 IST",
-    "channel": "jio-3302",
-    "title": "Indian Polity (gov)-p3",
-    "subTitle": "A subject matter expert presents a detailed lecture on the third part of the Indian polity using suitable examples in an easy-to-understand manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211140000",
     "stopRaw": "20251211143000",
-    "start": "2025-12-11 19:30:00 IST",
+    "start": "2025-12-11 19:00:00 IST",
     "stop": "2025-12-11 20:00:00 IST",
     "channel": "jio-3302",
-    "title": "Ind. Economy-p4",
-    "subTitle": "A subject matter expert delivers a detailed lecture on Indian economy and explains several concepts related to it in a simple manner.",
+    "title": "Quantitative Aptitude",
+    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211143000",
-    "stopRaw": "20251211150000",
-    "start": "2025-12-11 20:00:00 IST",
-    "stop": "2025-12-11 20:30:00 IST",
-    "channel": "jio-3302",
-    "title": "TG Economy",
-    "subTitle": "A subject matter expert provides a detailed understanding of TG economy to the students while providing the appropriate examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211150000",
     "stopRaw": "20251211153000",
-    "start": "2025-12-11 20:30:00 IST",
+    "start": "2025-12-11 20:00:00 IST",
     "stop": "2025-12-11 21:00:00 IST",
     "channel": "jio-3302",
-    "title": "Arithmetic (qa)",
-    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on arithmetic concepts in an easy-to-understand manner.",
+    "title": "Computer Knowledge",
+    "subTitle": "A subject matter expert delivers a comprehensive and detailed lecture, explaining computers, in an easy to understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211153000",
-    "stopRaw": "20251211160000",
-    "start": "2025-12-11 21:00:00 IST",
-    "stop": "2025-12-11 21:30:00 IST",
-    "channel": "jio-3302",
-    "title": "SC &amp; Technology",
-    "subTitle": "A subject matter expert explains lessons pertaining to science and technology in a clear and concise manner with relevant examples.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251211160000",
     "stopRaw": "20251211163000",
-    "start": "2025-12-11 21:30:00 IST",
+    "start": "2025-12-11 21:00:00 IST",
     "stop": "2025-12-11 22:00:00 IST",
     "channel": "jio-3302",
-    "title": "TG. Movement",
-    "subTitle": "A subject matter expert explains the rise and spread of the Naxalite movement while diving into its origin in a clear and concise manner.",
+    "title": "History",
+    "subTitle": "A subject matter expert gives a detailed lecture on history topics in a way that is easy to understand with appropriate examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -955,8 +605,8 @@
     "start": "2025-12-11 22:00:00 IST",
     "stop": "2025-12-11 23:00:00 IST",
     "channel": "jio-3302",
-    "title": "Geography",
-    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on lessons in geography in an easy-to-understand manner.",
+    "title": "English",
+    "subTitle": "A subject matter expert presents a detailed lecture explaining various grammatical concepts in the English language using suitable examples in an easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -964,6 +614,356 @@
     "stopRaw": "20251211182959",
     "start": "2025-12-11 23:00:00 IST",
     "stop": "2025-12-11 23:59:59 IST",
+    "channel": "jio-3302",
+    "title": "History",
+    "subTitle": "A subject matter expert gives a detailed lecture on history topics in a way that is easy to understand with appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211183000",
+    "stopRaw": "20251211193000",
+    "start": "2025-12-12 00:00:00 IST",
+    "stop": "2025-12-12 01:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Biology",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on lessons in biology in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211193000",
+    "stopRaw": "20251211203000",
+    "start": "2025-12-12 01:00:00 IST",
+    "stop": "2025-12-12 02:00:00 IST",
+    "channel": "jio-3302",
+    "title": "English",
+    "subTitle": "A subject matter expert presents a detailed lecture explaining various grammatical concepts in the English language using suitable examples in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211203000",
+    "stopRaw": "20251211213000",
+    "start": "2025-12-12 02:00:00 IST",
+    "stop": "2025-12-12 03:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Quantitative Aptitude",
+    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211213000",
+    "stopRaw": "20251211223000",
+    "start": "2025-12-12 03:00:00 IST",
+    "stop": "2025-12-12 04:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Physics",
+    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211223000",
+    "stopRaw": "20251211233000",
+    "start": "2025-12-12 04:00:00 IST",
+    "stop": "2025-12-12 05:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Art Education",
+    "subTitle": "A subject matter expert provides a comprehensive overview of the importance of various art activities in education using relevant examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211233000",
+    "stopRaw": "20251212003000",
+    "start": "2025-12-12 05:00:00 IST",
+    "stop": "2025-12-12 06:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Vyavasayam",
+    "subTitle": "An expert provides an in-depth insight at farming practices and tips to help farmers increase their agricultural production and business activity.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212003000",
+    "stopRaw": "20251212010000",
+    "start": "2025-12-12 06:00:00 IST",
+    "stop": "2025-12-12 06:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. History",
+    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212010000",
+    "stopRaw": "20251212013000",
+    "start": "2025-12-12 06:30:00 IST",
+    "stop": "2025-12-12 07:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. History",
+    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212013000",
+    "stopRaw": "20251212020000",
+    "start": "2025-12-12 07:00:00 IST",
+    "stop": "2025-12-12 07:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. Geography-p2",
+    "subTitle": "A subject-matter expert in the field of geography delves into details about India's topography and explains its various characteristics.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212020000",
+    "stopRaw": "20251212023000",
+    "start": "2025-12-12 07:30:00 IST",
+    "stop": "2025-12-12 08:00:00 IST",
+    "channel": "jio-3302",
+    "title": "TG Economy-p4",
+    "subTitle": "A subject matter expert offers insights into income distribution and challenges in the Telangana economy, touching upon development and sustainability themes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212023000",
+    "stopRaw": "20251212030000",
+    "start": "2025-12-12 08:00:00 IST",
+    "stop": "2025-12-12 08:30:00 IST",
+    "channel": "jio-3302",
+    "title": "SC &amp; Technology-p5",
+    "subTitle": "A subject-matter expert delves into the subject of science and technology while explaining its development and impact on the contemporary world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212030000",
+    "stopRaw": "20251212033000",
+    "start": "2025-12-12 08:30:00 IST",
+    "stop": "2025-12-12 09:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Geography - Ba - 6 Sem",
+    "subTitle": "A subject matter expert delivers a simple yet detailed BA level lecture on the various concepts in the subject of Geography.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212033000",
+    "stopRaw": "20251212040000",
+    "start": "2025-12-12 09:00:00 IST",
+    "stop": "2025-12-12 09:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Sociology",
+    "subTitle": "A subject matter expert provides a comprehensive lecture on various concepts pertaining to sociology in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212040000",
+    "stopRaw": "20251212043000",
+    "start": "2025-12-12 09:30:00 IST",
+    "stop": "2025-12-12 10:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Psychology - Ba - 1 Sem",
+    "subTitle": "A subject matter expert delivers a simple yet detailed BA level lecture on the various concepts in the subject of Psychology.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212043000",
+    "stopRaw": "20251212050000",
+    "start": "2025-12-12 10:00:00 IST",
+    "stop": "2025-12-12 10:30:00 IST",
+    "channel": "jio-3302",
+    "title": "General Intelligence",
+    "subTitle": "A subject matter expert sheds light on the various aspects of general intelligence to prepare the students for competitive examinations in a simple manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212050000",
+    "stopRaw": "20251212053000",
+    "start": "2025-12-12 10:30:00 IST",
+    "stop": "2025-12-12 11:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Quantitative Aptitude",
+    "subTitle": "A subject matter expert covers the various concepts involved in the subject of quantitative aptitude in a simple yet detailed lecture.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212053000",
+    "stopRaw": "20251212063000",
+    "start": "2025-12-12 11:00:00 IST",
+    "stop": "2025-12-12 12:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Economics",
+    "subTitle": "A subject matter expert presents a detailed lecture on the basic definitions and concepts of economics in a simple way, using relevant examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212063000",
+    "stopRaw": "20251212073000",
+    "start": "2025-12-12 12:00:00 IST",
+    "stop": "2025-12-12 13:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Mathematics",
+    "subTitle": "A subject matter expert sheds light on the various concepts related to mathematics with the help of appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212073000",
+    "stopRaw": "20251212080000",
+    "start": "2025-12-12 13:00:00 IST",
+    "stop": "2025-12-12 13:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Understanding Gandhi",
+    "subTitle": "A subject-matter expert delves into the life and Journey of Mahatma Gandhi and describes the impact he had on Indis's fight for independence.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212080000",
+    "stopRaw": "20251212083000",
+    "start": "2025-12-12 13:30:00 IST",
+    "stop": "2025-12-12 14:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Current Affairs",
+    "subTitle": "A subject matter expert provides a list of current affairs and guides the students to understand world events in a clear and concise manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212083000",
+    "stopRaw": "20251212093000",
+    "start": "2025-12-12 14:00:00 IST",
+    "stop": "2025-12-12 15:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Dr.br Ambedkar Open University Programme",
+    "subTitle": "A subject matter expert provides information on Dr. B.R. Ambedkar Open University programme in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212093000",
+    "stopRaw": "20251212103000",
+    "start": "2025-12-12 15:00:00 IST",
+    "stop": "2025-12-12 16:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Physics",
+    "subTitle": "A subject matter expert delivers a comprehensive lecture on physics and further elucidates with relevant examples in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212103000",
+    "stopRaw": "20251212113000",
+    "start": "2025-12-12 16:00:00 IST",
+    "stop": "2025-12-12 17:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Arogyamithra",
+    "subTitle": "The host engages a health expert in discussion about various illnesses, their causes, the treatments available as well as measures that can be taken to prevent them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212113000",
+    "stopRaw": "20251212120000",
+    "start": "2025-12-12 17:00:00 IST",
+    "stop": "2025-12-12 17:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. History",
+    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212120000",
+    "stopRaw": "20251212123000",
+    "start": "2025-12-12 17:30:00 IST",
+    "stop": "2025-12-12 18:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. History",
+    "subTitle": "A subject matter expert provides a detailed understanding of Indian history to the students while providing the appropriate examples.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212123000",
+    "stopRaw": "20251212130000",
+    "start": "2025-12-12 18:00:00 IST",
+    "stop": "2025-12-12 18:30:00 IST",
+    "channel": "jio-3302",
+    "title": "TG. History",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on the history of Telangana in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212130000",
+    "stopRaw": "20251212133000",
+    "start": "2025-12-12 18:30:00 IST",
+    "stop": "2025-12-12 19:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Ind. Geography-p2",
+    "subTitle": "A subject-matter expert in the field of geography delves into details about India's topography and explains its various characteristics.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212133000",
+    "stopRaw": "20251212140000",
+    "start": "2025-12-12 19:00:00 IST",
+    "stop": "2025-12-12 19:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Indian Polity (gov)-p3",
+    "subTitle": "A subject matter expert presents a detailed lecture on the third part of the Indian polity using suitable examples in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212140000",
+    "stopRaw": "20251212143000",
+    "start": "2025-12-12 19:30:00 IST",
+    "stop": "2025-12-12 20:00:00 IST",
+    "channel": "jio-3302",
+    "title": "TG Economy-p4",
+    "subTitle": "A subject matter expert offers insights into income distribution and challenges in the Telangana economy, touching upon development and sustainability themes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212143000",
+    "stopRaw": "20251212150000",
+    "start": "2025-12-12 20:00:00 IST",
+    "stop": "2025-12-12 20:30:00 IST",
+    "channel": "jio-3302",
+    "title": "Arithmetic (qa)",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on arithmetic concepts in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212150000",
+    "stopRaw": "20251212153000",
+    "start": "2025-12-12 20:30:00 IST",
+    "stop": "2025-12-12 21:00:00 IST",
+    "channel": "jio-3302",
+    "title": "SC &amp; Technology-p5",
+    "subTitle": "A subject-matter expert delves into the subject of science and technology while explaining its development and impact on the contemporary world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212153000",
+    "stopRaw": "20251212160000",
+    "start": "2025-12-12 21:00:00 IST",
+    "stop": "2025-12-12 21:30:00 IST",
+    "channel": "jio-3302",
+    "title": "SC &amp; Technology-p5",
+    "subTitle": "A subject-matter expert delves into the subject of science and technology while explaining its development and impact on the contemporary world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212160000",
+    "stopRaw": "20251212163000",
+    "start": "2025-12-12 21:30:00 IST",
+    "stop": "2025-12-12 22:00:00 IST",
+    "channel": "jio-3302",
+    "title": "TG. Movement",
+    "subTitle": "A subject matter expert explains the rise and spread of the Naxalite movement while diving into its origin in a clear and concise manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212163000",
+    "stopRaw": "20251212173000",
+    "start": "2025-12-12 22:00:00 IST",
+    "stop": "2025-12-12 23:00:00 IST",
+    "channel": "jio-3302",
+    "title": "Geography",
+    "subTitle": "A subject matter expert delivers a detailed explanation and provides information on lessons in geography in an easy-to-understand manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212173000",
+    "stopRaw": "20251212182959",
+    "start": "2025-12-12 23:00:00 IST",
+    "stop": "2025-12-12 23:59:59 IST",
     "channel": "jio-3302",
     "title": "Economics",
     "subTitle": "A subject matter expert presents a detailed lecture on the basic definitions and concepts of economics in a simple way, using relevant examples.",

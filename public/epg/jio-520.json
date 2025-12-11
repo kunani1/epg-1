@@ -1,5 +1,475 @@
 [
   {
+    "startRaw": "20251209183000",
+    "stopRaw": "20251209190000",
+    "start": "2025-12-10 00:00:00 IST",
+    "stop": "2025-12-10 00:30:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209190000",
+    "stopRaw": "20251209193000",
+    "start": "2025-12-10 00:30:00 IST",
+    "stop": "2025-12-10 01:00:00 IST",
+    "channel": "jio-520",
+    "title": "Minister Speech",
+    "subTitle": "A comprehensive and detailed insight into a minister's speech, where various matters of national importance are brought to the notice of viewers.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209193000",
+    "stopRaw": "20251209200000",
+    "start": "2025-12-10 01:00:00 IST",
+    "stop": "2025-12-10 01:30:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209200000",
+    "stopRaw": "20251209203000",
+    "start": "2025-12-10 01:30:00 IST",
+    "stop": "2025-12-10 02:00:00 IST",
+    "channel": "jio-520",
+    "title": "Question Hour",
+    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209203000",
+    "stopRaw": "20251209210000",
+    "start": "2025-12-10 02:00:00 IST",
+    "stop": "2025-12-10 02:30:00 IST",
+    "channel": "jio-520",
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209210000",
+    "stopRaw": "20251209213000",
+    "start": "2025-12-10 02:30:00 IST",
+    "stop": "2025-12-10 03:00:00 IST",
+    "channel": "jio-520",
+    "title": "Prashnakaal",
+    "subTitle": "The ministers of the Rajya Sabha and Lok Sabha answer questions from other members about various topics during the Question Hour.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209213000",
+    "stopRaw": "20251209220000",
+    "start": "2025-12-10 03:00:00 IST",
+    "stop": "2025-12-10 03:30:00 IST",
+    "channel": "jio-520",
+    "title": "Know Your MP",
+    "subTitle": "The host engages in an insightful conversation with members of the parliament, who shed light on their responsibilities and experiences.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209220000",
+    "stopRaw": "20251209223000",
+    "start": "2025-12-10 03:30:00 IST",
+    "stop": "2025-12-10 04:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sarokaar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209223000",
+    "stopRaw": "20251209230000",
+    "start": "2025-12-10 04:00:00 IST",
+    "stop": "2025-12-10 04:30:00 IST",
+    "channel": "jio-520",
+    "title": "Saksham Bharat",
+    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209230000",
+    "stopRaw": "20251209233000",
+    "start": "2025-12-10 04:30:00 IST",
+    "stop": "2025-12-10 05:00:00 IST",
+    "channel": "jio-520",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209233000",
+    "stopRaw": "20251210000000",
+    "start": "2025-12-10 05:00:00 IST",
+    "stop": "2025-12-10 05:30:00 IST",
+    "channel": "jio-520",
+    "title": "Nature connection",
+    "subTitle": "The host interacts with various experts to discuss ecological issues, environmental concerns and campaigns, with a focus on raising awareness of nature conservation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210000000",
+    "stopRaw": "20251210003000",
+    "start": "2025-12-10 05:30:00 IST",
+    "stop": "2025-12-10 06:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sanskriti Yatra",
+    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210003000",
+    "stopRaw": "20251210010000",
+    "start": "2025-12-10 06:00:00 IST",
+    "stop": "2025-12-10 06:30:00 IST",
+    "channel": "jio-520",
+    "title": "Ekam Sat",
+    "subTitle": "Dr. Karan Singh explores religious unity, highlighting shared principles across faiths as pioneer of inter-religious dialogue.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210010000",
+    "stopRaw": "20251210013000",
+    "start": "2025-12-10 06:30:00 IST",
+    "stop": "2025-12-10 07:00:00 IST",
+    "channel": "jio-520",
+    "title": "Yog Se Nirog",
+    "subTitle": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210013000",
+    "stopRaw": "20251210020000",
+    "start": "2025-12-10 07:00:00 IST",
+    "stop": "2025-12-10 07:30:00 IST",
+    "channel": "jio-520",
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210020000",
+    "stopRaw": "20251210023000",
+    "start": "2025-12-10 07:30:00 IST",
+    "stop": "2025-12-10 08:00:00 IST",
+    "channel": "jio-520",
+    "title": "Question Hour",
+    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210023000",
+    "stopRaw": "20251210030000",
+    "start": "2025-12-10 08:00:00 IST",
+    "stop": "2025-12-10 08:30:00 IST",
+    "channel": "jio-520",
+    "title": "Suprabhat",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210030000",
+    "stopRaw": "20251210034500",
+    "start": "2025-12-10 08:30:00 IST",
+    "stop": "2025-12-10 09:15:00 IST",
+    "channel": "jio-520",
+    "title": "Minister Speech",
+    "subTitle": "A comprehensive and detailed insight into a minister's speech, where various matters of national importance are brought to the notice of viewers.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210034500",
+    "stopRaw": "20251210040000",
+    "start": "2025-12-10 09:15:00 IST",
+    "stop": "2025-12-10 09:30:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210040000",
+    "stopRaw": "20251210043000",
+    "start": "2025-12-10 09:30:00 IST",
+    "stop": "2025-12-10 10:00:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210043000",
+    "stopRaw": "20251210053000",
+    "start": "2025-12-10 10:00:00 IST",
+    "stop": "2025-12-10 11:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210053000",
+    "stopRaw": "20251210060000",
+    "start": "2025-12-10 11:00:00 IST",
+    "stop": "2025-12-10 11:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210060000",
+    "stopRaw": "20251210063000",
+    "start": "2025-12-10 11:30:00 IST",
+    "stop": "2025-12-10 12:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210063000",
+    "stopRaw": "20251210070000",
+    "start": "2025-12-10 12:00:00 IST",
+    "stop": "2025-12-10 12:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210070000",
+    "stopRaw": "20251210073000",
+    "start": "2025-12-10 12:30:00 IST",
+    "stop": "2025-12-10 13:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210073000",
+    "stopRaw": "20251210080000",
+    "start": "2025-12-10 13:00:00 IST",
+    "stop": "2025-12-10 13:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210080000",
+    "stopRaw": "20251210083000",
+    "start": "2025-12-10 13:30:00 IST",
+    "stop": "2025-12-10 14:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210083000",
+    "stopRaw": "20251210090000",
+    "start": "2025-12-10 14:00:00 IST",
+    "stop": "2025-12-10 14:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210090000",
+    "stopRaw": "20251210093000",
+    "start": "2025-12-10 14:30:00 IST",
+    "stop": "2025-12-10 15:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210093000",
+    "stopRaw": "20251210100000",
+    "start": "2025-12-10 15:00:00 IST",
+    "stop": "2025-12-10 15:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210100000",
+    "stopRaw": "20251210103000",
+    "start": "2025-12-10 15:30:00 IST",
+    "stop": "2025-12-10 16:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210103000",
+    "stopRaw": "20251210110000",
+    "start": "2025-12-10 16:00:00 IST",
+    "stop": "2025-12-10 16:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210110000",
+    "stopRaw": "20251210113000",
+    "start": "2025-12-10 16:30:00 IST",
+    "stop": "2025-12-10 17:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210113000",
+    "stopRaw": "20251210120000",
+    "start": "2025-12-10 17:00:00 IST",
+    "stop": "2025-12-10 17:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210120000",
+    "stopRaw": "20251210123000",
+    "start": "2025-12-10 17:30:00 IST",
+    "stop": "2025-12-10 18:00:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad Mein Aaj",
+    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210123000",
+    "stopRaw": "20251210130000",
+    "start": "2025-12-10 18:00:00 IST",
+    "stop": "2025-12-10 18:30:00 IST",
+    "channel": "jio-520",
+    "title": "Know Your MP",
+    "subTitle": "The host engages in an insightful conversation with members of the parliament, who shed light on their responsibilities and experiences.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210130000",
+    "stopRaw": "20251210133000",
+    "start": "2025-12-10 18:30:00 IST",
+    "stop": "2025-12-10 19:00:00 IST",
+    "channel": "jio-520",
+    "title": "Saksham Bharat",
+    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210133000",
+    "stopRaw": "20251210140000",
+    "start": "2025-12-10 19:00:00 IST",
+    "stop": "2025-12-10 19:30:00 IST",
+    "channel": "jio-520",
+    "title": "Samvidhaan Aur Sansodhan",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210140000",
+    "stopRaw": "20251210143000",
+    "start": "2025-12-10 19:30:00 IST",
+    "stop": "2025-12-10 20:00:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210143000",
+    "stopRaw": "20251210150000",
+    "start": "2025-12-10 20:00:00 IST",
+    "stop": "2025-12-10 20:30:00 IST",
+    "channel": "jio-520",
+    "title": "Explained AI",
+    "subTitle": "The host engages in insightful discussions with experts about a wide variety of topics related to AI, including its applications, potential impacts and societal implications.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210150000",
+    "stopRaw": "20251210153000",
+    "start": "2025-12-10 20:30:00 IST",
+    "stop": "2025-12-10 21:00:00 IST",
+    "channel": "jio-520",
+    "title": "Mudda Aapka",
+    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210153000",
+    "stopRaw": "20251210160000",
+    "start": "2025-12-10 21:00:00 IST",
+    "stop": "2025-12-10 21:30:00 IST",
+    "channel": "jio-520",
+    "title": "Question Hour",
+    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210160000",
+    "stopRaw": "20251210163000",
+    "start": "2025-12-10 21:30:00 IST",
+    "stop": "2025-12-10 22:00:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210163000",
+    "stopRaw": "20251210170000",
+    "start": "2025-12-10 22:00:00 IST",
+    "stop": "2025-12-10 22:30:00 IST",
+    "channel": "jio-520",
+    "title": "House Highlights",
+    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to the daily proceedings in the Lok Sabha and the Rajya Sabha.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210170000",
+    "stopRaw": "20251210173000",
+    "start": "2025-12-10 22:30:00 IST",
+    "stop": "2025-12-10 23:00:00 IST",
+    "channel": "jio-520",
+    "title": "Prashnakaal",
+    "subTitle": "The ministers of the Rajya Sabha and Lok Sabha answer questions from other members about various topics during the Question Hour.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210173000",
+    "stopRaw": "20251210180000",
+    "start": "2025-12-10 23:00:00 IST",
+    "stop": "2025-12-10 23:30:00 IST",
+    "channel": "jio-520",
+    "title": "Sadan Din Bhar",
+    "subTitle": "The host presents the latest news updates and developments regarding the proceedings taking place in the Parliament House.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210180000",
+    "stopRaw": "20251210182959",
+    "start": "2025-12-10 23:30:00 IST",
+    "stop": "2025-12-10 23:59:59 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251210183000",
     "stopRaw": "20251210190000",
     "start": "2025-12-11 00:00:00 IST",
@@ -461,12 +931,22 @@
   },
   {
     "startRaw": "20251211183000",
-    "stopRaw": "20251211190000",
+    "stopRaw": "20251211184500",
     "start": "2025-12-12 00:00:00 IST",
+    "stop": "2025-12-12 00:15:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211184500",
+    "stopRaw": "20251211190000",
+    "start": "2025-12-12 00:15:00 IST",
     "stop": "2025-12-12 00:30:00 IST",
     "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -475,8 +955,8 @@
     "start": "2025-12-12 00:30:00 IST",
     "stop": "2025-12-12 01:00:00 IST",
     "channel": "jio-520",
-    "title": "House Highlights",
-    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to the daily proceedings in the Lok Sabha and the Rajya Sabha.",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -485,8 +965,8 @@
     "start": "2025-12-12 01:00:00 IST",
     "stop": "2025-12-12 01:30:00 IST",
     "channel": "jio-520",
-    "title": "Hum Bharat Ke Log",
-    "subTitle": "The host explores and narrates the story of the formation of the Constitution of India, and the legendary people behind it who made it possible.",
+    "title": "Likhawat",
+    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -495,8 +975,8 @@
     "start": "2025-12-12 01:30:00 IST",
     "stop": "2025-12-12 02:00:00 IST",
     "channel": "jio-520",
-    "title": "Question Hour",
-    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "title": "National Security Services",
+    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -505,8 +985,8 @@
     "start": "2025-12-12 02:00:00 IST",
     "stop": "2025-12-12 02:30:00 IST",
     "channel": "jio-520",
-    "title": "Mudda Aapka",
-    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "title": "Unique Polling Station",
+    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -515,8 +995,8 @@
     "start": "2025-12-12 02:30:00 IST",
     "stop": "2025-12-12 03:00:00 IST",
     "channel": "jio-520",
-    "title": "Prashnakaal",
-    "subTitle": "The ministers of the Rajya Sabha and Lok Sabha answer questions from other members about various topics during the Question Hour.",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -525,18 +1005,28 @@
     "start": "2025-12-12 03:00:00 IST",
     "stop": "2025-12-12 03:30:00 IST",
     "channel": "jio-520",
-    "title": "Sadan Din Bhar",
-    "subTitle": "The host presents the latest news updates and developments regarding the proceedings taking place in the Parliament House.",
+    "title": "Unique Polling Station",
+    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211220000",
-    "stopRaw": "20251211223000",
+    "stopRaw": "20251211221500",
     "start": "2025-12-12 03:30:00 IST",
+    "stop": "2025-12-12 03:45:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211221500",
+    "stopRaw": "20251211223000",
+    "start": "2025-12-12 03:45:00 IST",
     "stop": "2025-12-12 04:00:00 IST",
     "channel": "jio-520",
-    "title": "Sarokaar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -545,18 +1035,28 @@
     "start": "2025-12-12 04:00:00 IST",
     "stop": "2025-12-12 04:30:00 IST",
     "channel": "jio-520",
-    "title": "Saksham Bharat",
-    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country.",
+    "title": "Likhawat",
+    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251211230000",
-    "stopRaw": "20251211233000",
+    "stopRaw": "20251211231500",
     "start": "2025-12-12 04:30:00 IST",
+    "stop": "2025-12-12 04:45:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251211231500",
+    "stopRaw": "20251211233000",
+    "start": "2025-12-12 04:45:00 IST",
     "stop": "2025-12-12 05:00:00 IST",
     "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -566,7 +1066,7 @@
     "stop": "2025-12-12 05:30:00 IST",
     "channel": "jio-520",
     "title": "Sansad TV Special",
-    "subTitle": "The host has a conversation with various experts from multiple fields of work regarding the latest news stories and developments around the country.",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -575,8 +1075,8 @@
     "start": "2025-12-12 05:30:00 IST",
     "stop": "2025-12-12 06:00:00 IST",
     "channel": "jio-520",
-    "title": "Sanskriti Yatra",
-    "subTitle": "The host delves into India's vibrant culture, from its diverse religions and philosophies to its rich art and literature highlighting the country's heritage.",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -585,8 +1085,8 @@
     "start": "2025-12-12 06:00:00 IST",
     "stop": "2025-12-12 06:30:00 IST",
     "channel": "jio-520",
-    "title": "Sikh Darshan",
-    "subTitle": "",
+    "title": "Ram Aarti",
+    "subTitle": "A compilation of melodious and devotional songs composed and sung in praise of Lord Rama, a revered Hindu deity, is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -595,8 +1095,8 @@
     "start": "2025-12-12 06:30:00 IST",
     "stop": "2025-12-12 07:00:00 IST",
     "channel": "jio-520",
-    "title": "Yog Se Nirog",
-    "subTitle": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being.",
+    "title": "Hello Zindagi",
+    "subTitle": "The host leads discussions with wellness experts, exploring Ayurveda, yoga, meditation and holistic health practices to help viewers achieve physical and mental well-being.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -605,8 +1105,8 @@
     "start": "2025-12-12 07:00:00 IST",
     "stop": "2025-12-12 07:30:00 IST",
     "channel": "jio-520",
-    "title": "Mudda Aapka",
-    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "title": "Saksham Bharat",
+    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -615,8 +1115,8 @@
     "start": "2025-12-12 07:30:00 IST",
     "stop": "2025-12-12 08:00:00 IST",
     "channel": "jio-520",
-    "title": "Question Hour",
-    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "title": "Vishesh",
+    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -625,18 +1125,28 @@
     "start": "2025-12-12 08:00:00 IST",
     "stop": "2025-12-12 08:30:00 IST",
     "channel": "jio-520",
-    "title": "Suprabhat",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Suprabhat Live",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212030000",
-    "stopRaw": "20251212040000",
+    "stopRaw": "20251212033000",
     "start": "2025-12-12 08:30:00 IST",
+    "stop": "2025-12-12 09:00:00 IST",
+    "channel": "jio-520",
+    "title": "Perspective",
+    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212033000",
+    "stopRaw": "20251212040000",
+    "start": "2025-12-12 09:00:00 IST",
     "stop": "2025-12-12 09:30:00 IST",
     "channel": "jio-520",
-    "title": "Minister Speech",
-    "subTitle": "A comprehensive and detailed insight into a minister's speech, where various matters of national importance are brought to the notice of viewers.",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -645,18 +1155,38 @@
     "start": "2025-12-12 09:30:00 IST",
     "stop": "2025-12-12 10:00:00 IST",
     "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host presents some of the latest news stories about political, economic, social and cultural topics from all around the world.",
+    "title": "Mudda Aapka",
+    "subTitle": "The host facilitates discussion with a panel of experts who provide a comprehensive and detailed insight into various matters of national importance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212043000",
-    "stopRaw": "20251212053000",
+    "stopRaw": "20251212050000",
     "start": "2025-12-12 10:00:00 IST",
+    "stop": "2025-12-12 10:30:00 IST",
+    "channel": "jio-520",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212050000",
+    "stopRaw": "20251212051500",
+    "start": "2025-12-12 10:30:00 IST",
+    "stop": "2025-12-12 10:45:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212051500",
+    "stopRaw": "20251212053000",
+    "start": "2025-12-12 10:45:00 IST",
     "stop": "2025-12-12 11:00:00 IST",
     "channel": "jio-520",
-    "title": "Sansad Mein Aaj",
-    "subTitle": "The host provides a comprehensive and detailed insight into the proceedings that happen in the Lok Sabha and the Rajya Sabha.",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -665,18 +1195,28 @@
     "start": "2025-12-12 11:00:00 IST",
     "stop": "2025-12-12 11:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212060000",
-    "stopRaw": "20251212063000",
+    "stopRaw": "20251212061500",
     "start": "2025-12-12 11:30:00 IST",
+    "stop": "2025-12-12 11:45:00 IST",
+    "channel": "jio-520",
+    "title": "Vishesh",
+    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212061500",
+    "stopRaw": "20251212063000",
+    "start": "2025-12-12 11:45:00 IST",
     "stop": "2025-12-12 12:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -685,18 +1225,28 @@
     "start": "2025-12-12 12:00:00 IST",
     "stop": "2025-12-12 12:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "National Security Services",
+    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212070000",
-    "stopRaw": "20251212073000",
+    "stopRaw": "20251212071500",
     "start": "2025-12-12 12:30:00 IST",
+    "stop": "2025-12-12 12:45:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212071500",
+    "stopRaw": "20251212073000",
+    "start": "2025-12-12 12:45:00 IST",
     "stop": "2025-12-12 13:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -705,8 +1255,8 @@
     "start": "2025-12-12 13:00:00 IST",
     "stop": "2025-12-12 13:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Unique Polling Station",
+    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -715,8 +1265,8 @@
     "start": "2025-12-12 13:30:00 IST",
     "stop": "2025-12-12 14:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "National Security Services",
+    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,28 +1275,48 @@
     "start": "2025-12-12 14:00:00 IST",
     "stop": "2025-12-12 14:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Perspective",
+    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212090000",
-    "stopRaw": "20251212093000",
+    "stopRaw": "20251212091500",
     "start": "2025-12-12 14:30:00 IST",
+    "stop": "2025-12-12 14:45:00 IST",
+    "channel": "jio-520",
+    "title": "National Security",
+    "subTitle": "The host provides in-depth coverage of India's national defense strategies, the role of paramilitary forces, and specialised military units, offering insights into their operations and security initiatives.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212091500",
+    "stopRaw": "20251212093000",
+    "start": "2025-12-12 14:45:00 IST",
     "stop": "2025-12-12 15:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Vishesh",
+    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212093000",
-    "stopRaw": "20251212100000",
+    "stopRaw": "20251212094500",
     "start": "2025-12-12 15:00:00 IST",
+    "stop": "2025-12-12 15:15:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212094500",
+    "stopRaw": "20251212100000",
+    "start": "2025-12-12 15:15:00 IST",
     "stop": "2025-12-12 15:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -755,18 +1325,28 @@
     "start": "2025-12-12 15:30:00 IST",
     "stop": "2025-12-12 16:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212103000",
-    "stopRaw": "20251212110000",
+    "stopRaw": "20251212104500",
     "start": "2025-12-12 16:00:00 IST",
+    "stop": "2025-12-12 16:15:00 IST",
+    "channel": "jio-520",
+    "title": "Likhawat",
+    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212104500",
+    "stopRaw": "20251212110000",
+    "start": "2025-12-12 16:15:00 IST",
     "stop": "2025-12-12 16:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -775,18 +1355,28 @@
     "start": "2025-12-12 16:30:00 IST",
     "stop": "2025-12-12 17:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212113000",
-    "stopRaw": "20251212120000",
+    "stopRaw": "20251212114500",
     "start": "2025-12-12 17:00:00 IST",
+    "stop": "2025-12-12 17:15:00 IST",
+    "channel": "jio-520",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212114500",
+    "stopRaw": "20251212120000",
+    "start": "2025-12-12 17:15:00 IST",
     "stop": "2025-12-12 17:30:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -795,18 +1385,28 @@
     "start": "2025-12-12 17:30:00 IST",
     "stop": "2025-12-12 18:00:00 IST",
     "channel": "jio-520",
-    "title": "House Proceedings",
-    "subTitle": "The representatives of the parliament discuss and debate various political matters of national and international importance.",
+    "title": "Seeking Direct Answers",
+    "subTitle": "The host invites renowned personalities, accomplished in their respective fields, to discuss ongoing issues transpiring across the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212123000",
-    "stopRaw": "20251212130000",
+    "stopRaw": "20251212124500",
     "start": "2025-12-12 18:00:00 IST",
+    "stop": "2025-12-12 18:15:00 IST",
+    "channel": "jio-520",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212124500",
+    "stopRaw": "20251212130000",
+    "start": "2025-12-12 18:15:00 IST",
     "stop": "2025-12-12 18:30:00 IST",
     "channel": "jio-520",
-    "title": "Aapke Saansad",
-    "subTitle": "The host sheds light on the latest news updates about the elected representatives from the Lok Sabha and the Rajya Sabha.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -815,8 +1415,8 @@
     "start": "2025-12-12 18:30:00 IST",
     "stop": "2025-12-12 19:00:00 IST",
     "channel": "jio-520",
-    "title": "Samvidhaan Aur Sansodhan",
-    "subTitle": "",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -825,8 +1425,8 @@
     "start": "2025-12-12 19:00:00 IST",
     "stop": "2025-12-12 19:30:00 IST",
     "channel": "jio-520",
-    "title": "Saksham Bharat",
-    "subTitle": "The host invites guests and discusses some of the latest news stories about a lot of different topics from around the country.",
+    "title": "Samvaad",
+    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -835,8 +1435,8 @@
     "start": "2025-12-12 19:30:00 IST",
     "stop": "2025-12-12 20:00:00 IST",
     "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -845,8 +1445,8 @@
     "start": "2025-12-12 20:00:00 IST",
     "stop": "2025-12-12 20:30:00 IST",
     "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "title": "Likhawat",
+    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -856,7 +1456,7 @@
     "stop": "2025-12-12 21:00:00 IST",
     "channel": "jio-520",
     "title": "Mudda Aapka",
-    "subTitle": "The host invites experts from various fields to participate in a debate on current affairs and present their views on it.",
+    "subTitle": "The host facilitates discussion with a panel of experts who provide a comprehensive and detailed insight into various matters of national importance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,8 +1465,8 @@
     "start": "2025-12-12 21:00:00 IST",
     "stop": "2025-12-12 21:30:00 IST",
     "channel": "jio-520",
-    "title": "Question Hour",
-    "subTitle": "A talk show wherein viewers can put forth their queries while the panel tries to answer them to the best of their ability.",
+    "title": "Documentary",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -881,12 +1481,22 @@
   },
   {
     "startRaw": "20251212163000",
-    "stopRaw": "20251212170000",
+    "stopRaw": "20251212164500",
     "start": "2025-12-12 22:00:00 IST",
+    "stop": "2025-12-12 22:15:00 IST",
+    "channel": "jio-520",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212164500",
+    "stopRaw": "20251212170000",
+    "start": "2025-12-12 22:15:00 IST",
     "stop": "2025-12-12 22:30:00 IST",
     "channel": "jio-520",
-    "title": "House Highlights",
-    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to the daily proceedings in the Lok Sabha and the Rajya Sabha.",
+    "title": "Sansad TV Special",
+    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -895,18 +1505,28 @@
     "start": "2025-12-12 22:30:00 IST",
     "stop": "2025-12-12 23:00:00 IST",
     "channel": "jio-520",
-    "title": "Prashnakaal",
-    "subTitle": "The ministers of the Rajya Sabha and Lok Sabha answer questions from other members about various topics during the Question Hour.",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251212173000",
-    "stopRaw": "20251212180000",
+    "stopRaw": "20251212174500",
     "start": "2025-12-12 23:00:00 IST",
+    "stop": "2025-12-12 23:15:00 IST",
+    "channel": "jio-520",
+    "title": "National Security",
+    "subTitle": "The host provides in-depth coverage of India's national defense strategies, the role of paramilitary forces, and specialised military units, offering insights into their operations and security initiatives.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212174500",
+    "stopRaw": "20251212180000",
+    "start": "2025-12-12 23:15:00 IST",
     "stop": "2025-12-12 23:30:00 IST",
     "channel": "jio-520",
-    "title": "Sadan Din Bhar",
-    "subTitle": "The host presents the latest news updates and developments regarding the proceedings taking place in the Parliament House.",
+    "title": "In Depth",
+    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -914,636 +1534,6 @@
     "stopRaw": "20251212182959",
     "start": "2025-12-12 23:30:00 IST",
     "stop": "2025-12-12 23:59:59 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212183000",
-    "stopRaw": "20251212184500",
-    "start": "2025-12-13 00:00:00 IST",
-    "stop": "2025-12-13 00:15:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212184500",
-    "stopRaw": "20251212190000",
-    "start": "2025-12-13 00:15:00 IST",
-    "stop": "2025-12-13 00:30:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212190000",
-    "stopRaw": "20251212193000",
-    "start": "2025-12-13 00:30:00 IST",
-    "stop": "2025-12-13 01:00:00 IST",
-    "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212193000",
-    "stopRaw": "20251212200000",
-    "start": "2025-12-13 01:00:00 IST",
-    "stop": "2025-12-13 01:30:00 IST",
-    "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212200000",
-    "stopRaw": "20251212203000",
-    "start": "2025-12-13 01:30:00 IST",
-    "stop": "2025-12-13 02:00:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212203000",
-    "stopRaw": "20251212210000",
-    "start": "2025-12-13 02:00:00 IST",
-    "stop": "2025-12-13 02:30:00 IST",
-    "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212210000",
-    "stopRaw": "20251212213000",
-    "start": "2025-12-13 02:30:00 IST",
-    "stop": "2025-12-13 03:00:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212213000",
-    "stopRaw": "20251212214500",
-    "start": "2025-12-13 03:00:00 IST",
-    "stop": "2025-12-13 03:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212214500",
-    "stopRaw": "20251212220000",
-    "start": "2025-12-13 03:15:00 IST",
-    "stop": "2025-12-13 03:30:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212220000",
-    "stopRaw": "20251212221500",
-    "start": "2025-12-13 03:30:00 IST",
-    "stop": "2025-12-13 03:45:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212221500",
-    "stopRaw": "20251212223000",
-    "start": "2025-12-13 03:45:00 IST",
-    "stop": "2025-12-13 04:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212223000",
-    "stopRaw": "20251212230000",
-    "start": "2025-12-13 04:00:00 IST",
-    "stop": "2025-12-13 04:30:00 IST",
-    "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212230000",
-    "stopRaw": "20251212231500",
-    "start": "2025-12-13 04:30:00 IST",
-    "stop": "2025-12-13 04:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212231500",
-    "stopRaw": "20251212233000",
-    "start": "2025-12-13 04:45:00 IST",
-    "stop": "2025-12-13 05:00:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212233000",
-    "stopRaw": "20251212234500",
-    "start": "2025-12-13 05:00:00 IST",
-    "stop": "2025-12-13 05:15:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212234500",
-    "stopRaw": "20251213000000",
-    "start": "2025-12-13 05:15:00 IST",
-    "stop": "2025-12-13 05:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213000000",
-    "stopRaw": "20251213003000",
-    "start": "2025-12-13 05:30:00 IST",
-    "stop": "2025-12-13 06:00:00 IST",
-    "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213003000",
-    "stopRaw": "20251213010000",
-    "start": "2025-12-13 06:00:00 IST",
-    "stop": "2025-12-13 06:30:00 IST",
-    "channel": "jio-520",
-    "title": "Ram Aarti",
-    "subTitle": "A compilation of melodious and devotional songs composed and sung in praise of Lord Rama, a revered Hindu deity, is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213010000",
-    "stopRaw": "20251213013000",
-    "start": "2025-12-13 06:30:00 IST",
-    "stop": "2025-12-13 07:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213013000",
-    "stopRaw": "20251213020000",
-    "start": "2025-12-13 07:00:00 IST",
-    "stop": "2025-12-13 07:30:00 IST",
-    "channel": "jio-520",
-    "title": "Hello Zindagi",
-    "subTitle": "The host leads discussions with wellness experts, exploring Ayurveda, yoga, meditation and holistic health practices to help viewers achieve physical and mental well-being.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213020000",
-    "stopRaw": "20251213023000",
-    "start": "2025-12-13 07:30:00 IST",
-    "stop": "2025-12-13 08:00:00 IST",
-    "channel": "jio-520",
-    "title": "HVPI Speech",
-    "subTitle": "The Honourable Vice President of India delivers key messages during speeches addressing important matters concerning the citizens.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213023000",
-    "stopRaw": "20251213030000",
-    "start": "2025-12-13 08:00:00 IST",
-    "stop": "2025-12-13 08:30:00 IST",
-    "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213030000",
-    "stopRaw": "20251213033000",
-    "start": "2025-12-13 08:30:00 IST",
-    "stop": "2025-12-13 09:00:00 IST",
-    "channel": "jio-520",
-    "title": "Perspective",
-    "subTitle": "The host invites prominent individuals from different fields to share interesting insights into their careers, achievements and professional journeys.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213033000",
-    "stopRaw": "20251213040000",
-    "start": "2025-12-13 09:00:00 IST",
-    "stop": "2025-12-13 09:30:00 IST",
-    "channel": "jio-520",
-    "title": "Interview",
-    "subTitle": "The host engages in discussions with renowned personalities from around the world on diverse issues, exploring their perspectives and insights.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213040000",
-    "stopRaw": "20251213043000",
-    "start": "2025-12-13 09:30:00 IST",
-    "stop": "2025-12-13 10:00:00 IST",
-    "channel": "jio-520",
-    "title": "Mudda Aapka",
-    "subTitle": "The host facilitates discussion with a panel of experts who provide a comprehensive and detailed insight into various matters of national importance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213043000",
-    "stopRaw": "20251213050000",
-    "start": "2025-12-13 10:00:00 IST",
-    "stop": "2025-12-13 10:30:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213050000",
-    "stopRaw": "20251213053000",
-    "start": "2025-12-13 10:30:00 IST",
-    "stop": "2025-12-13 11:00:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213053000",
-    "stopRaw": "20251213054500",
-    "start": "2025-12-13 11:00:00 IST",
-    "stop": "2025-12-13 11:15:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213054500",
-    "stopRaw": "20251213060000",
-    "start": "2025-12-13 11:15:00 IST",
-    "stop": "2025-12-13 11:30:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213060000",
-    "stopRaw": "20251213061500",
-    "start": "2025-12-13 11:30:00 IST",
-    "stop": "2025-12-13 11:45:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213061500",
-    "stopRaw": "20251213063000",
-    "start": "2025-12-13 11:45:00 IST",
-    "stop": "2025-12-13 12:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213063000",
-    "stopRaw": "20251213064500",
-    "start": "2025-12-13 12:00:00 IST",
-    "stop": "2025-12-13 12:15:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213064500",
-    "stopRaw": "20251213070000",
-    "start": "2025-12-13 12:15:00 IST",
-    "stop": "2025-12-13 12:30:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213070000",
-    "stopRaw": "20251213071500",
-    "start": "2025-12-13 12:30:00 IST",
-    "stop": "2025-12-13 12:45:00 IST",
-    "channel": "jio-520",
-    "title": "Vishesh",
-    "subTitle": "The host presents the latest news and developments from the world of sports, weather, international politics and economy.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213071500",
-    "stopRaw": "20251213073000",
-    "start": "2025-12-13 12:45:00 IST",
-    "stop": "2025-12-13 13:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213073000",
-    "stopRaw": "20251213080000",
-    "start": "2025-12-13 13:00:00 IST",
-    "stop": "2025-12-13 13:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213080000",
-    "stopRaw": "20251213083000",
-    "start": "2025-12-13 13:30:00 IST",
-    "stop": "2025-12-13 14:00:00 IST",
-    "channel": "jio-520",
-    "title": "Unique Polling Station",
-    "subTitle": "The host explores unique polling stations across India, sharing insights and informative stories on their role in strengthening democracy and enhancing voter participation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213083000",
-    "stopRaw": "20251213084500",
-    "start": "2025-12-13 14:00:00 IST",
-    "stop": "2025-12-13 14:15:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213084500",
-    "stopRaw": "20251213090000",
-    "start": "2025-12-13 14:15:00 IST",
-    "stop": "2025-12-13 14:30:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213090000",
-    "stopRaw": "20251213091500",
-    "start": "2025-12-13 14:30:00 IST",
-    "stop": "2025-12-13 14:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213091500",
-    "stopRaw": "20251213093000",
-    "start": "2025-12-13 14:45:00 IST",
-    "stop": "2025-12-13 15:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213093000",
-    "stopRaw": "20251213100000",
-    "start": "2025-12-13 15:00:00 IST",
-    "stop": "2025-12-13 15:30:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213100000",
-    "stopRaw": "20251213101500",
-    "start": "2025-12-13 15:30:00 IST",
-    "stop": "2025-12-13 15:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213101500",
-    "stopRaw": "20251213103000",
-    "start": "2025-12-13 15:45:00 IST",
-    "stop": "2025-12-13 16:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213103000",
-    "stopRaw": "20251213110000",
-    "start": "2025-12-13 16:00:00 IST",
-    "stop": "2025-12-13 16:30:00 IST",
-    "channel": "jio-520",
-    "title": "Likhawat",
-    "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213110000",
-    "stopRaw": "20251213113000",
-    "start": "2025-12-13 16:30:00 IST",
-    "stop": "2025-12-13 17:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213113000",
-    "stopRaw": "20251213120000",
-    "start": "2025-12-13 17:00:00 IST",
-    "stop": "2025-12-13 17:30:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213120000",
-    "stopRaw": "20251213121500",
-    "start": "2025-12-13 17:30:00 IST",
-    "stop": "2025-12-13 17:45:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213121500",
-    "stopRaw": "20251213123000",
-    "start": "2025-12-13 17:45:00 IST",
-    "stop": "2025-12-13 18:00:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213123000",
-    "stopRaw": "20251213130000",
-    "start": "2025-12-13 18:00:00 IST",
-    "stop": "2025-12-13 18:30:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213130000",
-    "stopRaw": "20251213133000",
-    "start": "2025-12-13 18:30:00 IST",
-    "stop": "2025-12-13 19:00:00 IST",
-    "channel": "jio-520",
-    "title": "Seeking Direct Answers",
-    "subTitle": "The host invites renowned personalities, accomplished in their respective fields, to discuss ongoing issues transpiring across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213133000",
-    "stopRaw": "20251213140000",
-    "start": "2025-12-13 19:00:00 IST",
-    "stop": "2025-12-13 19:30:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213140000",
-    "stopRaw": "20251213143000",
-    "start": "2025-12-13 19:30:00 IST",
-    "stop": "2025-12-13 20:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213143000",
-    "stopRaw": "20251213150000",
-    "start": "2025-12-13 20:00:00 IST",
-    "stop": "2025-12-13 20:30:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213150000",
-    "stopRaw": "20251213153000",
-    "start": "2025-12-13 20:30:00 IST",
-    "stop": "2025-12-13 21:00:00 IST",
-    "channel": "jio-520",
-    "title": "Unique Polling",
-    "subTitle": "A detailed report of the problems faced by the Election Commission of India at the numerous polling stations that are set up all around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213153000",
-    "stopRaw": "20251213160000",
-    "start": "2025-12-13 21:00:00 IST",
-    "stop": "2025-12-13 21:30:00 IST",
-    "channel": "jio-520",
-    "title": "National Security Services",
-    "subTitle": "The host provides a detailed insight into the various national security service organisations that ensure security of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213160000",
-    "stopRaw": "20251213161500",
-    "start": "2025-12-13 21:30:00 IST",
-    "stop": "2025-12-13 21:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213161500",
-    "stopRaw": "20251213163000",
-    "start": "2025-12-13 21:45:00 IST",
-    "stop": "2025-12-13 22:00:00 IST",
-    "channel": "jio-520",
-    "title": "In Depth",
-    "subTitle": "The host sheds light on the latest updates related to a variety of important topics, ranging from society to politics and from technology to nature, discussing them in depth.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213163000",
-    "stopRaw": "20251213170000",
-    "start": "2025-12-13 22:00:00 IST",
-    "stop": "2025-12-13 22:30:00 IST",
-    "channel": "jio-520",
-    "title": "Documentary",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213170000",
-    "stopRaw": "20251213171500",
-    "start": "2025-12-13 22:30:00 IST",
-    "stop": "2025-12-13 22:45:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213171500",
-    "stopRaw": "20251213173000",
-    "start": "2025-12-13 22:45:00 IST",
-    "stop": "2025-12-13 23:00:00 IST",
-    "channel": "jio-520",
-    "title": "Sansad TV Special",
-    "subTitle": "The host engages in a conversation with politician Amit Shah to learn about the challenges he faced in 20 years as a home minister.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213173000",
-    "stopRaw": "20251213180000",
-    "start": "2025-12-13 23:00:00 IST",
-    "stop": "2025-12-13 23:30:00 IST",
-    "channel": "jio-520",
-    "title": "Samvaad",
-    "subTitle": "The host engages in a conversation with eminent personalities, who provide insight into the personal life and professional achievements.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213180000",
-    "stopRaw": "20251213182959",
-    "start": "2025-12-13 23:30:00 IST",
-    "stop": "2025-12-13 23:59:59 IST",
     "channel": "jio-520",
     "title": "Likhawat",
     "subTitle": "The host invites a panel of South Asian creators and storytellers to discuss their creative process, writing style and inspirations.",

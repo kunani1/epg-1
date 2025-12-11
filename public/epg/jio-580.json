@@ -1,5 +1,435 @@
 [
   {
+    "startRaw": "20251209183000",
+    "stopRaw": "20251209190000",
+    "start": "2025-12-10 00:00:00 IST",
+    "stop": "2025-12-10 00:30:00 IST",
+    "channel": "jio-580",
+    "title": "Classical Vocal Recital",
+    "subTitle": "Renowned singers and musicians deliver classical vocal performances to entertain the viewers who love the genre of music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209190000",
+    "stopRaw": "20251209193000",
+    "start": "2025-12-10 00:30:00 IST",
+    "stop": "2025-12-10 01:00:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209193000",
+    "stopRaw": "20251209200000",
+    "start": "2025-12-10 01:00:00 IST",
+    "stop": "2025-12-10 01:30:00 IST",
+    "channel": "jio-580",
+    "title": "Nrityashala",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209200000",
+    "stopRaw": "20251209203000",
+    "start": "2025-12-10 01:30:00 IST",
+    "stop": "2025-12-10 02:00:00 IST",
+    "channel": "jio-580",
+    "title": "Carnatic Music",
+    "subTitle": "A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209203000",
+    "stopRaw": "20251209210000",
+    "start": "2025-12-10 02:00:00 IST",
+    "stop": "2025-12-10 02:30:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209210000",
+    "stopRaw": "20251209213000",
+    "start": "2025-12-10 02:30:00 IST",
+    "stop": "2025-12-10 03:00:00 IST",
+    "channel": "jio-580",
+    "title": "Rajasthan Ree Shan",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209213000",
+    "stopRaw": "20251209220000",
+    "start": "2025-12-10 03:00:00 IST",
+    "stop": "2025-12-10 03:30:00 IST",
+    "channel": "jio-580",
+    "title": "Anudamini",
+    "subTitle": "A simple village belle struggles to adapt herself to the new environment and her in-laws after marrying a man who belongs to a rich, sophisticated family.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209220000",
+    "stopRaw": "20251209223000",
+    "start": "2025-12-10 03:30:00 IST",
+    "stop": "2025-12-10 04:00:00 IST",
+    "channel": "jio-580",
+    "title": "Dhoop Chaon",
+    "subTitle": "Hosted by Archana Harit.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209223000",
+    "stopRaw": "20251209233000",
+    "start": "2025-12-10 04:00:00 IST",
+    "stop": "2025-12-10 05:00:00 IST",
+    "channel": "jio-580",
+    "title": "Byomkesh Bakshi",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251209233000",
+    "stopRaw": "20251210000000",
+    "start": "2025-12-10 05:00:00 IST",
+    "stop": "2025-12-10 05:30:00 IST",
+    "channel": "jio-580",
+    "title": "Re Mama Re",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210000000",
+    "stopRaw": "20251210003000",
+    "start": "2025-12-10 05:30:00 IST",
+    "stop": "2025-12-10 06:00:00 IST",
+    "channel": "jio-580",
+    "title": "Mausiqui-Ek Khoj",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210003000",
+    "stopRaw": "20251210010000",
+    "start": "2025-12-10 06:00:00 IST",
+    "stop": "2025-12-10 06:30:00 IST",
+    "channel": "jio-580",
+    "title": "Sankat Mochan Hanuman",
+    "subTitle": "Ravan, the demon king, is infuriated to find that Hanuman has managed to win despite facing a supreme weapon. However, this does not shakes Ravan's confidence who is steadfast to defeat Hanuman.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210010000",
+    "stopRaw": "20251210013000",
+    "start": "2025-12-10 06:30:00 IST",
+    "stop": "2025-12-10 07:00:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210013000",
+    "stopRaw": "20251210020000",
+    "start": "2025-12-10 07:00:00 IST",
+    "stop": "2025-12-10 07:30:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210020000",
+    "stopRaw": "20251210023000",
+    "start": "2025-12-10 07:30:00 IST",
+    "stop": "2025-12-10 08:00:00 IST",
+    "channel": "jio-580",
+    "title": "Nrityashala",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210023000",
+    "stopRaw": "20251210030000",
+    "start": "2025-12-10 08:00:00 IST",
+    "stop": "2025-12-10 08:30:00 IST",
+    "channel": "jio-580",
+    "title": "Carnatic Music",
+    "subTitle": "A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210030000",
+    "stopRaw": "20251210033500",
+    "start": "2025-12-10 08:30:00 IST",
+    "stop": "2025-12-10 09:05:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210033500",
+    "stopRaw": "20251210043000",
+    "start": "2025-12-10 09:05:00 IST",
+    "stop": "2025-12-10 10:00:00 IST",
+    "channel": "jio-580",
+    "title": "DD Morning Show",
+    "subTitle": "Experts and industry leaders join an insightful discussion, covering a wide range of topics, including economy, technology, social issues and cultural developments.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210043000",
+    "stopRaw": "20251210050000",
+    "start": "2025-12-10 10:00:00 IST",
+    "stop": "2025-12-10 10:30:00 IST",
+    "channel": "jio-580",
+    "title": "Paramparik Geet",
+    "subTitle": "Talented vocalists and instrumentalists from across the region perform various traditional songs and captivate the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210050000",
+    "stopRaw": "20251210053000",
+    "start": "2025-12-10 10:30:00 IST",
+    "stop": "2025-12-10 11:00:00 IST",
+    "channel": "jio-580",
+    "title": "Desert Calling",
+    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210053000",
+    "stopRaw": "20251210063000",
+    "start": "2025-12-10 11:00:00 IST",
+    "stop": "2025-12-10 12:00:00 IST",
+    "channel": "jio-580",
+    "title": "Question Hours Live",
+    "subTitle": "Members of the Council of States ask questions to the leadership about different topics concerning the citizens and engage in debates about the same, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210063000",
+    "stopRaw": "20251210073000",
+    "start": "2025-12-10 12:00:00 IST",
+    "stop": "2025-12-10 13:00:00 IST",
+    "channel": "jio-580",
+    "title": "Question Hours Live",
+    "subTitle": "Members of the Council of States ask questions to the leadership about different topics concerning the citizens and engage in debates about the same, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210073000",
+    "stopRaw": "20251210080000",
+    "start": "2025-12-10 13:00:00 IST",
+    "stop": "2025-12-10 13:30:00 IST",
+    "channel": "jio-580",
+    "title": "Anudamini",
+    "subTitle": "A simple village belle struggles to adapt herself to the new environment and her in-laws after marrying a man who belongs to a rich, sophisticated family.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210080000",
+    "stopRaw": "20251210083000",
+    "start": "2025-12-10 13:30:00 IST",
+    "stop": "2025-12-10 14:00:00 IST",
+    "channel": "jio-580",
+    "title": "Buddhu Ka Kanta",
+    "subTitle": "Bringing the best in cinema.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210083000",
+    "stopRaw": "20251210090000",
+    "start": "2025-12-10 14:00:00 IST",
+    "stop": "2025-12-10 14:30:00 IST",
+    "channel": "jio-580",
+    "title": "Nrityashala",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210090000",
+    "stopRaw": "20251210093000",
+    "start": "2025-12-10 14:30:00 IST",
+    "stop": "2025-12-10 15:00:00 IST",
+    "channel": "jio-580",
+    "title": "Carnatic Music",
+    "subTitle": "A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210093000",
+    "stopRaw": "20251210100000",
+    "start": "2025-12-10 15:00:00 IST",
+    "stop": "2025-12-10 15:30:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210100000",
+    "stopRaw": "20251210103000",
+    "start": "2025-12-10 15:30:00 IST",
+    "stop": "2025-12-10 16:00:00 IST",
+    "channel": "jio-580",
+    "title": "National Programme Of Music",
+    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210103000",
+    "stopRaw": "20251210110000",
+    "start": "2025-12-10 16:00:00 IST",
+    "stop": "2025-12-10 16:30:00 IST",
+    "channel": "jio-580",
+    "title": "Paramparik Geet",
+    "subTitle": "Talented vocalists and instrumentalists from across the region perform various traditional songs and captivate the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210110000",
+    "stopRaw": "20251210113000",
+    "start": "2025-12-10 16:30:00 IST",
+    "stop": "2025-12-10 17:00:00 IST",
+    "channel": "jio-580",
+    "title": "Desert Calling",
+    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210113000",
+    "stopRaw": "20251210120000",
+    "start": "2025-12-10 17:00:00 IST",
+    "stop": "2025-12-10 17:30:00 IST",
+    "channel": "jio-580",
+    "title": "Mausiqui-Ek Khoj",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210120000",
+    "stopRaw": "20251210123000",
+    "start": "2025-12-10 17:30:00 IST",
+    "stop": "2025-12-10 18:00:00 IST",
+    "channel": "jio-580",
+    "title": "Rajasthan Ree Shan",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210123000",
+    "stopRaw": "20251210130000",
+    "start": "2025-12-10 18:00:00 IST",
+    "stop": "2025-12-10 18:30:00 IST",
+    "channel": "jio-580",
+    "title": "Re Mama Re",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210130000",
+    "stopRaw": "20251210133000",
+    "start": "2025-12-10 18:30:00 IST",
+    "stop": "2025-12-10 19:00:00 IST",
+    "channel": "jio-580",
+    "title": "Mullah Nasruddin",
+    "subTitle": "Mullah Nasruddin, a wise man, returns to his city and uses his quick wit and sense of humour to get himself and others out of problematic situations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210133000",
+    "stopRaw": "20251210140000",
+    "start": "2025-12-10 19:00:00 IST",
+    "stop": "2025-12-10 19:30:00 IST",
+    "channel": "jio-580",
+    "title": "Sankat Mochan Hanuman",
+    "subTitle": "Ravan, the demon king, is infuriated to find that Hanuman has managed to win despite facing a supreme weapon. However, this does not shakes Ravan's confidence who is steadfast to defeat Hanuman.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210140000",
+    "stopRaw": "20251210143000",
+    "start": "2025-12-10 19:30:00 IST",
+    "stop": "2025-12-10 20:00:00 IST",
+    "channel": "jio-580",
+    "title": "Nrityashala",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210143000",
+    "stopRaw": "20251210150000",
+    "start": "2025-12-10 20:00:00 IST",
+    "stop": "2025-12-10 20:30:00 IST",
+    "channel": "jio-580",
+    "title": "Anudamini",
+    "subTitle": "A simple village belle struggles to adapt herself to the new environment and her in-laws after marrying a man who belongs to a rich, sophisticated family.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210150000",
+    "stopRaw": "20251210153000",
+    "start": "2025-12-10 20:30:00 IST",
+    "stop": "2025-12-10 21:00:00 IST",
+    "channel": "jio-580",
+    "title": "Buddhu Ka Kanta",
+    "subTitle": "Bringing the best in cinema.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210153000",
+    "stopRaw": "20251210160000",
+    "start": "2025-12-10 21:00:00 IST",
+    "stop": "2025-12-10 21:30:00 IST",
+    "channel": "jio-580",
+    "title": "Mausiqui-Ek Khoj",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210160000",
+    "stopRaw": "20251210170000",
+    "start": "2025-12-10 21:30:00 IST",
+    "stop": "2025-12-10 22:30:00 IST",
+    "channel": "jio-580",
+    "title": "Byomkesh Bakshi",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210170000",
+    "stopRaw": "20251210173000",
+    "start": "2025-12-10 22:30:00 IST",
+    "stop": "2025-12-10 23:00:00 IST",
+    "channel": "jio-580",
+    "title": "Desert Calling",
+    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210173000",
+    "stopRaw": "20251210180000",
+    "start": "2025-12-10 23:00:00 IST",
+    "stop": "2025-12-10 23:30:00 IST",
+    "channel": "jio-580",
+    "title": "Re Mama Re",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251210180000",
+    "stopRaw": "20251210182959",
+    "start": "2025-12-10 23:30:00 IST",
+    "stop": "2025-12-10 23:59:59 IST",
+    "channel": "jio-580",
+    "title": "Mullah Nasruddin",
+    "subTitle": "Mullah Nasruddin, a wise man, returns to his city and uses his quick wit and sense of humour to get himself and others out of problematic situations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251210183000",
     "stopRaw": "20251210190000",
     "start": "2025-12-11 00:00:00 IST",
@@ -854,446 +1284,6 @@
     "stopRaw": "20251212182959",
     "start": "2025-12-12 23:30:00 IST",
     "stop": "2025-12-12 23:59:59 IST",
-    "channel": "jio-580",
-    "title": "Mullah Nasruddin",
-    "subTitle": "Mullah Nasruddin, a wise man, returns to his city and uses his quick wit and sense of humour to get himself and others out of problematic situations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212183000",
-    "stopRaw": "20251212190000",
-    "start": "2025-12-13 00:00:00 IST",
-    "stop": "2025-12-13 00:30:00 IST",
-    "channel": "jio-580",
-    "title": "Classical Vocal Recital",
-    "subTitle": "Renowned singers and musicians deliver classical vocal performances to entertain the viewers who love the genre of music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212190000",
-    "stopRaw": "20251212193000",
-    "start": "2025-12-13 00:30:00 IST",
-    "stop": "2025-12-13 01:00:00 IST",
-    "channel": "jio-580",
-    "title": "National Programme Of Music",
-    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212193000",
-    "stopRaw": "20251212200000",
-    "start": "2025-12-13 01:00:00 IST",
-    "stop": "2025-12-13 01:30:00 IST",
-    "channel": "jio-580",
-    "title": "Nrityashala",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212200000",
-    "stopRaw": "20251212203000",
-    "start": "2025-12-13 01:30:00 IST",
-    "stop": "2025-12-13 02:00:00 IST",
-    "channel": "jio-580",
-    "title": "Mridangam Recital",
-    "subTitle": "Renowned maestros perform melodious renditions of classical music pieces on the mridangam, an Indian percussion instrument.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212203000",
-    "stopRaw": "20251212210000",
-    "start": "2025-12-13 02:00:00 IST",
-    "stop": "2025-12-13 02:30:00 IST",
-    "channel": "jio-580",
-    "title": "National Programme Of Music",
-    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212210000",
-    "stopRaw": "20251212213000",
-    "start": "2025-12-13 02:30:00 IST",
-    "stop": "2025-12-13 03:00:00 IST",
-    "channel": "jio-580",
-    "title": "Rajasthan Ree Shan",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212213000",
-    "stopRaw": "20251212220000",
-    "start": "2025-12-13 03:00:00 IST",
-    "stop": "2025-12-13 03:30:00 IST",
-    "channel": "jio-580",
-    "title": "Anudamini",
-    "subTitle": "A simple village belle struggles to adapt herself to the new environment and her in-laws after marrying a man who belongs to a rich, sophisticated family.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212220000",
-    "stopRaw": "20251212223000",
-    "start": "2025-12-13 03:30:00 IST",
-    "stop": "2025-12-13 04:00:00 IST",
-    "channel": "jio-580",
-    "title": "Haathi Daant Ki Minaar",
-    "subTitle": "Bringing the best in cinema.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212223000",
-    "stopRaw": "20251212233000",
-    "start": "2025-12-13 04:00:00 IST",
-    "stop": "2025-12-13 05:00:00 IST",
-    "channel": "jio-580",
-    "title": "Jhankar",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212233000",
-    "stopRaw": "20251213000000",
-    "start": "2025-12-13 05:00:00 IST",
-    "stop": "2025-12-13 05:30:00 IST",
-    "channel": "jio-580",
-    "title": "Re Mama Re",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213000000",
-    "stopRaw": "20251213003000",
-    "start": "2025-12-13 05:30:00 IST",
-    "stop": "2025-12-13 06:00:00 IST",
-    "channel": "jio-580",
-    "title": "Mausiqui-Ek Khoj",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213003000",
-    "stopRaw": "20251213010000",
-    "start": "2025-12-13 06:00:00 IST",
-    "stop": "2025-12-13 06:30:00 IST",
-    "channel": "jio-580",
-    "title": "Sankat Mochan Hanuman",
-    "subTitle": "Lord Vishnu narrates Hanuman's firmness in not letting Shani Dev enter his body, for nobody except Lord Rama can be part of him.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213010000",
-    "stopRaw": "20251213013000",
-    "start": "2025-12-13 06:30:00 IST",
-    "stop": "2025-12-13 07:00:00 IST",
-    "channel": "jio-580",
-    "title": "National Programme Of Music",
-    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213013000",
-    "stopRaw": "20251213020000",
-    "start": "2025-12-13 07:00:00 IST",
-    "stop": "2025-12-13 07:30:00 IST",
-    "channel": "jio-580",
-    "title": "National Programme Of Music",
-    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213020000",
-    "stopRaw": "20251213023000",
-    "start": "2025-12-13 07:30:00 IST",
-    "stop": "2025-12-13 08:00:00 IST",
-    "channel": "jio-580",
-    "title": "Nrityashala",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213023000",
-    "stopRaw": "20251213030000",
-    "start": "2025-12-13 08:00:00 IST",
-    "stop": "2025-12-13 08:30:00 IST",
-    "channel": "jio-580",
-    "title": "Carnatic Music",
-    "subTitle": "A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213030000",
-    "stopRaw": "20251213033000",
-    "start": "2025-12-13 08:30:00 IST",
-    "stop": "2025-12-13 09:00:00 IST",
-    "channel": "jio-580",
-    "title": "Kashi Darshan",
-    "subTitle": "The presenter sheds light on the biggest attractions and spiritual significance of Varanasi, a city on the banks of the Ganges.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213033000",
-    "stopRaw": "20251213040000",
-    "start": "2025-12-13 09:00:00 IST",
-    "stop": "2025-12-13 09:30:00 IST",
-    "channel": "jio-580",
-    "title": "Shobhla Himachal Mahar",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213040000",
-    "stopRaw": "20251213043000",
-    "start": "2025-12-13 09:30:00 IST",
-    "stop": "2025-12-13 10:00:00 IST",
-    "channel": "jio-580",
-    "title": "Kala Sangam",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213043000",
-    "stopRaw": "20251213050000",
-    "start": "2025-12-13 10:00:00 IST",
-    "stop": "2025-12-13 10:30:00 IST",
-    "channel": "jio-580",
-    "title": "Paramparik Geet",
-    "subTitle": "Talented vocalists and instrumentalists from across the region perform various traditional songs and captivate the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213050000",
-    "stopRaw": "20251213053000",
-    "start": "2025-12-13 10:30:00 IST",
-    "stop": "2025-12-13 11:00:00 IST",
-    "channel": "jio-580",
-    "title": "Desert Calling",
-    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213053000",
-    "stopRaw": "20251213060000",
-    "start": "2025-12-13 11:00:00 IST",
-    "stop": "2025-12-13 11:30:00 IST",
-    "channel": "jio-580",
-    "title": "Neelu-Peelu-Dheelu",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213060000",
-    "stopRaw": "20251213063000",
-    "start": "2025-12-13 11:30:00 IST",
-    "stop": "2025-12-13 12:00:00 IST",
-    "channel": "jio-580",
-    "title": "Kalamkari",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213063000",
-    "stopRaw": "20251213073000",
-    "start": "2025-12-13 12:00:00 IST",
-    "stop": "2025-12-13 13:00:00 IST",
-    "channel": "jio-580",
-    "title": "Byomkesh Bakshi",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213073000",
-    "stopRaw": "20251213080000",
-    "start": "2025-12-13 13:00:00 IST",
-    "stop": "2025-12-13 13:30:00 IST",
-    "channel": "jio-580",
-    "title": "Shobhla Himachal Mahar",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213080000",
-    "stopRaw": "20251213083000",
-    "start": "2025-12-13 13:30:00 IST",
-    "stop": "2025-12-13 14:00:00 IST",
-    "channel": "jio-580",
-    "title": "Kala Sangam",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213083000",
-    "stopRaw": "20251213090000",
-    "start": "2025-12-13 14:00:00 IST",
-    "stop": "2025-12-13 14:30:00 IST",
-    "channel": "jio-580",
-    "title": "Nrityashala",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213090000",
-    "stopRaw": "20251213093000",
-    "start": "2025-12-13 14:30:00 IST",
-    "stop": "2025-12-13 15:00:00 IST",
-    "channel": "jio-580",
-    "title": "Carnatic Music",
-    "subTitle": "A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213093000",
-    "stopRaw": "20251213100000",
-    "start": "2025-12-13 15:00:00 IST",
-    "stop": "2025-12-13 15:30:00 IST",
-    "channel": "jio-580",
-    "title": "Kashi Darshan",
-    "subTitle": "The presenter sheds light on the biggest attractions and spiritual significance of Varanasi, a city on the banks of the Ganges.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213100000",
-    "stopRaw": "20251213103000",
-    "start": "2025-12-13 15:30:00 IST",
-    "stop": "2025-12-13 16:00:00 IST",
-    "channel": "jio-580",
-    "title": "National Programme Of Music",
-    "subTitle": "Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic classical music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213103000",
-    "stopRaw": "20251213110000",
-    "start": "2025-12-13 16:00:00 IST",
-    "stop": "2025-12-13 16:30:00 IST",
-    "channel": "jio-580",
-    "title": "Paramparik Geet",
-    "subTitle": "Talented vocalists and instrumentalists from across the region perform various traditional songs and captivate the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213110000",
-    "stopRaw": "20251213113000",
-    "start": "2025-12-13 16:30:00 IST",
-    "stop": "2025-12-13 17:00:00 IST",
-    "channel": "jio-580",
-    "title": "Desert Calling",
-    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213113000",
-    "stopRaw": "20251213120000",
-    "start": "2025-12-13 17:00:00 IST",
-    "stop": "2025-12-13 17:30:00 IST",
-    "channel": "jio-580",
-    "title": "Mausiqui-Ek Khoj",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213120000",
-    "stopRaw": "20251213123000",
-    "start": "2025-12-13 17:30:00 IST",
-    "stop": "2025-12-13 18:00:00 IST",
-    "channel": "jio-580",
-    "title": "Kalamkari",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213123000",
-    "stopRaw": "20251213130000",
-    "start": "2025-12-13 18:00:00 IST",
-    "stop": "2025-12-13 18:30:00 IST",
-    "channel": "jio-580",
-    "title": "Neelu-Peelu-Dheelu",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213130000",
-    "stopRaw": "20251213133000",
-    "start": "2025-12-13 18:30:00 IST",
-    "stop": "2025-12-13 19:00:00 IST",
-    "channel": "jio-580",
-    "title": "Mullah Nasruddin",
-    "subTitle": "Mullah Nasruddin, a wise man, returns to his city and uses his quick wit and sense of humour to get himself and others out of problematic situations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213133000",
-    "stopRaw": "20251213140000",
-    "start": "2025-12-13 19:00:00 IST",
-    "stop": "2025-12-13 19:30:00 IST",
-    "channel": "jio-580",
-    "title": "Sankat Mochan Hanuman",
-    "subTitle": "Lord Vishnu narrates Hanuman's firmness in not letting Shani Dev enter his body, for nobody except Lord Rama can be part of him.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213140000",
-    "stopRaw": "20251213143000",
-    "start": "2025-12-13 19:30:00 IST",
-    "stop": "2025-12-13 20:00:00 IST",
-    "channel": "jio-580",
-    "title": "Nrityashala",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213143000",
-    "stopRaw": "20251213153000",
-    "start": "2025-12-13 20:00:00 IST",
-    "stop": "2025-12-13 21:00:00 IST",
-    "channel": "jio-580",
-    "title": "Rang Rangilo Bharat",
-    "subTitle": "Talented artists perform folk dances for various traditional songs that showcase the beauty and uniqueness of their culture.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213153000",
-    "stopRaw": "20251213160000",
-    "start": "2025-12-13 21:00:00 IST",
-    "stop": "2025-12-13 21:30:00 IST",
-    "channel": "jio-580",
-    "title": "Mausiqui-Ek Khoj",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213160000",
-    "stopRaw": "20251213170000",
-    "start": "2025-12-13 21:30:00 IST",
-    "stop": "2025-12-13 22:30:00 IST",
-    "channel": "jio-580",
-    "title": "Byomkesh Bakshi",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213170000",
-    "stopRaw": "20251213173000",
-    "start": "2025-12-13 22:30:00 IST",
-    "stop": "2025-12-13 23:00:00 IST",
-    "channel": "jio-580",
-    "title": "Desert Calling",
-    "subTitle": "Rajasthan, a state in the north-west region of India, offers tourists abundant heritage destinations and is also known for its folk music and dance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213173000",
-    "stopRaw": "20251213180000",
-    "start": "2025-12-13 23:00:00 IST",
-    "stop": "2025-12-13 23:30:00 IST",
-    "channel": "jio-580",
-    "title": "Neelu-Peelu-Dheelu",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213180000",
-    "stopRaw": "20251213182959",
-    "start": "2025-12-13 23:30:00 IST",
-    "stop": "2025-12-13 23:59:59 IST",
     "channel": "jio-580",
     "title": "Mullah Nasruddin",
     "subTitle": "Mullah Nasruddin, a wise man, returns to his city and uses his quick wit and sense of humour to get himself and others out of problematic situations.",

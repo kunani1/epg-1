@@ -971,12 +971,22 @@
   },
   {
     "startRaw": "20251212233000",
-    "stopRaw": "20251213003000",
+    "stopRaw": "20251213000000",
     "start": "2025-12-13 05:00:00 IST",
-    "stop": "2025-12-13 06:00:00 IST",
+    "stop": "2025-12-13 05:30:00 IST",
     "channel": "jio-1075",
     "title": "Sri Guru Sarvabhouma",
     "subTitle": "The host sheds light on the life journey and contributions of Raghavendra Tirtha, a Vaishnava scholar and saint born in Tamil Nadu.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251213000000",
+    "stopRaw": "20251213003000",
+    "start": "2025-12-13 05:30:00 IST",
+    "stop": "2025-12-13 06:00:00 IST",
+    "channel": "jio-1075",
+    "title": "Namami Ayush",
+    "subTitle": "A medical professional explains various common ailments and their remedies, offering tips for maintaining a healthy lifestyle.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1135,8 +1145,8 @@
     "start": "2025-12-13 14:00:00 IST",
     "stop": "2025-12-13 14:30:00 IST",
     "channel": "jio-1075",
-    "title": "Agastya Marma Chikitse",
-    "subTitle": "A professional health expert talks about various kinds of treatment for diseases and the importance of maintaining a healthy lifestyle.",
+    "title": "Navagraha Shanthi Homa",
+    "subTitle": "Navagraha Shanthi Homa",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1221,22 +1231,12 @@
   },
   {
     "startRaw": "20251213133000",
-    "stopRaw": "20251213140000",
-    "start": "2025-12-13 19:00:00 IST",
-    "stop": "2025-12-13 19:30:00 IST",
-    "channel": "jio-1075",
-    "title": "Pashupathinatha Yatra",
-    "subTitle": "The host shares insights on the religious and cultural significance of the Pashupatinath Temple located in Kathmandu, Nepal.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213140000",
     "stopRaw": "20251213143000",
-    "start": "2025-12-13 19:30:00 IST",
+    "start": "2025-12-13 19:00:00 IST",
     "stop": "2025-12-13 20:00:00 IST",
     "channel": "jio-1075",
-    "title": "Healthy Little Champs",
-    "subTitle": "Professional health experts discuss children's health and development, providing effective remedies and solutions to support their optimal growth.",
+    "title": "Guruvandhana",
+    "subTitle": "Guruvandhana",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

@@ -371,18 +371,18 @@
   },
   {
     "startRaw": "20251212003000",
-    "stopRaw": "20251212010000",
+    "stopRaw": "20251212010100",
     "start": "2025-12-12 06:00:00 IST",
-    "stop": "2025-12-12 06:30:00 IST",
+    "stop": "2025-12-12 06:31:00 IST",
     "channel": "jio-1354",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "Zee Telugu HD",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251212010000",
+    "startRaw": "20251212010100",
     "stopRaw": "20251212013000",
-    "start": "2025-12-12 06:30:00 IST",
+    "start": "2025-12-12 06:31:00 IST",
     "stop": "2025-12-12 07:00:00 IST",
     "channel": "jio-1354",
     "title": "Bhakthi Samacharam",
@@ -661,22 +661,42 @@
   },
   {
     "startRaw": "20251212183000",
-    "stopRaw": "20251212213000",
+    "stopRaw": "20251212204300",
     "start": "2025-12-13 00:00:00 IST",
-    "stop": "2025-12-13 03:00:00 IST",
+    "stop": "2025-12-13 02:13:00 IST",
     "channel": "jio-1354",
     "title": "Kathanayakudu",
     "subTitle": "A simple barber, Balu and his his childhood friend Ashok Kumar, now a renowned actor, face the complexities of their past friendship when a film shoot in their village reignites old connections.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20251212204300",
+    "stopRaw": "20251212213000",
+    "start": "2025-12-13 02:13:00 IST",
+    "stop": "2025-12-13 03:00:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251212213000",
-    "stopRaw": "20251213003000",
+    "stopRaw": "20251212234100",
     "start": "2025-12-13 03:00:00 IST",
-    "stop": "2025-12-13 06:00:00 IST",
+    "stop": "2025-12-13 05:11:00 IST",
     "channel": "jio-1354",
     "title": "Aadavari Matalaku Ardhalu Verule",
     "subTitle": "Ganesh, in love with Keerthi, joins the software company she works at. However, his plans are foiled when he learns that she is already betrothed to another.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251212234100",
+    "stopRaw": "20251213003000",
+    "start": "2025-12-13 05:11:00 IST",
+    "stop": "2025-12-13 06:00:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

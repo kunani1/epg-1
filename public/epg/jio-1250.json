@@ -1,255 +1,5 @@
 [
   {
-    "startRaw": "20251212183000",
-    "stopRaw": "20251212190000",
-    "start": "2025-12-13 00:00:00 IST",
-    "stop": "2025-12-13 00:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Gulf Focus",
-    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212190000",
-    "stopRaw": "20251212200000",
-    "start": "2025-12-13 00:30:00 IST",
-    "stop": "2025-12-13 01:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212200000",
-    "stopRaw": "20251212203000",
-    "start": "2025-12-13 01:30:00 IST",
-    "stop": "2025-12-13 02:00:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212203000",
-    "stopRaw": "20251212210000",
-    "start": "2025-12-13 02:00:00 IST",
-    "stop": "2025-12-13 02:30:00 IST",
-    "channel": "jio-1250",
-    "title": "24 Round Up",
-    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212210000",
-    "stopRaw": "20251212213000",
-    "start": "2025-12-13 02:30:00 IST",
-    "stop": "2025-12-13 03:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Gulf Today",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212213000",
-    "stopRaw": "20251212220000",
-    "start": "2025-12-13 03:00:00 IST",
-    "stop": "2025-12-13 03:30:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212220000",
-    "stopRaw": "20251212233000",
-    "start": "2025-12-13 03:30:00 IST",
-    "stop": "2025-12-13 05:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251212233000",
-    "stopRaw": "20251213073000",
-    "start": "2025-12-13 05:00:00 IST",
-    "stop": "2025-12-13 13:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Vidhi Dinam",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213073000",
-    "stopRaw": "20251213080000",
-    "start": "2025-12-13 13:00:00 IST",
-    "stop": "2025-12-13 13:30:00 IST",
-    "channel": "jio-1250",
-    "title": "1 PM News",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213080000",
-    "stopRaw": "20251213083000",
-    "start": "2025-12-13 13:30:00 IST",
-    "stop": "2025-12-13 14:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Pradeshika Varthakal",
-    "subTitle": "The host provides an insight into some of the latest news, current affairs and developments on social, economic and political issues of regional significance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213083000",
-    "stopRaw": "20251213090000",
-    "start": "2025-12-13 14:00:00 IST",
-    "stop": "2025-12-13 14:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Police Diary",
-    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213090000",
-    "stopRaw": "20251213093000",
-    "start": "2025-12-13 14:30:00 IST",
-    "stop": "2025-12-13 15:00:00 IST",
-    "channel": "jio-1250",
-    "title": "24 Round Up",
-    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213093000",
-    "stopRaw": "20251213103000",
-    "start": "2025-12-13 15:00:00 IST",
-    "stop": "2025-12-13 16:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Van Vartha",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213103000",
-    "stopRaw": "20251213113000",
-    "start": "2025-12-13 16:00:00 IST",
-    "stop": "2025-12-13 17:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Good Evening With 24",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213113000",
-    "stopRaw": "20251213120000",
-    "start": "2025-12-13 17:00:00 IST",
-    "stop": "2025-12-13 17:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Cid 24",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213120000",
-    "stopRaw": "20251213123000",
-    "start": "2025-12-13 17:30:00 IST",
-    "stop": "2025-12-13 18:00:00 IST",
-    "channel": "jio-1250",
-    "title": "100 News",
-    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213123000",
-    "stopRaw": "20251213130000",
-    "start": "2025-12-13 18:00:00 IST",
-    "stop": "2025-12-13 18:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Vartha Sandhya",
-    "subTitle": "The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213130000",
-    "stopRaw": "20251213133000",
-    "start": "2025-12-13 18:30:00 IST",
-    "stop": "2025-12-13 19:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Pothujanam Kazhuthayalla Sir",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213133000",
-    "stopRaw": "20251213143000",
-    "start": "2025-12-13 19:00:00 IST",
-    "stop": "2025-12-13 20:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Encounter",
-    "subTitle": "Manoj Bajpayee sheds light on real-life stories of encounter killings, which took place across India. Each of these cases made their way into the headlines for months.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213143000",
-    "stopRaw": "20251213160000",
-    "start": "2025-12-13 20:00:00 IST",
-    "stop": "2025-12-13 21:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Prime Time With SKN",
-    "subTitle": "The host presents the latest information, advances and developments on various important issues impacting the lives of many people.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213160000",
-    "stopRaw": "20251213163000",
-    "start": "2025-12-13 21:30:00 IST",
-    "stop": "2025-12-13 22:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Kutavum Shikshayum",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213163000",
-    "stopRaw": "20251213170000",
-    "start": "2025-12-13 22:00:00 IST",
-    "stop": "2025-12-13 22:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Varthamazha",
-    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213170000",
-    "stopRaw": "20251213173000",
-    "start": "2025-12-13 22:30:00 IST",
-    "stop": "2025-12-13 23:00:00 IST",
-    "channel": "jio-1250",
-    "title": "Police Diary",
-    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213173000",
-    "stopRaw": "20251213180000",
-    "start": "2025-12-13 23:00:00 IST",
-    "stop": "2025-12-13 23:30:00 IST",
-    "channel": "jio-1250",
-    "title": "Late Edition",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to political and socio-economic news and updates from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213180000",
-    "stopRaw": "20251213182959",
-    "start": "2025-12-13 23:30:00 IST",
-    "stop": "2025-12-13 23:59:59 IST",
-    "channel": "jio-1250",
-    "title": "Arabia This Week",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20251213183000",
     "stopRaw": "20251213190000",
     "start": "2025-12-14 00:00:00 IST",
@@ -897,6 +647,276 @@
     "channel": "jio-1250",
     "title": "Gulf Today",
     "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215183000",
+    "stopRaw": "20251215190000",
+    "start": "2025-12-16 00:00:00 IST",
+    "stop": "2025-12-16 00:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Gulf Focus",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215190000",
+    "stopRaw": "20251215200000",
+    "start": "2025-12-16 00:30:00 IST",
+    "stop": "2025-12-16 01:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Election Stunt",
+    "subTitle": "The hosts shed light on the latest updates and key developments surrounding elections whilst providing information on contending candidates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215200000",
+    "stopRaw": "20251215203000",
+    "start": "2025-12-16 01:30:00 IST",
+    "stop": "2025-12-16 02:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215203000",
+    "stopRaw": "20251215210000",
+    "start": "2025-12-16 02:00:00 IST",
+    "stop": "2025-12-16 02:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Good Night",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events taking place in the state.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215210000",
+    "stopRaw": "20251215213000",
+    "start": "2025-12-16 02:30:00 IST",
+    "stop": "2025-12-16 03:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Gulf Focus",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215213000",
+    "stopRaw": "20251215220000",
+    "start": "2025-12-16 03:00:00 IST",
+    "stop": "2025-12-16 03:30:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215220000",
+    "stopRaw": "20251215233000",
+    "start": "2025-12-16 03:30:00 IST",
+    "stop": "2025-12-16 05:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter Prime",
+    "subTitle": "The host invites a panel of guests to discuss and provide an in-depth insight into current national issues of public interest with important updates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251215233000",
+    "stopRaw": "20251216000000",
+    "start": "2025-12-16 05:00:00 IST",
+    "stop": "2025-12-16 05:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Innu Sambhavichathu",
+    "subTitle": "The host presents a comprehensive and detailed report on the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216000000",
+    "stopRaw": "20251216003000",
+    "start": "2025-12-16 05:30:00 IST",
+    "stop": "2025-12-16 06:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216003000",
+    "stopRaw": "20251216013000",
+    "start": "2025-12-16 06:00:00 IST",
+    "stop": "2025-12-16 07:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Morning Walk",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216013000",
+    "stopRaw": "20251216050000",
+    "start": "2025-12-16 07:00:00 IST",
+    "stop": "2025-12-16 10:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Good Morning",
+    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216050000",
+    "stopRaw": "20251216060000",
+    "start": "2025-12-16 10:30:00 IST",
+    "stop": "2025-12-16 11:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Breaking Hours With Hashmi",
+    "subTitle": "Host Hashmi presents the latest news and updates regarding important political and economic developments around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216060000",
+    "stopRaw": "20251216070000",
+    "start": "2025-12-16 11:30:00 IST",
+    "stop": "2025-12-16 12:30:00 IST",
+    "channel": "jio-1250",
+    "title": "24 Breaking",
+    "subTitle": "The host presents a comprehensive and detailed report on the top 24 latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216070000",
+    "stopRaw": "20251216073000",
+    "start": "2025-12-16 12:30:00 IST",
+    "stop": "2025-12-16 13:00:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216073000",
+    "stopRaw": "20251216083000",
+    "start": "2025-12-16 13:00:00 IST",
+    "stop": "2025-12-16 14:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Varthamazha",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216083000",
+    "stopRaw": "20251216090000",
+    "start": "2025-12-16 14:00:00 IST",
+    "stop": "2025-12-16 14:30:00 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216090000",
+    "stopRaw": "20251216093000",
+    "start": "2025-12-16 14:30:00 IST",
+    "stop": "2025-12-16 15:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Police Diary",
+    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216093000",
+    "stopRaw": "20251216123000",
+    "start": "2025-12-16 15:00:00 IST",
+    "stop": "2025-12-16 18:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Womens Evening",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216123000",
+    "stopRaw": "20251216130000",
+    "start": "2025-12-16 18:00:00 IST",
+    "stop": "2025-12-16 18:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Vartha Sandhya",
+    "subTitle": "The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216130000",
+    "stopRaw": "20251216134500",
+    "start": "2025-12-16 18:30:00 IST",
+    "stop": "2025-12-16 19:15:00 IST",
+    "channel": "jio-1250",
+    "title": "Pothujanam Kazhuthayalla Sir",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216134500",
+    "stopRaw": "20251216140000",
+    "start": "2025-12-16 19:15:00 IST",
+    "stop": "2025-12-16 19:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Kooryanam",
+    "subTitle": "The host satirises various comments made by politicians and government officials, illuminating critical societal issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216140000",
+    "stopRaw": "20251216150000",
+    "start": "2025-12-16 19:30:00 IST",
+    "stop": "2025-12-16 20:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Encounter Prime",
+    "subTitle": "The host invites a panel of guests to discuss and provide an in-depth insight into current national issues of public interest with important updates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216150000",
+    "stopRaw": "20251216160000",
+    "start": "2025-12-16 20:30:00 IST",
+    "stop": "2025-12-16 21:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Prime Time With SKN",
+    "subTitle": "The host presents the latest information, advances and developments on various important issues impacting the lives of many people.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216160000",
+    "stopRaw": "20251216170000",
+    "start": "2025-12-16 21:30:00 IST",
+    "stop": "2025-12-16 22:30:00 IST",
+    "channel": "jio-1250",
+    "title": "Varthamazha",
+    "subTitle": "The host presents a detailed analysis on the latest information and developments on various important issues that affect many lives.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216170000",
+    "stopRaw": "20251216173000",
+    "start": "2025-12-16 22:30:00 IST",
+    "stop": "2025-12-16 23:00:00 IST",
+    "channel": "jio-1250",
+    "title": "Police Diary",
+    "subTitle": "The host showcases real-life, horrific crimes stories that are committed across the country through a dramatic representation of the actual events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216173000",
+    "stopRaw": "20251216180000",
+    "start": "2025-12-16 23:00:00 IST",
+    "stop": "2025-12-16 23:30:00 IST",
+    "channel": "jio-1250",
+    "title": "24 Round Up",
+    "subTitle": "The host presents a detailed analysis of the latest information and developments on various important issues affecting the lives of many people.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216180000",
+    "stopRaw": "20251216182959",
+    "start": "2025-12-16 23:30:00 IST",
+    "stop": "2025-12-16 23:59:59 IST",
+    "channel": "jio-1250",
+    "title": "100 News",
+    "subTitle": "The host presents the latest updates on politics, business, entertainment, science, sports and current events in quick succession.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

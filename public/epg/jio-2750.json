@@ -1,255 +1,5 @@
 [
   {
-    "startRaw": "20251213183000",
-    "stopRaw": "20251213193000",
-    "start": "2025-12-14 00:00:00 IST",
-    "stop": "2025-12-14 01:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Fresh Faces",
-    "subTitle": "A compilation of some of the most popular songs performed by various up-and-coming artists is played back-to-back in order to entertain the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213193000",
-    "stopRaw": "20251213203000",
-    "start": "2025-12-14 01:00:00 IST",
-    "stop": "2025-12-14 02:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Filmy Tunes",
-    "subTitle": "A comprehensive compilation of some of the most popular movie songs composed by various renowned artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213203000",
-    "stopRaw": "20251213213000",
-    "start": "2025-12-14 02:00:00 IST",
-    "stop": "2025-12-14 03:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Sur E Sartaaj",
-    "subTitle": "A comprehensive compilation of well-known songs performed by Punjabi artist and poet, Satinder Sartaaj, is played to captivate the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213213000",
-    "stopRaw": "20251213223000",
-    "start": "2025-12-14 03:00:00 IST",
-    "stop": "2025-12-14 04:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Romantic Hits",
-    "subTitle": "A comprehensive compilation of some of the popular romantic songs by various artists played back-to-back to entertain the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213223000",
-    "stopRaw": "20251213230000",
-    "start": "2025-12-14 04:00:00 IST",
-    "stop": "2025-12-14 04:30:00 IST",
-    "channel": "jio-2750",
-    "title": "Mankirt Aulakh Hits",
-    "subTitle": "A comprehensive compilation of popular and energetic musical hits performed by a renowned artist is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213230000",
-    "stopRaw": "20251213233000",
-    "start": "2025-12-14 04:30:00 IST",
-    "stop": "2025-12-14 05:00:00 IST",
-    "channel": "jio-2750",
-    "title": "New On the Chart",
-    "subTitle": "A comprehensive compilation of newly released songs composed by musical artists from all over the world is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251213233000",
-    "stopRaw": "20251214003000",
-    "start": "2025-12-14 05:00:00 IST",
-    "stop": "2025-12-14 06:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Kudiyaan Punjab Diyaan",
-    "subTitle": "A compilation of some of the most popular and energetic songs, composed and performed by talented female artists from Punjab, India, is presented.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214003000",
-    "stopRaw": "20251214013000",
-    "start": "2025-12-14 06:00:00 IST",
-    "stop": "2025-12-14 07:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Happy Vibes And Beats",
-    "subTitle": "A lively showcase of Punjabi music that blends energetic beats with soulful melodies, creating a mood filled with rhythm and positivity.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214013000",
-    "stopRaw": "20251214023000",
-    "start": "2025-12-14 07:00:00 IST",
-    "stop": "2025-12-14 08:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Trending Beats",
-    "subTitle": "A comprehensive compilation of some of the most popular songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214023000",
-    "stopRaw": "20251214033000",
-    "start": "2025-12-14 08:00:00 IST",
-    "stop": "2025-12-14 09:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Fitness Fusion",
-    "subTitle": "A compilation of some of the most upbeat and energetic songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214033000",
-    "stopRaw": "20251214043000",
-    "start": "2025-12-14 09:00:00 IST",
-    "stop": "2025-12-14 10:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Best Of Party Hits",
-    "subTitle": "A comprehensive compilation of some of the most popular party songs produced and composed by various famous artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214043000",
-    "stopRaw": "20251214053000",
-    "start": "2025-12-14 10:00:00 IST",
-    "stop": "2025-12-14 11:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Punjabi Tadka",
-    "subTitle": "A comprehensive compilation of some of the greatest Punjabi soundtracks produced and composed by various famous artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214053000",
-    "stopRaw": "20251214063000",
-    "start": "2025-12-14 11:00:00 IST",
-    "stop": "2025-12-14 12:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Gippy Grewal Hits",
-    "subTitle": "A compilation of some of the most popular songs performed by famous artist Gippy Grewal is played back-to-back in order to entertain the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214063000",
-    "stopRaw": "20251214073000",
-    "start": "2025-12-14 12:00:00 IST",
-    "stop": "2025-12-14 13:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Pyaar Te Barsaat",
-    "subTitle": "A comprehensive compilation of melodious romantic songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214073000",
-    "stopRaw": "20251214083000",
-    "start": "2025-12-14 13:00:00 IST",
-    "stop": "2025-12-14 14:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Sur E Sartaaj",
-    "subTitle": "A comprehensive compilation of well-known songs performed by Punjabi artist and poet, Satinder Sartaaj, is played to captivate the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214083000",
-    "stopRaw": "20251214093000",
-    "start": "2025-12-14 14:00:00 IST",
-    "stop": "2025-12-14 15:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Filmy Tunes",
-    "subTitle": "A comprehensive compilation of some of the most popular movie songs composed by various renowned artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214093000",
-    "stopRaw": "20251214103000",
-    "start": "2025-12-14 15:00:00 IST",
-    "stop": "2025-12-14 16:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Kudiyaan Punjab Diyaan",
-    "subTitle": "A compilation of some of the most popular and energetic songs, composed and performed by talented female artists from Punjab, India, is presented.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214103000",
-    "stopRaw": "20251214113000",
-    "start": "2025-12-14 16:00:00 IST",
-    "stop": "2025-12-14 17:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Happy Vibes And Beats",
-    "subTitle": "A lively showcase of Punjabi music that blends energetic beats with soulful melodies, creating a mood filled with rhythm and positivity.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214113000",
-    "stopRaw": "20251214123000",
-    "start": "2025-12-14 17:00:00 IST",
-    "stop": "2025-12-14 18:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Lazy Evening",
-    "subTitle": "A comprehensive compilation of some of the most soulful songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214123000",
-    "stopRaw": "20251214133000",
-    "start": "2025-12-14 18:00:00 IST",
-    "stop": "2025-12-14 19:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Best Of Party Hits",
-    "subTitle": "A comprehensive compilation of some of the most popular party songs produced and composed by various famous artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214133000",
-    "stopRaw": "20251214143000",
-    "start": "2025-12-14 19:00:00 IST",
-    "stop": "2025-12-14 20:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Fitness Fusion",
-    "subTitle": "A compilation of some of the most upbeat and energetic songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214143000",
-    "stopRaw": "20251214153000",
-    "start": "2025-12-14 20:00:00 IST",
-    "stop": "2025-12-14 21:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Gippy Grewal Hits",
-    "subTitle": "A compilation of some of the most popular songs performed by famous artist Gippy Grewal is played back-to-back in order to entertain the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214153000",
-    "stopRaw": "20251214163000",
-    "start": "2025-12-14 21:00:00 IST",
-    "stop": "2025-12-14 22:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Romantic Hits",
-    "subTitle": "A comprehensive compilation of some of the popular romantic songs by various artists played back-to-back to entertain the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214163000",
-    "stopRaw": "20251214173000",
-    "start": "2025-12-14 22:00:00 IST",
-    "stop": "2025-12-14 23:00:00 IST",
-    "channel": "jio-2750",
-    "title": "Trending Beats",
-    "subTitle": "A comprehensive compilation of some of the most popular songs produced and composed by talented artists is played back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251214173000",
-    "stopRaw": "20251214182959",
-    "start": "2025-12-14 23:00:00 IST",
-    "stop": "2025-12-14 23:59:59 IST",
-    "channel": "jio-2750",
-    "title": "Punjabi Tadka",
-    "subTitle": "A comprehensive compilation of some of the greatest Punjabi soundtracks produced and composed by various famous artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20251214183000",
     "stopRaw": "20251214193000",
     "start": "2025-12-15 00:00:00 IST",
@@ -747,6 +497,256 @@
     "channel": "jio-2750",
     "title": "Romantic Hits",
     "subTitle": "A comprehensive compilation of some of the popular romantic songs by various artists played back-to-back to entertain the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216183000",
+    "stopRaw": "20251216193000",
+    "start": "2025-12-17 00:00:00 IST",
+    "stop": "2025-12-17 01:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Popular In Town",
+    "subTitle": "A comprehensive compilation of some of the most popular songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216193000",
+    "stopRaw": "20251216203000",
+    "start": "2025-12-17 01:00:00 IST",
+    "stop": "2025-12-17 02:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Filmy Tunes",
+    "subTitle": "A comprehensive compilation of some of the most popular movie songs composed by various renowned artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216203000",
+    "stopRaw": "20251216213000",
+    "start": "2025-12-17 02:00:00 IST",
+    "stop": "2025-12-17 03:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Drive Vali Vibes",
+    "subTitle": "A comprehensive compilation of the most popular and energetic songs produced by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216213000",
+    "stopRaw": "20251216223000",
+    "start": "2025-12-17 03:00:00 IST",
+    "stop": "2025-12-17 04:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Sufi Sangeet",
+    "subTitle": "A comprehensive compilation of Sufi devotional songs performed by talented artists and musicians is played in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216223000",
+    "stopRaw": "20251216230000",
+    "start": "2025-12-17 04:00:00 IST",
+    "stop": "2025-12-17 04:30:00 IST",
+    "channel": "jio-2750",
+    "title": "New On the Chart",
+    "subTitle": "A comprehensive compilation of newly released songs composed by musical artists from all over the world is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216230000",
+    "stopRaw": "20251216233000",
+    "start": "2025-12-17 04:30:00 IST",
+    "stop": "2025-12-17 05:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Summer Beats",
+    "subTitle": "A comprehensive compilation of some of the most popular and energetic songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251216233000",
+    "stopRaw": "20251217003000",
+    "start": "2025-12-17 05:00:00 IST",
+    "stop": "2025-12-17 06:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Gippy Grewal Hits",
+    "subTitle": "A compilation of some of the most popular songs performed by famous artist Gippy Grewal is played back-to-back in order to entertain the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217003000",
+    "stopRaw": "20251217013000",
+    "start": "2025-12-17 06:00:00 IST",
+    "stop": "2025-12-17 07:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Fitness Fusion",
+    "subTitle": "A compilation of some of the most upbeat and energetic songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217013000",
+    "stopRaw": "20251217023000",
+    "start": "2025-12-17 07:00:00 IST",
+    "stop": "2025-12-17 08:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Punjabi Tadka",
+    "subTitle": "A comprehensive compilation of some of the greatest Punjabi soundtracks produced and composed by various famous artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217023000",
+    "stopRaw": "20251217033000",
+    "start": "2025-12-17 08:00:00 IST",
+    "stop": "2025-12-17 09:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Jatt Vibes",
+    "subTitle": "A comprehensive compilation of popular and upbeat songs produced and composed by renowned artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217033000",
+    "stopRaw": "20251217043000",
+    "start": "2025-12-17 09:00:00 IST",
+    "stop": "2025-12-17 10:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Bhangra Fever",
+    "subTitle": "A comprehensive compilation of some of the most popular dance songs produced by various famous artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217043000",
+    "stopRaw": "20251217053000",
+    "start": "2025-12-17 10:00:00 IST",
+    "stop": "2025-12-17 11:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Dhamakedaar Beats",
+    "subTitle": "A comprehensive compilation of popular and energetic songs performed by various famous artists and musicians is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217053000",
+    "stopRaw": "20251217063000",
+    "start": "2025-12-17 11:00:00 IST",
+    "stop": "2025-12-17 12:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Tich Button",
+    "subTitle": "A romantic Punjabi song from a movie, composed and sung by talented artists, is played back-to-back to enthrall the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217063000",
+    "stopRaw": "20251217073000",
+    "start": "2025-12-17 12:00:00 IST",
+    "stop": "2025-12-17 13:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Pyaar Te Barsaat",
+    "subTitle": "A comprehensive compilation of melodious romantic songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217073000",
+    "stopRaw": "20251217083000",
+    "start": "2025-12-17 13:00:00 IST",
+    "stop": "2025-12-17 14:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Popular In Town",
+    "subTitle": "A comprehensive compilation of some of the most popular songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217083000",
+    "stopRaw": "20251217093000",
+    "start": "2025-12-17 14:00:00 IST",
+    "stop": "2025-12-17 15:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Filmy Tunes",
+    "subTitle": "A comprehensive compilation of some of the most popular movie songs composed by various renowned artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217093000",
+    "stopRaw": "20251217103000",
+    "start": "2025-12-17 15:00:00 IST",
+    "stop": "2025-12-17 16:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Gippy Grewal Hits",
+    "subTitle": "A compilation of some of the most popular songs performed by famous artist Gippy Grewal is played back-to-back in order to entertain the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217103000",
+    "stopRaw": "20251217113000",
+    "start": "2025-12-17 16:00:00 IST",
+    "stop": "2025-12-17 17:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Happy Vibes And Beats",
+    "subTitle": "A lively showcase of Punjabi music that blends energetic beats with soulful melodies, creating a mood filled with rhythm and positivity.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217113000",
+    "stopRaw": "20251217123000",
+    "start": "2025-12-17 17:00:00 IST",
+    "stop": "2025-12-17 18:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Lazy Evening",
+    "subTitle": "A comprehensive compilation of some of the most soulful songs produced and composed by talented artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217123000",
+    "stopRaw": "20251217133000",
+    "start": "2025-12-17 18:00:00 IST",
+    "stop": "2025-12-17 19:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Punjabi Tadka",
+    "subTitle": "A comprehensive compilation of some of the greatest Punjabi soundtracks produced and composed by various famous artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217133000",
+    "stopRaw": "20251217143000",
+    "start": "2025-12-17 19:00:00 IST",
+    "stop": "2025-12-17 20:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Bhangra Fever",
+    "subTitle": "A comprehensive compilation of some of the most popular dance songs produced by various famous artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217143000",
+    "stopRaw": "20251217153000",
+    "start": "2025-12-17 20:00:00 IST",
+    "stop": "2025-12-17 21:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Jatt Vibes",
+    "subTitle": "A comprehensive compilation of popular and upbeat songs produced and composed by renowned artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217153000",
+    "stopRaw": "20251217163000",
+    "start": "2025-12-17 21:00:00 IST",
+    "stop": "2025-12-17 22:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Dhamakedaar Beats",
+    "subTitle": "A comprehensive compilation of popular and energetic songs performed by various famous artists and musicians is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217163000",
+    "stopRaw": "20251217173000",
+    "start": "2025-12-17 22:00:00 IST",
+    "stop": "2025-12-17 23:00:00 IST",
+    "channel": "jio-2750",
+    "title": "Sufi Sangeet",
+    "subTitle": "A comprehensive compilation of Sufi devotional songs performed by talented artists and musicians is played in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251217173000",
+    "stopRaw": "20251217182959",
+    "start": "2025-12-17 23:00:00 IST",
+    "stop": "2025-12-17 23:59:59 IST",
+    "channel": "jio-2750",
+    "title": "Drive Vali Vibes",
+    "subTitle": "A comprehensive compilation of the most popular and energetic songs produced by talented artists is played back to back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -1,5 +1,235 @@
 [
   {
+    "startRaw": "20251218183000",
+    "stopRaw": "20251218200000",
+    "start": "2025-12-19 00:00:00 IST",
+    "stop": "2025-12-19 01:30:00 IST",
+    "channel": "jio-524",
+    "title": "Test Cricket",
+    "subTitle": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251218200000",
+    "stopRaw": "20251218220000",
+    "start": "2025-12-19 01:30:00 IST",
+    "stop": "2025-12-19 03:30:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Europa Conference League 2024-25",
+    "subTitle": "From Selhurst Park in London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251218220000",
+    "stopRaw": "20251218223000",
+    "start": "2025-12-19 03:30:00 IST",
+    "stop": "2025-12-19 04:00:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League Highlights",
+    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251218223000",
+    "stopRaw": "20251218233000",
+    "start": "2025-12-19 04:00:00 IST",
+    "stop": "2025-12-19 05:00:00 IST",
+    "channel": "jio-524",
+    "title": "Asia Cup Highlights",
+    "subTitle": "Highlights from the Super Four match between Pakistan and Bangladesh in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251218233000",
+    "stopRaw": "20251219003000",
+    "start": "2025-12-19 05:00:00 IST",
+    "stop": "2025-12-19 06:00:00 IST",
+    "channel": "jio-524",
+    "title": "T20 Cricket",
+    "subTitle": "England competes against India in their first T20 International match, where the two professional cricket teams vie for victory.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219003000",
+    "stopRaw": "20251219013000",
+    "start": "2025-12-19 06:00:00 IST",
+    "stop": "2025-12-19 07:00:00 IST",
+    "channel": "jio-524",
+    "title": "One-Day International Cricket",
+    "subTitle": "Sri Lanka competes against India in their fifth One Day international match, where the two professional cricket teams vie for victory.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219013000",
+    "stopRaw": "20251219020000",
+    "start": "2025-12-19 07:00:00 IST",
+    "stop": "2025-12-19 07:30:00 IST",
+    "channel": "jio-524",
+    "title": "ACC Men's U19 Asia Cup",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219020000",
+    "stopRaw": "20251219023000",
+    "start": "2025-12-19 07:30:00 IST",
+    "stop": "2025-12-19 08:00:00 IST",
+    "channel": "jio-524",
+    "title": "ACC Men's U19 Asia Cup",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219023000",
+    "stopRaw": "20251219033000",
+    "start": "2025-12-19 08:00:00 IST",
+    "stop": "2025-12-19 09:00:00 IST",
+    "channel": "jio-524",
+    "title": "UFC 315 - Muhammad vs Della Maddalena",
+    "subTitle": "From the Bell Centre in Montreal.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219033000",
+    "stopRaw": "20251219040000",
+    "start": "2025-12-19 09:00:00 IST",
+    "stop": "2025-12-19 09:30:00 IST",
+    "channel": "jio-524",
+    "title": "Women's One-Day International Cricket",
+    "subTitle": "England and India compete against each other to emerge victorious in their third Women's One Day International match.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219040000",
+    "stopRaw": "20251219043000",
+    "start": "2025-12-19 09:30:00 IST",
+    "stop": "2025-12-19 10:00:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219043000",
+    "stopRaw": "20251219050000",
+    "start": "2025-12-19 10:00:00 IST",
+    "stop": "2025-12-19 10:30:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219050000",
+    "stopRaw": "20251219084500",
+    "start": "2025-12-19 10:30:00 IST",
+    "stop": "2025-12-19 14:15:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "Coverage of the twelfth edition of the limited overs cricket tournament featuring eight under-19 teams. From host country United Arab Emirates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219084500",
+    "stopRaw": "20251219091500",
+    "start": "2025-12-19 14:15:00 IST",
+    "stop": "2025-12-19 14:45:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219091500",
+    "stopRaw": "20251219130000",
+    "start": "2025-12-19 14:45:00 IST",
+    "stop": "2025-12-19 18:30:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "Coverage of the twelfth edition of the limited overs cricket tournament featuring eight under-19 teams. From host country United Arab Emirates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219130000",
+    "stopRaw": "20251219140000",
+    "start": "2025-12-19 18:30:00 IST",
+    "stop": "2025-12-19 19:30:00 IST",
+    "channel": "jio-524",
+    "title": "DP World Men's U19 Asia Cup 2025",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219140000",
+    "stopRaw": "20251219150000",
+    "start": "2025-12-19 19:30:00 IST",
+    "stop": "2025-12-19 20:30:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Europa League 2025-26",
+    "subTitle": "Jailton Almeida vs. Serghei Spivac,heavyweight; Jiri Prochazka vs. Jamahal Hill, light heavyweight; Merab Dvavlishvili vs. Umar Nurmagomedov, bantamweight; Islam Makhachev vs. Renato Moicano, lightweight. From Intuit Dome in Inglewood, Calif.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219150000",
+    "stopRaw": "20251219153000",
+    "start": "2025-12-19 20:30:00 IST",
+    "stop": "2025-12-19 21:00:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League 2025-26",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219153000",
+    "stopRaw": "20251219160000",
+    "start": "2025-12-19 21:00:00 IST",
+    "stop": "2025-12-19 21:30:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League 2025-26",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219160000",
+    "stopRaw": "20251219163000",
+    "start": "2025-12-19 21:30:00 IST",
+    "stop": "2025-12-19 22:00:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League Highlights",
+    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219163000",
+    "stopRaw": "20251219173000",
+    "start": "2025-12-19 22:00:00 IST",
+    "stop": "2025-12-19 23:00:00 IST",
+    "channel": "jio-524",
+    "title": "World Tennis League 2024",
+    "subTitle": "Classic matches of the best Mixed Martial Arts from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219173000",
+    "stopRaw": "20251219180000",
+    "start": "2025-12-19 23:00:00 IST",
+    "stop": "2025-12-19 23:30:00 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League 2025/26",
+    "subTitle": "England competes against India in their first One Day International match, where the two professional cricket teams vie for victory.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251219180000",
+    "stopRaw": "20251219182959",
+    "start": "2025-12-19 23:30:00 IST",
+    "stop": "2025-12-19 23:59:59 IST",
+    "channel": "jio-524",
+    "title": "UEFA Champions League 2025-26",
+    "subTitle": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251219183000",
     "stopRaw": "20251219200000",
     "start": "2025-12-20 00:00:00 IST",
@@ -175,7 +405,7 @@
     "start": "2025-12-20 19:00:00 IST",
     "stop": "2025-12-20 19:30:00 IST",
     "channel": "jio-524",
-    "title": "UEFA Champions League 2025-26",
+    "title": "ACC Men's U19 Asia Cup",
     "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -185,7 +415,7 @@
     "start": "2025-12-20 19:30:00 IST",
     "stop": "2025-12-20 20:30:00 IST",
     "channel": "jio-524",
-    "title": "India Women's Tour of England 2025",
+    "title": "MMA",
     "subTitle": "Classic matches of the best Mixed Martial Arts from around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -195,7 +425,7 @@
     "start": "2025-12-20 20:30:00 IST",
     "stop": "2025-12-20 21:30:00 IST",
     "channel": "jio-524",
-    "title": "India Women's Tour of England 2025",
+    "title": "T20 Cricket",
     "subTitle": "England competes against India in their third T20 International match, where the two professional cricket teams vie for victory.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -215,7 +445,7 @@
     "start": "2025-12-20 22:00:00 IST",
     "stop": "2025-12-20 23:00:00 IST",
     "channel": "jio-524",
-    "title": "India Women's Tour of England 2025",
+    "title": "UFC 317: Topuria vs Oliveira",
     "subTitle": "Undefeated champion Ilia Topuria faces the formidable Charles Oliveira in the UFC International Fight Week finale, vying for victory and the coveted title.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -225,7 +455,7 @@
     "start": "2025-12-20 23:00:00 IST",
     "stop": "2025-12-20 23:30:00 IST",
     "channel": "jio-524",
-    "title": "UEFA Champions League 2025-26",
+    "title": "Women's One-Day International Cricket",
     "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -255,7 +485,7 @@
     "start": "2025-12-21 01:30:00 IST",
     "stop": "2025-12-21 02:00:00 IST",
     "channel": "jio-524",
-    "title": "UEFA Europa League 2025-26",
+    "title": "Women's One-Day International Cricket",
     "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -295,7 +525,7 @@
     "start": "2025-12-21 06:00:00 IST",
     "stop": "2025-12-21 07:00:00 IST",
     "channel": "jio-524",
-    "title": "UEFA Champions League 2025-26",
+    "title": "Cricket Highlights",
     "subTitle": "India and England compete against each other in the second ODI match.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -305,7 +535,7 @@
     "start": "2025-12-21 07:00:00 IST",
     "stop": "2025-12-21 08:00:00 IST",
     "channel": "jio-524",
-    "title": "UEFA Europa League 2022-23",
+    "title": "ACC Men's U19 Asia Cup",
     "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -434,216 +664,6 @@
     "stopRaw": "20251221182959",
     "start": "2025-12-21 23:30:00 IST",
     "stop": "2025-12-21 23:59:59 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221183000",
-    "stopRaw": "20251221190000",
-    "start": "2025-12-22 00:00:00 IST",
-    "stop": "2025-12-22 00:30:00 IST",
-    "channel": "jio-524",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221190000",
-    "stopRaw": "20251221200000",
-    "start": "2025-12-22 00:30:00 IST",
-    "stop": "2025-12-22 01:30:00 IST",
-    "channel": "jio-524",
-    "title": "Cricket Highlights",
-    "subTitle": "Highlights from the finals match between England and India in the NatWest Series, where the two professional cricket teams compete against each other for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221200000",
-    "stopRaw": "20251221203000",
-    "start": "2025-12-22 01:30:00 IST",
-    "stop": "2025-12-22 02:00:00 IST",
-    "channel": "jio-524",
-    "title": "Women's One-Day International Cricket",
-    "subTitle": "England and India compete against each other to emerge victorious in their third Women's One Day International match.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221203000",
-    "stopRaw": "20251221223000",
-    "start": "2025-12-22 02:00:00 IST",
-    "stop": "2025-12-22 04:00:00 IST",
-    "channel": "jio-524",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221223000",
-    "stopRaw": "20251221233000",
-    "start": "2025-12-22 04:00:00 IST",
-    "stop": "2025-12-22 05:00:00 IST",
-    "channel": "jio-524",
-    "title": "Asia Cup Highlights",
-    "subTitle": "Highlights from the 2025 Super Fours match between Sri Lanka and Bangladesh in the Asia Cup, where the two professional cricket teams compete against each other for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251221233000",
-    "stopRaw": "20251222003000",
-    "start": "2025-12-22 05:00:00 IST",
-    "stop": "2025-12-22 06:00:00 IST",
-    "channel": "jio-524",
-    "title": "T20 Cricket",
-    "subTitle": "England competes against India in their first T20 International match, where the two professional cricket teams vie for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222003000",
-    "stopRaw": "20251222013000",
-    "start": "2025-12-22 06:00:00 IST",
-    "stop": "2025-12-22 07:00:00 IST",
-    "channel": "jio-524",
-    "title": "One-Day International Cricket",
-    "subTitle": "Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222013000",
-    "stopRaw": "20251222020000",
-    "start": "2025-12-22 07:00:00 IST",
-    "stop": "2025-12-22 07:30:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222020000",
-    "stopRaw": "20251222040000",
-    "start": "2025-12-22 07:30:00 IST",
-    "stop": "2025-12-22 09:30:00 IST",
-    "channel": "jio-524",
-    "title": "Saturday Night's Main Event",
-    "subTitle": "Professional wrestlers face off in intense matches, striving to outlast their opponents, claim victory, and secure the championship title.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222040000",
-    "stopRaw": "20251222050000",
-    "start": "2025-12-22 09:30:00 IST",
-    "stop": "2025-12-22 10:30:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222050000",
-    "stopRaw": "20251222084500",
-    "start": "2025-12-22 10:30:00 IST",
-    "stop": "2025-12-22 14:15:00 IST",
-    "channel": "jio-524",
-    "title": "One-Day International Cricket",
-    "subTitle": "Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222084500",
-    "stopRaw": "20251222091500",
-    "start": "2025-12-22 14:15:00 IST",
-    "stop": "2025-12-22 14:45:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222091500",
-    "stopRaw": "20251222130000",
-    "start": "2025-12-22 14:45:00 IST",
-    "stop": "2025-12-22 18:30:00 IST",
-    "channel": "jio-524",
-    "title": "One-Day International Cricket",
-    "subTitle": "Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222130000",
-    "stopRaw": "20251222140000",
-    "start": "2025-12-22 18:30:00 IST",
-    "stop": "2025-12-22 19:30:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222140000",
-    "stopRaw": "20251222150000",
-    "start": "2025-12-22 19:30:00 IST",
-    "stop": "2025-12-22 20:30:00 IST",
-    "channel": "jio-524",
-    "title": "MMA",
-    "subTitle": "Classic matches of the best Mixed Martial Arts from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222150000",
-    "stopRaw": "20251222153000",
-    "start": "2025-12-22 20:30:00 IST",
-    "stop": "2025-12-22 21:00:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222153000",
-    "stopRaw": "20251222160000",
-    "start": "2025-12-22 21:00:00 IST",
-    "stop": "2025-12-22 21:30:00 IST",
-    "channel": "jio-524",
-    "title": "ACC Men's U19 Asia Cup",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222160000",
-    "stopRaw": "20251222163000",
-    "start": "2025-12-22 21:30:00 IST",
-    "stop": "2025-12-22 22:00:00 IST",
-    "channel": "jio-524",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222163000",
-    "stopRaw": "20251222173000",
-    "start": "2025-12-22 22:00:00 IST",
-    "stop": "2025-12-22 23:00:00 IST",
-    "channel": "jio-524",
-    "title": "UFC 317: Topuria vs Oliveira",
-    "subTitle": "Undefeated champion Ilia Topuria faces the formidable Charles Oliveira in the UFC International Fight Week finale, vying for victory and the coveted title.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222173000",
-    "stopRaw": "20251222180000",
-    "start": "2025-12-22 23:00:00 IST",
-    "stop": "2025-12-22 23:30:00 IST",
-    "channel": "jio-524",
-    "title": "T20 Cricket",
-    "subTitle": "England competes against India in their first T20 International match, where the two professional cricket teams vie for victory.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251222180000",
-    "stopRaw": "20251222182959",
-    "start": "2025-12-22 23:30:00 IST",
-    "stop": "2025-12-22 23:59:59 IST",
     "channel": "jio-524",
     "title": "ACC Men's U19 Asia Cup",
     "subTitle": "",

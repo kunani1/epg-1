@@ -311,12 +311,42 @@
   },
   {
     "startRaw": "20251222073000",
-    "stopRaw": "20251222093000",
+    "stopRaw": "20251222081500",
     "start": "2025-12-22 13:00:00 IST",
-    "stop": "2025-12-22 15:00:00 IST",
+    "stop": "2025-12-22 13:45:00 IST",
     "channel": "jio-1633",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251222081500",
+    "stopRaw": "20251222083000",
+    "start": "2025-12-22 13:45:00 IST",
+    "stop": "2025-12-22 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251222083000",
+    "stopRaw": "20251222091500",
+    "start": "2025-12-22 14:00:00 IST",
+    "stop": "2025-12-22 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251222091500",
+    "stopRaw": "20251222093000",
+    "start": "2025-12-22 14:45:00 IST",
+    "stop": "2025-12-22 15:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -325,24 +355,34 @@
     "start": "2025-12-22 15:00:00 IST",
     "stop": "2025-12-22 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Snehitara Saval",
+    "subTitle": "Prasad and Raja, two best friends who get separated in a fire, grow up in two different communities. However, after a few years, they unite to fight against an evil man.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251222123000",
-    "stopRaw": "20251222153000",
+    "stopRaw": "20251222152400",
     "start": "2025-12-22 18:00:00 IST",
-    "stop": "2025-12-22 21:00:00 IST",
+    "stop": "2025-12-22 20:54:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Brahma Gantu",
+    "subTitle": "Murali is forced to marry Muniyamma, whom he considers ugly. After their marriage, he relocates to the city and falls in love with Julie, a modern woman, and marries her.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251222152400",
+    "stopRaw": "20251222160000",
+    "start": "2025-12-22 20:54:00 IST",
+    "stop": "2025-12-22 21:30:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251222153000",
+    "startRaw": "20251222160000",
     "stopRaw": "20251222182959",
-    "start": "2025-12-22 21:00:00 IST",
+    "start": "2025-12-22 21:30:00 IST",
     "stop": "2025-12-22 23:59:59 IST",
     "channel": "jio-1633",
     "title": "Movie",

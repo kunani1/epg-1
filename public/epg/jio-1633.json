@@ -321,12 +321,42 @@
   },
   {
     "startRaw": "20251223073000",
-    "stopRaw": "20251223093000",
+    "stopRaw": "20251223081500",
     "start": "2025-12-23 13:00:00 IST",
-    "stop": "2025-12-23 15:00:00 IST",
+    "stop": "2025-12-23 13:45:00 IST",
     "channel": "jio-1633",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251223081500",
+    "stopRaw": "20251223083000",
+    "start": "2025-12-23 13:45:00 IST",
+    "stop": "2025-12-23 14:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251223083000",
+    "stopRaw": "20251223091500",
+    "start": "2025-12-23 14:00:00 IST",
+    "stop": "2025-12-23 14:45:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251223091500",
+    "stopRaw": "20251223093000",
+    "start": "2025-12-23 14:45:00 IST",
+    "stop": "2025-12-23 15:00:00 IST",
+    "channel": "jio-1633",
+    "title": "Commercial Slot",
+    "subTitle": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -335,24 +365,34 @@
     "start": "2025-12-23 15:00:00 IST",
     "stop": "2025-12-23 18:00:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Bandhana",
+    "subTitle": "Harish, a doctor, falls in love with Nandini, his student. However, he slips into depression when he confesses his feelings for her and learns that she is marrying her childhood friend, Balu.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251223123000",
-    "stopRaw": "20251223153000",
+    "stopRaw": "20251223145000",
     "start": "2025-12-23 18:00:00 IST",
-    "stop": "2025-12-23 21:00:00 IST",
+    "stop": "2025-12-23 20:20:00 IST",
     "channel": "jio-1633",
-    "title": "Movie",
+    "title": "Nammoora Raja",
+    "subTitle": "A corrupt politician's plan of constructing a chemical factory is foiled by Raja. However, things take a turn when Raja falls in love with the politician's daughter.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251223145000",
+    "stopRaw": "20251223160000",
+    "start": "2025-12-23 20:20:00 IST",
+    "stop": "2025-12-23 21:30:00 IST",
+    "channel": "jio-1633",
+    "title": "Bari Comedy",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20251223153000",
+    "startRaw": "20251223160000",
     "stopRaw": "20251223182959",
-    "start": "2025-12-23 21:00:00 IST",
+    "start": "2025-12-23 21:30:00 IST",
     "stop": "2025-12-23 23:59:59 IST",
     "channel": "jio-1633",
     "title": "Movie",

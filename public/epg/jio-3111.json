@@ -1,195 +1,5 @@
 [
   {
-    "startRaw": "20251225183000",
-    "stopRaw": "20251225213000",
-    "start": "2025-12-26 00:00:00 IST",
-    "stop": "2025-12-26 03:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Latest News",
-    "subTitle": "The host collates and presents the latest and the most important news updates, developments and current affairs from across the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251225213000",
-    "stopRaw": "20251225223000",
-    "start": "2025-12-26 03:00:00 IST",
-    "stop": "2025-12-26 04:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Top 10 News",
-    "subTitle": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251225223000",
-    "stopRaw": "20251226003000",
-    "start": "2025-12-26 04:00:00 IST",
-    "stop": "2025-12-26 06:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Public Affairs",
-    "subTitle": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226003000",
-    "stopRaw": "20251226023000",
-    "start": "2025-12-26 06:00:00 IST",
-    "stop": "2025-12-26 08:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Morning News",
-    "subTitle": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226023000",
-    "stopRaw": "20251226033000",
-    "start": "2025-12-26 08:00:00 IST",
-    "stop": "2025-12-26 09:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Political News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226033000",
-    "stopRaw": "20251226043000",
-    "start": "2025-12-26 09:00:00 IST",
-    "stop": "2025-12-26 10:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Special Bulletin",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226043000",
-    "stopRaw": "20251226053000",
-    "start": "2025-12-26 10:00:00 IST",
-    "stop": "2025-12-26 11:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Top 25 News",
-    "subTitle": "The host presents the top 25 news updates pertaining to the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226053000",
-    "stopRaw": "20251226060000",
-    "start": "2025-12-26 11:00:00 IST",
-    "stop": "2025-12-26 11:30:00 IST",
-    "channel": "jio-3111",
-    "title": "World News",
-    "subTitle": "The host provides the latest updates, advancements and developments on various key issues and events taking place around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226060000",
-    "stopRaw": "20251226070000",
-    "start": "2025-12-26 11:30:00 IST",
-    "stop": "2025-12-26 12:30:00 IST",
-    "channel": "jio-3111",
-    "title": "Top 35",
-    "subTitle": "The host presents the top news stories as well as the latest socio-economic updates and political developments from around the nation and the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226070000",
-    "stopRaw": "20251226073000",
-    "start": "2025-12-26 12:30:00 IST",
-    "stop": "2025-12-26 13:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Public Affairs",
-    "subTitle": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226073000",
-    "stopRaw": "20251226083000",
-    "start": "2025-12-26 13:00:00 IST",
-    "stop": "2025-12-26 14:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Political News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226083000",
-    "stopRaw": "20251226093000",
-    "start": "2025-12-26 14:00:00 IST",
-    "stop": "2025-12-26 15:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Special Bulletin",
-    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226093000",
-    "stopRaw": "20251226100000",
-    "start": "2025-12-26 15:00:00 IST",
-    "stop": "2025-12-26 15:30:00 IST",
-    "channel": "jio-3111",
-    "title": "Top 250",
-    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments from across the nation and the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226100000",
-    "stopRaw": "20251226130000",
-    "start": "2025-12-26 15:30:00 IST",
-    "stop": "2025-12-26 18:30:00 IST",
-    "channel": "jio-3111",
-    "title": "Bollywood News",
-    "subTitle": "The presenter reports the latest updates, top news stories and key developments pertaining to Bollywood and its personalities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226130000",
-    "stopRaw": "20251226133000",
-    "start": "2025-12-26 18:30:00 IST",
-    "stop": "2025-12-26 19:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Evening News",
-    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226133000",
-    "stopRaw": "20251226143000",
-    "start": "2025-12-26 19:00:00 IST",
-    "stop": "2025-12-26 20:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Top 75",
-    "subTitle": "The host presents the latest news stories, updates and developments making the headlines from across the nation and the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226143000",
-    "stopRaw": "20251226153000",
-    "start": "2025-12-26 20:00:00 IST",
-    "stop": "2025-12-26 21:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Current Events",
-    "subTitle": "The host presents the latest updates, developments and news stories pertaining to current affairs from across the country and the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226153000",
-    "stopRaw": "20251226163000",
-    "start": "2025-12-26 21:00:00 IST",
-    "stop": "2025-12-26 22:00:00 IST",
-    "channel": "jio-3111",
-    "title": "Sports News",
-    "subTitle": "The host provides some of the most recent news, updates and developments pertaining to the world of sports in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251226163000",
-    "stopRaw": "20251226182959",
-    "start": "2025-12-26 22:00:00 IST",
-    "stop": "2025-12-26 23:59:59 IST",
-    "channel": "jio-3111",
-    "title": "Top 100",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20251226183000",
     "stopRaw": "20251226213000",
     "start": "2025-12-27 00:00:00 IST",
@@ -564,6 +374,196 @@
     "stopRaw": "20251228182959",
     "start": "2025-12-28 22:00:00 IST",
     "stop": "2025-12-28 23:59:59 IST",
+    "channel": "jio-3111",
+    "title": "Top 100",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251228183000",
+    "stopRaw": "20251228213000",
+    "start": "2025-12-29 00:00:00 IST",
+    "stop": "2025-12-29 03:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Latest News",
+    "subTitle": "The host collates and presents the latest and the most important news updates, developments and current affairs from across the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251228213000",
+    "stopRaw": "20251228223000",
+    "start": "2025-12-29 03:00:00 IST",
+    "stop": "2025-12-29 04:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Top 10 News",
+    "subTitle": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251228223000",
+    "stopRaw": "20251229003000",
+    "start": "2025-12-29 04:00:00 IST",
+    "stop": "2025-12-29 06:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Public Affairs",
+    "subTitle": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229003000",
+    "stopRaw": "20251229023000",
+    "start": "2025-12-29 06:00:00 IST",
+    "stop": "2025-12-29 08:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Morning News",
+    "subTitle": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229023000",
+    "stopRaw": "20251229033000",
+    "start": "2025-12-29 08:00:00 IST",
+    "stop": "2025-12-29 09:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Political News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229033000",
+    "stopRaw": "20251229043000",
+    "start": "2025-12-29 09:00:00 IST",
+    "stop": "2025-12-29 10:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Special Bulletin",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229043000",
+    "stopRaw": "20251229053000",
+    "start": "2025-12-29 10:00:00 IST",
+    "stop": "2025-12-29 11:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Top 25 News",
+    "subTitle": "The host presents the top 25 news updates pertaining to the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229053000",
+    "stopRaw": "20251229060000",
+    "start": "2025-12-29 11:00:00 IST",
+    "stop": "2025-12-29 11:30:00 IST",
+    "channel": "jio-3111",
+    "title": "World News",
+    "subTitle": "The host provides the latest updates, advancements and developments on various key issues and events taking place around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229060000",
+    "stopRaw": "20251229070000",
+    "start": "2025-12-29 11:30:00 IST",
+    "stop": "2025-12-29 12:30:00 IST",
+    "channel": "jio-3111",
+    "title": "Top 35",
+    "subTitle": "The host presents the top news stories as well as the latest socio-economic updates and political developments from around the nation and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229070000",
+    "stopRaw": "20251229073000",
+    "start": "2025-12-29 12:30:00 IST",
+    "stop": "2025-12-29 13:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Public Affairs",
+    "subTitle": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229073000",
+    "stopRaw": "20251229083000",
+    "start": "2025-12-29 13:00:00 IST",
+    "stop": "2025-12-29 14:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Political News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229083000",
+    "stopRaw": "20251229093000",
+    "start": "2025-12-29 14:00:00 IST",
+    "stop": "2025-12-29 15:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Special Bulletin",
+    "subTitle": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229093000",
+    "stopRaw": "20251229100000",
+    "start": "2025-12-29 15:00:00 IST",
+    "stop": "2025-12-29 15:30:00 IST",
+    "channel": "jio-3111",
+    "title": "Top 250",
+    "subTitle": "The host presents the latest news stories, socio-economic updates and political developments from across the nation and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229100000",
+    "stopRaw": "20251229130000",
+    "start": "2025-12-29 15:30:00 IST",
+    "stop": "2025-12-29 18:30:00 IST",
+    "channel": "jio-3111",
+    "title": "Bollywood News",
+    "subTitle": "The presenter reports the latest updates, top news stories and key developments pertaining to Bollywood and its personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229130000",
+    "stopRaw": "20251229133000",
+    "start": "2025-12-29 18:30:00 IST",
+    "stop": "2025-12-29 19:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Evening News",
+    "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229133000",
+    "stopRaw": "20251229143000",
+    "start": "2025-12-29 19:00:00 IST",
+    "stop": "2025-12-29 20:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Top 75",
+    "subTitle": "The host presents the latest news stories, updates and developments making the headlines from across the nation and the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229143000",
+    "stopRaw": "20251229153000",
+    "start": "2025-12-29 20:00:00 IST",
+    "stop": "2025-12-29 21:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Current Events",
+    "subTitle": "The host presents the latest updates, developments and news stories pertaining to current affairs from across the country and the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229153000",
+    "stopRaw": "20251229163000",
+    "start": "2025-12-29 21:00:00 IST",
+    "stop": "2025-12-29 22:00:00 IST",
+    "channel": "jio-3111",
+    "title": "Sports News",
+    "subTitle": "The host provides some of the most recent news, updates and developments pertaining to the world of sports in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229163000",
+    "stopRaw": "20251229182959",
+    "start": "2025-12-29 22:00:00 IST",
+    "stop": "2025-12-29 23:59:59 IST",
     "channel": "jio-3111",
     "title": "Top 100",
     "subTitle": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region.",

@@ -1,5 +1,405 @@
 [
   {
+    "startRaw": "20251226183000",
+    "stopRaw": "20251226190000",
+    "start": "2025-12-27 00:00:00 IST",
+    "stop": "2025-12-27 00:30:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226190000",
+    "stopRaw": "20251226193000",
+    "start": "2025-12-27 00:30:00 IST",
+    "stop": "2025-12-27 01:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Vistaar Vishesh",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226193000",
+    "stopRaw": "20251226200000",
+    "start": "2025-12-27 01:00:00 IST",
+    "stop": "2025-12-27 01:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Glamour Ki Duniya",
+    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226200000",
+    "stopRaw": "20251226203000",
+    "start": "2025-12-27 01:30:00 IST",
+    "stop": "2025-12-27 02:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226203000",
+    "stopRaw": "20251226210000",
+    "start": "2025-12-27 02:00:00 IST",
+    "stop": "2025-12-27 02:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226210000",
+    "stopRaw": "20251226213000",
+    "start": "2025-12-27 02:30:00 IST",
+    "stop": "2025-12-27 03:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226213000",
+    "stopRaw": "20251226223000",
+    "start": "2025-12-27 03:00:00 IST",
+    "stop": "2025-12-27 04:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat",
+    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226223000",
+    "stopRaw": "20251226230000",
+    "start": "2025-12-27 04:00:00 IST",
+    "stop": "2025-12-27 04:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226230000",
+    "stopRaw": "20251226233000",
+    "start": "2025-12-27 04:30:00 IST",
+    "stop": "2025-12-27 05:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251226233000",
+    "stopRaw": "20251227003000",
+    "start": "2025-12-27 05:00:00 IST",
+    "stop": "2025-12-27 06:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat",
+    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227003000",
+    "stopRaw": "20251227010000",
+    "start": "2025-12-27 06:00:00 IST",
+    "stop": "2025-12-27 06:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227010000",
+    "stopRaw": "20251227013000",
+    "start": "2025-12-27 06:30:00 IST",
+    "stop": "2025-12-27 07:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227013000",
+    "stopRaw": "20251227020000",
+    "start": "2025-12-27 07:00:00 IST",
+    "stop": "2025-12-27 07:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Suryodaya",
+    "subTitle": "The host begins the day with information about the social, economic and political issues and updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227020000",
+    "stopRaw": "20251227023000",
+    "start": "2025-12-27 07:30:00 IST",
+    "stop": "2025-12-27 08:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227023000",
+    "stopRaw": "20251227030000",
+    "start": "2025-12-27 08:00:00 IST",
+    "stop": "2025-12-27 08:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227030000",
+    "stopRaw": "20251227033000",
+    "start": "2025-12-27 08:30:00 IST",
+    "stop": "2025-12-27 09:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Aaj Ki Khabar",
+    "subTitle": "The host sheds light on the most recent social, economic and political news, updates, latest happenings and developments.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227033000",
+    "stopRaw": "20251227040000",
+    "start": "2025-12-27 09:00:00 IST",
+    "stop": "2025-12-27 09:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227040000",
+    "stopRaw": "20251227043000",
+    "start": "2025-12-27 09:30:00 IST",
+    "stop": "2025-12-27 10:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat",
+    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227043000",
+    "stopRaw": "20251227050000",
+    "start": "2025-12-27 10:00:00 IST",
+    "stop": "2025-12-27 10:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistaar Se",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227050000",
+    "stopRaw": "20251227053000",
+    "start": "2025-12-27 10:30:00 IST",
+    "stop": "2025-12-27 11:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Vistaar Vishesh",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227053000",
+    "stopRaw": "20251227063000",
+    "start": "2025-12-27 11:00:00 IST",
+    "stop": "2025-12-27 12:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistaar Se",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227063000",
+    "stopRaw": "20251227070000",
+    "start": "2025-12-27 12:00:00 IST",
+    "stop": "2025-12-27 12:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistaar Se",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227070000",
+    "stopRaw": "20251227073000",
+    "start": "2025-12-27 12:30:00 IST",
+    "stop": "2025-12-27 13:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227073000",
+    "stopRaw": "20251227080000",
+    "start": "2025-12-27 13:00:00 IST",
+    "stop": "2025-12-27 13:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227080000",
+    "stopRaw": "20251227083000",
+    "start": "2025-12-27 13:30:00 IST",
+    "stop": "2025-12-27 14:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistaar Se",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227083000",
+    "stopRaw": "20251227090000",
+    "start": "2025-12-27 14:00:00 IST",
+    "stop": "2025-12-27 14:30:00 IST",
+    "channel": "jio-3070",
+    "title": "2 Baje 20 Khabar",
+    "subTitle": "The host presents the top 20 latest updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227090000",
+    "stopRaw": "20251227093000",
+    "start": "2025-12-27 14:30:00 IST",
+    "stop": "2025-12-27 15:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Glamour Ki Duniya",
+    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227093000",
+    "stopRaw": "20251227100000",
+    "start": "2025-12-27 15:00:00 IST",
+    "stop": "2025-12-27 15:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Vistaar Se",
+    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227100000",
+    "stopRaw": "20251227103000",
+    "start": "2025-12-27 15:30:00 IST",
+    "stop": "2025-12-27 16:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227103000",
+    "stopRaw": "20251227113000",
+    "start": "2025-12-27 16:00:00 IST",
+    "stop": "2025-12-27 17:00:00 IST",
+    "channel": "jio-3070",
+    "title": "15 Sambhag 15 Khabar",
+    "subTitle": "The host presents the latest updates, current affairs and key developments pertaining to economic, political and social matters of the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227113000",
+    "stopRaw": "20251227123000",
+    "start": "2025-12-27 17:00:00 IST",
+    "stop": "2025-12-27 18:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Aapka Sheher Aapka Reporter",
+    "subTitle": "The host presents the latest news stories and developments on various political and socio-economic issues of cities in India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227123000",
+    "stopRaw": "20251227133000",
+    "start": "2025-12-27 18:00:00 IST",
+    "stop": "2025-12-27 19:00:00 IST",
+    "channel": "jio-3070",
+    "title": "News Update",
+    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227133000",
+    "stopRaw": "20251227140000",
+    "start": "2025-12-27 19:00:00 IST",
+    "stop": "2025-12-27 19:30:00 IST",
+    "channel": "jio-3070",
+    "title": "Desh Ke Dil Se",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227140000",
+    "stopRaw": "20251227143000",
+    "start": "2025-12-27 19:30:00 IST",
+    "stop": "2025-12-27 20:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Chhattisgadhiya Sable Badhiya",
+    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227143000",
+    "stopRaw": "20251227153000",
+    "start": "2025-12-27 20:00:00 IST",
+    "stop": "2025-12-27 21:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat",
+    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227153000",
+    "stopRaw": "20251227160000",
+    "start": "2025-12-27 21:00:00 IST",
+    "stop": "2025-12-27 21:30:00 IST",
+    "channel": "jio-3070",
+    "title": "The Editor's Show",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227160000",
+    "stopRaw": "20251227163000",
+    "start": "2025-12-27 21:30:00 IST",
+    "stop": "2025-12-27 22:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Vistaar Vishesh",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227163000",
+    "stopRaw": "20251227170000",
+    "start": "2025-12-27 22:00:00 IST",
+    "stop": "2025-12-27 22:30:00 IST",
+    "channel": "jio-3070",
+    "title": "10 Baje 10 Report",
+    "subTitle": "The host sheds light on the top 10 news stories and significant updates from various fields influencing people around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227170000",
+    "stopRaw": "20251227173000",
+    "start": "2025-12-27 22:30:00 IST",
+    "stop": "2025-12-27 23:00:00 IST",
+    "channel": "jio-3070",
+    "title": "Khabar Fatafat",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251227173000",
+    "stopRaw": "20251227182959",
+    "start": "2025-12-27 23:00:00 IST",
+    "stop": "2025-12-27 23:59:59 IST",
+    "channel": "jio-3070",
+    "title": "Seedhe Mudde Ki Baat",
+    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20251227183000",
     "stopRaw": "20251227190000",
     "start": "2025-12-28 00:00:00 IST",
@@ -794,406 +1194,6 @@
     "stopRaw": "20251229182959",
     "start": "2025-12-29 23:00:00 IST",
     "stop": "2025-12-29 23:59:59 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat",
-    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229183000",
-    "stopRaw": "20251229190000",
-    "start": "2025-12-30 00:00:00 IST",
-    "stop": "2025-12-30 00:30:00 IST",
-    "channel": "jio-3070",
-    "title": "The Editor's Show",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229190000",
-    "stopRaw": "20251229193000",
-    "start": "2025-12-30 00:30:00 IST",
-    "stop": "2025-12-30 01:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Vistaar Vishesh",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229193000",
-    "stopRaw": "20251229200000",
-    "start": "2025-12-30 01:00:00 IST",
-    "stop": "2025-12-30 01:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Glamour Ki Duniya",
-    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229200000",
-    "stopRaw": "20251229203000",
-    "start": "2025-12-30 01:30:00 IST",
-    "stop": "2025-12-30 02:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229203000",
-    "stopRaw": "20251229210000",
-    "start": "2025-12-30 02:00:00 IST",
-    "stop": "2025-12-30 02:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229210000",
-    "stopRaw": "20251229213000",
-    "start": "2025-12-30 02:30:00 IST",
-    "stop": "2025-12-30 03:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229213000",
-    "stopRaw": "20251229223000",
-    "start": "2025-12-30 03:00:00 IST",
-    "stop": "2025-12-30 04:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat",
-    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229223000",
-    "stopRaw": "20251229230000",
-    "start": "2025-12-30 04:00:00 IST",
-    "stop": "2025-12-30 04:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229230000",
-    "stopRaw": "20251229233000",
-    "start": "2025-12-30 04:30:00 IST",
-    "stop": "2025-12-30 05:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229233000",
-    "stopRaw": "20251230003000",
-    "start": "2025-12-30 05:00:00 IST",
-    "stop": "2025-12-30 06:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat",
-    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230003000",
-    "stopRaw": "20251230010000",
-    "start": "2025-12-30 06:00:00 IST",
-    "stop": "2025-12-30 06:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230010000",
-    "stopRaw": "20251230013000",
-    "start": "2025-12-30 06:30:00 IST",
-    "stop": "2025-12-30 07:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230013000",
-    "stopRaw": "20251230020000",
-    "start": "2025-12-30 07:00:00 IST",
-    "stop": "2025-12-30 07:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Suryodaya",
-    "subTitle": "The host begins the day with information about the social, economic and political issues and updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230020000",
-    "stopRaw": "20251230023000",
-    "start": "2025-12-30 07:30:00 IST",
-    "stop": "2025-12-30 08:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230023000",
-    "stopRaw": "20251230030000",
-    "start": "2025-12-30 08:00:00 IST",
-    "stop": "2025-12-30 08:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230030000",
-    "stopRaw": "20251230033000",
-    "start": "2025-12-30 08:30:00 IST",
-    "stop": "2025-12-30 09:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Aaj Ki Khabar",
-    "subTitle": "The host sheds light on the most recent social, economic and political news, updates, latest happenings and developments.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230033000",
-    "stopRaw": "20251230040000",
-    "start": "2025-12-30 09:00:00 IST",
-    "stop": "2025-12-30 09:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230040000",
-    "stopRaw": "20251230043000",
-    "start": "2025-12-30 09:30:00 IST",
-    "stop": "2025-12-30 10:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat",
-    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230043000",
-    "stopRaw": "20251230050000",
-    "start": "2025-12-30 10:00:00 IST",
-    "stop": "2025-12-30 10:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistaar Se",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230050000",
-    "stopRaw": "20251230053000",
-    "start": "2025-12-30 10:30:00 IST",
-    "stop": "2025-12-30 11:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Vistaar Vishesh",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230053000",
-    "stopRaw": "20251230063000",
-    "start": "2025-12-30 11:00:00 IST",
-    "stop": "2025-12-30 12:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistaar Se",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230063000",
-    "stopRaw": "20251230070000",
-    "start": "2025-12-30 12:00:00 IST",
-    "stop": "2025-12-30 12:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistaar Se",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230070000",
-    "stopRaw": "20251230073000",
-    "start": "2025-12-30 12:30:00 IST",
-    "stop": "2025-12-30 13:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230073000",
-    "stopRaw": "20251230080000",
-    "start": "2025-12-30 13:00:00 IST",
-    "stop": "2025-12-30 13:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230080000",
-    "stopRaw": "20251230083000",
-    "start": "2025-12-30 13:30:00 IST",
-    "stop": "2025-12-30 14:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistaar Se",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230083000",
-    "stopRaw": "20251230090000",
-    "start": "2025-12-30 14:00:00 IST",
-    "stop": "2025-12-30 14:30:00 IST",
-    "channel": "jio-3070",
-    "title": "2 Baje 20 Khabar",
-    "subTitle": "The host presents the top 20 latest updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230090000",
-    "stopRaw": "20251230093000",
-    "start": "2025-12-30 14:30:00 IST",
-    "stop": "2025-12-30 15:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Glamour Ki Duniya",
-    "subTitle": "The host offers interesting insights and trivia into the production of famous Indian films and reveals little-known behind-the-scenes details.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230093000",
-    "stopRaw": "20251230100000",
-    "start": "2025-12-30 15:00:00 IST",
-    "stop": "2025-12-30 15:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Vistaar Se",
-    "subTitle": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230100000",
-    "stopRaw": "20251230103000",
-    "start": "2025-12-30 15:30:00 IST",
-    "stop": "2025-12-30 16:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230103000",
-    "stopRaw": "20251230113000",
-    "start": "2025-12-30 16:00:00 IST",
-    "stop": "2025-12-30 17:00:00 IST",
-    "channel": "jio-3070",
-    "title": "15 Sambhag 15 Khabar",
-    "subTitle": "The host presents the latest updates, current affairs and key developments pertaining to economic, political and social matters of the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230113000",
-    "stopRaw": "20251230123000",
-    "start": "2025-12-30 17:00:00 IST",
-    "stop": "2025-12-30 18:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Aapka Sheher Aapka Reporter",
-    "subTitle": "The host presents the latest news stories and developments on various political and socio-economic issues of cities in India.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230123000",
-    "stopRaw": "20251230133000",
-    "start": "2025-12-30 18:00:00 IST",
-    "stop": "2025-12-30 19:00:00 IST",
-    "channel": "jio-3070",
-    "title": "News Update",
-    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230133000",
-    "stopRaw": "20251230140000",
-    "start": "2025-12-30 19:00:00 IST",
-    "stop": "2025-12-30 19:30:00 IST",
-    "channel": "jio-3070",
-    "title": "Desh Ke Dil Se",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230140000",
-    "stopRaw": "20251230143000",
-    "start": "2025-12-30 19:30:00 IST",
-    "stop": "2025-12-30 20:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "subTitle": "The host presents a detailed report on the latest updates and top news stories pertaining to current affairs from across the state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230143000",
-    "stopRaw": "20251230153000",
-    "start": "2025-12-30 20:00:00 IST",
-    "stop": "2025-12-30 21:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Seedhe Mudde Ki Baat",
-    "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230153000",
-    "stopRaw": "20251230160000",
-    "start": "2025-12-30 21:00:00 IST",
-    "stop": "2025-12-30 21:30:00 IST",
-    "channel": "jio-3070",
-    "title": "The Editor's Show",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues of the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230160000",
-    "stopRaw": "20251230163000",
-    "start": "2025-12-30 21:30:00 IST",
-    "stop": "2025-12-30 22:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Vistaar Vishesh",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230163000",
-    "stopRaw": "20251230170000",
-    "start": "2025-12-30 22:00:00 IST",
-    "stop": "2025-12-30 22:30:00 IST",
-    "channel": "jio-3070",
-    "title": "10 Baje 10 Report",
-    "subTitle": "The host sheds light on the top 10 news stories and significant updates from various fields influencing people around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230170000",
-    "stopRaw": "20251230173000",
-    "start": "2025-12-30 22:30:00 IST",
-    "stop": "2025-12-30 23:00:00 IST",
-    "channel": "jio-3070",
-    "title": "Khabar Fatafat",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230173000",
-    "stopRaw": "20251230182959",
-    "start": "2025-12-30 23:00:00 IST",
-    "stop": "2025-12-30 23:59:59 IST",
     "channel": "jio-3070",
     "title": "Seedhe Mudde Ki Baat",
     "subTitle": "A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.",

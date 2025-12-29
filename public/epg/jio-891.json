@@ -415,7 +415,7 @@
     "start": "2025-12-29 09:00:00 IST",
     "stop": "2025-12-29 10:00:00 IST",
     "channel": "jio-891",
-    "title": "UEFA Conference League",
+    "title": "UEFA Europa Conference League 2024-25",
     "subTitle": "Professional European football clubs compete against each other to emerge victorious in the UEFA Conference League, a prestigious football tournament.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -425,7 +425,7 @@
     "start": "2025-12-29 10:00:00 IST",
     "stop": "2025-12-29 12:00:00 IST",
     "channel": "jio-891",
-    "title": "Bundesliga Soccer",
+    "title": "UEFA Champions League 2025-26",
     "subTitle": "From PreZero Arena in Sinsheim, Germany.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -435,7 +435,7 @@
     "start": "2025-12-29 12:00:00 IST",
     "stop": "2025-12-29 12:30:00 IST",
     "channel": "jio-891",
-    "title": "Racing On the Edge",
+    "title": "Racing On The Edge 2025",
     "subTitle": "The filmmaker offers a behind the scenes look into the SailGP tournament, where professional sailors compete against each other to win the coveted title.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -445,7 +445,7 @@
     "start": "2025-12-29 12:30:00 IST",
     "stop": "2025-12-29 13:00:00 IST",
     "channel": "jio-891",
-    "title": "RIDE FEI Originals",
+    "title": "UFC 2023-24",
     "subTitle": "Delve into the lives of equestrians and watch the amazing bond they share with the horses. An incredible view through the lens of those who truly understand the spirit of the sport.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -455,7 +455,7 @@
     "start": "2025-12-29 13:00:00 IST",
     "stop": "2025-12-29 14:00:00 IST",
     "channel": "jio-891",
-    "title": "FIFA World Cup 2026 Qualifying",
+    "title": "Asia Cup 2025",
     "subTitle": "The coverage of the qualifying matches as national teams from around the world compete for spots in the 2026 FIFA World Cup, football's most prestigious tournament.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -485,8 +485,8 @@
     "start": "2025-12-29 17:00:00 IST",
     "stop": "2025-12-29 18:00:00 IST",
     "channel": "jio-891",
-    "title": "Bundesliga Highlights",
-    "subTitle": "Highlights of the Bundesliga, wherein professional football teams from Germany compete for the coveted German League title.",
+    "title": "RIDE FEI Originals",
+    "subTitle": "Delve into the lives of equestrians and watch the amazing bond they share with the horses. An incredible view through the lens of those who truly understand the spirit of the sport.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -495,8 +495,8 @@
     "start": "2025-12-29 18:00:00 IST",
     "stop": "2025-12-29 18:30:00 IST",
     "channel": "jio-891",
-    "title": "Racing On the Edge",
-    "subTitle": "The filmmaker offers a behind the scenes look into the SailGP tournament, where professional sailors compete against each other to win the coveted title.",
+    "title": "The Outdoor Sports Show",
+    "subTitle": "Enthusiasts from around the world participate in a series of exciting events including hunting, equestrian and other outdoor traditions to display their prowess.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -505,8 +505,8 @@
     "start": "2025-12-29 18:30:00 IST",
     "stop": "2025-12-29 19:00:00 IST",
     "channel": "jio-891",
-    "title": "Le Mans Cup Highlights",
-    "subTitle": "",
+    "title": "Mass Participation",
+    "subTitle": "A sports related entertainment show.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -581,12 +581,22 @@
   },
   {
     "startRaw": "20251229173000",
-    "stopRaw": "20251229182959",
+    "stopRaw": "20251229180000",
     "start": "2025-12-29 23:00:00 IST",
+    "stop": "2025-12-29 23:30:00 IST",
+    "channel": "jio-891",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "From Dragao Stadium in Porto, Norte, Portugal.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251229180000",
+    "stopRaw": "20251229182959",
+    "start": "2025-12-29 23:30:00 IST",
     "stop": "2025-12-29 23:59:59 IST",
     "channel": "jio-891",
-    "title": "Bundesliga Highlights",
-    "subTitle": "Highlights of the Bundesliga, wherein professional football teams from Germany compete for the coveted German League title.",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "The coverage of the qualifying matches as national teams from around the world compete for spots in the 2026 FIFA World Cup, football's most prestigious tournament.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -641,22 +651,12 @@
   },
   {
     "startRaw": "20251229213000",
-    "stopRaw": "20251229220000",
-    "start": "2025-12-30 03:00:00 IST",
-    "stop": "2025-12-30 03:30:00 IST",
-    "channel": "jio-891",
-    "title": "UEFA Europa League Football",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251229220000",
     "stopRaw": "20251229223000",
-    "start": "2025-12-30 03:30:00 IST",
+    "start": "2025-12-30 03:00:00 IST",
     "stop": "2025-12-30 04:00:00 IST",
     "channel": "jio-891",
-    "title": "WWE: EVOLVE",
-    "subTitle": "Fresh WWE hopefuls embark on their wrestling careers, striving to become the next iconic superstar in the high-octane world of sports entertainment.",
+    "title": "2025 European Le Mans",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -671,12 +671,22 @@
   },
   {
     "startRaw": "20251230003000",
-    "stopRaw": "20251230013000",
+    "stopRaw": "20251230010000",
     "start": "2025-12-30 06:00:00 IST",
+    "stop": "2025-12-30 06:30:00 IST",
+    "channel": "jio-891",
+    "title": "Racing on the Edge",
+    "subTitle": "Elite sailors from across various countries participating in the SailGP Championship portray their emotions as they prepare to compete for and win the coveted title.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251230010000",
+    "stopRaw": "20251230013000",
+    "start": "2025-12-30 06:30:00 IST",
     "stop": "2025-12-30 07:00:00 IST",
     "channel": "jio-891",
-    "title": "FIFA World Cup 2026 Qualifying",
-    "subTitle": "The coverage of the qualifying matches as national teams from around the world compete for spots in the 2026 FIFA World Cup, football's most prestigious tournament.",
+    "title": "Le Mans Cup Highlights",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -685,8 +695,8 @@
     "start": "2025-12-30 07:00:00 IST",
     "stop": "2025-12-30 07:30:00 IST",
     "channel": "jio-891",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "Israel plays against Moldova in the 2026 FIFA World Cup Qualifiers, where professional football clubs compete against each other for victory.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -695,8 +705,8 @@
     "start": "2025-12-30 07:30:00 IST",
     "stop": "2025-12-30 08:00:00 IST",
     "channel": "jio-891",
-    "title": "UEFA Europa League Soccer",
-    "subTitle": "From MCH Arena in Midtjylland, Denmark.",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "France competes against Azerbaijan in the 2026 FIFA World Cup qualifiers, where professional football teams vie for victory.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,8 +735,8 @@
     "start": "2025-12-30 09:00:00 IST",
     "stop": "2025-12-30 10:00:00 IST",
     "channel": "jio-891",
-    "title": "Bundesliga Highlights",
-    "subTitle": "Highlights of the Bundesliga, wherein professional football teams from Germany compete for the coveted German League title.",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "The coverage of the qualifying matches as national teams from around the world compete for spots in the 2026 FIFA World Cup, football's most prestigious tournament.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -765,8 +775,8 @@
     "start": "2025-12-30 13:00:00 IST",
     "stop": "2025-12-30 14:00:00 IST",
     "channel": "jio-891",
-    "title": "FIFA World Cup 2026 Qualifying",
-    "subTitle": "The coverage of the qualifying matches as national teams from around the world compete for spots in the 2026 FIFA World Cup, football's most prestigious tournament.",
+    "title": "UEFA Champions League Highlights",
+    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -775,8 +785,8 @@
     "start": "2025-12-30 14:00:00 IST",
     "stop": "2025-12-30 15:00:00 IST",
     "channel": "jio-891",
-    "title": "2025 European Le Mans",
-    "subTitle": "",
+    "title": "Mountain Biking",
+    "subTitle": "From Aug. 23-24 in Melrose, Australia.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -785,8 +795,8 @@
     "start": "2025-12-30 15:00:00 IST",
     "stop": "2025-12-30 17:00:00 IST",
     "channel": "jio-891",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+    "title": "UEFA Europa League Soccer",
+    "subTitle": "From Celtic Park in Glasgow, Scotland.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -801,42 +811,22 @@
   },
   {
     "startRaw": "20251230123000",
-    "stopRaw": "20251230130000",
-    "start": "2025-12-30 18:00:00 IST",
-    "stop": "2025-12-30 18:30:00 IST",
-    "channel": "jio-891",
-    "title": "Racing On the Edge",
-    "subTitle": "The filmmaker offers a behind the scenes look into the SailGP tournament, where professional sailors compete against each other to win the coveted title.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230130000",
     "stopRaw": "20251230133000",
-    "start": "2025-12-30 18:30:00 IST",
+    "start": "2025-12-30 18:00:00 IST",
     "stop": "2025-12-30 19:00:00 IST",
     "channel": "jio-891",
-    "title": "Le Mans Cup Highlights",
-    "subTitle": "",
+    "title": "FIA World Rally Championship Highlights",
+    "subTitle": "Coverage from the World Rally Championships.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251230133000",
-    "stopRaw": "20251230140000",
-    "start": "2025-12-30 19:00:00 IST",
-    "stop": "2025-12-30 19:30:00 IST",
-    "channel": "jio-891",
-    "title": "WWE: EVOLVE",
-    "subTitle": "Fresh WWE hopefuls embark on their wrestling careers, striving to become the next iconic superstar in the high-octane world of sports entertainment.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20251230140000",
     "stopRaw": "20251230143000",
-    "start": "2025-12-30 19:30:00 IST",
+    "start": "2025-12-30 19:00:00 IST",
     "stop": "2025-12-30 20:00:00 IST",
     "channel": "jio-891",
-    "title": "Bundesliga Highlights",
-    "subTitle": "Highlights of the Bundesliga, wherein professional football teams from Germany compete for the coveted German League title.",
+    "title": "UEFA Champions League Highlights",
+    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -891,12 +881,22 @@
   },
   {
     "startRaw": "20251230173000",
-    "stopRaw": "20251230182959",
+    "stopRaw": "20251230180000",
     "start": "2025-12-30 23:00:00 IST",
+    "stop": "2025-12-30 23:30:00 IST",
+    "channel": "jio-891",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "France competes against Azerbaijan in the 2026 FIFA World Cup qualifiers, where professional football teams vie for victory.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251230180000",
+    "stopRaw": "20251230182959",
+    "start": "2025-12-30 23:30:00 IST",
     "stop": "2025-12-30 23:59:59 IST",
     "channel": "jio-891",
-    "title": "UEFA Champions League Highlights",
-    "subTitle": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+    "title": "FIFA World Cup 2026 Qualifying",
+    "subTitle": "Israel plays against Moldova in the 2026 FIFA World Cup Qualifiers, where professional football clubs compete against each other for victory.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

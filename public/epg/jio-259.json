@@ -625,14 +625,24 @@
     "start": "2025-12-30 12:00:00 IST",
     "stop": "2025-12-30 12:30:00 IST",
     "channel": "jio-259",
-    "title": "Market At 12",
-    "subTitle": "The host provides the latest stock market updates and answers viewer questions on investing, helping them make well-informed financial decisions.",
+    "title": "Markets at 12",
+    "subTitle": "The host presents the latest updates and development about the stock market and shares tips on safe investment plans for maximum savings, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251230070000",
-    "stopRaw": "20251230080000",
+    "stopRaw": "20251230073000",
     "start": "2025-12-30 12:30:00 IST",
+    "stop": "2025-12-30 13:00:00 IST",
+    "channel": "jio-259",
+    "title": "Profit Buzzers",
+    "subTitle": "The host presents an analysis of recent stock market events and offers expert insight into investment strategies and trends.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251230073000",
+    "stopRaw": "20251230080000",
+    "start": "2025-12-30 13:00:00 IST",
     "stop": "2025-12-30 13:30:00 IST",
     "channel": "jio-259",
     "title": "Profit Buzzers",
@@ -645,14 +655,34 @@
     "start": "2025-12-30 13:30:00 IST",
     "stop": "2025-12-30 14:00:00 IST",
     "channel": "jio-259",
-    "title": "Profit Top Trades",
-    "subTitle": "The host provides the latest stock market updates and expert answers to investor questions, helping viewers make smarter financial decisions.",
+    "title": "Smallcap Buzzers",
+    "subTitle": "A comprehensive look at emerging smaller companies with significant stock price changes, offering perspectives on investment opportunities and risks.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20251230083000",
-    "stopRaw": "20251230100000",
+    "stopRaw": "20251230090000",
     "start": "2025-12-30 14:00:00 IST",
+    "stop": "2025-12-30 14:30:00 IST",
+    "channel": "jio-259",
+    "title": "Ask Profit",
+    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251230090000",
+    "stopRaw": "20251230093000",
+    "start": "2025-12-30 14:30:00 IST",
+    "stop": "2025-12-30 15:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Close",
+    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20251230093000",
+    "stopRaw": "20251230100000",
+    "start": "2025-12-30 15:00:00 IST",
     "stop": "2025-12-30 15:30:00 IST",
     "channel": "jio-259",
     "title": "India Market Close",
@@ -715,8 +745,8 @@
     "start": "2025-12-30 18:00:00 IST",
     "stop": "2025-12-30 18:30:00 IST",
     "channel": "jio-259",
-    "title": "Profit Insight",
-    "subTitle": "The host conducts insightful interactions with prominent personalities to seek comprehensive information on matters concerning the market and finance.",
+    "title": "The Big Question",
+    "subTitle": "The host sheds light on some of the most controversial social and economic issues, suggesting various possibilities and solutions.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -735,8 +765,8 @@
     "start": "2025-12-30 19:00:00 IST",
     "stop": "2025-12-30 20:00:00 IST",
     "channel": "jio-259",
-    "title": "Ask Profit",
-    "subTitle": "The host sheds light on the latest information about the stock markets and answers questions related to stocks from the public.",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -776,7 +806,7 @@
     "stop": "2025-12-30 22:00:00 IST",
     "channel": "jio-259",
     "title": "Your Money Matters",
-    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares.",
+    "subTitle": "Join the host as they break down the latest stock market updates and tackle your burning questions about investing. Get informed and make smarter financial choices!",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

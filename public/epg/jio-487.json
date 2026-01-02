@@ -231,18 +231,38 @@
   },
   {
     "startRaw": "20260102183000",
-    "stopRaw": "20260102200000",
+    "stopRaw": "20260102192500",
     "start": "2026-01-03 00:00:00 IST",
-    "stop": "2026-01-03 01:30:00 IST",
+    "stop": "2026-01-03 00:55:00 IST",
     "channel": "jio-487",
     "title": "Mr. Bond",
     "subTitle": "Mr Bond is a detective known for solving the toughest of crime mysteries. But the arrival of Dragon, a gangster involved in child-trafficking, seems to be a real challenge for the crime-solver.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260102192500",
+    "stopRaw": "20260102200000",
+    "start": "2026-01-03 00:55:00 IST",
+    "stop": "2026-01-03 01:30:00 IST",
+    "channel": "jio-487",
+    "title": "Mahabharat",
+    "subTitle": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260102200000",
-    "stopRaw": "20260103042400",
+    "stopRaw": "20260103003000",
     "start": "2026-01-03 01:30:00 IST",
+    "stop": "2026-01-03 06:00:00 IST",
+    "channel": "jio-487",
+    "title": "Teleshopping",
+    "subTitle": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260103003000",
+    "stopRaw": "20260103042400",
+    "start": "2026-01-03 06:00:00 IST",
     "stop": "2026-01-03 09:54:00 IST",
     "channel": "jio-487",
     "title": "Teleshopping",

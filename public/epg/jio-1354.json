@@ -381,18 +381,18 @@
   },
   {
     "startRaw": "20260102003000",
-    "stopRaw": "20260102010000",
+    "stopRaw": "20260102010100",
     "start": "2026-01-02 06:00:00 IST",
-    "stop": "2026-01-02 06:30:00 IST",
+    "stop": "2026-01-02 06:31:00 IST",
     "channel": "jio-1354",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "TWR Premdhara",
+    "subTitle": "Get ready to indulge in the ultimate shopping experience from your couch! This show is perfect for all you shopaholics who love scoring deals without leaving home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260102010000",
+    "startRaw": "20260102010100",
     "stopRaw": "20260102013000",
-    "start": "2026-01-02 06:30:00 IST",
+    "start": "2026-01-02 06:31:00 IST",
     "stop": "2026-01-02 07:00:00 IST",
     "channel": "jio-1354",
     "title": "Bhakthi Samacharam",
@@ -546,7 +546,7 @@
     "stop": "2026-01-02 18:00:00 IST",
     "channel": "jio-1354",
     "title": "Iddarammayilatho",
-    "subTitle": "A girl comes across an incomplete love story of Sanju and Komali in a diary. However, in her quest to find the ending, she meets and falls in love with Sanju.",
+    "subTitle": "Akanksha, the daughter of a powerful Indian politician, comes across a diary of the lover of a young musician. Charmed by the story, she falls in love with him, not realising his intentions.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -671,22 +671,42 @@
   },
   {
     "startRaw": "20260102183000",
-    "stopRaw": "20260102213000",
+    "stopRaw": "20260102204100",
     "start": "2026-01-03 00:00:00 IST",
-    "stop": "2026-01-03 03:00:00 IST",
+    "stop": "2026-01-03 02:11:00 IST",
     "channel": "jio-1354",
     "title": "Nuvvu Leka Nenu Lenu",
     "subTitle": "Two childhood friends have always shared bitter-sweet moments. When their parents ask them if they love each other, they refuse. Jealousy creeps in when the boy's marriage is fixed to another girl.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260102204100",
+    "stopRaw": "20260102213000",
+    "start": "2026-01-03 02:11:00 IST",
+    "stop": "2026-01-03 03:00:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260102213000",
-    "stopRaw": "20260103003000",
+    "stopRaw": "20260102234200",
     "start": "2026-01-03 03:00:00 IST",
+    "stop": "2026-01-03 05:12:00 IST",
+    "channel": "jio-1354",
+    "title": "Vakeel Saab",
+    "subTitle": "Three girls who escape molestation but are charged with murder must prove their innocence with the help of a lawyer who is an alcoholic.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260102234200",
+    "stopRaw": "20260103003000",
+    "start": "2026-01-03 05:12:00 IST",
     "stop": "2026-01-03 06:00:00 IST",
     "channel": "jio-1354",
-    "title": "Manikarnika: The Queen of Jhansi",
-    "subTitle": "After the death of her husband and child, Lakshmibai takes over the throne of Jhansi and defends the kingdom against the tyranny of the East India Company.",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

@@ -801,12 +801,22 @@
   },
   {
     "startRaw": "20260103233000",
-    "stopRaw": "20260104003000",
+    "stopRaw": "20260104000000",
     "start": "2026-01-04 05:00:00 IST",
-    "stop": "2026-01-04 06:00:00 IST",
+    "stop": "2026-01-04 05:30:00 IST",
     "channel": "jio-632",
     "title": "Traditional Yoga",
     "subTitle": "An expert in traditional yoga demonstrates various asanas and exercises that people can follow in order to keep fit and remain healthy.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260104000000",
+    "stopRaw": "20260104003000",
+    "start": "2026-01-04 05:30:00 IST",
+    "stop": "2026-01-04 06:00:00 IST",
+    "channel": "jio-632",
+    "title": "Ganapathi Swamy",
+    "subTitle": "Religious scholar Ganapathi Swamy addresses a gathering of devotees, delivering an insightful discourse on spirituality and devotion, emphasising its profound significance in daily life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

@@ -1,295 +1,5 @@
 [
   {
-    "startRaw": "20260102183000",
-    "stopRaw": "20260102193000",
-    "start": "2026-01-03 00:00:00 IST",
-    "stop": "2026-01-03 01:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102193000",
-    "stopRaw": "20260102200000",
-    "start": "2026-01-03 01:00:00 IST",
-    "stop": "2026-01-03 01:30:00 IST",
-    "channel": "jio-1226",
-    "title": "SpongeBob SquarePants",
-    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
-    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102200000",
-    "stopRaw": "20260102213000",
-    "start": "2026-01-03 01:30:00 IST",
-    "stop": "2026-01-03 03:00:00 IST",
-    "channel": "jio-1226",
-    "title": "SpongeBob SquarePants",
-    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
-    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102213000",
-    "stopRaw": "20260102220000",
-    "start": "2026-01-03 03:00:00 IST",
-    "stop": "2026-01-03 03:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Loud House",
-    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
-    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102220000",
-    "stopRaw": "20260102230000",
-    "start": "2026-01-03 03:30:00 IST",
-    "stop": "2026-01-03 04:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Loud House",
-    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
-    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102230000",
-    "stopRaw": "20260102233000",
-    "start": "2026-01-03 04:30:00 IST",
-    "stop": "2026-01-03 05:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Penguins of Madagascar",
-    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
-    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260102233000",
-    "stopRaw": "20260103003000",
-    "start": "2026-01-03 05:00:00 IST",
-    "stop": "2026-01-03 06:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Penguins of Madagascar",
-    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
-    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103003000",
-    "stopRaw": "20260103013000",
-    "start": "2026-01-03 06:00:00 IST",
-    "stop": "2026-01-03 07:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103013000",
-    "stopRaw": "20260103023000",
-    "start": "2026-01-03 07:00:00 IST",
-    "stop": "2026-01-03 08:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103023000",
-    "stopRaw": "20260103030000",
-    "start": "2026-01-03 08:00:00 IST",
-    "stop": "2026-01-03 08:30:00 IST",
-    "channel": "jio-1226",
-    "title": "SpongeBob SquarePants",
-    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
-    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103030000",
-    "stopRaw": "20260103043000",
-    "start": "2026-01-03 08:30:00 IST",
-    "stop": "2026-01-03 10:00:00 IST",
-    "channel": "jio-1226",
-    "title": "SpongeBob SquarePants",
-    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
-    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103043000",
-    "stopRaw": "20260103050000",
-    "start": "2026-01-03 10:00:00 IST",
-    "stop": "2026-01-03 10:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Loud House",
-    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
-    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103050000",
-    "stopRaw": "20260103060000",
-    "start": "2026-01-03 10:30:00 IST",
-    "stop": "2026-01-03 11:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Loud House",
-    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
-    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103060000",
-    "stopRaw": "20260103063000",
-    "start": "2026-01-03 11:30:00 IST",
-    "stop": "2026-01-03 12:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Penguins of Madagascar",
-    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
-    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103063000",
-    "stopRaw": "20260103073000",
-    "start": "2026-01-03 12:00:00 IST",
-    "stop": "2026-01-03 13:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Penguins of Madagascar",
-    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
-    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103073000",
-    "stopRaw": "20260103080000",
-    "start": "2026-01-03 13:00:00 IST",
-    "stop": "2026-01-03 13:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Casagrandes",
-    "subTitle": "An 11-year-old adjusts to her new life living under one roof with her multigenerational Mexican-American family and over a market which serves as a gathering place for everyone in the neighbourhood.",
-    "image": "http://ttpl.tmsimg.com/assets/p17347937_b_h10_ax.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103080000",
-    "stopRaw": "20260103083000",
-    "start": "2026-01-03 13:30:00 IST",
-    "stop": "2026-01-03 14:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Casagrandes",
-    "subTitle": "An 11-year-old adjusts to her new life living under one roof with her multigenerational Mexican-American family and over a market which serves as a gathering place for everyone in the neighbourhood.",
-    "image": "http://ttpl.tmsimg.com/assets/p17347937_b_h10_ax.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103083000",
-    "stopRaw": "20260103100000",
-    "start": "2026-01-03 14:00:00 IST",
-    "stop": "2026-01-03 15:30:00 IST",
-    "channel": "jio-1226",
-    "title": "SpongeBob SquarePants",
-    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
-    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103100000",
-    "stopRaw": "20260103120000",
-    "start": "2026-01-03 15:30:00 IST",
-    "stop": "2026-01-03 17:30:00 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103120000",
-    "stopRaw": "20260103123000",
-    "start": "2026-01-03 17:30:00 IST",
-    "stop": "2026-01-03 18:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Transformers: EarthSpark",
-    "subTitle": "A new breed of Transformers must find their place among the Autobots, Decepticons, and the human family that adopts them. This new generation of robots, called Terrans, are the first Transformers robots to be born on Earth.",
-    "image": "http://ttpl.tmsimg.com/assets/p22969297_b_h8_an.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103123000",
-    "stopRaw": "20260103133000",
-    "start": "2026-01-03 18:00:00 IST",
-    "stop": "2026-01-03 19:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Transformers: EarthSpark",
-    "subTitle": "A new breed of Transformers must find their place among the Autobots, Decepticons, and the human family that adopts them. This new generation of robots, called Terrans, are the first Transformers robots to be born on Earth.",
-    "image": "http://ttpl.tmsimg.com/assets/p22969297_b_h8_an.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103133000",
-    "stopRaw": "20260103140000",
-    "start": "2026-01-03 19:00:00 IST",
-    "stop": "2026-01-03 19:30:00 IST",
-    "channel": "jio-1226",
-    "title": "The Legend of Korra",
-    "subTitle": "Seventeen-year-old Korra hails from the Southern Water tribe, and must learn how to master the art of airbending. Korra soon learns that her quest will be more difficult than she first thought.",
-    "image": "http://ttpl.tmsimg.com/assets/p9157227_b_h10_ak.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103140000",
-    "stopRaw": "20260103143000",
-    "start": "2026-01-03 19:30:00 IST",
-    "stop": "2026-01-03 20:00:00 IST",
-    "channel": "jio-1226",
-    "title": "The Legend of Korra",
-    "subTitle": "Seventeen-year-old Korra hails from the Southern Water tribe, and must learn how to master the art of airbending. Korra soon learns that her quest will be more difficult than she first thought.",
-    "image": "http://ttpl.tmsimg.com/assets/p9157227_b_h10_ak.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103143000",
-    "stopRaw": "20260103150000",
-    "start": "2026-01-03 20:00:00 IST",
-    "stop": "2026-01-03 20:30:00 IST",
-    "channel": "jio-1226",
-    "title": "Tales of TMNT",
-    "subTitle": "The Ninja Turtles, as teenagers, deal with their new life as heroes while also dealing with the pressures of going to high school in New York City.",
-    "image": "http://ttpl.tmsimg.com/assets/p28625971_b_h10_aa.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103150000",
-    "stopRaw": "20260103153000",
-    "start": "2026-01-03 20:30:00 IST",
-    "stop": "2026-01-03 21:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Tales of TMNT",
-    "subTitle": "The Ninja Turtles, as teenagers, deal with their new life as heroes while also dealing with the pressures of going to high school in New York City.",
-    "image": "http://ttpl.tmsimg.com/assets/p28625971_b_h10_aa.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103153000",
-    "stopRaw": "20260103160000",
-    "start": "2026-01-03 21:00:00 IST",
-    "stop": "2026-01-03 21:30:00 IST",
-    "channel": "jio-1226",
-    "title": "iCarly",
-    "subTitle": "Carly Shay attempts to deal with the success of her internet show, iCarly. Carly relies on her friends Sam and Freddie to help her cope with the pressure, as her parents are often away.",
-    "image": "http://ttpl.tmsimg.com/assets/p185707_b_h8_az.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103160000",
-    "stopRaw": "20260103163000",
-    "start": "2026-01-03 21:30:00 IST",
-    "stop": "2026-01-03 22:00:00 IST",
-    "channel": "jio-1226",
-    "title": "WITS Academy",
-    "subTitle": "Now that Andi's a Guardian in training at WITS Academy, the most esteemed school for Witches and Wizards in Training, it seems like her dream has finally come true, but can she live up to expectations?",
-    "image": "http://ttpl.tmsimg.com/assets/p12186777_b_h10_ac.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103163000",
-    "stopRaw": "20260103173000",
-    "start": "2026-01-03 22:00:00 IST",
-    "stop": "2026-01-03 23:00:00 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260103173000",
-    "stopRaw": "20260103182959",
-    "start": "2026-01-03 23:00:00 IST",
-    "stop": "2026-01-03 23:59:59 IST",
-    "channel": "jio-1226",
-    "title": "Dora and Friends: Into the City!",
-    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
-    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
-  },
-  {
     "startRaw": "20260103183000",
     "stopRaw": "20260103193000",
     "start": "2026-01-04 00:00:00 IST",
@@ -864,6 +574,296 @@
     "stopRaw": "20260105182959",
     "start": "2026-01-05 23:00:00 IST",
     "stop": "2026-01-05 23:59:59 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105183000",
+    "stopRaw": "20260105193000",
+    "start": "2026-01-06 00:00:00 IST",
+    "stop": "2026-01-06 01:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105193000",
+    "stopRaw": "20260105200000",
+    "start": "2026-01-06 01:00:00 IST",
+    "stop": "2026-01-06 01:30:00 IST",
+    "channel": "jio-1226",
+    "title": "SpongeBob SquarePants",
+    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
+    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105200000",
+    "stopRaw": "20260105213000",
+    "start": "2026-01-06 01:30:00 IST",
+    "stop": "2026-01-06 03:00:00 IST",
+    "channel": "jio-1226",
+    "title": "SpongeBob SquarePants",
+    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
+    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105213000",
+    "stopRaw": "20260105220000",
+    "start": "2026-01-06 03:00:00 IST",
+    "stop": "2026-01-06 03:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Loud House",
+    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
+    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105220000",
+    "stopRaw": "20260105230000",
+    "start": "2026-01-06 03:30:00 IST",
+    "stop": "2026-01-06 04:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Loud House",
+    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
+    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105230000",
+    "stopRaw": "20260105233000",
+    "start": "2026-01-06 04:30:00 IST",
+    "stop": "2026-01-06 05:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Penguins of Madagascar",
+    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
+    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260105233000",
+    "stopRaw": "20260106003000",
+    "start": "2026-01-06 05:00:00 IST",
+    "stop": "2026-01-06 06:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Penguins of Madagascar",
+    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
+    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106003000",
+    "stopRaw": "20260106013000",
+    "start": "2026-01-06 06:00:00 IST",
+    "stop": "2026-01-06 07:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106013000",
+    "stopRaw": "20260106023000",
+    "start": "2026-01-06 07:00:00 IST",
+    "stop": "2026-01-06 08:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106023000",
+    "stopRaw": "20260106030000",
+    "start": "2026-01-06 08:00:00 IST",
+    "stop": "2026-01-06 08:30:00 IST",
+    "channel": "jio-1226",
+    "title": "SpongeBob SquarePants",
+    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
+    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106030000",
+    "stopRaw": "20260106043000",
+    "start": "2026-01-06 08:30:00 IST",
+    "stop": "2026-01-06 10:00:00 IST",
+    "channel": "jio-1226",
+    "title": "SpongeBob SquarePants",
+    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
+    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106043000",
+    "stopRaw": "20260106050000",
+    "start": "2026-01-06 10:00:00 IST",
+    "stop": "2026-01-06 10:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Loud House",
+    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
+    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106050000",
+    "stopRaw": "20260106060000",
+    "start": "2026-01-06 10:30:00 IST",
+    "stop": "2026-01-06 11:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Loud House",
+    "subTitle": "As the only boy in a family with 10 sisters, 11-year-old Lincoln is in the middle of the chaos that resides in the Loud household.",
+    "image": "http://ttpl.tmsimg.com/assets/p12753730_b_h8_ci.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106060000",
+    "stopRaw": "20260106063000",
+    "start": "2026-01-06 11:30:00 IST",
+    "stop": "2026-01-06 12:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Penguins of Madagascar",
+    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
+    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106063000",
+    "stopRaw": "20260106073000",
+    "start": "2026-01-06 12:00:00 IST",
+    "stop": "2026-01-06 13:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Penguins of Madagascar",
+    "subTitle": "A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance. The team includes leader Skipper, brainy Kowalski, loony Rico and young Private.",
+    "image": "http://ttpl.tmsimg.com/assets/p195303_b_h8_ar.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106073000",
+    "stopRaw": "20260106080000",
+    "start": "2026-01-06 13:00:00 IST",
+    "stop": "2026-01-06 13:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Casagrandes",
+    "subTitle": "An 11-year-old adjusts to her new life living under one roof with her multigenerational Mexican-American family and over a market which serves as a gathering place for everyone in the neighbourhood.",
+    "image": "http://ttpl.tmsimg.com/assets/p17347937_b_h10_ax.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106080000",
+    "stopRaw": "20260106083000",
+    "start": "2026-01-06 13:30:00 IST",
+    "stop": "2026-01-06 14:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Casagrandes",
+    "subTitle": "An 11-year-old adjusts to her new life living under one roof with her multigenerational Mexican-American family and over a market which serves as a gathering place for everyone in the neighbourhood.",
+    "image": "http://ttpl.tmsimg.com/assets/p17347937_b_h10_ax.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106083000",
+    "stopRaw": "20260106100000",
+    "start": "2026-01-06 14:00:00 IST",
+    "stop": "2026-01-06 15:30:00 IST",
+    "channel": "jio-1226",
+    "title": "SpongeBob SquarePants",
+    "subTitle": "An accident-prone yellow sea sponge, who works in a fast-food restaurant, has adventures with his friends in the underwater city of Bikini Bottom.",
+    "image": "http://ttpl.tmsimg.com/assets/p184854_b_h8_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106100000",
+    "stopRaw": "20260106120000",
+    "start": "2026-01-06 15:30:00 IST",
+    "stop": "2026-01-06 17:30:00 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106120000",
+    "stopRaw": "20260106123000",
+    "start": "2026-01-06 17:30:00 IST",
+    "stop": "2026-01-06 18:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Transformers: EarthSpark",
+    "subTitle": "A new breed of Transformers must find their place among the Autobots, Decepticons, and the human family that adopts them. This new generation of robots, called Terrans, are the first Transformers robots to be born on Earth.",
+    "image": "http://ttpl.tmsimg.com/assets/p22969297_b_h8_an.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106123000",
+    "stopRaw": "20260106133000",
+    "start": "2026-01-06 18:00:00 IST",
+    "stop": "2026-01-06 19:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Transformers: EarthSpark",
+    "subTitle": "A new breed of Transformers must find their place among the Autobots, Decepticons, and the human family that adopts them. This new generation of robots, called Terrans, are the first Transformers robots to be born on Earth.",
+    "image": "http://ttpl.tmsimg.com/assets/p22969297_b_h8_an.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106133000",
+    "stopRaw": "20260106140000",
+    "start": "2026-01-06 19:00:00 IST",
+    "stop": "2026-01-06 19:30:00 IST",
+    "channel": "jio-1226",
+    "title": "The Legend of Korra",
+    "subTitle": "Seventeen-year-old Korra hails from the Southern Water tribe, and must learn how to master the art of airbending. Korra soon learns that her quest will be more difficult than she first thought.",
+    "image": "http://ttpl.tmsimg.com/assets/p9157227_b_h10_ak.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106140000",
+    "stopRaw": "20260106143000",
+    "start": "2026-01-06 19:30:00 IST",
+    "stop": "2026-01-06 20:00:00 IST",
+    "channel": "jio-1226",
+    "title": "The Legend of Korra",
+    "subTitle": "Seventeen-year-old Korra hails from the Southern Water tribe, and must learn how to master the art of airbending. Korra soon learns that her quest will be more difficult than she first thought.",
+    "image": "http://ttpl.tmsimg.com/assets/p9157227_b_h10_ak.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106143000",
+    "stopRaw": "20260106150000",
+    "start": "2026-01-06 20:00:00 IST",
+    "stop": "2026-01-06 20:30:00 IST",
+    "channel": "jio-1226",
+    "title": "Teenage Mutant Ninja Turtles",
+    "subTitle": "Mutant turtles Leonardo, Donatello, Raphael and Michelangelo are trained in the art of ninjutsu. The four learn to rely on each other as they unravel the mystery of their existence and train to become the heroes they are destined to be.",
+    "image": "http://ttpl.tmsimg.com/assets/p22713849_b_h8_ac.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106150000",
+    "stopRaw": "20260106153000",
+    "start": "2026-01-06 20:30:00 IST",
+    "stop": "2026-01-06 21:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Teenage Mutant Ninja Turtles",
+    "subTitle": "Mutant turtles Leonardo, Donatello, Raphael and Michelangelo are trained in the art of ninjutsu. The four learn to rely on each other as they unravel the mystery of their existence and train to become the heroes they are destined to be.",
+    "image": "http://ttpl.tmsimg.com/assets/p22713849_b_h8_ac.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106153000",
+    "stopRaw": "20260106160000",
+    "start": "2026-01-06 21:00:00 IST",
+    "stop": "2026-01-06 21:30:00 IST",
+    "channel": "jio-1226",
+    "title": "iCarly",
+    "subTitle": "Carly Shay attempts to deal with the success of her internet show, iCarly. Carly relies on her friends Sam and Freddie to help her cope with the pressure, as her parents are often away.",
+    "image": "http://ttpl.tmsimg.com/assets/p185707_b_h8_az.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106160000",
+    "stopRaw": "20260106163000",
+    "start": "2026-01-06 21:30:00 IST",
+    "stop": "2026-01-06 22:00:00 IST",
+    "channel": "jio-1226",
+    "title": "WITS Academy",
+    "subTitle": "Now that Andi's a Guardian in training at WITS Academy, the most esteemed school for Witches and Wizards in Training, it seems like her dream has finally come true, but can she live up to expectations?",
+    "image": "http://ttpl.tmsimg.com/assets/p12186777_b_h10_ac.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106163000",
+    "stopRaw": "20260106173000",
+    "start": "2026-01-06 22:00:00 IST",
+    "stop": "2026-01-06 23:00:00 IST",
+    "channel": "jio-1226",
+    "title": "Dora and Friends: Into the City!",
+    "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",
+    "image": "http://ttpl.tmsimg.com/assets/p10898665_b_h10_as.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260106173000",
+    "stopRaw": "20260106182959",
+    "start": "2026-01-06 23:00:00 IST",
+    "stop": "2026-01-06 23:59:59 IST",
     "channel": "jio-1226",
     "title": "Dora and Friends: Into the City!",
     "subTitle": "Dora and her friends live in the city of Playa Verde, go to school and work together to give back to the community, while having a variety of adventures.",

@@ -1,245 +1,5 @@
 [
   {
-    "startRaw": "20260102183000",
-    "stopRaw": "20260102193000",
-    "start": "2026-01-03 00:00:00 IST",
-    "stop": "2026-01-03 01:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Crime News",
-    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260102193000",
-    "stopRaw": "20260102203000",
-    "start": "2026-01-03 01:00:00 IST",
-    "stop": "2026-01-03 02:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Desh Duniya",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260102203000",
-    "stopRaw": "20260102213000",
-    "start": "2026-01-03 02:00:00 IST",
-    "stop": "2026-01-03 03:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Dopahar Charcha",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260102213000",
-    "stopRaw": "20260102223000",
-    "start": "2026-01-03 03:00:00 IST",
-    "stop": "2026-01-03 04:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Evening Special",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260102223000",
-    "stopRaw": "20260102233000",
-    "start": "2026-01-03 04:00:00 IST",
-    "stop": "2026-01-03 05:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Crime News",
-    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260102233000",
-    "stopRaw": "20260103003000",
-    "start": "2026-01-03 05:00:00 IST",
-    "stop": "2026-01-03 06:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Religious",
-    "subTitle": "The host presents updates and developments related to religion and shares information about religious processions, auspicious days and spiritual events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103003000",
-    "stopRaw": "20260103013000",
-    "start": "2026-01-03 06:00:00 IST",
-    "stop": "2026-01-03 07:00:00 IST",
-    "channel": "jio-3463",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103013000",
-    "stopRaw": "20260103023000",
-    "start": "2026-01-03 07:00:00 IST",
-    "stop": "2026-01-03 08:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Aaj Din Bhar",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103023000",
-    "stopRaw": "20260103033000",
-    "start": "2026-01-03 08:00:00 IST",
-    "stop": "2026-01-03 09:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Desh Duniya",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103033000",
-    "stopRaw": "20260103043000",
-    "start": "2026-01-03 09:00:00 IST",
-    "stop": "2026-01-03 10:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103043000",
-    "stopRaw": "20260103053000",
-    "start": "2026-01-03 10:00:00 IST",
-    "stop": "2026-01-03 11:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Live News",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103053000",
-    "stopRaw": "20260103063000",
-    "start": "2026-01-03 11:00:00 IST",
-    "stop": "2026-01-03 12:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Breaking News",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103063000",
-    "stopRaw": "20260103073000",
-    "start": "2026-01-03 12:00:00 IST",
-    "stop": "2026-01-03 13:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Fatafat news",
-    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103073000",
-    "stopRaw": "20260103083000",
-    "start": "2026-01-03 13:00:00 IST",
-    "stop": "2026-01-03 14:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Desh Duniya",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103083000",
-    "stopRaw": "20260103093000",
-    "start": "2026-01-03 14:00:00 IST",
-    "stop": "2026-01-03 15:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Dopahar Charcha",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103093000",
-    "stopRaw": "20260103103000",
-    "start": "2026-01-03 15:00:00 IST",
-    "stop": "2026-01-03 16:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Sports News",
-    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103103000",
-    "stopRaw": "20260103113000",
-    "start": "2026-01-03 16:00:00 IST",
-    "stop": "2026-01-03 17:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Crime News",
-    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103113000",
-    "stopRaw": "20260103123000",
-    "start": "2026-01-03 17:00:00 IST",
-    "stop": "2026-01-03 18:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Religious",
-    "subTitle": "The host presents updates and developments related to religion and shares information about religious processions, auspicious days and spiritual events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103123000",
-    "stopRaw": "20260103133000",
-    "start": "2026-01-03 18:00:00 IST",
-    "stop": "2026-01-03 19:00:00 IST",
-    "channel": "jio-3463",
-    "title": "News Bulletin",
-    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103133000",
-    "stopRaw": "20260103143000",
-    "start": "2026-01-03 19:00:00 IST",
-    "stop": "2026-01-03 20:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Aaj Din Bhar",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103143000",
-    "stopRaw": "20260103153000",
-    "start": "2026-01-03 20:00:00 IST",
-    "stop": "2026-01-03 21:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Desh Duniya",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103153000",
-    "stopRaw": "20260103163000",
-    "start": "2026-01-03 21:00:00 IST",
-    "stop": "2026-01-03 22:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103163000",
-    "stopRaw": "20260103173000",
-    "start": "2026-01-03 22:00:00 IST",
-    "stop": "2026-01-03 23:00:00 IST",
-    "channel": "jio-3463",
-    "title": "Live News",
-    "subTitle": "",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260103173000",
-    "stopRaw": "20260103182959",
-    "start": "2026-01-03 23:00:00 IST",
-    "stop": "2026-01-03 23:59:59 IST",
-    "channel": "jio-3463",
-    "title": "Breaking News",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260103183000",
     "stopRaw": "20260103193000",
     "start": "2026-01-04 00:00:00 IST",
@@ -714,6 +474,246 @@
     "stopRaw": "20260105182959",
     "start": "2026-01-05 23:00:00 IST",
     "stop": "2026-01-05 23:59:59 IST",
+    "channel": "jio-3463",
+    "title": "Breaking News",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105183000",
+    "stopRaw": "20260105193000",
+    "start": "2026-01-06 00:00:00 IST",
+    "stop": "2026-01-06 01:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Crime News",
+    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105193000",
+    "stopRaw": "20260105203000",
+    "start": "2026-01-06 01:00:00 IST",
+    "stop": "2026-01-06 02:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Desh Duniya",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105203000",
+    "stopRaw": "20260105213000",
+    "start": "2026-01-06 02:00:00 IST",
+    "stop": "2026-01-06 03:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Dopahar Charcha",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105213000",
+    "stopRaw": "20260105223000",
+    "start": "2026-01-06 03:00:00 IST",
+    "stop": "2026-01-06 04:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Evening Special",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105223000",
+    "stopRaw": "20260105233000",
+    "start": "2026-01-06 04:00:00 IST",
+    "stop": "2026-01-06 05:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Crime News",
+    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260105233000",
+    "stopRaw": "20260106003000",
+    "start": "2026-01-06 05:00:00 IST",
+    "stop": "2026-01-06 06:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Religious",
+    "subTitle": "The host presents updates and developments related to religion and shares information about religious processions, auspicious days and spiritual events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106003000",
+    "stopRaw": "20260106013000",
+    "start": "2026-01-06 06:00:00 IST",
+    "stop": "2026-01-06 07:00:00 IST",
+    "channel": "jio-3463",
+    "title": "News Bulletin",
+    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106013000",
+    "stopRaw": "20260106023000",
+    "start": "2026-01-06 07:00:00 IST",
+    "stop": "2026-01-06 08:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Aaj Din Bhar",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106023000",
+    "stopRaw": "20260106033000",
+    "start": "2026-01-06 08:00:00 IST",
+    "stop": "2026-01-06 09:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Desh Duniya",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106033000",
+    "stopRaw": "20260106043000",
+    "start": "2026-01-06 09:00:00 IST",
+    "stop": "2026-01-06 10:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106043000",
+    "stopRaw": "20260106053000",
+    "start": "2026-01-06 10:00:00 IST",
+    "stop": "2026-01-06 11:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Live News",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106053000",
+    "stopRaw": "20260106063000",
+    "start": "2026-01-06 11:00:00 IST",
+    "stop": "2026-01-06 12:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Breaking News",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106063000",
+    "stopRaw": "20260106073000",
+    "start": "2026-01-06 12:00:00 IST",
+    "stop": "2026-01-06 13:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Fatafat news",
+    "subTitle": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106073000",
+    "stopRaw": "20260106083000",
+    "start": "2026-01-06 13:00:00 IST",
+    "stop": "2026-01-06 14:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Desh Duniya",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106083000",
+    "stopRaw": "20260106093000",
+    "start": "2026-01-06 14:00:00 IST",
+    "stop": "2026-01-06 15:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Dopahar Charcha",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106093000",
+    "stopRaw": "20260106103000",
+    "start": "2026-01-06 15:00:00 IST",
+    "stop": "2026-01-06 16:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Sports News",
+    "subTitle": "The host provides the latest news stories, updates and developments pertaining to the field of sports from across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106103000",
+    "stopRaw": "20260106113000",
+    "start": "2026-01-06 16:00:00 IST",
+    "stop": "2026-01-06 17:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Crime News",
+    "subTitle": "The host provides a detailed report on some of the latest and most important crime-related news stories, updates and happenings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106113000",
+    "stopRaw": "20260106123000",
+    "start": "2026-01-06 17:00:00 IST",
+    "stop": "2026-01-06 18:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Religious",
+    "subTitle": "The host presents updates and developments related to religion and shares information about religious processions, auspicious days and spiritual events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106123000",
+    "stopRaw": "20260106133000",
+    "start": "2026-01-06 18:00:00 IST",
+    "stop": "2026-01-06 19:00:00 IST",
+    "channel": "jio-3463",
+    "title": "News Bulletin",
+    "subTitle": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106133000",
+    "stopRaw": "20260106143000",
+    "start": "2026-01-06 19:00:00 IST",
+    "stop": "2026-01-06 20:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Aaj Din Bhar",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106143000",
+    "stopRaw": "20260106153000",
+    "start": "2026-01-06 20:00:00 IST",
+    "stop": "2026-01-06 21:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Desh Duniya",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106153000",
+    "stopRaw": "20260106163000",
+    "start": "2026-01-06 21:00:00 IST",
+    "stop": "2026-01-06 22:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106163000",
+    "stopRaw": "20260106173000",
+    "start": "2026-01-06 22:00:00 IST",
+    "stop": "2026-01-06 23:00:00 IST",
+    "channel": "jio-3463",
+    "title": "Live News",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260106173000",
+    "stopRaw": "20260106182959",
+    "start": "2026-01-06 23:00:00 IST",
+    "stop": "2026-01-06 23:59:59 IST",
     "channel": "jio-3463",
     "title": "Breaking News",
     "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",

@@ -431,42 +431,32 @@
   },
   {
     "startRaw": "20260107120000",
-    "stopRaw": "20260107133000",
+    "stopRaw": "20260107130000",
     "start": "2026-01-07 17:30:00 IST",
-    "stop": "2026-01-07 19:00:00 IST",
+    "stop": "2026-01-07 18:30:00 IST",
     "channel": "jio-193",
     "title": "CNN News Central",
     "subTitle": "The host presents news updates and the latest information on some of the trending and significant stories of global significance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260107133000",
+    "startRaw": "20260107130000",
     "stopRaw": "20260107140000",
-    "start": "2026-01-07 19:00:00 IST",
+    "start": "2026-01-07 18:30:00 IST",
     "stop": "2026-01-07 19:30:00 IST",
     "channel": "jio-193",
-    "title": "World Sport",
-    "subTitle": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas.",
+    "title": "CNN News Central",
+    "subTitle": "The host presents news updates and the latest information on some of the trending and significant stories of global significance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260107140000",
-    "stopRaw": "20260107144500",
+    "stopRaw": "20260107150000",
     "start": "2026-01-07 19:30:00 IST",
-    "stop": "2026-01-07 20:15:00 IST",
+    "stop": "2026-01-07 20:30:00 IST",
     "channel": "jio-193",
     "title": "Connect the World",
     "subTitle": "The host sheds light on important news stories and events happening all around the world that have an impact on an international level.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260107144500",
-    "stopRaw": "20260107150000",
-    "start": "2026-01-07 20:15:00 IST",
-    "stop": "2026-01-07 20:30:00 IST",
-    "channel": "jio-193",
-    "title": "World Sport",
-    "subTitle": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -541,22 +531,22 @@
   },
   {
     "startRaw": "20260107210000",
-    "stopRaw": "20260107223000",
+    "stopRaw": "20260107220000",
     "start": "2026-01-08 02:30:00 IST",
-    "stop": "2026-01-08 04:00:00 IST",
+    "stop": "2026-01-08 03:30:00 IST",
     "channel": "jio-193",
     "title": "Quest Means Business",
     "subTitle": "The host provides his expert analysis and commentary on some of the most important news stories from the world of business.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260107223000",
+    "startRaw": "20260107220000",
     "stopRaw": "20260107230000",
-    "start": "2026-01-08 04:00:00 IST",
+    "start": "2026-01-08 03:30:00 IST",
     "stop": "2026-01-08 04:30:00 IST",
     "channel": "jio-193",
-    "title": "World Sport",
-    "subTitle": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas.",
+    "title": "The Lead With Jake Tapper",
+    "subTitle": "Host Jake Tapper presents the latest political, economic, social, cultural and sports updates and stories from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -621,8 +611,18 @@
   },
   {
     "startRaw": "20260108050000",
-    "stopRaw": "20260108070000",
+    "stopRaw": "20260108060000",
     "start": "2026-01-08 10:30:00 IST",
+    "stop": "2026-01-08 11:30:00 IST",
+    "channel": "jio-193",
+    "title": "The Story Is With Elex Michaelson",
+    "subTitle": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108060000",
+    "stopRaw": "20260108070000",
+    "start": "2026-01-08 11:30:00 IST",
     "stop": "2026-01-08 12:30:00 IST",
     "channel": "jio-193",
     "title": "The Story Is With Elex Michaelson",

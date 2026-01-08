@@ -385,8 +385,8 @@
     "start": "2026-01-08 06:30:00 IST",
     "stop": "2026-01-08 07:00:00 IST",
     "channel": "jio-638",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "Zee Telugu",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -661,22 +661,52 @@
   },
   {
     "startRaw": "20260108183000",
-    "stopRaw": "20260108213000",
+    "stopRaw": "20260108183200",
     "start": "2026-01-09 00:00:00 IST",
-    "stop": "2026-01-09 03:00:00 IST",
+    "stop": "2026-01-09 00:02:00 IST",
+    "channel": "jio-638",
+    "title": "Meghasandesham",
+    "subTitle": "Bhoomi attempts to give Gagan laxatives, but he remains adamant on performing Kirshnaprasad's last rites. Later, Krishnaprasad's arrival to stop Gagan stuns everyone.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108183200",
+    "stopRaw": "20260108204500",
+    "start": "2026-01-09 00:02:00 IST",
+    "stop": "2026-01-09 02:15:00 IST",
     "channel": "jio-638",
     "title": "Santosham",
     "subTitle": "Bhanu is in love with Karthik, who is married to her cousin, Padmavathi. However, following Padmavathi's sudden passing, Bhanu sees a second chance at true love.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260108204500",
+    "stopRaw": "20260108213000",
+    "start": "2026-01-09 02:15:00 IST",
+    "stop": "2026-01-09 03:00:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260108213000",
-    "stopRaw": "20260109003000",
+    "stopRaw": "20260108234100",
     "start": "2026-01-09 03:00:00 IST",
-    "stop": "2026-01-09 06:00:00 IST",
+    "stop": "2026-01-09 05:11:00 IST",
     "channel": "jio-638",
     "title": "Karthikeya 2",
     "subTitle": "The movie deals with the personal problems of Karthik and how he comes out of them. His pursuit of the truth leads him to find out the power of Indian ancient system and Tatva of Lord Sri Krishna.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108234100",
+    "stopRaw": "20260109003000",
+    "start": "2026-01-09 05:11:00 IST",
+    "stop": "2026-01-09 06:00:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

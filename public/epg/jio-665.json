@@ -1,5 +1,505 @@
 [
   {
+    "startRaw": "20260107183000",
+    "stopRaw": "20260107190000",
+    "start": "2026-01-08 00:00:00 IST",
+    "stop": "2026-01-08 00:30:00 IST",
+    "channel": "jio-665",
+    "title": "News",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107190000",
+    "stopRaw": "20260107193000",
+    "start": "2026-01-08 00:30:00 IST",
+    "stop": "2026-01-08 01:00:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107193000",
+    "stopRaw": "20260107200000",
+    "start": "2026-01-08 01:00:00 IST",
+    "stop": "2026-01-08 01:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @1am",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107200000",
+    "stopRaw": "20260107203000",
+    "start": "2026-01-08 01:30:00 IST",
+    "stop": "2026-01-08 02:00:00 IST",
+    "channel": "jio-665",
+    "title": "Burning Topic",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107203000",
+    "stopRaw": "20260107210000",
+    "start": "2026-01-08 02:00:00 IST",
+    "stop": "2026-01-08 02:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @1am",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107210000",
+    "stopRaw": "20260107213000",
+    "start": "2026-01-08 02:30:00 IST",
+    "stop": "2026-01-08 03:00:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107213000",
+    "stopRaw": "20260107220000",
+    "start": "2026-01-08 03:00:00 IST",
+    "stop": "2026-01-08 03:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @1am",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107220000",
+    "stopRaw": "20260107223000",
+    "start": "2026-01-08 03:30:00 IST",
+    "stop": "2026-01-08 04:00:00 IST",
+    "channel": "jio-665",
+    "title": "Film Flash",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107223000",
+    "stopRaw": "20260107230000",
+    "start": "2026-01-08 04:00:00 IST",
+    "stop": "2026-01-08 04:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @1am",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107230000",
+    "stopRaw": "20260107233000",
+    "start": "2026-01-08 04:30:00 IST",
+    "stop": "2026-01-08 05:00:00 IST",
+    "channel": "jio-665",
+    "title": "Divya Dhamam",
+    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260107233000",
+    "stopRaw": "20260108000000",
+    "start": "2026-01-08 05:00:00 IST",
+    "stop": "2026-01-08 05:30:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108000000",
+    "stopRaw": "20260108003000",
+    "start": "2026-01-08 05:30:00 IST",
+    "stop": "2026-01-08 06:00:00 IST",
+    "channel": "jio-665",
+    "title": "Suprabhatam",
+    "subTitle": "Religious experts talk about the proper way to begin the day on a positive note and how a person can attain mental and physical composure by following these steps.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108003000",
+    "stopRaw": "20260108010000",
+    "start": "2026-01-08 06:00:00 IST",
+    "stop": "2026-01-08 06:30:00 IST",
+    "channel": "jio-665",
+    "title": "Nadopasana",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108010000",
+    "stopRaw": "20260108012500",
+    "start": "2026-01-08 06:30:00 IST",
+    "stop": "2026-01-08 06:55:00 IST",
+    "channel": "jio-665",
+    "title": "Nelathalli",
+    "subTitle": "The host explores the recent developments in the agricultural sector, highlighting the struggles and grievances of the farming community.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108012500",
+    "stopRaw": "20260108020000",
+    "start": "2026-01-08 06:55:00 IST",
+    "stop": "2026-01-08 07:30:00 IST",
+    "channel": "jio-665",
+    "title": "5 mints 25 headlines / News @ 7 am",
+    "subTitle": "The host presents the top 25 headlines in five minutes; the host sheds light on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108020000",
+    "stopRaw": "20260108023000",
+    "start": "2026-01-08 07:30:00 IST",
+    "stop": "2026-01-08 08:00:00 IST",
+    "channel": "jio-665",
+    "title": "News Analysis",
+    "subTitle": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108023000",
+    "stopRaw": "20260108030000",
+    "start": "2026-01-08 08:00:00 IST",
+    "stop": "2026-01-08 08:30:00 IST",
+    "channel": "jio-665",
+    "title": "News Analysis",
+    "subTitle": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108030000",
+    "stopRaw": "20260108033000",
+    "start": "2026-01-08 08:30:00 IST",
+    "stop": "2026-01-08 09:00:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108033000",
+    "stopRaw": "20260108035500",
+    "start": "2026-01-08 09:00:00 IST",
+    "stop": "2026-01-08 09:25:00 IST",
+    "channel": "jio-665",
+    "title": "News @ 9am",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108035500",
+    "stopRaw": "20260108040000",
+    "start": "2026-01-08 09:25:00 IST",
+    "stop": "2026-01-08 09:30:00 IST",
+    "channel": "jio-665",
+    "title": "Kapil",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108040000",
+    "stopRaw": "20260108043000",
+    "start": "2026-01-08 09:30:00 IST",
+    "stop": "2026-01-08 10:00:00 IST",
+    "channel": "jio-665",
+    "title": "Burning Topic",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108043000",
+    "stopRaw": "20260108050000",
+    "start": "2026-01-08 10:00:00 IST",
+    "stop": "2026-01-08 10:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @ 10am",
+    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108050000",
+    "stopRaw": "20260108053000",
+    "start": "2026-01-08 10:30:00 IST",
+    "stop": "2026-01-08 11:00:00 IST",
+    "channel": "jio-665",
+    "title": "Otr",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108053000",
+    "stopRaw": "20260108060000",
+    "start": "2026-01-08 11:00:00 IST",
+    "stop": "2026-01-08 11:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @ 11am",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108060000",
+    "stopRaw": "20260108063000",
+    "start": "2026-01-08 11:30:00 IST",
+    "stop": "2026-01-08 12:00:00 IST",
+    "channel": "jio-665",
+    "title": "Bhavishyavani Disco",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108063000",
+    "stopRaw": "20260108070000",
+    "start": "2026-01-08 12:00:00 IST",
+    "stop": "2026-01-08 12:30:00 IST",
+    "channel": "jio-665",
+    "title": "NEWS @ 12PM",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108070000",
+    "stopRaw": "20260108073000",
+    "start": "2026-01-08 12:30:00 IST",
+    "stop": "2026-01-08 13:00:00 IST",
+    "channel": "jio-665",
+    "title": "Mamaa",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108073000",
+    "stopRaw": "20260108080000",
+    "start": "2026-01-08 13:00:00 IST",
+    "stop": "2026-01-08 13:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @ 1pm",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108080000",
+    "stopRaw": "20260108083000",
+    "start": "2026-01-08 13:30:00 IST",
+    "stop": "2026-01-08 14:00:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108083000",
+    "stopRaw": "20260108090000",
+    "start": "2026-01-08 14:00:00 IST",
+    "stop": "2026-01-08 14:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @2pm",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108090000",
+    "stopRaw": "20260108093000",
+    "start": "2026-01-08 14:30:00 IST",
+    "stop": "2026-01-08 15:00:00 IST",
+    "channel": "jio-665",
+    "title": "Commercial (RJR Commercial)",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108093000",
+    "stopRaw": "20260108100000",
+    "start": "2026-01-08 15:00:00 IST",
+    "stop": "2026-01-08 15:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @3pm",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108100000",
+    "stopRaw": "20260108102500",
+    "start": "2026-01-08 15:30:00 IST",
+    "stop": "2026-01-08 15:55:00 IST",
+    "channel": "jio-665",
+    "title": "Game Changer",
+    "subTitle": "The host holds insightful conversations with renowned personalities, highlighting their personal journeys and professional achievements.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108102500",
+    "stopRaw": "20260108110000",
+    "start": "2026-01-08 15:55:00 IST",
+    "stop": "2026-01-08 16:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @ 4pm",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108110000",
+    "stopRaw": "20260108113000",
+    "start": "2026-01-08 16:30:00 IST",
+    "stop": "2026-01-08 17:00:00 IST",
+    "channel": "jio-665",
+    "title": "Film Flash",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108113000",
+    "stopRaw": "20260108120000",
+    "start": "2026-01-08 17:00:00 IST",
+    "stop": "2026-01-08 17:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @5pm",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108120000",
+    "stopRaw": "20260108123000",
+    "start": "2026-01-08 17:30:00 IST",
+    "stop": "2026-01-08 18:00:00 IST",
+    "channel": "jio-665",
+    "title": "Greater To Gretest",
+    "subTitle": "",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108123000",
+    "stopRaw": "20260108124000",
+    "start": "2026-01-08 18:00:00 IST",
+    "stop": "2026-01-08 18:10:00 IST",
+    "channel": "jio-665",
+    "title": "BBC",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108124000",
+    "stopRaw": "20260108130000",
+    "start": "2026-01-08 18:10:00 IST",
+    "stop": "2026-01-08 18:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @6pm",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108130000",
+    "stopRaw": "20260108133000",
+    "start": "2026-01-08 18:30:00 IST",
+    "stop": "2026-01-08 19:00:00 IST",
+    "channel": "jio-665",
+    "title": "Nelathalli",
+    "subTitle": "The host explores the recent developments in the agricultural sector, highlighting the struggles and grievances of the farming community.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108133000",
+    "stopRaw": "20260108140000",
+    "start": "2026-01-08 19:00:00 IST",
+    "stop": "2026-01-08 19:30:00 IST",
+    "channel": "jio-665",
+    "title": "Big Debate",
+    "subTitle": "The host moderates a debate among a panel of experts from various fields on the ongoing political and social issues of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108140000",
+    "stopRaw": "20260108143000",
+    "start": "2026-01-08 19:30:00 IST",
+    "stop": "2026-01-08 20:00:00 IST",
+    "channel": "jio-665",
+    "title": "Big Debate",
+    "subTitle": "The host moderates a debate among a panel of experts from various fields on the ongoing political and social issues of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108143000",
+    "stopRaw": "20260108150000",
+    "start": "2026-01-08 20:00:00 IST",
+    "stop": "2026-01-08 20:30:00 IST",
+    "channel": "jio-665",
+    "title": "Otr",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108150000",
+    "stopRaw": "20260108153000",
+    "start": "2026-01-08 20:30:00 IST",
+    "stop": "2026-01-08 21:00:00 IST",
+    "channel": "jio-665",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108153000",
+    "stopRaw": "20260108160000",
+    "start": "2026-01-08 21:00:00 IST",
+    "stop": "2026-01-08 21:30:00 IST",
+    "channel": "jio-665",
+    "title": "9 PM Prime Time",
+    "subTitle": "The host presents the latest news stories, updates and developments regarding social, political and economic issues from various parts of the country and the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108160000",
+    "stopRaw": "20260108163000",
+    "start": "2026-01-08 21:30:00 IST",
+    "stop": "2026-01-08 22:00:00 IST",
+    "channel": "jio-665",
+    "title": "Burning Topic",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108163000",
+    "stopRaw": "20260108170000",
+    "start": "2026-01-08 22:00:00 IST",
+    "stop": "2026-01-08 22:30:00 IST",
+    "channel": "jio-665",
+    "title": "Pakka Hyderabadi",
+    "subTitle": "The host presents information about the social, economic and political issues of Hyderabad and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108170000",
+    "stopRaw": "20260108172500",
+    "start": "2026-01-08 22:30:00 IST",
+    "stop": "2026-01-08 22:55:00 IST",
+    "channel": "jio-665",
+    "title": "Film Flash",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108172500",
+    "stopRaw": "20260108180000",
+    "start": "2026-01-08 22:55:00 IST",
+    "stop": "2026-01-08 23:30:00 IST",
+    "channel": "jio-665",
+    "title": "News @11PM",
+    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260108180000",
+    "stopRaw": "20260108182959",
+    "start": "2026-01-08 23:30:00 IST",
+    "stop": "2026-01-08 23:59:59 IST",
+    "channel": "jio-665",
+    "title": "Burning Topic",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260108183000",
     "stopRaw": "20260108190000",
     "start": "2026-01-09 00:00:00 IST",
@@ -611,12 +1111,22 @@
   },
   {
     "startRaw": "20260110000000",
-    "stopRaw": "20260110003000",
+    "stopRaw": "20260110002500",
     "start": "2026-01-10 05:30:00 IST",
+    "stop": "2026-01-10 05:55:00 IST",
+    "channel": "jio-665",
+    "title": "Yoga",
+    "subTitle": "A yoga expert shares detailed techniques to improve flexibility, boost energy and reduce stress, offering a holistic approach to physical and mental wellness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260110002500",
+    "stopRaw": "20260110003000",
+    "start": "2026-01-10 05:55:00 IST",
     "stop": "2026-01-10 06:00:00 IST",
     "channel": "jio-665",
-    "title": "Suprabhatam",
-    "subTitle": "Religious experts talk about the proper way to begin the day on a positive note and how a person can attain mental and physical composure by following these steps.",
+    "title": "5/25 Heads",
+    "subTitle": "The host presents 25 headlines, including the latest social, political and economic news updates and developments, in five minutes.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -625,8 +1135,8 @@
     "start": "2026-01-10 06:00:00 IST",
     "stop": "2026-01-10 06:30:00 IST",
     "channel": "jio-665",
-    "title": "Healthy Life",
-    "subTitle": "A medical professional sheds light on various common ailments whilst providing relevant tips that can facilitate maintaining a healthy lifestyle.",
+    "title": "News @6am",
+    "subTitle": "The host presents the latest news stories and significant developments of social, political and economic importance from across the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -635,8 +1145,8 @@
     "start": "2026-01-10 06:30:00 IST",
     "stop": "2026-01-10 06:55:00 IST",
     "channel": "jio-665",
-    "title": "Nelathalli",
-    "subTitle": "The host explores the recent developments in the agricultural sector, highlighting the struggles and grievances of the farming community.",
+    "title": "Divya Dhamam",
+    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -645,24 +1155,14 @@
     "start": "2026-01-10 06:55:00 IST",
     "stop": "2026-01-10 07:30:00 IST",
     "channel": "jio-665",
-    "title": "5 mints 25 headlines / News @ 7 am",
-    "subTitle": "The host presents the top 25 headlines in five minutes; the host sheds light on the latest news and developments from across the region.",
+    "title": "News @ 7am",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260110020000",
-    "stopRaw": "20260110023000",
-    "start": "2026-01-10 07:30:00 IST",
-    "stop": "2026-01-10 08:00:00 IST",
-    "channel": "jio-665",
-    "title": "News Analysis",
-    "subTitle": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110023000",
     "stopRaw": "20260110030000",
-    "start": "2026-01-10 08:00:00 IST",
+    "start": "2026-01-10 07:30:00 IST",
     "stop": "2026-01-10 08:30:00 IST",
     "channel": "jio-665",
     "title": "News Analysis",
@@ -675,8 +1175,8 @@
     "start": "2026-01-10 08:30:00 IST",
     "stop": "2026-01-10 09:00:00 IST",
     "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "title": "Yuva Keratalu",
+    "subTitle": "The anchor asks young political leaders to discuss critical socio-political issues shaping the state as well as the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -705,8 +1205,8 @@
     "start": "2026-01-10 09:30:00 IST",
     "stop": "2026-01-10 10:00:00 IST",
     "channel": "jio-665",
-    "title": "Burning Topic",
-    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "title": "Commercial(Rasik Jems)",
+    "subTitle": "An exploration into Rasik Jems, showcasing exquisite gemstones, their craftsmanship and unique designs, while exploring the artistry behind fine jewelry.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,8 +1225,8 @@
     "start": "2026-01-10 10:30:00 IST",
     "stop": "2026-01-10 11:00:00 IST",
     "channel": "jio-665",
-    "title": "Otr",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "title": "Commercial (RJR Hospital)",
+    "subTitle": "A medical professional sheds light on a range of treatments offered by a reputed healthcare centre that specialises in healing specific ailments.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -745,8 +1245,8 @@
     "start": "2026-01-10 11:30:00 IST",
     "stop": "2026-01-10 12:00:00 IST",
     "channel": "jio-665",
-    "title": "Commercial (RJR Commercial)",
-    "subTitle": "Bringing the best in television.",
+    "title": "Burning Topic",
+    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -765,8 +1265,8 @@
     "start": "2026-01-10 12:30:00 IST",
     "stop": "2026-01-10 13:00:00 IST",
     "channel": "jio-665",
-    "title": "Mata Pata",
-    "subTitle": "A comprehensive compilation of Telugu film songs is played back to back in order to entertain and enthrall the audience.",
+    "title": "Otr",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -785,8 +1285,8 @@
     "start": "2026-01-10 13:30:00 IST",
     "stop": "2026-01-10 14:00:00 IST",
     "channel": "jio-665",
-    "title": "Kapil Ayurveda",
-    "subTitle": "A medical expert discusses treatments for various diseases and illnesses and offers viewers practical advice on preventative healthcare.",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -805,8 +1305,8 @@
     "start": "2026-01-10 14:30:00 IST",
     "stop": "2026-01-10 15:00:00 IST",
     "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "title": "Jordar",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -821,18 +1321,18 @@
   },
   {
     "startRaw": "20260110100000",
-    "stopRaw": "20260110102500",
+    "stopRaw": "20260110103000",
     "start": "2026-01-10 15:30:00 IST",
-    "stop": "2026-01-10 15:55:00 IST",
+    "stop": "2026-01-10 16:00:00 IST",
     "channel": "jio-665",
-    "title": "Film Flash",
-    "subTitle": "Bringing the best in television.",
+    "title": "Daaku Maharaj@ Special",
+    "subTitle": "The host presents a detailed report pertaining to the 2025 film 'Daaku Maharaaj' and shares updates on the events held to promote it.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260110102500",
+    "startRaw": "20260110103000",
     "stopRaw": "20260110110000",
-    "start": "2026-01-10 15:55:00 IST",
+    "start": "2026-01-10 16:00:00 IST",
     "stop": "2026-01-10 16:30:00 IST",
     "channel": "jio-665",
     "title": "News @ 4pm",
@@ -841,18 +1341,18 @@
   },
   {
     "startRaw": "20260110110000",
-    "stopRaw": "20260110113000",
+    "stopRaw": "20260110112500",
     "start": "2026-01-10 16:30:00 IST",
-    "stop": "2026-01-10 17:00:00 IST",
+    "stop": "2026-01-10 16:55:00 IST",
     "channel": "jio-665",
-    "title": "Rajasaab Interview",
-    "subTitle": "",
+    "title": "Show Time",
+    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260110113000",
+    "startRaw": "20260110112500",
     "stopRaw": "20260110120000",
-    "start": "2026-01-10 17:00:00 IST",
+    "start": "2026-01-10 16:55:00 IST",
     "stop": "2026-01-10 17:30:00 IST",
     "channel": "jio-665",
     "title": "News @5pm",
@@ -865,24 +1365,14 @@
     "start": "2026-01-10 17:30:00 IST",
     "stop": "2026-01-10 18:00:00 IST",
     "channel": "jio-665",
-    "title": "Greater To Greatest",
-    "subTitle": "",
+    "title": "Divya Dhamam",
+    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260110123000",
-    "stopRaw": "20260110124000",
-    "start": "2026-01-10 18:00:00 IST",
-    "stop": "2026-01-10 18:10:00 IST",
-    "channel": "jio-665",
-    "title": "BBC",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110124000",
     "stopRaw": "20260110130000",
-    "start": "2026-01-10 18:10:00 IST",
+    "start": "2026-01-10 18:00:00 IST",
     "stop": "2026-01-10 18:30:00 IST",
     "channel": "jio-665",
     "title": "News @6pm",
@@ -895,28 +1385,18 @@
     "start": "2026-01-10 18:30:00 IST",
     "stop": "2026-01-10 19:00:00 IST",
     "channel": "jio-665",
-    "title": "Vandhanam",
-    "subTitle": "",
+    "title": "Maha Kumbhamela Special",
+    "subTitle": "Followers of Hinduism partake in the Maha Kumbh, a pilgrimage wherein devotees from all over the world gather to take a dip in the sacred river.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260110133000",
-    "stopRaw": "20260110140000",
-    "start": "2026-01-10 19:00:00 IST",
-    "stop": "2026-01-10 19:30:00 IST",
-    "channel": "jio-665",
-    "title": "Jagore Jago Live",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110140000",
     "stopRaw": "20260110143000",
-    "start": "2026-01-10 19:30:00 IST",
+    "start": "2026-01-10 19:00:00 IST",
     "stop": "2026-01-10 20:00:00 IST",
     "channel": "jio-665",
-    "title": "Jagore Jago Live",
-    "subTitle": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.",
+    "title": "Jagore Jago",
+    "subTitle": "The hosts discuss significant issues existing in the society in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -925,8 +1405,8 @@
     "start": "2026-01-10 20:00:00 IST",
     "stop": "2026-01-10 20:30:00 IST",
     "channel": "jio-665",
-    "title": "Otr",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "title": "Jagore Jago",
+    "subTitle": "The hosts discuss significant issues existing in the society in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -956,7 +1436,7 @@
     "stop": "2026-01-10 22:00:00 IST",
     "channel": "jio-665",
     "title": "Burning Topic",
-    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
+    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -975,8 +1455,8 @@
     "start": "2026-01-10 22:30:00 IST",
     "stop": "2026-01-10 22:55:00 IST",
     "channel": "jio-665",
-    "title": "Film Flash",
-    "subTitle": "Bringing the best in television.",
+    "title": "Show Time",
+    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -996,507 +1476,7 @@
     "stop": "2026-01-10 23:59:59 IST",
     "channel": "jio-665",
     "title": "Burning Topic",
-    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110183000",
-    "stopRaw": "20260110190000",
-    "start": "2026-01-11 00:00:00 IST",
-    "stop": "2026-01-11 00:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @11PM",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110190000",
-    "stopRaw": "20260110193000",
-    "start": "2026-01-11 00:30:00 IST",
-    "stop": "2026-01-11 01:00:00 IST",
-    "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110193000",
-    "stopRaw": "20260110200000",
-    "start": "2026-01-11 01:00:00 IST",
-    "stop": "2026-01-11 01:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @11PM",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110200000",
-    "stopRaw": "20260110203000",
-    "start": "2026-01-11 01:30:00 IST",
-    "stop": "2026-01-11 02:00:00 IST",
-    "channel": "jio-665",
-    "title": "Film Flash",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110203000",
-    "stopRaw": "20260110210000",
-    "start": "2026-01-11 02:00:00 IST",
-    "stop": "2026-01-11 02:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @11PM",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110210000",
-    "stopRaw": "20260110213000",
-    "start": "2026-01-11 02:30:00 IST",
-    "stop": "2026-01-11 03:00:00 IST",
-    "channel": "jio-665",
-    "title": "Otr",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110213000",
-    "stopRaw": "20260110220000",
-    "start": "2026-01-11 03:00:00 IST",
-    "stop": "2026-01-11 03:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @11PM",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110220000",
-    "stopRaw": "20260110223000",
-    "start": "2026-01-11 03:30:00 IST",
-    "stop": "2026-01-11 04:00:00 IST",
-    "channel": "jio-665",
-    "title": "Film Flash",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110223000",
-    "stopRaw": "20260110230000",
-    "start": "2026-01-11 04:00:00 IST",
-    "stop": "2026-01-11 04:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @11PM",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110230000",
-    "stopRaw": "20260110233000",
-    "start": "2026-01-11 04:30:00 IST",
-    "stop": "2026-01-11 05:00:00 IST",
-    "channel": "jio-665",
-    "title": "Divya Dhamam",
-    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110233000",
-    "stopRaw": "20260111000000",
-    "start": "2026-01-11 05:00:00 IST",
-    "stop": "2026-01-11 05:30:00 IST",
-    "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111000000",
-    "stopRaw": "20260111002500",
-    "start": "2026-01-11 05:30:00 IST",
-    "stop": "2026-01-11 05:55:00 IST",
-    "channel": "jio-665",
-    "title": "Yoga",
-    "subTitle": "A yoga expert shares detailed techniques to improve flexibility, boost energy and reduce stress, offering a holistic approach to physical and mental wellness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111002500",
-    "stopRaw": "20260111003000",
-    "start": "2026-01-11 05:55:00 IST",
-    "stop": "2026-01-11 06:00:00 IST",
-    "channel": "jio-665",
-    "title": "5/25 Heads",
-    "subTitle": "The host presents 25 headlines, including the latest social, political and economic news updates and developments, in five minutes.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111003000",
-    "stopRaw": "20260111010000",
-    "start": "2026-01-11 06:00:00 IST",
-    "stop": "2026-01-11 06:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @6am",
-    "subTitle": "The host presents the latest news stories and significant developments of social, political and economic importance from across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111010000",
-    "stopRaw": "20260111012500",
-    "start": "2026-01-11 06:30:00 IST",
-    "stop": "2026-01-11 06:55:00 IST",
-    "channel": "jio-665",
-    "title": "Divya Dhamam",
-    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111012500",
-    "stopRaw": "20260111020000",
-    "start": "2026-01-11 06:55:00 IST",
-    "stop": "2026-01-11 07:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 7am",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111020000",
-    "stopRaw": "20260111023000",
-    "start": "2026-01-11 07:30:00 IST",
-    "stop": "2026-01-11 08:00:00 IST",
-    "channel": "jio-665",
-    "title": "Otr",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111023000",
-    "stopRaw": "20260111030000",
-    "start": "2026-01-11 08:00:00 IST",
-    "stop": "2026-01-11 08:30:00 IST",
-    "channel": "jio-665",
-    "title": "Burning Topic",
-    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111030000",
-    "stopRaw": "20260111033000",
-    "start": "2026-01-11 08:30:00 IST",
-    "stop": "2026-01-11 09:00:00 IST",
-    "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111033000",
-    "stopRaw": "20260111035500",
-    "start": "2026-01-11 09:00:00 IST",
-    "stop": "2026-01-11 09:25:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 9am",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111035500",
-    "stopRaw": "20260111040000",
-    "start": "2026-01-11 09:25:00 IST",
-    "stop": "2026-01-11 09:30:00 IST",
-    "channel": "jio-665",
-    "title": "Kapil",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111040000",
-    "stopRaw": "20260111043000",
-    "start": "2026-01-11 09:30:00 IST",
-    "stop": "2026-01-11 10:00:00 IST",
-    "channel": "jio-665",
-    "title": "Manishante Manchodu",
-    "subTitle": "The host invites an accomplished guest and engages in an insightful conversation surrounding various aspects of their life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111043000",
-    "stopRaw": "20260111050000",
-    "start": "2026-01-11 10:00:00 IST",
-    "stop": "2026-01-11 10:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 10am",
-    "subTitle": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111050000",
-    "stopRaw": "20260111053000",
-    "start": "2026-01-11 10:30:00 IST",
-    "stop": "2026-01-11 11:00:00 IST",
-    "channel": "jio-665",
-    "title": "Commercial (RJR Hospital)",
-    "subTitle": "A medical professional sheds light on a range of treatments offered by a reputed healthcare centre that specialises in healing specific ailments.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111053000",
-    "stopRaw": "20260111060000",
-    "start": "2026-01-11 11:00:00 IST",
-    "stop": "2026-01-11 11:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 11am",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111060000",
-    "stopRaw": "20260111063000",
-    "start": "2026-01-11 11:30:00 IST",
-    "stop": "2026-01-11 12:00:00 IST",
-    "channel": "jio-665",
-    "title": "Missile Mastro Interview",
-    "subTitle": "A host converses with Mastro about missiles, covering technical aspects, strategic implications and current developments in the field.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111063000",
-    "stopRaw": "20260111070000",
-    "start": "2026-01-11 12:00:00 IST",
-    "stop": "2026-01-11 12:30:00 IST",
-    "channel": "jio-665",
-    "title": "Missile Mastro Interview",
-    "subTitle": "A host converses with Mastro about missiles, covering technical aspects, strategic implications and current developments in the field.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111070000",
-    "stopRaw": "20260111073000",
-    "start": "2026-01-11 12:30:00 IST",
-    "stop": "2026-01-11 13:00:00 IST",
-    "channel": "jio-665",
-    "title": "Commercial(Real City)",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111073000",
-    "stopRaw": "20260111080000",
-    "start": "2026-01-11 13:00:00 IST",
-    "stop": "2026-01-11 13:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 1pm",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111080000",
-    "stopRaw": "20260111083000",
-    "start": "2026-01-11 13:30:00 IST",
-    "stop": "2026-01-11 14:00:00 IST",
-    "channel": "jio-665",
-    "title": "Mamaa",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111083000",
-    "stopRaw": "20260111090000",
-    "start": "2026-01-11 14:00:00 IST",
-    "stop": "2026-01-11 14:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @2pm",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111090000",
-    "stopRaw": "20260111093000",
-    "start": "2026-01-11 14:30:00 IST",
-    "stop": "2026-01-11 15:00:00 IST",
-    "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111093000",
-    "stopRaw": "20260111100000",
-    "start": "2026-01-11 15:00:00 IST",
-    "stop": "2026-01-11 15:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @3pm",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111100000",
-    "stopRaw": "20260111102500",
-    "start": "2026-01-11 15:30:00 IST",
-    "stop": "2026-01-11 15:55:00 IST",
-    "channel": "jio-665",
-    "title": "Commercial(Darasani)",
-    "subTitle": "Homeopathy doctors provide alternative medicine advice, natural remedies and holistic lifestyle tips to help viewers achieve optimal health naturally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111102500",
-    "stopRaw": "20260111110000",
-    "start": "2026-01-11 15:55:00 IST",
-    "stop": "2026-01-11 16:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 4pm",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111110000",
-    "stopRaw": "20260111112500",
-    "start": "2026-01-11 16:30:00 IST",
-    "stop": "2026-01-11 16:55:00 IST",
-    "channel": "jio-665",
-    "title": "Show Time",
-    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111112500",
-    "stopRaw": "20260111120000",
-    "start": "2026-01-11 16:55:00 IST",
-    "stop": "2026-01-11 17:30:00 IST",
-    "channel": "jio-665",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111120000",
-    "stopRaw": "20260111123000",
-    "start": "2026-01-11 17:30:00 IST",
-    "stop": "2026-01-11 18:00:00 IST",
-    "channel": "jio-665",
-    "title": "Divya Dhamam",
-    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111123000",
-    "stopRaw": "20260111130000",
-    "start": "2026-01-11 18:00:00 IST",
-    "stop": "2026-01-11 18:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @6pm",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111130000",
-    "stopRaw": "20260111133000",
-    "start": "2026-01-11 18:30:00 IST",
-    "stop": "2026-01-11 19:00:00 IST",
-    "channel": "jio-665",
-    "title": "Yuva Keratalu",
-    "subTitle": "The anchor asks young political leaders to discuss critical socio-political issues shaping the state as well as the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111133000",
-    "stopRaw": "20260111140000",
-    "start": "2026-01-11 19:00:00 IST",
-    "stop": "2026-01-11 19:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 7 PM",
-    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy, recent updates and some of the major developments making headlines around the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111140000",
-    "stopRaw": "20260111143000",
-    "start": "2026-01-11 19:30:00 IST",
-    "stop": "2026-01-11 20:00:00 IST",
-    "channel": "jio-665",
-    "title": "News / Budameru GR",
-    "subTitle": "The host presents the latest updates pertaining to the current affairs of the nation. The host sheds light on the latest developments pertaining to Budameru river.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111143000",
-    "stopRaw": "20260111150000",
-    "start": "2026-01-11 20:00:00 IST",
-    "stop": "2026-01-11 20:30:00 IST",
-    "channel": "jio-665",
-    "title": "Mata Pata",
-    "subTitle": "A comprehensive compilation of Telugu film songs is played back to back in order to entertain and enthrall the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111150000",
-    "stopRaw": "20260111153000",
-    "start": "2026-01-11 20:30:00 IST",
-    "stop": "2026-01-11 21:00:00 IST",
-    "channel": "jio-665",
-    "title": "Game Changer (Spl)",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111153000",
-    "stopRaw": "20260111160000",
-    "start": "2026-01-11 21:00:00 IST",
-    "stop": "2026-01-11 21:30:00 IST",
-    "channel": "jio-665",
-    "title": "9 PM Prime Time",
-    "subTitle": "The host presents the latest news stories, updates and developments regarding social, political and economic issues from various parts of the country and the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111160000",
-    "stopRaw": "20260111163000",
-    "start": "2026-01-11 21:30:00 IST",
-    "stop": "2026-01-11 22:00:00 IST",
-    "channel": "jio-665",
-    "title": "Aksharam",
-    "subTitle": "The host conducts an insightful interaction with prominent litterateurs and seeks insights into various literary works and their contributions.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111163000",
-    "stopRaw": "20260111170000",
-    "start": "2026-01-11 22:00:00 IST",
-    "stop": "2026-01-11 22:30:00 IST",
-    "channel": "jio-665",
-    "title": "Pakka Hyderabadi",
-    "subTitle": "The host presents information about the social, economic and political issues of Hyderabad and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111170000",
-    "stopRaw": "20260111172500",
-    "start": "2026-01-11 22:30:00 IST",
-    "stop": "2026-01-11 22:55:00 IST",
-    "channel": "jio-665",
-    "title": "Ott This Week",
-    "subTitle": "The host presents updates and developments related to the movies and popular web series releasing on the OTT platforms during the week.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111172500",
-    "stopRaw": "20260111180000",
-    "start": "2026-01-11 22:55:00 IST",
-    "stop": "2026-01-11 23:30:00 IST",
-    "channel": "jio-665",
-    "title": "News @ 11 Pm",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111180000",
-    "stopRaw": "20260111182959",
-    "start": "2026-01-11 23:30:00 IST",
-    "stop": "2026-01-11 23:59:59 IST",
-    "channel": "jio-665",
-    "title": "Show Time",
-    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
+    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

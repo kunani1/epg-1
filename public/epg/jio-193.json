@@ -431,22 +431,22 @@
   },
   {
     "startRaw": "20260109120000",
-    "stopRaw": "20260109130000",
+    "stopRaw": "20260109133000",
     "start": "2026-01-09 17:30:00 IST",
-    "stop": "2026-01-09 18:30:00 IST",
+    "stop": "2026-01-09 19:00:00 IST",
     "channel": "jio-193",
     "title": "CNN News Central",
     "subTitle": "The host presents news updates and the latest information on some of the trending and significant stories of global significance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260109130000",
+    "startRaw": "20260109133000",
     "stopRaw": "20260109140000",
-    "start": "2026-01-09 18:30:00 IST",
+    "start": "2026-01-09 19:00:00 IST",
     "stop": "2026-01-09 19:30:00 IST",
     "channel": "jio-193",
-    "title": "CNN News Central",
-    "subTitle": "The host presents news updates and the latest information on some of the trending and significant stories of global significance.",
+    "title": "World Sport",
+    "subTitle": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -541,22 +541,22 @@
   },
   {
     "startRaw": "20260109210000",
-    "stopRaw": "20260109220000",
+    "stopRaw": "20260109223000",
     "start": "2026-01-10 02:30:00 IST",
-    "stop": "2026-01-10 03:30:00 IST",
+    "stop": "2026-01-10 04:00:00 IST",
     "channel": "jio-193",
     "title": "Quest Means Business",
     "subTitle": "The host provides his expert analysis and commentary on some of the most important news stories from the world of business.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260109220000",
+    "startRaw": "20260109223000",
     "stopRaw": "20260109230000",
-    "start": "2026-01-10 03:30:00 IST",
+    "start": "2026-01-10 04:00:00 IST",
     "stop": "2026-01-10 04:30:00 IST",
     "channel": "jio-193",
-    "title": "The Lead With Jake Tapper",
-    "subTitle": "Host Jake Tapper presents the latest political, economic, social, cultural and sports updates and stories from across the world.",
+    "title": "World Sport",
+    "subTitle": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -621,18 +621,8 @@
   },
   {
     "startRaw": "20260110050000",
-    "stopRaw": "20260110060000",
-    "start": "2026-01-10 10:30:00 IST",
-    "stop": "2026-01-10 11:30:00 IST",
-    "channel": "jio-193",
-    "title": "The Story Is With Elex Michaelson",
-    "subTitle": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260110060000",
     "stopRaw": "20260110070000",
-    "start": "2026-01-10 11:30:00 IST",
+    "start": "2026-01-10 10:30:00 IST",
     "stop": "2026-01-10 12:30:00 IST",
     "channel": "jio-193",
     "title": "The Story Is With Elex Michaelson",
@@ -661,12 +651,22 @@
   },
   {
     "startRaw": "20260110090000",
-    "stopRaw": "20260110100000",
+    "stopRaw": "20260110093000",
     "start": "2026-01-10 14:30:00 IST",
-    "stop": "2026-01-10 15:30:00 IST",
+    "stop": "2026-01-10 15:00:00 IST",
     "channel": "jio-193",
     "title": "CNN Newsroom",
     "subTitle": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260110093000",
+    "stopRaw": "20260110100000",
+    "start": "2026-01-10 15:00:00 IST",
+    "stop": "2026-01-10 15:30:00 IST",
+    "channel": "jio-193",
+    "title": "CNN Creators: The Intro",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

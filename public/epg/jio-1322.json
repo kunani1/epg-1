@@ -341,12 +341,22 @@
   },
   {
     "startRaw": "20260111183000",
-    "stopRaw": "20260111202500",
+    "stopRaw": "20260111190600",
     "start": "2026-01-12 00:00:00 IST",
-    "stop": "2026-01-12 01:55:00 IST",
+    "stop": "2026-01-12 00:36:00 IST",
     "channel": "jio-1322",
     "title": "Matchless Mulan",
     "subTitle": "To protect her father from harm, a courageous girl disguises herself as a male warrior and joins the imperial army to defend her nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260111190600",
+    "stopRaw": "20260111202500",
+    "start": "2026-01-12 00:36:00 IST",
+    "stop": "2026-01-12 01:55:00 IST",
+    "channel": "jio-1322",
+    "title": "Horror Shark",
+    "subTitle": "An accident causes a great white shark to turn into a killing mutant. However, the problem worsens when the beast receives the ability to overpower humans.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -361,28 +371,8 @@
   },
   {
     "startRaw": "20260111215500",
-    "stopRaw": "20260111224500",
-    "start": "2026-01-12 03:25:00 IST",
-    "stop": "2026-01-12 04:15:00 IST",
-    "channel": "jio-1322",
-    "title": "Dance With Me",
-    "subTitle": "Dance fans show their skills and viewers learn cool moves from famous dancers, mixing talent display with fun lessons for all.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111224500",
-    "stopRaw": "20260111233500",
-    "start": "2026-01-12 04:15:00 IST",
-    "stop": "2026-01-12 05:05:00 IST",
-    "channel": "jio-1322",
-    "title": "Dance With Me",
-    "subTitle": "Dance fans show their skills and viewers learn cool moves from famous dancers, mixing talent display with fun lessons for all.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111233500",
     "stopRaw": "20260112002500",
-    "start": "2026-01-12 05:05:00 IST",
+    "start": "2026-01-12 03:25:00 IST",
     "stop": "2026-01-12 05:55:00 IST",
     "channel": "jio-1322",
     "title": "Dance With Me",

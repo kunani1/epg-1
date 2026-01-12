@@ -306,7 +306,7 @@
     "stop": "2026-01-11 16:30:00 IST",
     "channel": "jio-583",
     "title": "Riet",
-    "subTitle": "Riet",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -406,7 +406,7 @@
     "stop": "2026-01-11 22:00:00 IST",
     "channel": "jio-583",
     "title": "Batwara",
-    "subTitle": "Batwara",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -416,7 +416,7 @@
     "stop": "2026-01-11 23:00:00 IST",
     "channel": "jio-583",
     "title": "Sau Karor Ka Kavi",
-    "subTitle": "Sau Karor Ka Kavi",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -816,7 +816,7 @@
     "stop": "2026-01-12 21:00:00 IST",
     "channel": "jio-583",
     "title": "Desi Rasoi Se",
-    "subTitle": "Desi Rasoi Se",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -826,7 +826,7 @@
     "stop": "2026-01-12 21:30:00 IST",
     "channel": "jio-583",
     "title": "Atulya Bharat Ki Amulya Nidhi",
-    "subTitle": "Atulya Bharat Ki Amulya Nidhi",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -836,7 +836,7 @@
     "stop": "2026-01-12 22:00:00 IST",
     "channel": "jio-583",
     "title": "Batwara",
-    "subTitle": "Batwara",
+    "subTitle": "",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1085,8 +1085,8 @@
     "start": "2026-01-13 10:30:00 IST",
     "stop": "2026-01-13 11:00:00 IST",
     "channel": "jio-583",
-    "title": "Badhte Kadam",
-    "subTitle": "The presenter sheds light on accomplishments and contributions in agriculture across various cities and states in India.",
+    "title": "Bhadhte Kadam",
+    "subTitle": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1125,8 +1125,8 @@
     "start": "2026-01-13 13:00:00 IST",
     "stop": "2026-01-13 13:30:00 IST",
     "channel": "jio-583",
-    "title": "Swad Ka Safar",
-    "subTitle": "The host travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.",
+    "title": "Swad Sehat Aur India",
+    "subTitle": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1225,8 +1225,8 @@
     "start": "2026-01-13 18:00:00 IST",
     "stop": "2026-01-13 19:00:00 IST",
     "channel": "jio-583",
-    "title": "Sach Ke Sath",
-    "subTitle": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+    "title": "Sach Ka Sath",
+    "subTitle": "The host sheds light on the latest and recent developments of the country and discusses and analyses the topics with experts.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1241,22 +1241,12 @@
   },
   {
     "startRaw": "20260113140000",
-    "stopRaw": "20260113143000",
-    "start": "2026-01-13 19:30:00 IST",
-    "stop": "2026-01-13 20:00:00 IST",
-    "channel": "jio-583",
-    "title": "Mausam Khabar Live",
-    "subTitle": "The host presents a comprehensive weather report and provides the latest forecast for various regions across the country, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260113143000",
     "stopRaw": "20260113143500",
-    "start": "2026-01-13 20:00:00 IST",
+    "start": "2026-01-13 19:30:00 IST",
     "stop": "2026-01-13 20:05:00 IST",
     "channel": "jio-583",
-    "title": "DD Kisan Ai Break",
-    "subTitle": "Artificial Intelligence anchors provide updates on the weather and government schemes and other such matters relating to the agricultural sector of the country.",
+    "title": "Mausam Khabar",
+    "subTitle": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1275,8 +1265,8 @@
     "start": "2026-01-13 20:30:00 IST",
     "stop": "2026-01-13 21:00:00 IST",
     "channel": "jio-583",
-    "title": "Desi Rasoi Se",
-    "subTitle": "Desi Rasoi Se",
+    "title": "Mandi Khabar",
+    "subTitle": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1285,8 +1275,8 @@
     "start": "2026-01-13 21:00:00 IST",
     "stop": "2026-01-13 21:30:00 IST",
     "channel": "jio-583",
-    "title": "Atulya Bharat Ki Amulya Nidhi",
-    "subTitle": "Atulya Bharat Ki Amulya Nidhi",
+    "title": "Mausam Khabar",
+    "subTitle": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1295,8 +1285,8 @@
     "start": "2026-01-13 21:30:00 IST",
     "stop": "2026-01-13 22:00:00 IST",
     "channel": "jio-583",
-    "title": "Batwara",
-    "subTitle": "Batwara",
+    "title": "Kisan Yatra",
+    "subTitle": "The host sheds light on the latest updates and significant developments concerning the agriculture sector of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1305,8 +1295,8 @@
     "start": "2026-01-13 22:00:00 IST",
     "stop": "2026-01-13 22:30:00 IST",
     "channel": "jio-583",
-    "title": "Mausam Khabar Live",
-    "subTitle": "The host presents a comprehensive weather report and provides the latest forecast for various regions across the country, live.",
+    "title": "Mausam Khabar",
+    "subTitle": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

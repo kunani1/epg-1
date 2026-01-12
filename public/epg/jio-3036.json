@@ -41,18 +41,8 @@
   },
   {
     "startRaw": "20260110223000",
-    "stopRaw": "20260111003000",
-    "start": "2026-01-11 04:00:00 IST",
-    "stop": "2026-01-11 06:00:00 IST",
-    "channel": "jio-3036",
-    "title": "The Tom and Jerry Show",
-    "subTitle": "Tenacious cat Tom is forever on the tail of his elusive nemesis, Jerry the mouse. But as much as they hate each other, the two also share a warm bond.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111003000",
     "stopRaw": "20260111013000",
-    "start": "2026-01-11 06:00:00 IST",
+    "start": "2026-01-11 04:00:00 IST",
     "stop": "2026-01-11 07:00:00 IST",
     "channel": "jio-3036",
     "title": "The Tom and Jerry Show",
@@ -711,18 +701,18 @@
   },
   {
     "startRaw": "20260112223000",
-    "stopRaw": "20260113003000",
+    "stopRaw": "20260112233000",
     "start": "2026-01-13 04:00:00 IST",
-    "stop": "2026-01-13 06:00:00 IST",
+    "stop": "2026-01-13 05:00:00 IST",
     "channel": "jio-3036",
     "title": "The Tom and Jerry Show",
     "subTitle": "Tenacious cat Tom is forever on the tail of his elusive nemesis, Jerry the mouse. But as much as they hate each other, the two also share a warm bond.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260113003000",
+    "startRaw": "20260112233000",
     "stopRaw": "20260113013000",
-    "start": "2026-01-13 06:00:00 IST",
+    "start": "2026-01-13 05:00:00 IST",
     "stop": "2026-01-13 07:00:00 IST",
     "channel": "jio-3036",
     "title": "The Tom and Jerry Show",
@@ -761,22 +751,12 @@
   },
   {
     "startRaw": "20260113030000",
-    "stopRaw": "20260113033000",
+    "stopRaw": "20260113035000",
     "start": "2026-01-13 08:30:00 IST",
-    "stop": "2026-01-13 09:00:00 IST",
+    "stop": "2026-01-13 09:20:00 IST",
     "channel": "jio-3036",
     "title": "Larva",
     "subTitle": "Two curious little worms explore the objects that they daily come across in their world which is located under the ground.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260113033000",
-    "stopRaw": "20260113035000",
-    "start": "2026-01-13 09:00:00 IST",
-    "stop": "2026-01-13 09:20:00 IST",
-    "channel": "jio-3036",
-    "title": "Larva Island",
-    "subTitle": "When Yellow and Red, two larvae, get stranded on an island, they use that as an opportunity to discover different things and make new animal friends.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -941,8 +921,28 @@
   },
   {
     "startRaw": "20260113130000",
-    "stopRaw": "20260113150000",
+    "stopRaw": "20260113140000",
     "start": "2026-01-13 18:30:00 IST",
+    "stop": "2026-01-13 19:30:00 IST",
+    "channel": "jio-3036",
+    "title": "Teen Titans GO!",
+    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113140000",
+    "stopRaw": "20260113143000",
+    "start": "2026-01-13 19:30:00 IST",
+    "stop": "2026-01-13 20:00:00 IST",
+    "channel": "jio-3036",
+    "title": "Teen Titans GO!",
+    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113143000",
+    "stopRaw": "20260113150000",
+    "start": "2026-01-13 20:00:00 IST",
     "stop": "2026-01-13 20:30:00 IST",
     "channel": "jio-3036",
     "title": "Teen Titans GO!",

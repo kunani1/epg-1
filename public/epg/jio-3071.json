@@ -251,12 +251,22 @@
   },
   {
     "startRaw": "20260111223000",
-    "stopRaw": "20260112023000",
+    "stopRaw": "20260111233000",
     "start": "2026-01-12 04:00:00 IST",
-    "stop": "2026-01-12 08:00:00 IST",
+    "stop": "2026-01-12 05:00:00 IST",
     "channel": "jio-3071",
     "title": "Music Café",
     "subTitle": "A comprehensive compilation of some of the most melodious and popular songs are played back-to-back in order to entertain the viewers.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260111233000",
+    "stopRaw": "20260112023000",
+    "start": "2026-01-12 05:00:00 IST",
+    "stop": "2026-01-12 08:00:00 IST",
+    "channel": "jio-3071",
+    "title": "Bhakti Geet",
+    "subTitle": "A comprehensive compilation of hymns and devotional songs sung and composed by various talented musicians is played consecutively.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -486,7 +496,7 @@
     "stop": "2026-01-13 04:00:00 IST",
     "channel": "jio-3071",
     "title": "Anubhav",
-    "subTitle": "",
+    "subTitle": "Anubhav",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

@@ -1241,12 +1241,32 @@
   },
   {
     "startRaw": "20260114030000",
-    "stopRaw": "20260114040000",
+    "stopRaw": "20260114032900",
     "start": "2026-01-14 08:30:00 IST",
+    "stop": "2026-01-14 08:59:00 IST",
+    "channel": "jio-702",
+    "title": "Programme On 1817",
+    "subTitle": "The host looks back on the 1817 rebellions in India and the various protests that errupted against the British government.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114032900",
+    "stopRaw": "20260114033000",
+    "start": "2026-01-14 08:59:00 IST",
+    "stop": "2026-01-14 09:00:00 IST",
+    "channel": "jio-702",
+    "title": "Graphical News Headlines",
+    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114033000",
+    "stopRaw": "20260114040000",
+    "start": "2026-01-14 09:00:00 IST",
     "stop": "2026-01-14 09:30:00 IST",
     "channel": "jio-702",
-    "title": "Gopal Rahasya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Edusat",
+    "subTitle": "A subject matter expert provides a detailed understanding of various useful topics to the students while providing the appropriate examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1255,7 +1275,7 @@
     "start": "2026-01-14 09:30:00 IST",
     "stop": "2026-01-14 09:59:00 IST",
     "channel": "jio-702",
-    "title": "SBP Contribution",
+    "title": "DDK, SBP Contribution",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1275,8 +1295,8 @@
     "start": "2026-01-14 10:00:00 IST",
     "stop": "2026-01-14 10:30:00 IST",
     "channel": "jio-702",
-    "title": "Gyan Bigyan",
-    "subTitle": "A round-up of the latest updates and significant developments pertaining to the ever-expanding field of science and technology.",
+    "title": "Kishalaya",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1285,8 +1305,8 @@
     "start": "2026-01-14 10:30:00 IST",
     "stop": "2026-01-14 10:59:00 IST",
     "channel": "jio-702",
-    "title": "Dusamaya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Purapuri Paribarika",
+    "subTitle": "The filmmaker presents an enactment of 'Purapuri Paribarika', a famous play written by Gopal Chhotray, an Indian playwright and dramatist.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1305,7 +1325,7 @@
     "start": "2026-01-14 11:00:00 IST",
     "stop": "2026-01-14 11:30:00 IST",
     "channel": "jio-702",
-    "title": "Jeevana Jagyan",
+    "title": "Sashi Rekha",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1315,8 +1335,8 @@
     "start": "2026-01-14 11:30:00 IST",
     "stop": "2026-01-14 11:59:00 IST",
     "channel": "jio-702",
-    "title": "Folk Dance",
-    "subTitle": "Talented performers present traditional and folk dance routines to entertain the audience with their captivating skills.",
+    "title": "Loka Nrutya / Loka Sangeeta",
+    "subTitle": "Oriya classical dancers and musicians come together on stage and entertain the audience with their mesmerising performances.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1335,8 +1355,8 @@
     "start": "2026-01-14 12:00:00 IST",
     "stop": "2026-01-14 12:30:00 IST",
     "channel": "jio-702",
-    "title": "DDK, BPN",
-    "subTitle": "Bringing the best of television.",
+    "title": "Prog. DDK, BPN",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1345,8 +1365,8 @@
     "start": "2026-01-14 12:30:00 IST",
     "stop": "2026-01-14 12:59:00 IST",
     "channel": "jio-702",
-    "title": "Dance Drama",
-    "subTitle": "Diverse groups of gifted artists unite to showcase a captivating story, blending rich cultural traditions and historical narratives through mesmerising performances.",
+    "title": "World Heritage Week",
+    "subTitle": "World Heritage Week",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1366,7 +1386,7 @@
     "stop": "2026-01-14 13:30:00 IST",
     "channel": "jio-702",
     "title": "Health Show",
-    "subTitle": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle.",
+    "subTitle": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1395,8 +1415,8 @@
     "start": "2026-01-14 14:00:00 IST",
     "stop": "2026-01-14 14:30:00 IST",
     "channel": "jio-702",
-    "title": "Ama Sanskruti Nama Parampara",
-    "subTitle": "The host sheds light on the traditons and culture of Orissa and engages in an insightful conversations with expert personalities.",
+    "title": "Ama Sanskruti Ama Parampara",
+    "subTitle": "A curious host delves into the the rich tapestry of cultures thriving together in India, highlighting the vibrant diversity that enrich the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1405,7 +1425,7 @@
     "start": "2026-01-14 14:30:00 IST",
     "stop": "2026-01-14 15:00:00 IST",
     "channel": "jio-702",
-    "title": "Career Calling",
+    "title": "Carrer Calling",
     "subTitle": "Experts from various professional backgrounds share their experiences in their respectful fields to help the youth make informed career choices.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1425,18 +1445,28 @@
     "start": "2026-01-14 15:05:00 IST",
     "stop": "2026-01-14 15:30:00 IST",
     "channel": "jio-702",
-    "title": "Kalareiphula",
-    "subTitle": "Kalarei Phula, a girl who leads a simple life, decides to take a drastic step when her parents decide to get her married in an unlawful manner.",
+    "title": "Palli Geeta",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260114100000",
-    "stopRaw": "20260114103000",
+    "stopRaw": "20260114102900",
     "start": "2026-01-14 15:30:00 IST",
+    "stop": "2026-01-14 15:59:00 IST",
+    "channel": "jio-702",
+    "title": "Purapuri Paribarika",
+    "subTitle": "The filmmaker presents an enactment of 'Purapuri Paribarika', a famous play written by Gopal Chhotray, an Indian playwright and dramatist.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114102900",
+    "stopRaw": "20260114103000",
+    "start": "2026-01-14 15:59:00 IST",
     "stop": "2026-01-14 16:00:00 IST",
     "channel": "jio-702",
-    "title": "Dusamaya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Graphical News Headlines",
+    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1445,8 +1475,8 @@
     "start": "2026-01-14 16:00:00 IST",
     "stop": "2026-01-14 16:30:00 IST",
     "channel": "jio-702",
-    "title": "Ama Aain",
-    "subTitle": "The host invites guests in order to shed light on the political and legal landscape of Odisha, while analysing observing the state's growth.",
+    "title": "Sashi Rekha",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1455,8 +1485,8 @@
     "start": "2026-01-14 16:30:00 IST",
     "stop": "2026-01-14 16:59:00 IST",
     "channel": "jio-702",
-    "title": "Jeevana Jagyan",
-    "subTitle": "Bringing the best in television.",
+    "title": "Anniv Prog-Child Rights",
+    "subTitle": "Anniv Prog-Child Rights",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1475,8 +1505,8 @@
     "start": "2026-01-14 17:00:00 IST",
     "stop": "2026-01-14 17:30:00 IST",
     "channel": "jio-702",
-    "title": "Parikrama Live",
-    "subTitle": "The host presents some of the latest news stories and developments pertaining to economics and politics among other topics, live.",
+    "title": "Current Affairs Programs",
+    "subTitle": "Stay informed with the latest breaking news and headlines.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1515,8 +1545,8 @@
     "start": "2026-01-14 18:30:00 IST",
     "stop": "2026-01-14 19:00:00 IST",
     "channel": "jio-702",
-    "title": "Health Show Live",
-    "subTitle": "Health experts engage in a live discussion highlighting the importance of maintaining a healthy lifestyle and share tips to lead a better life.",
+    "title": "Health Show",
+    "subTitle": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1526,7 +1556,7 @@
     "stop": "2026-01-14 19:30:00 IST",
     "channel": "jio-702",
     "title": "Samachar",
-    "subTitle": "The host presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
+    "subTitle": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1535,8 +1565,8 @@
     "start": "2026-01-14 19:30:00 IST",
     "stop": "2026-01-14 20:00:00 IST",
     "channel": "jio-702",
-    "title": "Bulding Blocks Of Bharat",
-    "subTitle": "The host provides deeper insights into the rich Indian architecture from across the ancient, medieval and contemporary eras.",
+    "title": "Edusat",
+    "subTitle": "A subject matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1545,8 +1575,8 @@
     "start": "2026-01-14 20:00:00 IST",
     "stop": "2026-01-14 20:30:00 IST",
     "channel": "jio-702",
-    "title": "Jeevana Sahaja",
-    "subTitle": "Bringing the best in television.",
+    "title": "Comedy Show",
+    "subTitle": "Comedy Show",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1556,7 +1586,7 @@
     "stop": "2026-01-14 20:59:00 IST",
     "channel": "jio-702",
     "title": "Dance Drama",
-    "subTitle": "Diverse groups of gifted artists unite to showcase a captivating story, blending rich cultural traditions and historical narratives through mesmerising performances.",
+    "subTitle": "Various groups of talented artists and performers come together in order to stage a dance drama rich in culture and history.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1575,8 +1605,8 @@
     "start": "2026-01-14 21:00:00 IST",
     "stop": "2026-01-14 21:30:00 IST",
     "channel": "jio-702",
-    "title": "Kalareiphula",
-    "subTitle": "Kalarei Phula, a girl who leads a simple life, decides to take a drastic step when her parents decide to get her married in an unlawful manner.",
+    "title": "Nila Mastarani",
+    "subTitle": "People belonging to different families strive to overcome the challenges of daily life, along with attempting to balance their interpersonal relationships.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1595,8 +1625,8 @@
     "start": "2026-01-14 22:00:00 IST",
     "stop": "2026-01-14 22:30:00 IST",
     "channel": "jio-702",
-    "title": "Dusamaya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Purapuri Paribarika",
+    "subTitle": "The filmmaker presents an enactment of 'Purapuri Paribarika', a famous play written by Gopal Chhotray, an Indian playwright and dramatist.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1605,7 +1635,7 @@
     "start": "2026-01-14 22:30:00 IST",
     "stop": "2026-01-14 23:00:00 IST",
     "channel": "jio-702",
-    "title": "Jeevana Jagyan",
+    "title": "Sashi Rekha",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1625,8 +1655,8 @@
     "start": "2026-01-14 23:30:00 IST",
     "stop": "2026-01-14 23:59:59 IST",
     "channel": "jio-702",
-    "title": "Gopal Rahasya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Programme On 1817",
+    "subTitle": "The host looks back on the 1817 rebellions in India and the various protests that errupted against the British government.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

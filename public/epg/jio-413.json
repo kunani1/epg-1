@@ -291,22 +291,42 @@
   },
   {
     "startRaw": "20260114003000",
-    "stopRaw": "20260114010000",
+    "stopRaw": "20260114005400",
     "start": "2026-01-14 06:00:00 IST",
-    "stop": "2026-01-14 06:30:00 IST",
+    "stop": "2026-01-14 06:24:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260114010000",
-    "stopRaw": "20260114013000",
-    "start": "2026-01-14 06:30:00 IST",
-    "stop": "2026-01-14 07:00:00 IST",
+    "startRaw": "20260114005400",
+    "stopRaw": "20260114010100",
+    "start": "2026-01-14 06:24:00 IST",
+    "stop": "2026-01-14 06:31:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114010100",
+    "stopRaw": "20260114012300",
+    "start": "2026-01-14 06:31:00 IST",
+    "stop": "2026-01-14 06:53:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114012300",
+    "stopRaw": "20260114013000",
+    "start": "2026-01-14 06:53:00 IST",
+    "stop": "2026-01-14 07:00:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -361,12 +381,22 @@
   },
   {
     "startRaw": "20260114153000",
-    "stopRaw": "20260114182959",
+    "stopRaw": "20260114182100",
     "start": "2026-01-14 21:00:00 IST",
-    "stop": "2026-01-14 23:59:59 IST",
+    "stop": "2026-01-14 23:51:00 IST",
     "channel": "jio-413",
     "title": "Crime 23",
     "subTitle": "ACP Vetrimaaran, a dedicated cop posted in Chennai, investigates a missing woman and the murder of a Church priest. As he delves deeper, he uncovers a larger crime syndicate involving medical professionals.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114182100",
+    "stopRaw": "20260114182959",
+    "start": "2026-01-14 23:51:00 IST",
+    "stop": "2026-01-14 23:59:59 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

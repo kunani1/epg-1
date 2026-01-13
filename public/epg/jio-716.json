@@ -731,38 +731,528 @@
   },
   {
     "startRaw": "20260112233000",
-    "stopRaw": "20260113000000",
+    "stopRaw": "20260113002900",
     "start": "2026-01-13 05:00:00 IST",
-    "stop": "2026-01-13 05:30:00 IST",
+    "stop": "2026-01-13 05:59:00 IST",
     "channel": "jio-716",
     "title": "Zarab Te Jamah",
     "subTitle": "Zarab Te Jamah",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260113000000",
+    "startRaw": "20260113002900",
+    "stopRaw": "20260113003000",
+    "start": "2026-01-13 05:59:00 IST",
+    "stop": "2026-01-13 06:00:00 IST",
+    "channel": "jio-716",
+    "title": "Linking Caption for Terrestrial Service",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113003000",
+    "stopRaw": "20260113005800",
+    "start": "2026-01-13 06:00:00 IST",
+    "stop": "2026-01-13 06:28:00 IST",
+    "channel": "jio-716",
+    "title": "Roshni",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113005800",
+    "stopRaw": "20260113005900",
+    "start": "2026-01-13 06:28:00 IST",
+    "stop": "2026-01-13 06:29:00 IST",
+    "channel": "jio-716",
+    "title": "Promo Of DD Kashir",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113005900",
+    "stopRaw": "20260113010000",
+    "start": "2026-01-13 06:29:00 IST",
+    "stop": "2026-01-13 06:30:00 IST",
+    "channel": "jio-716",
+    "title": "Caption Over To DD News",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113010000",
+    "stopRaw": "20260113011500",
+    "start": "2026-01-13 06:30:00 IST",
+    "stop": "2026-01-13 06:45:00 IST",
+    "channel": "jio-716",
+    "title": "Sanskrit News",
+    "subTitle": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113011500",
+    "stopRaw": "20260113014000",
+    "start": "2026-01-13 06:45:00 IST",
+    "stop": "2026-01-13 07:10:00 IST",
+    "channel": "jio-716",
+    "title": "Safar Nama",
+    "subTitle": "A travelogue where each week the host embarks on a journey to a new Indian town that is known for its Urdu culture, cuisine and lifestyle.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113014000",
+    "stopRaw": "20260113020000",
+    "start": "2026-01-13 07:10:00 IST",
+    "stop": "2026-01-13 07:30:00 IST",
+    "channel": "jio-716",
+    "title": "Aain-e-Ladakh",
+    "subTitle": "Aain-e-Ladakh",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113020000",
+    "stopRaw": "20260113022800",
+    "start": "2026-01-13 07:30:00 IST",
+    "stop": "2026-01-13 07:58:00 IST",
+    "channel": "jio-716",
+    "title": "Jahan Been",
+    "subTitle": "The host pays a visit to various shopping markets, exploring the latest trends and products and interacting with customers and sellers to get their perspective.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113022800",
+    "stopRaw": "20260113023000",
+    "start": "2026-01-13 07:58:00 IST",
+    "stop": "2026-01-13 08:00:00 IST",
+    "channel": "jio-716",
+    "title": "Programme Highlights",
+    "subTitle": "A compilation of information about the major programmes scheduled to air throughout the day and provides the latest updates from the television world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113023000",
+    "stopRaw": "20260113033000",
+    "start": "2026-01-13 08:00:00 IST",
+    "stop": "2026-01-13 09:00:00 IST",
+    "channel": "jio-716",
+    "title": "Good Morning J&amp;K",
+    "subTitle": "The host presents the latest political, economic and social updates, top stories and leading developments from Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113033000",
+    "stopRaw": "20260113034000",
+    "start": "2026-01-13 09:00:00 IST",
+    "stop": "2026-01-13 09:10:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113034000",
+    "stopRaw": "20260113044000",
+    "start": "2026-01-13 09:10:00 IST",
+    "stop": "2026-01-13 10:10:00 IST",
+    "channel": "jio-716",
+    "title": "Hello DD",
+    "subTitle": "The host invites experts from various fields to discuss the current issues affecting the nation and answer queries from viewers who call in with their questions.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113044000",
+    "stopRaw": "20260113050700",
+    "start": "2026-01-13 10:10:00 IST",
+    "stop": "2026-01-13 10:37:00 IST",
+    "channel": "jio-716",
+    "title": "Pakistan Reporter",
+    "subTitle": "The hosts deliver the latest news headlines and updates related to politics, current affairs and socio-economic issues in Pakistan and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113050700",
+    "stopRaw": "20260113053000",
+    "start": "2026-01-13 10:37:00 IST",
+    "stop": "2026-01-13 11:00:00 IST",
+    "channel": "jio-716",
+    "title": "Dogri Lori Special",
+    "subTitle": "Dogri Lori Special",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113053000",
+    "stopRaw": "20260113054000",
+    "start": "2026-01-13 11:00:00 IST",
+    "stop": "2026-01-13 11:10:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113054000",
+    "stopRaw": "20260113060300",
+    "start": "2026-01-13 11:10:00 IST",
+    "stop": "2026-01-13 11:33:00 IST",
+    "channel": "jio-716",
+    "title": "Jhurmat",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113060300",
+    "stopRaw": "20260113063000",
+    "start": "2026-01-13 11:33:00 IST",
+    "stop": "2026-01-13 12:00:00 IST",
+    "channel": "jio-716",
+    "title": "Sath-Te-Sarab",
+    "subTitle": "Sath-Te-Sarab",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113063000",
+    "stopRaw": "20260113070000",
+    "start": "2026-01-13 12:00:00 IST",
+    "stop": "2026-01-13 12:30:00 IST",
+    "channel": "jio-716",
+    "title": "Gudoo",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113070000",
+    "stopRaw": "20260113073000",
+    "start": "2026-01-13 12:30:00 IST",
+    "stop": "2026-01-13 13:00:00 IST",
+    "channel": "jio-716",
+    "title": "Khilaf Warzi",
+    "subTitle": "Khilaf Warzi",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113073000",
+    "stopRaw": "20260113074000",
+    "start": "2026-01-13 13:00:00 IST",
+    "stop": "2026-01-13 13:10:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113074000",
+    "stopRaw": "20260113080000",
+    "start": "2026-01-13 13:10:00 IST",
+    "stop": "2026-01-13 13:30:00 IST",
+    "channel": "jio-716",
+    "title": "Sadai -E- Saaz",
+    "subTitle": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113080000",
+    "stopRaw": "20260113083000",
+    "start": "2026-01-13 13:30:00 IST",
+    "stop": "2026-01-13 14:00:00 IST",
+    "channel": "jio-716",
+    "title": "Dareecha - Series Of Shrines",
+    "subTitle": "The presenter provides informative and insightful reports on current affairs, updates and developments across the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113083000",
+    "stopRaw": "20260113085900",
+    "start": "2026-01-13 14:00:00 IST",
+    "stop": "2026-01-13 14:29:00 IST",
+    "channel": "jio-716",
+    "title": "Kashmir Now",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113085900",
+    "stopRaw": "20260113090000",
+    "start": "2026-01-13 14:29:00 IST",
+    "stop": "2026-01-13 14:30:00 IST",
+    "channel": "jio-716",
+    "title": "Caption Over To DDK Leh",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113090000",
+    "stopRaw": "20260113093000",
+    "start": "2026-01-13 14:30:00 IST",
+    "stop": "2026-01-13 15:00:00 IST",
+    "channel": "jio-716",
+    "title": "Ladakhi Transmission",
+    "subTitle": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in the region of Ladakh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113093000",
+    "stopRaw": "20260113094000",
+    "start": "2026-01-13 15:00:00 IST",
+    "stop": "2026-01-13 15:10:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113094000",
+    "stopRaw": "20260113101000",
+    "start": "2026-01-13 15:10:00 IST",
+    "stop": "2026-01-13 15:40:00 IST",
+    "channel": "jio-716",
+    "title": "Programme Highlights",
+    "subTitle": "A compilation of information about the major programmes scheduled to air throughout the day and provides the latest updates from the television world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113101000",
+    "stopRaw": "20260113103000",
+    "start": "2026-01-13 15:40:00 IST",
+    "stop": "2026-01-13 16:00:00 IST",
+    "channel": "jio-716",
+    "title": "Sadai -E- Saaz",
+    "subTitle": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113103000",
+    "stopRaw": "20260113105200",
+    "start": "2026-01-13 16:00:00 IST",
+    "stop": "2026-01-13 16:22:00 IST",
+    "channel": "jio-716",
+    "title": "Main Kuch Bhi Kar Sakhti Hoon",
+    "subTitle": "Main Kuch Bhi Kar Sakhti Hoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113105200",
+    "stopRaw": "20260113110000",
+    "start": "2026-01-13 16:22:00 IST",
+    "stop": "2026-01-13 16:30:00 IST",
+    "channel": "jio-716",
+    "title": "Song",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113110000",
+    "stopRaw": "20260113111000",
+    "start": "2026-01-13 16:30:00 IST",
+    "stop": "2026-01-13 16:40:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113111000",
+    "stopRaw": "20260113113000",
+    "start": "2026-01-13 16:40:00 IST",
+    "stop": "2026-01-13 17:00:00 IST",
+    "channel": "jio-716",
+    "title": "Kathan-Chu-Manay",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113113000",
     "stopRaw": "20260113120000",
-    "start": "2026-01-13 05:30:00 IST",
+    "start": "2026-01-13 17:00:00 IST",
     "stop": "2026-01-13 17:30:00 IST",
     "channel": "jio-716",
-    "title": "Bol Uthi Sachai",
-    "subTitle": "Bringing the best in television.",
+    "title": "Lishkara",
+    "subTitle": "The host invites various experts and eminent personalities to engage in an insightful discussion on a range of topics of public interest.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260113120000",
-    "stopRaw": "20260113182959",
+    "stopRaw": "20260113122900",
     "start": "2026-01-13 17:30:00 IST",
-    "stop": "2026-01-13 23:59:59 IST",
+    "stop": "2026-01-13 17:59:00 IST",
     "channel": "jio-716",
-    "title": "Bol Uthi Sachai",
+    "title": "Krishi Darshan",
+    "subTitle": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113122900",
+    "stopRaw": "20260113123000",
+    "start": "2026-01-13 17:59:00 IST",
+    "stop": "2026-01-13 18:00:00 IST",
+    "channel": "jio-716",
+    "title": "Caption Over To Ddk Jammu",
+    "subTitle": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113123000",
+    "stopRaw": "20260113125900",
+    "start": "2026-01-13 18:00:00 IST",
+    "stop": "2026-01-13 18:29:00 IST",
+    "channel": "jio-716",
+    "title": "Dogri Transmission",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260113125900",
+    "stopRaw": "20260113130000",
+    "start": "2026-01-13 18:29:00 IST",
+    "stop": "2026-01-13 18:30:00 IST",
+    "channel": "jio-716",
+    "title": "Caption Over To DDK Leh",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113130000",
+    "stopRaw": "20260113133000",
+    "start": "2026-01-13 18:30:00 IST",
+    "stop": "2026-01-13 19:00:00 IST",
+    "channel": "jio-716",
+    "title": "Ladakhi Transmission",
+    "subTitle": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in the region of Ladakh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113133000",
+    "stopRaw": "20260113140000",
+    "start": "2026-01-13 19:00:00 IST",
+    "stop": "2026-01-13 19:30:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113140000",
+    "stopRaw": "20260113142800",
+    "start": "2026-01-13 19:30:00 IST",
+    "stop": "2026-01-13 19:58:00 IST",
+    "channel": "jio-716",
+    "title": "Kakhaan-Gi-Kulli",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113142800",
+    "stopRaw": "20260113143000",
+    "start": "2026-01-13 19:58:00 IST",
+    "stop": "2026-01-13 20:00:00 IST",
+    "channel": "jio-716",
+    "title": "Programme Highlights",
+    "subTitle": "A compilation of information about the major programmes scheduled to air throughout the day and provides the latest updates from the television world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113143000",
+    "stopRaw": "20260113150000",
+    "start": "2026-01-13 20:00:00 IST",
+    "stop": "2026-01-13 20:30:00 IST",
+    "channel": "jio-716",
+    "title": "Naar",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113150000",
+    "stopRaw": "20260113153000",
+    "start": "2026-01-13 20:30:00 IST",
+    "stop": "2026-01-13 21:00:00 IST",
+    "channel": "jio-716",
+    "title": "Youth Forum",
+    "subTitle": "The host interacts with motivated and inspired young adults from around the world who come together to support various social causes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113153000",
+    "stopRaw": "20260113160000",
+    "start": "2026-01-13 21:00:00 IST",
+    "stop": "2026-01-13 21:30:00 IST",
+    "channel": "jio-716",
+    "title": "Zameer",
+    "subTitle": "Zameer",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113160000",
+    "stopRaw": "20260113163000",
+    "start": "2026-01-13 21:30:00 IST",
+    "stop": "2026-01-13 22:00:00 IST",
+    "channel": "jio-716",
+    "title": "Kayennat",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113163000",
+    "stopRaw": "20260113164000",
+    "start": "2026-01-13 22:00:00 IST",
+    "stop": "2026-01-13 22:10:00 IST",
+    "channel": "jio-716",
+    "title": "News Kashmiri / Urdu",
+    "subTitle": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113164000",
+    "stopRaw": "20260113170500",
+    "start": "2026-01-13 22:10:00 IST",
+    "stop": "2026-01-13 22:35:00 IST",
+    "channel": "jio-716",
+    "title": "Programme Highlights",
+    "subTitle": "A compilation of information about the major programmes scheduled to air throughout the day and provides the latest updates from the television world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113170500",
+    "stopRaw": "20260113173000",
+    "start": "2026-01-13 22:35:00 IST",
+    "stop": "2026-01-13 23:00:00 IST",
+    "channel": "jio-716",
+    "title": "Dogri Lori Special",
+    "subTitle": "Dogri Lori Special",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113173000",
+    "stopRaw": "20260113180000",
+    "start": "2026-01-13 23:00:00 IST",
+    "stop": "2026-01-13 23:30:00 IST",
+    "channel": "jio-716",
+    "title": "Rishtay Natay",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113180000",
+    "stopRaw": "20260113182959",
+    "start": "2026-01-13 23:30:00 IST",
+    "stop": "2026-01-13 23:59:59 IST",
+    "channel": "jio-716",
+    "title": "Azich Kahani",
+    "subTitle": "Azich Kahani",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260113183000",
-    "stopRaw": "20260113190000",
+    "stopRaw": "20260113184000",
     "start": "2026-01-14 00:00:00 IST",
+    "stop": "2026-01-14 00:10:00 IST",
+    "channel": "jio-716",
+    "title": "De-Linking Caption for Terrestrial Service",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260113184000",
+    "stopRaw": "20260113190000",
+    "start": "2026-01-14 00:10:00 IST",
     "stop": "2026-01-14 00:30:00 IST",
     "channel": "jio-716",
     "title": "Roshni",
@@ -835,8 +1325,8 @@
     "start": "2026-01-14 03:30:00 IST",
     "stop": "2026-01-14 04:00:00 IST",
     "channel": "jio-716",
-    "title": "Sadai -E- Saaz",
-    "subTitle": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+    "title": "Dareecha - Series Of Shrines",
+    "subTitle": "The presenter provides informative and insightful reports on current affairs, updates and developments across the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -845,8 +1335,8 @@
     "start": "2026-01-14 04:00:00 IST",
     "stop": "2026-01-14 04:30:00 IST",
     "channel": "jio-716",
-    "title": "Kashmiri Badhu Bahashee",
-    "subTitle": "Bringing the best in television.",
+    "title": "Kund Te Gulaab",
+    "subTitle": "Kund Te Gulaab",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -855,8 +1345,8 @@
     "start": "2026-01-14 04:30:00 IST",
     "stop": "2026-01-14 05:00:00 IST",
     "channel": "jio-716",
-    "title": "Kund Te Gulaab",
-    "subTitle": "Kund Te Gulaab",
+    "title": "Kathan-Chu-Manay",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,8 +1355,8 @@
     "start": "2026-01-14 05:00:00 IST",
     "stop": "2026-01-14 05:30:00 IST",
     "channel": "jio-716",
-    "title": "Kakhaan-Gi-Kulli",
-    "subTitle": "Bringing the best in television.",
+    "title": "Sadai -E- Saaz",
+    "subTitle": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

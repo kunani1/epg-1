@@ -1151,18 +1151,18 @@
   },
   {
     "startRaw": "20260114080000",
-    "stopRaw": "20260114083000",
+    "stopRaw": "20260114082200",
     "start": "2026-01-14 13:30:00 IST",
-    "stop": "2026-01-14 14:00:00 IST",
+    "stop": "2026-01-14 13:52:00 IST",
     "channel": "jio-1351",
     "title": "Tum Se Tum Tak",
     "subTitle": "A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260114083000",
+    "startRaw": "20260114082200",
     "stopRaw": "20260114103000",
-    "start": "2026-01-14 14:00:00 IST",
+    "start": "2026-01-14 13:52:00 IST",
     "stop": "2026-01-14 16:00:00 IST",
     "channel": "jio-1351",
     "title": "Vasudha",
@@ -1176,7 +1176,7 @@
     "stop": "2026-01-14 17:30:00 IST",
     "channel": "jio-1351",
     "title": "Ganga Mai Ki Betiyaan",
-    "subTitle": "After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.",
+    "subTitle": "An MLA's remarks against Durgavati provoke Siddhu into violence. Soon after, Manohar pressures Durgavati to remove Ganga's dhaba, leaving Siddhu shocked when he confronts Sneha on arrival.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1301,12 +1301,22 @@
   },
   {
     "startRaw": "20260114180000",
-    "stopRaw": "20260114182959",
+    "stopRaw": "20260114182900",
     "start": "2026-01-14 23:30:00 IST",
-    "stop": "2026-01-14 23:59:59 IST",
+    "stop": "2026-01-14 23:59:00 IST",
     "channel": "jio-1351",
     "title": "Lakshmi Nivas",
     "subTitle": "Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114182900",
+    "stopRaw": "20260114182959",
+    "start": "2026-01-14 23:59:00 IST",
+    "stop": "2026-01-14 23:59:59 IST",
+    "channel": "jio-1351",
+    "title": "Ganga Mai Ki Betiyaan",
+    "subTitle": "After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

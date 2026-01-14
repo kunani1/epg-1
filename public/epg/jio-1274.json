@@ -1,265 +1,5 @@
 [
   {
-    "startRaw": "20260111183000",
-    "stopRaw": "20260111190000",
-    "start": "2026-01-12 00:00:00 IST",
-    "stop": "2026-01-12 00:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111190000",
-    "stopRaw": "20260111193000",
-    "start": "2026-01-12 00:30:00 IST",
-    "stop": "2026-01-12 01:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111193000",
-    "stopRaw": "20260111230000",
-    "start": "2026-01-12 01:00:00 IST",
-    "stop": "2026-01-12 04:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111230000",
-    "stopRaw": "20260111233000",
-    "start": "2026-01-12 04:30:00 IST",
-    "stop": "2026-01-12 05:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260111233000",
-    "stopRaw": "20260112000000",
-    "start": "2026-01-12 05:00:00 IST",
-    "stop": "2026-01-12 05:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sankeerthana",
-    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112000000",
-    "stopRaw": "20260112003000",
-    "start": "2026-01-12 05:30:00 IST",
-    "stop": "2026-01-12 06:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Komarakka Muchatlu",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112003000",
-    "stopRaw": "20260112010000",
-    "start": "2026-01-12 06:00:00 IST",
-    "stop": "2026-01-12 06:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sankeerthana",
-    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112010000",
-    "stopRaw": "20260112013000",
-    "start": "2026-01-12 06:30:00 IST",
-    "stop": "2026-01-12 07:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Guru Pravachanalu",
-    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112013000",
-    "stopRaw": "20260112020000",
-    "start": "2026-01-12 07:00:00 IST",
-    "stop": "2026-01-12 07:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Sannidhanam",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112020000",
-    "stopRaw": "20260112023000",
-    "start": "2026-01-12 07:30:00 IST",
-    "stop": "2026-01-12 08:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Guru Pravachanalu",
-    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112023000",
-    "stopRaw": "20260112030000",
-    "start": "2026-01-12 08:00:00 IST",
-    "stop": "2026-01-12 08:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112030000",
-    "stopRaw": "20260112033000",
-    "start": "2026-01-12 08:30:00 IST",
-    "stop": "2026-01-12 09:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112033000",
-    "stopRaw": "20260112063000",
-    "start": "2026-01-12 09:00:00 IST",
-    "stop": "2026-01-12 12:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112063000",
-    "stopRaw": "20260112070000",
-    "start": "2026-01-12 12:00:00 IST",
-    "stop": "2026-01-12 12:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Mahilalu Sarileru Meekavvaru",
-    "subTitle": "Female contestants participate in various exciting and fun-filled challenges to emerge victorious and win coveted prizes.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112070000",
-    "stopRaw": "20260112073000",
-    "start": "2026-01-12 12:30:00 IST",
-    "stop": "2026-01-12 13:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112073000",
-    "stopRaw": "20260112080000",
-    "start": "2026-01-12 13:00:00 IST",
-    "stop": "2026-01-12 13:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Bhamane Satyabhamane",
-    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112080000",
-    "stopRaw": "20260112083000",
-    "start": "2026-01-12 13:30:00 IST",
-    "stop": "2026-01-12 14:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Bhamane Satyabhamane",
-    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112083000",
-    "stopRaw": "20260112120000",
-    "start": "2026-01-12 14:00:00 IST",
-    "stop": "2026-01-12 17:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112120000",
-    "stopRaw": "20260112123000",
-    "start": "2026-01-12 17:30:00 IST",
-    "stop": "2026-01-12 18:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112123000",
-    "stopRaw": "20260112130000",
-    "start": "2026-01-12 18:00:00 IST",
-    "stop": "2026-01-12 18:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Syeraa Sye",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112130000",
-    "stopRaw": "20260112133000",
-    "start": "2026-01-12 18:30:00 IST",
-    "stop": "2026-01-12 19:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Syeraa Sye",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112133000",
-    "stopRaw": "20260112140000",
-    "start": "2026-01-12 19:00:00 IST",
-    "stop": "2026-01-12 19:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Komarakka Muchatlu",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112140000",
-    "stopRaw": "20260112143000",
-    "start": "2026-01-12 19:30:00 IST",
-    "stop": "2026-01-12 20:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Masti Time",
-    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112143000",
-    "stopRaw": "20260112150000",
-    "start": "2026-01-12 20:00:00 IST",
-    "stop": "2026-01-12 20:30:00 IST",
-    "channel": "jio-1274",
-    "title": "Super Machi",
-    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112150000",
-    "stopRaw": "20260112153000",
-    "start": "2026-01-12 20:30:00 IST",
-    "stop": "2026-01-12 21:00:00 IST",
-    "channel": "jio-1274",
-    "title": "Super Machi",
-    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260112153000",
-    "stopRaw": "20260112182959",
-    "start": "2026-01-12 21:00:00 IST",
-    "stop": "2026-01-12 23:59:59 IST",
-    "channel": "jio-1274",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260112183000",
     "stopRaw": "20260112190000",
     "start": "2026-01-13 00:00:00 IST",
@@ -754,6 +494,246 @@
     "stopRaw": "20260114182959",
     "start": "2026-01-14 21:00:00 IST",
     "stop": "2026-01-14 23:59:59 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114183000",
+    "stopRaw": "20260114190000",
+    "start": "2026-01-15 00:00:00 IST",
+    "stop": "2026-01-15 00:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114190000",
+    "stopRaw": "20260114193000",
+    "start": "2026-01-15 00:30:00 IST",
+    "stop": "2026-01-15 01:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114193000",
+    "stopRaw": "20260114230000",
+    "start": "2026-01-15 01:00:00 IST",
+    "stop": "2026-01-15 04:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114230000",
+    "stopRaw": "20260114233000",
+    "start": "2026-01-15 04:30:00 IST",
+    "stop": "2026-01-15 05:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260114233000",
+    "stopRaw": "20260115000000",
+    "start": "2026-01-15 05:00:00 IST",
+    "stop": "2026-01-15 05:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sankeerthana",
+    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115000000",
+    "stopRaw": "20260115003000",
+    "start": "2026-01-15 05:30:00 IST",
+    "stop": "2026-01-15 06:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Komarakka Muchatlu",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115003000",
+    "stopRaw": "20260115010000",
+    "start": "2026-01-15 06:00:00 IST",
+    "stop": "2026-01-15 06:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sankeerthana",
+    "subTitle": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115010000",
+    "stopRaw": "20260115013000",
+    "start": "2026-01-15 06:30:00 IST",
+    "stop": "2026-01-15 07:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Guru Pravachanalu",
+    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115013000",
+    "stopRaw": "20260115020000",
+    "start": "2026-01-15 07:00:00 IST",
+    "stop": "2026-01-15 07:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Sannidhanam",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115020000",
+    "stopRaw": "20260115023000",
+    "start": "2026-01-15 07:30:00 IST",
+    "stop": "2026-01-15 08:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Guru Pravachanalu",
+    "subTitle": "A religious leader delivers a thought-provoking discourse on religion and spirituality to guide followers to the path of righteousness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115023000",
+    "stopRaw": "20260115030000",
+    "start": "2026-01-15 08:00:00 IST",
+    "stop": "2026-01-15 08:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115030000",
+    "stopRaw": "20260115063000",
+    "start": "2026-01-15 08:30:00 IST",
+    "stop": "2026-01-15 12:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115063000",
+    "stopRaw": "20260115070000",
+    "start": "2026-01-15 12:00:00 IST",
+    "stop": "2026-01-15 12:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Mahilalu Sarileru Meekavvaru",
+    "subTitle": "Female contestants participate in various exciting and fun-filled challenges to emerge victorious and win coveted prizes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115070000",
+    "stopRaw": "20260115073000",
+    "start": "2026-01-15 12:30:00 IST",
+    "stop": "2026-01-15 13:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115073000",
+    "stopRaw": "20260115080000",
+    "start": "2026-01-15 13:00:00 IST",
+    "stop": "2026-01-15 13:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Bhamane Satyabhamane",
+    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115080000",
+    "stopRaw": "20260115083000",
+    "start": "2026-01-15 13:30:00 IST",
+    "stop": "2026-01-15 14:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Bhamane Satyabhamane",
+    "subTitle": "Various women compete against each other in a series of rounds that involves them performing multiple tasks in order to win the prize.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115083000",
+    "stopRaw": "20260115120000",
+    "start": "2026-01-15 14:00:00 IST",
+    "stop": "2026-01-15 17:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Movie",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115120000",
+    "stopRaw": "20260115123000",
+    "start": "2026-01-15 17:30:00 IST",
+    "stop": "2026-01-15 18:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115123000",
+    "stopRaw": "20260115133000",
+    "start": "2026-01-15 18:00:00 IST",
+    "stop": "2026-01-15 19:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Syeraa Sye",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115133000",
+    "stopRaw": "20260115140000",
+    "start": "2026-01-15 19:00:00 IST",
+    "stop": "2026-01-15 19:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Komarakka Muchatlu",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115140000",
+    "stopRaw": "20260115143000",
+    "start": "2026-01-15 19:30:00 IST",
+    "stop": "2026-01-15 20:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Masti Time",
+    "subTitle": "A compilation of several stories are shared for the purpose of teaching young children the importance of having moral values.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115143000",
+    "stopRaw": "20260115150000",
+    "start": "2026-01-15 20:00:00 IST",
+    "stop": "2026-01-15 20:30:00 IST",
+    "channel": "jio-1274",
+    "title": "Super Machi",
+    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115150000",
+    "stopRaw": "20260115153000",
+    "start": "2026-01-15 20:30:00 IST",
+    "stop": "2026-01-15 21:00:00 IST",
+    "channel": "jio-1274",
+    "title": "Super Machi",
+    "subTitle": "The hosts invite celebrities and engage them in some humorous activities, following which, contestants are selected from the audience and are put through a variety of funny challenges.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115153000",
+    "stopRaw": "20260115182959",
+    "start": "2026-01-15 21:00:00 IST",
+    "stop": "2026-01-15 23:59:59 IST",
     "channel": "jio-1274",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",

@@ -711,18 +711,18 @@
   },
   {
     "startRaw": "20260115223000",
-    "stopRaw": "20260115233000",
+    "stopRaw": "20260116003000",
     "start": "2026-01-16 04:00:00 IST",
-    "stop": "2026-01-16 05:00:00 IST",
+    "stop": "2026-01-16 06:00:00 IST",
     "channel": "jio-816",
     "title": "The Tom and Jerry Show",
     "subTitle": "Tenacious cat Tom is forever on the tail of his elusive nemesis, Jerry the mouse. But as much as they hate each other, the two also share a warm bond.",
     "image": "http://ttpl.tmsimg.com/assets/p10478306_b_h8_bb.jpg?lock=1280x720"
   },
   {
-    "startRaw": "20260115233000",
+    "startRaw": "20260116003000",
     "stopRaw": "20260116013000",
-    "start": "2026-01-16 05:00:00 IST",
+    "start": "2026-01-16 06:00:00 IST",
     "stop": "2026-01-16 07:00:00 IST",
     "channel": "jio-816",
     "title": "The Tom and Jerry Show",
@@ -761,13 +761,23 @@
   },
   {
     "startRaw": "20260116030000",
-    "stopRaw": "20260116035000",
+    "stopRaw": "20260116033000",
     "start": "2026-01-16 08:30:00 IST",
-    "stop": "2026-01-16 09:20:00 IST",
+    "stop": "2026-01-16 09:00:00 IST",
     "channel": "jio-816",
     "title": "Larva",
     "subTitle": "Two curious little worms explore the objects that they daily come across in their world which is located under the ground.",
     "image": "http://ttpl.tmsimg.com/assets/p16979308_b_h8_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260116033000",
+    "stopRaw": "20260116035000",
+    "start": "2026-01-16 09:00:00 IST",
+    "stop": "2026-01-16 09:20:00 IST",
+    "channel": "jio-816",
+    "title": "Larva Island",
+    "subTitle": "When Yellow and Red, two larvae, get stranded on an island, they use that as an opportunity to discover different things and make new animal friends.",
+    "image": "http://ttpl.tmsimg.com/assets/p16049542_b_h10_ab.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260116035000",
@@ -931,28 +941,8 @@
   },
   {
     "startRaw": "20260116130000",
-    "stopRaw": "20260116140000",
-    "start": "2026-01-16 18:30:00 IST",
-    "stop": "2026-01-16 19:30:00 IST",
-    "channel": "jio-816",
-    "title": "Teen Titans GO!",
-    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
-    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260116140000",
-    "stopRaw": "20260116143000",
-    "start": "2026-01-16 19:30:00 IST",
-    "stop": "2026-01-16 20:00:00 IST",
-    "channel": "jio-816",
-    "title": "Teen Titans GO!",
-    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
-    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260116143000",
     "stopRaw": "20260116150000",
-    "start": "2026-01-16 20:00:00 IST",
+    "start": "2026-01-16 18:30:00 IST",
     "stop": "2026-01-16 20:30:00 IST",
     "channel": "jio-816",
     "title": "Teen Titans GO!",

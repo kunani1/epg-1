@@ -351,28 +351,38 @@
   },
   {
     "startRaw": "20260116023000",
-    "stopRaw": "20260116034400",
+    "stopRaw": "20260116025500",
     "start": "2026-01-16 08:00:00 IST",
-    "stop": "2026-01-16 09:14:00 IST",
-    "channel": "jio-3409",
-    "title": "Bharatham",
-    "subTitle": "Raman and Gopi are two brothers who have a musical heritage. When Raman's addiction towards alcohol becomes a threat to his career, Gopi is forced to take up his role.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260116034400",
-    "stopRaw": "20260116052000",
-    "start": "2026-01-16 09:14:00 IST",
-    "stop": "2026-01-16 10:50:00 IST",
+    "stop": "2026-01-16 08:25:00 IST",
     "channel": "jio-3409",
     "title": "Thathuvam",
     "subTitle": "Thathuvam",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260116052000",
+    "startRaw": "20260116025500",
+    "stopRaw": "20260116044100",
+    "start": "2026-01-16 08:25:00 IST",
+    "stop": "2026-01-16 10:11:00 IST",
+    "channel": "jio-3409",
+    "title": "Interview",
+    "subTitle": "Interview",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260116044100",
+    "stopRaw": "20260116061500",
+    "start": "2026-01-16 10:11:00 IST",
+    "stop": "2026-01-16 11:45:00 IST",
+    "channel": "jio-3409",
+    "title": "Interview",
+    "subTitle": "Interview",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260116061500",
     "stopRaw": "20260116065000",
-    "start": "2026-01-16 10:50:00 IST",
+    "start": "2026-01-16 11:45:00 IST",
     "stop": "2026-01-16 12:20:00 IST",
     "channel": "jio-3409",
     "title": "Interview",
@@ -451,22 +461,12 @@
   },
   {
     "startRaw": "20260116163000",
-    "stopRaw": "20260116174800",
+    "stopRaw": "20260116182959",
     "start": "2026-01-16 22:00:00 IST",
-    "stop": "2026-01-16 23:18:00 IST",
+    "stop": "2026-01-16 23:59:59 IST",
     "channel": "jio-3409",
     "title": "Movie",
     "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260116174800",
-    "stopRaw": "20260116182959",
-    "start": "2026-01-16 23:18:00 IST",
-    "stop": "2026-01-16 23:59:59 IST",
-    "channel": "jio-3409",
-    "title": "Pattimandram",
-    "subTitle": "Two groups of people from different walks of life participate in a debate in the presence of a panel of well-known judges and audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

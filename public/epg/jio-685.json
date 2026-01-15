@@ -371,18 +371,18 @@
   },
   {
     "startRaw": "20260116030000",
-    "stopRaw": "20260116053000",
+    "stopRaw": "20260116054000",
     "start": "2026-01-16 08:30:00 IST",
-    "stop": "2026-01-16 11:00:00 IST",
+    "stop": "2026-01-16 11:10:00 IST",
     "channel": "jio-685",
     "title": "Guru Dakshina",
     "subTitle": "Jayant, an aspiring singer, finds his way to the city in order to make it big. Soon, he garners accolades for his performances and eventually falls in love with the daughter of a ruthless businessman.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260116053000",
+    "startRaw": "20260116054000",
     "stopRaw": "20260116073000",
-    "start": "2026-01-16 11:00:00 IST",
+    "start": "2026-01-16 11:10:00 IST",
     "stop": "2026-01-16 13:00:00 IST",
     "channel": "jio-685",
     "title": "Praner Cheye Priyo",
@@ -391,12 +391,22 @@
   },
   {
     "startRaw": "20260116073000",
-    "stopRaw": "20260116103000",
+    "stopRaw": "20260116101500",
     "start": "2026-01-16 13:00:00 IST",
-    "stop": "2026-01-16 16:00:00 IST",
+    "stop": "2026-01-16 15:45:00 IST",
     "channel": "jio-685",
     "title": "Soccer",
     "subTitle": "Professional football teams compete against each other during a football tournament to emerge victorious and win the coveted title.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260116101500",
+    "stopRaw": "20260116103000",
+    "start": "2026-01-16 15:45:00 IST",
+    "stop": "2026-01-16 16:00:00 IST",
+    "channel": "jio-685",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

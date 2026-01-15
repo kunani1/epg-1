@@ -951,8 +951,18 @@
   },
   {
     "startRaw": "20260115175600",
-    "stopRaw": "20260115182959",
+    "stopRaw": "20260115180000",
     "start": "2026-01-15 23:26:00 IST",
+    "stop": "2026-01-15 23:30:00 IST",
+    "channel": "jio-657",
+    "title": "India 360",
+    "subTitle": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260115180000",
+    "stopRaw": "20260115182959",
+    "start": "2026-01-15 23:30:00 IST",
     "stop": "2026-01-15 23:59:59 IST",
     "channel": "jio-657",
     "title": "India 360",
@@ -1421,22 +1431,22 @@
   },
   {
     "startRaw": "20260116173000",
-    "stopRaw": "20260116180000",
+    "stopRaw": "20260116182600",
     "start": "2026-01-16 23:00:00 IST",
-    "stop": "2026-01-16 23:30:00 IST",
+    "stop": "2026-01-16 23:56:00 IST",
     "channel": "jio-657",
     "title": "India 360",
     "subTitle": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260116180000",
+    "startRaw": "20260116182600",
     "stopRaw": "20260116182959",
-    "start": "2026-01-16 23:30:00 IST",
+    "start": "2026-01-16 23:56:00 IST",
     "stop": "2026-01-16 23:59:59 IST",
     "channel": "jio-657",
-    "title": "India 360",
-    "subTitle": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India.",
+    "title": "Khabar Chalisa",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

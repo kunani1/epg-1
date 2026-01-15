@@ -241,18 +241,28 @@
   },
   {
     "startRaw": "20260116013000",
-    "stopRaw": "20260116043000",
+    "stopRaw": "20260116020000",
     "start": "2026-01-16 07:00:00 IST",
-    "stop": "2026-01-16 10:00:00 IST",
+    "stop": "2026-01-16 07:30:00 IST",
+    "channel": "jio-459",
+    "title": "Chirikkum Thalika",
+    "subTitle": "A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260116020000",
+    "stopRaw": "20260116043500",
+    "start": "2026-01-16 07:30:00 IST",
+    "stop": "2026-01-16 10:05:00 IST",
     "channel": "jio-459",
     "title": "Ohm Shanthi Oshaana",
     "subTitle": "Pooja Mathew, a spirited young girl, dreams about marrying only for love. Thus, she stops at nothing to impress Giri, who saved her once from a group of unruly men.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260116043000",
+    "startRaw": "20260116043500",
     "stopRaw": "20260116073000",
-    "start": "2026-01-16 10:00:00 IST",
+    "start": "2026-01-16 10:05:00 IST",
     "stop": "2026-01-16 13:00:00 IST",
     "channel": "jio-459",
     "title": "Adi Kapyare Koottamani",

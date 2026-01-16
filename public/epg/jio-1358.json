@@ -451,18 +451,18 @@
   },
   {
     "startRaw": "20260116233000",
-    "stopRaw": "20260117003000",
+    "stopRaw": "20260117002600",
     "start": "2026-01-17 05:00:00 IST",
-    "stop": "2026-01-17 06:00:00 IST",
+    "stop": "2026-01-17 05:56:00 IST",
     "channel": "jio-1358",
     "title": "Patanjali Yog by Yog Rishi Swami Ramdev",
     "subTitle": "Renowned Indian spiritual leader Swami Ramdev delivers demonstrations of various yoga poses and exercises for a healthy life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260117003000",
+    "startRaw": "20260117002600",
     "stopRaw": "20260117010000",
-    "start": "2026-01-17 06:00:00 IST",
+    "start": "2026-01-17 05:56:00 IST",
     "stop": "2026-01-17 06:30:00 IST",
     "channel": "jio-1358",
     "title": "Naad Bhakticha",
@@ -551,22 +551,42 @@
   },
   {
     "startRaw": "20260117133000",
-    "stopRaw": "20260117153000",
+    "stopRaw": "20260117151200",
     "start": "2026-01-17 19:00:00 IST",
-    "stop": "2026-01-17 21:00:00 IST",
+    "stop": "2026-01-17 20:42:00 IST",
     "channel": "jio-1358",
     "title": "Jai Malhar",
     "subTitle": "The reincarnation of Lord Shiva, Lord Khandoba, rules over the hearts of his devotees who revere him dearly. He soon becomes famous for his magnanimity, valour and power.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260117151200",
+    "stopRaw": "20260117153000",
+    "start": "2026-01-17 20:42:00 IST",
+    "stop": "2026-01-17 21:00:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260117153000",
-    "stopRaw": "20260117182959",
+    "stopRaw": "20260117181600",
     "start": "2026-01-17 21:00:00 IST",
-    "stop": "2026-01-17 23:59:59 IST",
+    "stop": "2026-01-17 23:46:00 IST",
     "channel": "jio-1358",
     "title": "Mulshi Pattern",
     "subTitle": "Sakharam, a farmer, sells his land due to financial constraints. His son, who holds this against him, subsequently gets enticed into a criminal's life for money.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117181600",
+    "stopRaw": "20260117182959",
+    "start": "2026-01-17 23:46:00 IST",
+    "stop": "2026-01-17 23:59:59 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

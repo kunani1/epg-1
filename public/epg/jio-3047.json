@@ -631,8 +631,18 @@
   },
   {
     "startRaw": "20260119010000",
-    "stopRaw": "20260119020000",
+    "stopRaw": "20260119013000",
     "start": "2026-01-19 06:30:00 IST",
+    "stop": "2026-01-19 07:00:00 IST",
+    "channel": "jio-3047",
+    "title": "Teleshopping",
+    "subTitle": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260119013000",
+    "stopRaw": "20260119020000",
+    "start": "2026-01-19 07:00:00 IST",
     "stop": "2026-01-19 07:30:00 IST",
     "channel": "jio-3047",
     "title": "Aaradhane",

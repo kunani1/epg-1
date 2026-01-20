@@ -1,5 +1,485 @@
 [
   {
+    "startRaw": "20260117183000",
+    "stopRaw": "20260117190150",
+    "start": "2026-01-18 00:00:00 IST",
+    "stop": "2026-01-18 00:31:50 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Sadhguru instructs how to do Kalpavriksha meditation",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117190150",
+    "stopRaw": "20260117193009",
+    "start": "2026-01-18 00:31:50 IST",
+    "stop": "2026-01-18 01:00:09 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117193009",
+    "stopRaw": "20260117195959",
+    "start": "2026-01-18 01:00:09 IST",
+    "stop": "2026-01-18 01:29:59 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117195959",
+    "stopRaw": "20260117203003",
+    "start": "2026-01-18 01:29:59 IST",
+    "stop": "2026-01-18 02:00:03 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117203003",
+    "stopRaw": "20260117210004",
+    "start": "2026-01-18 02:00:03 IST",
+    "stop": "2026-01-18 02:30:04 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117210004",
+    "stopRaw": "20260117213008",
+    "start": "2026-01-18 02:30:04 IST",
+    "stop": "2026-01-18 03:00:08 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117213008",
+    "stopRaw": "20260117220007",
+    "start": "2026-01-18 03:00:08 IST",
+    "stop": "2026-01-18 03:30:07 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do Directional Movements of arms by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117220007",
+    "stopRaw": "20260117223001",
+    "start": "2026-01-18 03:30:07 IST",
+    "stop": "2026-01-18 04:00:01 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117223001",
+    "stopRaw": "20260117230019",
+    "start": "2026-01-18 04:00:01 IST",
+    "stop": "2026-01-18 04:30:19 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117230019",
+    "stopRaw": "20260117233014",
+    "start": "2026-01-18 04:30:19 IST",
+    "stop": "2026-01-18 05:00:14 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260117233014",
+    "stopRaw": "20260118000019",
+    "start": "2026-01-18 05:00:14 IST",
+    "stop": "2026-01-18 05:30:19 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Pandit Jasraj Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118000019",
+    "stopRaw": "20260118003012",
+    "start": "2026-01-18 05:30:19 IST",
+    "stop": "2026-01-18 06:00:12 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118003012",
+    "stopRaw": "20260118005952",
+    "start": "2026-01-18 06:00:12 IST",
+    "stop": "2026-01-18 06:29:52 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do Neck Practices &amp; Nadi Shuddhi Yoga by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118005952",
+    "stopRaw": "20260118012949",
+    "start": "2026-01-18 06:29:52 IST",
+    "stop": "2026-01-18 06:59:49 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118012949",
+    "stopRaw": "20260118020027",
+    "start": "2026-01-18 06:59:49 IST",
+    "stop": "2026-01-18 07:30:27 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118020027",
+    "stopRaw": "20260118023002",
+    "start": "2026-01-18 07:30:27 IST",
+    "stop": "2026-01-18 08:00:02 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Pandit Jasraj Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118023002",
+    "stopRaw": "20260118025949",
+    "start": "2026-01-18 08:00:02 IST",
+    "stop": "2026-01-18 08:29:49 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118025949",
+    "stopRaw": "20260118032946",
+    "start": "2026-01-18 08:29:49 IST",
+    "stop": "2026-01-18 08:59:46 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118032946",
+    "stopRaw": "20260118035941",
+    "start": "2026-01-18 08:59:46 IST",
+    "stop": "2026-01-18 09:29:41 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do YogaNamaskar &amp; Shambhavi Mahamudra by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118035941",
+    "stopRaw": "20260118042948",
+    "start": "2026-01-18 09:29:41 IST",
+    "stop": "2026-01-18 09:59:48 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118042948",
+    "stopRaw": "20260118045944",
+    "start": "2026-01-18 09:59:48 IST",
+    "stop": "2026-01-18 10:29:44 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118045944",
+    "stopRaw": "20260118052931",
+    "start": "2026-01-18 10:29:44 IST",
+    "stop": "2026-01-18 10:59:31 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118052931",
+    "stopRaw": "20260118055953",
+    "start": "2026-01-18 10:59:31 IST",
+    "stop": "2026-01-18 11:29:53 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118055953",
+    "stopRaw": "20260118063008",
+    "start": "2026-01-18 11:29:53 IST",
+    "stop": "2026-01-18 12:00:08 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118063008",
+    "stopRaw": "20260118070158",
+    "start": "2026-01-18 12:00:08 IST",
+    "stop": "2026-01-18 12:31:58 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Sadhguru instructs how to do Kalpavriksha meditation",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118070158",
+    "stopRaw": "20260118073017",
+    "start": "2026-01-18 12:31:58 IST",
+    "stop": "2026-01-18 13:00:17 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118073017",
+    "stopRaw": "20260118080007",
+    "start": "2026-01-18 13:00:17 IST",
+    "stop": "2026-01-18 13:30:07 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118080007",
+    "stopRaw": "20260118083011",
+    "start": "2026-01-18 13:30:07 IST",
+    "stop": "2026-01-18 14:00:11 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118083011",
+    "stopRaw": "20260118090012",
+    "start": "2026-01-18 14:00:11 IST",
+    "stop": "2026-01-18 14:30:12 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118090012",
+    "stopRaw": "20260118093016",
+    "start": "2026-01-18 14:30:12 IST",
+    "stop": "2026-01-18 15:00:16 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118093016",
+    "stopRaw": "20260118100015",
+    "start": "2026-01-18 15:00:16 IST",
+    "stop": "2026-01-18 15:30:15 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do Directional Movements of arms by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118100015",
+    "stopRaw": "20260118103009",
+    "start": "2026-01-18 15:30:15 IST",
+    "stop": "2026-01-18 16:00:09 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118103009",
+    "stopRaw": "20260118110027",
+    "start": "2026-01-18 16:00:09 IST",
+    "stop": "2026-01-18 16:30:27 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118110027",
+    "stopRaw": "20260118113022",
+    "start": "2026-01-18 16:30:27 IST",
+    "stop": "2026-01-18 17:00:22 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sanjiv Goenka Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118113022",
+    "stopRaw": "20260118120027",
+    "start": "2026-01-18 17:00:22 IST",
+    "stop": "2026-01-18 17:30:27 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Pandit Jasraj Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118120027",
+    "stopRaw": "20260118123020",
+    "start": "2026-01-18 17:30:27 IST",
+    "stop": "2026-01-18 18:00:20 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118123020",
+    "stopRaw": "20260118130000",
+    "start": "2026-01-18 18:00:20 IST",
+    "stop": "2026-01-18 18:30:00 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do Neck Practices &amp; Nadi Shuddhi Yoga by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118130000",
+    "stopRaw": "20260118132957",
+    "start": "2026-01-18 18:30:00 IST",
+    "stop": "2026-01-18 18:59:57 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118132957",
+    "stopRaw": "20260118140035",
+    "start": "2026-01-18 18:59:57 IST",
+    "stop": "2026-01-18 19:30:35 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118140035",
+    "stopRaw": "20260118143010",
+    "start": "2026-01-18 19:30:35 IST",
+    "stop": "2026-01-18 20:00:10 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Pandit Jasraj Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118143010",
+    "stopRaw": "20260118145957",
+    "start": "2026-01-18 20:00:10 IST",
+    "stop": "2026-01-18 20:29:57 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118145957",
+    "stopRaw": "20260118152954",
+    "start": "2026-01-18 20:29:57 IST",
+    "stop": "2026-01-18 20:59:54 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118152954",
+    "stopRaw": "20260118155949",
+    "start": "2026-01-18 20:59:54 IST",
+    "stop": "2026-01-18 21:29:49 IST",
+    "channel": "jio-3232",
+    "title": "Yoga Tools from Sadhguru",
+    "subTitle": "Instruction to do YogaNamaskar &amp; Shambhavi Mahamudra by Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118155949",
+    "stopRaw": "20260118162956",
+    "start": "2026-01-18 21:29:49 IST",
+    "stop": "2026-01-18 21:59:56 IST",
+    "channel": "jio-3232",
+    "title": "In Lap of Truth",
+    "subTitle": "Discourses from Sadhguru on various topics",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118162956",
+    "stopRaw": "20260118165952",
+    "start": "2026-01-18 21:59:56 IST",
+    "stop": "2026-01-18 22:29:52 IST",
+    "channel": "jio-3232",
+    "title": "Ask Sadhguru",
+    "subTitle": "Interactive session with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118165952",
+    "stopRaw": "20260118172939",
+    "start": "2026-01-18 22:29:52 IST",
+    "stop": "2026-01-18 22:59:39 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118172939",
+    "stopRaw": "20260118180001",
+    "start": "2026-01-18 22:59:39 IST",
+    "stop": "2026-01-18 23:30:01 IST",
+    "channel": "jio-3232",
+    "title": "In Conversation with Mystic",
+    "subTitle": "Sabyasachi Mukherji Converse with Sadhguru",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260118180001",
+    "stopRaw": "20260118182959",
+    "start": "2026-01-18 23:30:01 IST",
+    "stop": "2026-01-18 23:59:59 IST",
+    "channel": "jio-3232",
+    "title": "Youth &amp; Truth",
+    "subTitle": "Sadhguru converses with JNU Delhi students",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260118183000",
     "stopRaw": "20260118190005",
     "start": "2026-01-19 00:00:00 IST",
@@ -714,246 +1194,6 @@
     "stopRaw": "20260120182959",
     "start": "2026-01-20 23:00:00 IST",
     "stop": "2026-01-20 23:59:59 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120183000",
-    "stopRaw": "20260120193000",
-    "start": "2026-01-21 00:00:00 IST",
-    "stop": "2026-01-21 01:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120193000",
-    "stopRaw": "20260120203000",
-    "start": "2026-01-21 01:00:00 IST",
-    "stop": "2026-01-21 02:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120203000",
-    "stopRaw": "20260120213000",
-    "start": "2026-01-21 02:00:00 IST",
-    "stop": "2026-01-21 03:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120213000",
-    "stopRaw": "20260120223000",
-    "start": "2026-01-21 03:00:00 IST",
-    "stop": "2026-01-21 04:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120223000",
-    "stopRaw": "20260120233000",
-    "start": "2026-01-21 04:00:00 IST",
-    "stop": "2026-01-21 05:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260120233000",
-    "stopRaw": "20260121003000",
-    "start": "2026-01-21 05:00:00 IST",
-    "stop": "2026-01-21 06:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121003000",
-    "stopRaw": "20260121013000",
-    "start": "2026-01-21 06:00:00 IST",
-    "stop": "2026-01-21 07:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121013000",
-    "stopRaw": "20260121023000",
-    "start": "2026-01-21 07:00:00 IST",
-    "stop": "2026-01-21 08:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121023000",
-    "stopRaw": "20260121033000",
-    "start": "2026-01-21 08:00:00 IST",
-    "stop": "2026-01-21 09:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121033000",
-    "stopRaw": "20260121043000",
-    "start": "2026-01-21 09:00:00 IST",
-    "stop": "2026-01-21 10:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121043000",
-    "stopRaw": "20260121053000",
-    "start": "2026-01-21 10:00:00 IST",
-    "stop": "2026-01-21 11:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121053000",
-    "stopRaw": "20260121063000",
-    "start": "2026-01-21 11:00:00 IST",
-    "stop": "2026-01-21 12:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121063000",
-    "stopRaw": "20260121073000",
-    "start": "2026-01-21 12:00:00 IST",
-    "stop": "2026-01-21 13:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121073000",
-    "stopRaw": "20260121083000",
-    "start": "2026-01-21 13:00:00 IST",
-    "stop": "2026-01-21 14:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121083000",
-    "stopRaw": "20260121093000",
-    "start": "2026-01-21 14:00:00 IST",
-    "stop": "2026-01-21 15:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121093000",
-    "stopRaw": "20260121103000",
-    "start": "2026-01-21 15:00:00 IST",
-    "stop": "2026-01-21 16:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121103000",
-    "stopRaw": "20260121113000",
-    "start": "2026-01-21 16:00:00 IST",
-    "stop": "2026-01-21 17:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121113000",
-    "stopRaw": "20260121123000",
-    "start": "2026-01-21 17:00:00 IST",
-    "stop": "2026-01-21 18:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121123000",
-    "stopRaw": "20260121133000",
-    "start": "2026-01-21 18:00:00 IST",
-    "stop": "2026-01-21 19:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121133000",
-    "stopRaw": "20260121143000",
-    "start": "2026-01-21 19:00:00 IST",
-    "stop": "2026-01-21 20:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121143000",
-    "stopRaw": "20260121153000",
-    "start": "2026-01-21 20:00:00 IST",
-    "stop": "2026-01-21 21:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121153000",
-    "stopRaw": "20260121163000",
-    "start": "2026-01-21 21:00:00 IST",
-    "stop": "2026-01-21 22:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121163000",
-    "stopRaw": "20260121173000",
-    "start": "2026-01-21 22:00:00 IST",
-    "stop": "2026-01-21 23:00:00 IST",
-    "channel": "jio-3232",
-    "title": "Sadhguru Television Dolby",
-    "subTitle": "Sadhguru Television Dolby",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260121173000",
-    "stopRaw": "20260121182959",
-    "start": "2026-01-21 23:00:00 IST",
-    "stop": "2026-01-21 23:59:59 IST",
     "channel": "jio-3232",
     "title": "Sadhguru Television Dolby",
     "subTitle": "Sadhguru Television Dolby",

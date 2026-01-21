@@ -1015,8 +1015,8 @@
     "start": "2026-01-22 06:00:00 IST",
     "stop": "2026-01-22 06:30:00 IST",
     "channel": "jio-259",
-    "title": "Profit Insight",
-    "subTitle": "The host conducts insightful interactions with prominent personalities to seek comprehensive information on matters concerning the market and finance.",
+    "title": "Davos Diaries",
+    "subTitle": "Davos Diaries.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1025,8 +1025,8 @@
     "start": "2026-01-22 06:30:00 IST",
     "stop": "2026-01-22 07:00:00 IST",
     "channel": "jio-259",
-    "title": "Big Story",
-    "subTitle": "The host features deep dives with corporate leaders, policymakers and market experts, analysing the major theme of the day and its impact on the economy.",
+    "title": "Your Money Matters",
+    "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1035,8 +1035,8 @@
     "start": "2026-01-22 07:00:00 IST",
     "stop": "2026-01-22 07:30:00 IST",
     "channel": "jio-259",
-    "title": "Profit Insight",
-    "subTitle": "The host conducts insightful interactions with prominent personalities to seek comprehensive information on matters concerning the market and finance.",
+    "title": "Davos Diaries",
+    "subTitle": "Davos Diaries.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1045,14 +1045,54 @@
     "start": "2026-01-22 07:30:00 IST",
     "stop": "2026-01-22 08:00:00 IST",
     "channel": "jio-259",
-    "title": "All You Need To Know",
-    "subTitle": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and investment opportunities.",
+    "title": "Markets Today",
+    "subTitle": "The host provides the latest news and updates related to the stock markets while also providing advice on trading and investing.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260122023000",
-    "stopRaw": "20260122050000",
+    "stopRaw": "20260122030000",
     "start": "2026-01-22 08:00:00 IST",
+    "stop": "2026-01-22 08:30:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122030000",
+    "stopRaw": "20260122033000",
+    "start": "2026-01-22 08:30:00 IST",
+    "stop": "2026-01-22 09:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122033000",
+    "stopRaw": "20260122040000",
+    "start": "2026-01-22 09:00:00 IST",
+    "stop": "2026-01-22 09:30:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122040000",
+    "stopRaw": "20260122043000",
+    "start": "2026-01-22 09:30:00 IST",
+    "stop": "2026-01-22 10:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Open",
+    "subTitle": "The hosts interact with financial experts to provide insight and analysis on various aspects of the Indian stock market as it opens for the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122043000",
+    "stopRaw": "20260122050000",
+    "start": "2026-01-22 10:00:00 IST",
     "stop": "2026-01-22 10:30:00 IST",
     "channel": "jio-259",
     "title": "India Market Open",
@@ -1061,8 +1101,18 @@
   },
   {
     "startRaw": "20260122050000",
-    "stopRaw": "20260122060000",
+    "stopRaw": "20260122053000",
     "start": "2026-01-22 10:30:00 IST",
+    "stop": "2026-01-22 11:00:00 IST",
+    "channel": "jio-259",
+    "title": "Ask Profit",
+    "subTitle": "The host shares market insights and stock analysis, while guests discuss economic factors affecting different industries.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122053000",
+    "stopRaw": "20260122060000",
+    "start": "2026-01-22 11:00:00 IST",
     "stop": "2026-01-22 11:30:00 IST",
     "channel": "jio-259",
     "title": "Ask Profit",
@@ -1085,18 +1135,28 @@
     "start": "2026-01-22 12:00:00 IST",
     "stop": "2026-01-22 12:30:00 IST",
     "channel": "jio-259",
-    "title": "Market At 12",
-    "subTitle": "The host provides the latest stock market updates and answers viewer questions on investing, helping them make well-informed financial decisions.",
+    "title": "Markets at 12",
+    "subTitle": "The host presents the latest updates and development about the stock market and shares tips on safe investment plans for maximum savings, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260122070000",
-    "stopRaw": "20260122080000",
+    "stopRaw": "20260122073000",
     "start": "2026-01-22 12:30:00 IST",
+    "stop": "2026-01-22 13:00:00 IST",
+    "channel": "jio-259",
+    "title": "Trending Stocks",
+    "subTitle": "Trending Stocks",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122073000",
+    "stopRaw": "20260122080000",
+    "start": "2026-01-22 13:00:00 IST",
     "stop": "2026-01-22 13:30:00 IST",
     "channel": "jio-259",
-    "title": "Profit Buzzers",
-    "subTitle": "The host presents an analysis of recent stock market events and offers expert insight into investment strategies and trends.",
+    "title": "Lunch Time Trades",
+    "subTitle": "Lunch Time Trades",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1105,14 +1165,34 @@
     "start": "2026-01-22 13:30:00 IST",
     "stop": "2026-01-22 14:00:00 IST",
     "channel": "jio-259",
-    "title": "Profit Top Trades",
-    "subTitle": "The host provides the latest stock market updates and expert answers to investor questions, helping viewers make smarter financial decisions.",
+    "title": "Smallcap Buzzers",
+    "subTitle": "A comprehensive look at emerging smaller companies with significant stock price changes, offering perspectives on investment opportunities and risks.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260122083000",
-    "stopRaw": "20260122100000",
+    "stopRaw": "20260122090000",
     "start": "2026-01-22 14:00:00 IST",
+    "stop": "2026-01-22 14:30:00 IST",
+    "channel": "jio-259",
+    "title": "Ask Profit",
+    "subTitle": "The host shares market insights and stock analysis, while guests discuss economic factors affecting different industries.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122090000",
+    "stopRaw": "20260122093000",
+    "start": "2026-01-22 14:30:00 IST",
+    "stop": "2026-01-22 15:00:00 IST",
+    "channel": "jio-259",
+    "title": "India Market Close",
+    "subTitle": "The host provides deeper insights into the closing values and status of the Indian markets captured during the day's final trading minutes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122093000",
+    "stopRaw": "20260122100000",
+    "start": "2026-01-22 15:00:00 IST",
     "stop": "2026-01-22 15:30:00 IST",
     "channel": "jio-259",
     "title": "India Market Close",
@@ -1131,62 +1211,32 @@
   },
   {
     "startRaw": "20260122103000",
-    "stopRaw": "20260122110000",
+    "stopRaw": "20260122113000",
     "start": "2026-01-22 16:00:00 IST",
-    "stop": "2026-01-22 16:30:00 IST",
+    "stop": "2026-01-22 17:00:00 IST",
     "channel": "jio-259",
     "title": "Profit 360",
     "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122110000",
-    "stopRaw": "20260122113000",
-    "start": "2026-01-22 16:30:00 IST",
-    "stop": "2026-01-22 17:00:00 IST",
-    "channel": "jio-259",
-    "title": "The Small &amp; Midcap Show",
-    "subTitle": "The host and industry experts discuss the behaviour and performance of the small and mid-capitalised segment of the financial market.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260122113000",
-    "stopRaw": "20260122120000",
+    "stopRaw": "20260122123000",
     "start": "2026-01-22 17:00:00 IST",
-    "stop": "2026-01-22 17:30:00 IST",
+    "stop": "2026-01-22 18:00:00 IST",
     "channel": "jio-259",
     "title": "Your Money Matters",
     "subTitle": "An expert sheds light on the latest financial and economic trends and sheds light on how to select and invest in profitable shares.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122120000",
-    "stopRaw": "20260122123000",
-    "start": "2026-01-22 17:30:00 IST",
-    "stop": "2026-01-22 18:00:00 IST",
-    "channel": "jio-259",
-    "title": "The Small &amp; Midcap Show",
-    "subTitle": "The host and industry experts discuss the behaviour and performance of the small and mid-capitalised segment of the financial market.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260122123000",
-    "stopRaw": "20260122130000",
+    "stopRaw": "20260122133000",
     "start": "2026-01-22 18:00:00 IST",
-    "stop": "2026-01-22 18:30:00 IST",
+    "stop": "2026-01-22 19:00:00 IST",
     "channel": "jio-259",
     "title": "The Big Question",
     "subTitle": "Join the host as they break down the latest stock market updates and tackle burning questions about investing. Also, get informed and make smarter financial choices.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260122130000",
-    "stopRaw": "20260122133000",
-    "start": "2026-01-22 18:30:00 IST",
-    "stop": "2026-01-22 19:00:00 IST",
-    "channel": "jio-259",
-    "title": "The World Report",
-    "subTitle": "The host presents a detailed report on important international news updates, developments and current affairs that are relevant to the people.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1195,28 +1245,18 @@
     "start": "2026-01-22 19:00:00 IST",
     "stop": "2026-01-22 20:00:00 IST",
     "channel": "jio-259",
-    "title": "Ask Profit",
-    "subTitle": "The host shares market insights and stock analysis, while guests discuss economic factors affecting different industries.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260122143000",
-    "stopRaw": "20260122150000",
-    "start": "2026-01-22 20:00:00 IST",
-    "stop": "2026-01-22 20:30:00 IST",
-    "channel": "jio-259",
     "title": "Profit 360",
     "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122150000",
+    "startRaw": "20260122143000",
     "stopRaw": "20260122153000",
-    "start": "2026-01-22 20:30:00 IST",
+    "start": "2026-01-22 20:00:00 IST",
     "stop": "2026-01-22 21:00:00 IST",
     "channel": "jio-259",
-    "title": "Big Story",
-    "subTitle": "The host features deep dives with corporate leaders, policymakers and market experts, analysing the major theme of the day and its impact on the economy.",
+    "title": "Profit 360",
+    "subTitle": "The hosts provide a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1225,8 +1265,8 @@
     "start": "2026-01-22 21:00:00 IST",
     "stop": "2026-01-22 21:30:00 IST",
     "channel": "jio-259",
-    "title": "The Mutual Fund Show",
-    "subTitle": "Financial experts talk about the performance of mutual funds, assets, financial services and the best strategies for investments.",
+    "title": "India Business Report",
+    "subTitle": "India Business Report",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

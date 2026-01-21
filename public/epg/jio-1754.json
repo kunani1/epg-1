@@ -201,12 +201,22 @@
   },
   {
     "startRaw": "20260121133000",
-    "stopRaw": "20260121182959",
+    "stopRaw": "20260121163000",
     "start": "2026-01-21 19:00:00 IST",
-    "stop": "2026-01-21 23:59:59 IST",
+    "stop": "2026-01-21 22:00:00 IST",
     "channel": "jio-1754",
     "title": "July 4",
     "subTitle": "Gokul Das wants to take revenge on the police officer who raped and killed his mother in a police station. However, this leads to him teaming up with thugs and becoming a criminal.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260121163000",
+    "stopRaw": "20260121182959",
+    "start": "2026-01-21 22:00:00 IST",
+    "stop": "2026-01-21 23:59:59 IST",
+    "channel": "jio-1754",
+    "title": "Shefeekkinte Santhosham",
+    "subTitle": "Shefeek, an NRI with a heart of gold, is returning to his home in Paarathodu to marry his childhood sweetheart. However, he runs into numerous hurdles along the way.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -241,8 +251,18 @@
   },
   {
     "startRaw": "20260122003000",
-    "stopRaw": "20260122013000",
+    "stopRaw": "20260122010000",
     "start": "2026-01-22 06:00:00 IST",
+    "stop": "2026-01-22 06:30:00 IST",
+    "channel": "jio-1754",
+    "title": "Filler",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122010000",
+    "stopRaw": "20260122013000",
+    "start": "2026-01-22 06:30:00 IST",
     "stop": "2026-01-22 07:00:00 IST",
     "channel": "jio-1754",
     "title": "Filler",

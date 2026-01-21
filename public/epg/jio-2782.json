@@ -761,52 +761,42 @@
   },
   {
     "startRaw": "20260122070000",
-    "stopRaw": "20260122073000",
-    "start": "2026-01-22 12:30:00 IST",
-    "stop": "2026-01-22 13:00:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC National News",
-    "subTitle": "Presents the day's top stories, latest news and information, and exclusive investigations, with reports from journalists across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260122073000",
     "stopRaw": "20260122080000",
-    "start": "2026-01-22 13:00:00 IST",
+    "start": "2026-01-22 12:30:00 IST",
     "stop": "2026-01-22 13:30:00 IST",
     "channel": "jio-2782",
-    "title": "7.30",
-    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues.",
+    "title": "National Day of Mourning",
+    "subTitle": "National Day of Mourning",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260122080000",
-    "stopRaw": "20260122084500",
-    "start": "2026-01-22 13:30:00 IST",
-    "stop": "2026-01-22 14:15:00 IST",
-    "channel": "jio-2782",
-    "title": "Ambulance Australia",
-    "subTitle": "Senior operations supervisor Dan treats a man with a gunshot wound. And, a young drunk driver is injured after crashing into a parked car.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260122084500",
     "stopRaw": "20260122090000",
-    "start": "2026-01-22 14:15:00 IST",
+    "start": "2026-01-22 13:30:00 IST",
     "stop": "2026-01-22 14:30:00 IST",
     "channel": "jio-2782",
-    "title": "Gardening Australia",
-    "subTitle": "Costa visits a laneway transformed by love and plants, Tammy meets home hydroponic growers, Tino resets the veggie garden for spring, and Millie visits guitar makers transforming salvaged timber.",
+    "title": "National Day of Mourning",
+    "subTitle": "National Day of Mourning",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260122090000",
-    "stopRaw": "20260122100000",
+    "stopRaw": "20260122093000",
     "start": "2026-01-22 14:30:00 IST",
+    "stop": "2026-01-22 15:00:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC Nightly News",
+    "subTitle": "Comprehensive coverage of the day's news, with detailed reporting from correspondents across Australia and around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122093000",
+    "stopRaw": "20260122100000",
+    "start": "2026-01-22 15:00:00 IST",
     "stop": "2026-01-22 15:30:00 IST",
     "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "title": "Nine Days In Afghanistan",
+    "subTitle": "Nine Days In Afghanistan",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -815,8 +805,8 @@
     "start": "2026-01-22 15:30:00 IST",
     "stop": "2026-01-22 16:00:00 IST",
     "channel": "jio-2782",
-    "title": "Better Date Than Never",
-    "subTitle": "Allycia gets ready for her first date. Kento is thrilled to make a connection with someone new. Charles maximises his chances of finding love by attending a speed dating event.",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -851,12 +841,22 @@
   },
   {
     "startRaw": "20260122130000",
-    "stopRaw": "20260122140000",
+    "stopRaw": "20260122133000",
     "start": "2026-01-22 18:30:00 IST",
-    "stop": "2026-01-22 19:30:00 IST",
+    "stop": "2026-01-22 19:00:00 IST",
     "channel": "jio-2782",
     "title": "The World",
     "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122133000",
+    "stopRaw": "20260122140000",
+    "start": "2026-01-22 19:00:00 IST",
+    "stop": "2026-01-22 19:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Landline",
+    "subTitle": "A programme bringing news from rural Australia to the nation. The multi-award winning show typically features stories, ranging across agri-politics and economics, business and product innovation, animal and crop science, and regional infrastructure.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -881,48 +881,48 @@
   },
   {
     "startRaw": "20260122151500",
-    "stopRaw": "20260122153000",
+    "stopRaw": "20260122152500",
     "start": "2026-01-22 20:45:00 IST",
-    "stop": "2026-01-22 21:00:00 IST",
+    "stop": "2026-01-22 20:55:00 IST",
     "channel": "jio-2782",
     "title": "Gardening Australia",
     "subTitle": "Costa visits a laneway transformed by love and plants, Tammy meets home hydroponic growers, Tino resets the veggie garden for spring, and Millie visits guitar makers transforming salvaged timber.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122153000",
-    "stopRaw": "20260122160000",
-    "start": "2026-01-22 21:00:00 IST",
-    "stop": "2026-01-22 21:30:00 IST",
+    "startRaw": "20260122152500",
+    "stopRaw": "20260122155500",
+    "start": "2026-01-22 20:55:00 IST",
+    "stop": "2026-01-22 21:25:00 IST",
     "channel": "jio-2782",
     "title": "Better Date Than Never",
     "subTitle": "Allycia gets ready for her first date. Kento is thrilled to make a connection with someone new. Charles maximises his chances of finding love by attending a speed dating event.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122160000",
-    "stopRaw": "20260122163000",
-    "start": "2026-01-22 21:30:00 IST",
-    "stop": "2026-01-22 22:00:00 IST",
+    "startRaw": "20260122155500",
+    "stopRaw": "20260122162500",
+    "start": "2026-01-22 21:25:00 IST",
+    "stop": "2026-01-22 21:55:00 IST",
     "channel": "jio-2782",
     "title": "First Generation",
     "subTitle": "Nine ambitious people from Asia-Pacific share their own inspirational stories of carving their own path in Australia, which celebrates the diversity and spirit of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122163000",
-    "stopRaw": "20260122165500",
-    "start": "2026-01-22 22:00:00 IST",
-    "stop": "2026-01-22 22:25:00 IST",
+    "startRaw": "20260122162500",
+    "stopRaw": "20260122165000",
+    "start": "2026-01-22 21:55:00 IST",
+    "stop": "2026-01-22 22:20:00 IST",
     "channel": "jio-2782",
     "title": "Off Country",
     "subTitle": "Students face the ups and downs of remote learning after COVID-19 shuts the school down. Tahlia appreciates being closer to her family in Darwin. Sunny feels more pressure about his Year 12 exams.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260122165500",
+    "startRaw": "20260122165000",
     "stopRaw": "20260122170000",
-    "start": "2026-01-22 22:25:00 IST",
+    "start": "2026-01-22 22:20:00 IST",
     "stop": "2026-01-22 22:30:00 IST",
     "channel": "jio-2782",
     "title": "Common Cause",
@@ -931,12 +931,22 @@
   },
   {
     "startRaw": "20260122170000",
-    "stopRaw": "20260122180000",
+    "stopRaw": "20260122173000",
     "start": "2026-01-22 22:30:00 IST",
-    "stop": "2026-01-22 23:30:00 IST",
+    "stop": "2026-01-22 23:00:00 IST",
     "channel": "jio-2782",
     "title": "The World",
     "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260122173000",
+    "stopRaw": "20260122180000",
+    "start": "2026-01-22 23:00:00 IST",
+    "stop": "2026-01-22 23:30:00 IST",
+    "channel": "jio-2782",
+    "title": "7.30",
+    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

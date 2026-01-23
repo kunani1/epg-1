@@ -1421,8 +1421,18 @@
   },
   {
     "startRaw": "20260123185000",
-    "stopRaw": "20260123193000",
+    "stopRaw": "20260123190000",
     "start": "2026-01-24 00:20:00 IST",
+    "stop": "2026-01-24 00:30:00 IST",
+    "channel": "jio-1984",
+    "title": "T20 Cricket",
+    "subTitle": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260123190000",
+    "stopRaw": "20260123193000",
+    "start": "2026-01-24 00:30:00 IST",
     "stop": "2026-01-24 01:00:00 IST",
     "channel": "jio-1984",
     "title": "T20 Cricket",

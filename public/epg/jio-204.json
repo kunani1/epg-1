@@ -256,7 +256,7 @@
     "stop": "2026-01-23 19:30:00 IST",
     "channel": "jio-204",
     "title": "Hockey India League",
-    "subTitle": "Coverage of the professional men's field hockey league in India.",
+    "subTitle": "From Kalinga Stadium in Bhubaneswar, Odisha, India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -266,7 +266,7 @@
     "stop": "2026-01-23 21:00:00 IST",
     "channel": "jio-204",
     "title": "Hockey India League",
-    "subTitle": "Coverage of the professional men's field hockey league in India.",
+    "subTitle": "From Kalinga Stadium in Bhubaneswar, Odisha, India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -321,12 +321,22 @@
   },
   {
     "startRaw": "20260123183000",
-    "stopRaw": "20260124010500",
+    "stopRaw": "20260124003000",
     "start": "2026-01-24 00:00:00 IST",
-    "stop": "2026-01-24 06:35:00 IST",
+    "stop": "2026-01-24 06:00:00 IST",
     "channel": "jio-204",
     "title": "Women's Bundesliga Soccer",
     "subTitle": "From An der Alten forsterei Stadium in Berlin, Germany.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124003000",
+    "stopRaw": "20260124010500",
+    "start": "2026-01-24 06:00:00 IST",
+    "stop": "2026-01-24 06:35:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India University Games",
+    "subTitle": "A national level multi-sport competition organised by Sports Authority of India for athletes from universities across India to compete.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -361,12 +371,22 @@
   },
   {
     "startRaw": "20260124023000",
-    "stopRaw": "20260124040000",
+    "stopRaw": "20260124033000",
     "start": "2026-01-24 08:00:00 IST",
-    "stop": "2026-01-24 09:30:00 IST",
+    "stop": "2026-01-24 09:00:00 IST",
     "channel": "jio-204",
     "title": "Commonwealth Weightlifting Championship",
     "subTitle": "Professional athletes compete against each other to emerge victorious in the Commonwealth Weightlifting Championships to win the coveted title.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124033000",
+    "stopRaw": "20260124040000",
+    "start": "2026-01-24 09:00:00 IST",
+    "stop": "2026-01-24 09:30:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India Winter Games",
+    "subTitle": "Professional athletes from across the country compete in various events at the Khelo India Winter Games to emerge victorious.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -401,12 +421,22 @@
   },
   {
     "startRaw": "20260124143000",
-    "stopRaw": "20260124160000",
+    "stopRaw": "20260124153000",
     "start": "2026-01-24 20:00:00 IST",
-    "stop": "2026-01-24 21:30:00 IST",
+    "stop": "2026-01-24 21:00:00 IST",
     "channel": "jio-204",
     "title": "The Great Indian Cricket Show",
     "subTitle": "Various cricket players and sports experts engage in in-depth conversations with the aim of honouring India's rich cricketing legacy and nurturing enthusiasm among up-and-coming fans.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124153000",
+    "stopRaw": "20260124160000",
+    "start": "2026-01-24 21:00:00 IST",
+    "stop": "2026-01-24 21:30:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India Winter Games",
+    "subTitle": "Professional athletes from across the country compete in various events at the Khelo India Winter Games to emerge victorious.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -446,7 +476,7 @@
     "stop": "2026-01-24 23:59:59 IST",
     "channel": "jio-204",
     "title": "Hockey India League",
-    "subTitle": "Coverage of the professional men's field hockey league in India.",
+    "subTitle": "From Kalinga Stadium in Bhubaneswar, Odisha, India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

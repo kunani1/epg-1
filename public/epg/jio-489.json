@@ -721,42 +721,52 @@
   },
   {
     "startRaw": "20260123200000",
-    "stopRaw": "20260123220000",
+    "stopRaw": "20260123210000",
     "start": "2026-01-24 01:30:00 IST",
-    "stop": "2026-01-24 03:30:00 IST",
+    "stop": "2026-01-24 02:30:00 IST",
     "channel": "jio-489",
     "title": "Closing Bell",
     "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260123210000",
+    "stopRaw": "20260123220000",
+    "start": "2026-01-24 02:30:00 IST",
+    "stop": "2026-01-24 03:30:00 IST",
+    "channel": "jio-489",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260123220000",
-    "stopRaw": "20260123223000",
+    "stopRaw": "20260123230000",
     "start": "2026-01-24 03:30:00 IST",
-    "stop": "2026-01-24 04:00:00 IST",
+    "stop": "2026-01-24 04:30:00 IST",
     "channel": "jio-489",
     "title": "Fast Money",
     "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260123223000",
-    "stopRaw": "20260123230000",
-    "start": "2026-01-24 04:00:00 IST",
-    "stop": "2026-01-24 04:30:00 IST",
+    "startRaw": "20260123230000",
+    "stopRaw": "20260124000000",
+    "start": "2026-01-24 04:30:00 IST",
+    "stop": "2026-01-24 05:30:00 IST",
     "channel": "jio-489",
-    "title": "Option Exchange",
-    "subTitle": "A panel of financial experts discuss the various facets of the Indian economy and share their views on the trends in options exchange.",
+    "title": "The Tech Download",
+    "subTitle": "The Tech Download",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260123230000",
+    "startRaw": "20260124000000",
     "stopRaw": "20260124010000",
-    "start": "2026-01-24 04:30:00 IST",
+    "start": "2026-01-24 05:30:00 IST",
     "stop": "2026-01-24 06:30:00 IST",
     "channel": "jio-489",
-    "title": "Closing Bell",
-    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
+    "title": "Closing Bell: Overtime",
+    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -856,7 +866,7 @@
     "stop": "2026-01-24 11:30:00 IST",
     "channel": "jio-489",
     "title": "Young Turks",
-    "subTitle": "Young achievers, who are poised to become future leaders, talk about their past experiences, the challenges they faced and their vision for the future.",
+    "subTitle": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1046,7 +1056,7 @@
     "stop": "2026-01-24 21:00:00 IST",
     "channel": "jio-489",
     "title": "Young Turks",
-    "subTitle": "Young achievers, who are poised to become future leaders, talk about their past experiences, the challenges they faced and their vision for the future.",
+    "subTitle": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

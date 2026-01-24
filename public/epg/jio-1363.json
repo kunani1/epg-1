@@ -361,12 +361,22 @@
   },
   {
     "startRaw": "20260125153000",
-    "stopRaw": "20260125182959",
+    "stopRaw": "20260125181500",
     "start": "2026-01-25 21:00:00 IST",
-    "stop": "2026-01-25 23:59:59 IST",
+    "stop": "2026-01-25 23:45:00 IST",
     "channel": "jio-1363",
     "title": "Kurukshetram",
     "subTitle": "A police officer and his two subordinates embark on a mission to find a meticulous serial killer. As they dig into the case, they unravel a secret.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125181500",
+    "stopRaw": "20260125182959",
+    "start": "2026-01-25 23:45:00 IST",
+    "stop": "2026-01-25 23:59:59 IST",
+    "channel": "jio-1363",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

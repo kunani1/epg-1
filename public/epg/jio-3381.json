@@ -351,22 +351,32 @@
   },
   {
     "startRaw": "20260124213000",
-    "stopRaw": "20260125003000",
+    "stopRaw": "20260125010000",
     "start": "2026-01-25 03:00:00 IST",
-    "stop": "2026-01-25 06:00:00 IST",
+    "stop": "2026-01-25 06:30:00 IST",
     "channel": "jio-3381",
     "title": "Movies Time",
     "subTitle": "Movies Time",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260125003000",
-    "stopRaw": "20260125020000",
-    "start": "2026-01-25 06:00:00 IST",
-    "stop": "2026-01-25 07:30:00 IST",
+    "startRaw": "20260125010000",
+    "stopRaw": "20260125013000",
+    "start": "2026-01-25 06:30:00 IST",
+    "stop": "2026-01-25 07:00:00 IST",
     "channel": "jio-3381",
     "title": "Aalayam Ayiram",
     "subTitle": "Aalayam Ayiram",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125013000",
+    "stopRaw": "20260125020000",
+    "start": "2026-01-25 07:00:00 IST",
+    "stop": "2026-01-25 07:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Naalum Nalamum",
+    "subTitle": "Naalum Nalamum",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -375,24 +385,44 @@
     "start": "2026-01-25 07:30:00 IST",
     "stop": "2026-01-25 08:00:00 IST",
     "channel": "jio-3381",
-    "title": "Rasi Palan",
-    "subTitle": "Rasi Palan",
+    "title": "Ninaithaley Inikkum",
+    "subTitle": "An energetic young woman Bommi captures the hearts of a sweet-making royal family. Her confident belief system plays a titular role in keeping the family together.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125023000",
-    "stopRaw": "20260125033000",
+    "stopRaw": "20260125030000",
     "start": "2026-01-25 08:00:00 IST",
+    "stop": "2026-01-25 08:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Retro Songs",
+    "subTitle": "Retro Songs",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125030000",
+    "stopRaw": "20260125033000",
+    "start": "2026-01-25 08:30:00 IST",
     "stop": "2026-01-25 09:00:00 IST",
     "channel": "jio-3381",
-    "title": "Brio Live",
-    "subTitle": "Brio Live",
+    "title": "Retro Songs",
+    "subTitle": "Retro Songs",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125033000",
-    "stopRaw": "20260125043000",
+    "stopRaw": "20260125040000",
     "start": "2026-01-25 09:00:00 IST",
+    "stop": "2026-01-25 09:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Super Scene",
+    "subTitle": "Super Scene",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125040000",
+    "stopRaw": "20260125043000",
+    "start": "2026-01-25 09:30:00 IST",
     "stop": "2026-01-25 10:00:00 IST",
     "channel": "jio-3381",
     "title": "Super Scene",
@@ -401,22 +431,42 @@
   },
   {
     "startRaw": "20260125043000",
-    "stopRaw": "20260125053000",
+    "stopRaw": "20260125050000",
     "start": "2026-01-25 10:00:00 IST",
+    "stop": "2026-01-25 10:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Red Carpet",
+    "subTitle": "Red Carpet",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125050000",
+    "stopRaw": "20260125053000",
+    "start": "2026-01-25 10:30:00 IST",
     "stop": "2026-01-25 11:00:00 IST",
     "channel": "jio-3381",
-    "title": "New Songs",
-    "subTitle": "A comprehensive compilation of the latest catchy, popular and entertaining songs by various artists is played one after the other.",
+    "title": "Red Carpet",
+    "subTitle": "Red Carpet",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125053000",
-    "stopRaw": "20260125063000",
+    "stopRaw": "20260125060000",
     "start": "2026-01-25 11:00:00 IST",
+    "stop": "2026-01-25 11:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Comedy Junction",
+    "subTitle": "Comedy Junction",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125060000",
+    "stopRaw": "20260125063000",
+    "start": "2026-01-25 11:30:00 IST",
     "stop": "2026-01-25 12:00:00 IST",
     "channel": "jio-3381",
-    "title": "Gen Z Live",
-    "subTitle": "Gen Z Live",
+    "title": "Comedy Junction",
+    "subTitle": "Comedy Junction",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -425,8 +475,8 @@
     "start": "2026-01-25 12:00:00 IST",
     "stop": "2026-01-25 12:30:00 IST",
     "channel": "jio-3381",
-    "title": "Retro Songs",
-    "subTitle": "Retro Songs",
+    "title": "Brio Hits",
+    "subTitle": "Brio Hits",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -435,8 +485,8 @@
     "start": "2026-01-25 12:30:00 IST",
     "stop": "2026-01-25 13:00:00 IST",
     "channel": "jio-3381",
-    "title": "Penn",
-    "subTitle": "Penn",
+    "title": "Hi Fi Movies",
+    "subTitle": "Hi Fi Movies",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -445,14 +495,24 @@
     "start": "2026-01-25 13:00:00 IST",
     "stop": "2026-01-25 16:00:00 IST",
     "channel": "jio-3381",
-    "title": "Movies Time",
-    "subTitle": "Movies Time",
+    "title": "Suvar Illatha Chithirangal",
+    "subTitle": "Saroja, a spirited young woman from a poor family, falls deeply in love with Murthy, the heir to a wealthy family. However, when Murthy's father discovers their love, he abandons him.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125103000",
-    "stopRaw": "20260125113000",
+    "stopRaw": "20260125110000",
     "start": "2026-01-25 16:00:00 IST",
+    "stop": "2026-01-25 16:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Comedy Junction",
+    "subTitle": "Comedy Junction",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125110000",
+    "stopRaw": "20260125113000",
+    "start": "2026-01-25 16:30:00 IST",
     "stop": "2026-01-25 17:00:00 IST",
     "channel": "jio-3381",
     "title": "Comedy Junction",
@@ -461,18 +521,38 @@
   },
   {
     "startRaw": "20260125113000",
-    "stopRaw": "20260125123000",
+    "stopRaw": "20260125120000",
     "start": "2026-01-25 17:00:00 IST",
+    "stop": "2026-01-25 17:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Brio Hits",
+    "subTitle": "Brio Hits",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125120000",
+    "stopRaw": "20260125123000",
+    "start": "2026-01-25 17:30:00 IST",
     "stop": "2026-01-25 18:00:00 IST",
     "channel": "jio-3381",
-    "title": "Brio Full Meals",
-    "subTitle": "Brio Full Meals",
+    "title": "Brio Hits",
+    "subTitle": "Brio Hits",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125123000",
-    "stopRaw": "20260125133000",
+    "stopRaw": "20260125130000",
     "start": "2026-01-25 18:00:00 IST",
+    "stop": "2026-01-25 18:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Aalayam Ayiram",
+    "subTitle": "Aalayam Ayiram",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125130000",
+    "stopRaw": "20260125133000",
+    "start": "2026-01-25 18:30:00 IST",
     "stop": "2026-01-25 19:00:00 IST",
     "channel": "jio-3381",
     "title": "Aalayam Ayiram",
@@ -485,28 +565,48 @@
     "start": "2026-01-25 19:00:00 IST",
     "stop": "2026-01-25 19:30:00 IST",
     "channel": "jio-3381",
-    "title": "En Thangai",
-    "subTitle": "Bringing the best in television.",
+    "title": "Hi Fi Movies",
+    "subTitle": "Hi Fi Movies",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260125140000",
-    "stopRaw": "20260125170000",
+    "stopRaw": "20260125143000",
     "start": "2026-01-25 19:30:00 IST",
-    "stop": "2026-01-25 22:30:00 IST",
+    "stop": "2026-01-25 20:00:00 IST",
     "channel": "jio-3381",
-    "title": "Movies Time",
-    "subTitle": "Movies Time",
+    "title": "Vetri Paathai",
+    "subTitle": "Vetri Paathai",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260125170000",
+    "startRaw": "20260125143000",
+    "stopRaw": "20260125150000",
+    "start": "2026-01-25 20:00:00 IST",
+    "stop": "2026-01-25 20:30:00 IST",
+    "channel": "jio-3381",
+    "title": "Saadhanai Pengal",
+    "subTitle": "Saadhanai Pengal",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125150000",
+    "stopRaw": "20260125153000",
+    "start": "2026-01-25 20:30:00 IST",
+    "stop": "2026-01-25 21:00:00 IST",
+    "channel": "jio-3381",
+    "title": "Saadhanai Pengal",
+    "subTitle": "Saadhanai Pengal",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125153000",
     "stopRaw": "20260125182959",
-    "start": "2026-01-25 22:30:00 IST",
+    "start": "2026-01-25 21:00:00 IST",
     "stop": "2026-01-25 23:59:59 IST",
     "channel": "jio-3381",
-    "title": "Ninaithaley Inikkum",
-    "subTitle": "An energetic young woman Bommi captures the hearts of a sweet-making royal family. Her confident belief system plays a titular role in keeping the family together.",
+    "title": "Meendum Savithri",
+    "subTitle": "Manju, a middle-class woman, meets Vasudevan, who seems to be the perfect future husband. She gets married to him but later discovers that he is already married to another woman, Uma.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

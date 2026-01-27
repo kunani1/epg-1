@@ -1,5 +1,475 @@
 [
   {
+    "startRaw": "20260124183000",
+    "stopRaw": "20260124190000",
+    "start": "2026-01-25 00:00:00 IST",
+    "stop": "2026-01-25 00:30:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124190000",
+    "stopRaw": "20260124193000",
+    "start": "2026-01-25 00:30:00 IST",
+    "stop": "2026-01-25 01:00:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124193000",
+    "stopRaw": "20260124200000",
+    "start": "2026-01-25 01:00:00 IST",
+    "stop": "2026-01-25 01:30:00 IST",
+    "channel": "jio-653",
+    "title": "Kandiddu Kaanaddu",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124200000",
+    "stopRaw": "20260124203000",
+    "start": "2026-01-25 01:30:00 IST",
+    "stop": "2026-01-25 02:00:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124203000",
+    "stopRaw": "20260124210000",
+    "start": "2026-01-25 02:00:00 IST",
+    "stop": "2026-01-25 02:30:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124210000",
+    "stopRaw": "20260124213000",
+    "start": "2026-01-25 02:30:00 IST",
+    "stop": "2026-01-25 03:00:00 IST",
+    "channel": "jio-653",
+    "title": "6 pm Sakhat Suddi",
+    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124213000",
+    "stopRaw": "20260124220000",
+    "start": "2026-01-25 03:00:00 IST",
+    "stop": "2026-01-25 03:30:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124220000",
+    "stopRaw": "20260124223000",
+    "start": "2026-01-25 03:30:00 IST",
+    "stop": "2026-01-25 04:00:00 IST",
+    "channel": "jio-653",
+    "title": "3 Maha Suddi",
+    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124223000",
+    "stopRaw": "20260124230000",
+    "start": "2026-01-25 04:00:00 IST",
+    "stop": "2026-01-25 04:30:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124230000",
+    "stopRaw": "20260124233000",
+    "start": "2026-01-25 04:30:00 IST",
+    "stop": "2026-01-25 05:00:00 IST",
+    "channel": "jio-653",
+    "title": "6 pm Sakhat Suddi",
+    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260124233000",
+    "stopRaw": "20260125000000",
+    "start": "2026-01-25 05:00:00 IST",
+    "stop": "2026-01-25 05:30:00 IST",
+    "channel": "jio-653",
+    "title": "Waw",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125000000",
+    "stopRaw": "20260125003000",
+    "start": "2026-01-25 05:30:00 IST",
+    "stop": "2026-01-25 06:00:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125003000",
+    "stopRaw": "20260125010000",
+    "start": "2026-01-25 06:00:00 IST",
+    "stop": "2026-01-25 06:30:00 IST",
+    "channel": "jio-653",
+    "title": "Namaste Karnataka",
+    "subTitle": "The host presents the latest news updates and developments surrounding various socio-economic and political issues and provides updates on current events from the state of Karnataka.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125010000",
+    "stopRaw": "20260125013000",
+    "start": "2026-01-25 06:30:00 IST",
+    "stop": "2026-01-25 07:00:00 IST",
+    "channel": "jio-653",
+    "title": "En Kathe",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125013000",
+    "stopRaw": "20260125020000",
+    "start": "2026-01-25 07:00:00 IST",
+    "stop": "2026-01-25 07:30:00 IST",
+    "channel": "jio-653",
+    "title": "31 Jille 31 Suddi",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the top 31 latest news and developments from nearby villages.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125020000",
+    "stopRaw": "20260125023000",
+    "start": "2026-01-25 07:30:00 IST",
+    "stop": "2026-01-25 08:00:00 IST",
+    "channel": "jio-653",
+    "title": "Kannada Naadi",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125023000",
+    "stopRaw": "20260125030000",
+    "start": "2026-01-25 08:00:00 IST",
+    "stop": "2026-01-25 08:30:00 IST",
+    "channel": "jio-653",
+    "title": "Karnataka Suddi",
+    "subTitle": "The host presents the latest and the most important political and socio-economic updates and developments from across Karnataka, India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125030000",
+    "stopRaw": "20260125033000",
+    "start": "2026-01-25 08:30:00 IST",
+    "stop": "2026-01-25 09:00:00 IST",
+    "channel": "jio-653",
+    "title": "3 Maha Suddi",
+    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125033000",
+    "stopRaw": "20260125040000",
+    "start": "2026-01-25 09:00:00 IST",
+    "stop": "2026-01-25 09:30:00 IST",
+    "channel": "jio-653",
+    "title": "Ee Kshana",
+    "subTitle": "The host delivers latest political news and analysis of current events as politicians answer press queries and debate issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125040000",
+    "stopRaw": "20260125043000",
+    "start": "2026-01-25 09:30:00 IST",
+    "stop": "2026-01-25 10:00:00 IST",
+    "channel": "jio-653",
+    "title": "Parapancha",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125043000",
+    "stopRaw": "20260125050000",
+    "start": "2026-01-25 10:00:00 IST",
+    "stop": "2026-01-25 10:30:00 IST",
+    "channel": "jio-653",
+    "title": "Nammuralli News 18",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125050000",
+    "stopRaw": "20260125053000",
+    "start": "2026-01-25 10:30:00 IST",
+    "stop": "2026-01-25 11:00:00 IST",
+    "channel": "jio-653",
+    "title": "Waw",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125053000",
+    "stopRaw": "20260125060000",
+    "start": "2026-01-25 11:00:00 IST",
+    "stop": "2026-01-25 11:30:00 IST",
+    "channel": "jio-653",
+    "title": "Express 50",
+    "subTitle": "The host presents the top 50 news headlines and significant developments pertaining to various pressing issues across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125060000",
+    "stopRaw": "20260125063000",
+    "start": "2026-01-25 11:30:00 IST",
+    "stop": "2026-01-25 12:00:00 IST",
+    "channel": "jio-653",
+    "title": "SPL News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125063000",
+    "stopRaw": "20260125070000",
+    "start": "2026-01-25 12:00:00 IST",
+    "stop": "2026-01-25 12:30:00 IST",
+    "channel": "jio-653",
+    "title": "12 Gante Suddi - Live",
+    "subTitle": "The host collates and presents the latest and most important social, political and economic news updates and stories of the day, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125070000",
+    "stopRaw": "20260125073000",
+    "start": "2026-01-25 12:30:00 IST",
+    "stop": "2026-01-25 13:00:00 IST",
+    "channel": "jio-653",
+    "title": "Viral Suddi",
+    "subTitle": "The host offers detailed insights into ongoing events of widespread interest across the region with relevant updates on their progress.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125073000",
+    "stopRaw": "20260125080000",
+    "start": "2026-01-25 13:00:00 IST",
+    "stop": "2026-01-25 13:30:00 IST",
+    "channel": "jio-653",
+    "title": "Matinee Show",
+    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125080000",
+    "stopRaw": "20260125083000",
+    "start": "2026-01-25 13:30:00 IST",
+    "stop": "2026-01-25 14:00:00 IST",
+    "channel": "jio-653",
+    "title": "Matinee Show",
+    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125083000",
+    "stopRaw": "20260125090000",
+    "start": "2026-01-25 14:00:00 IST",
+    "stop": "2026-01-25 14:30:00 IST",
+    "channel": "jio-653",
+    "title": "30 Minutes 30 News Live",
+    "subTitle": "The host sheds light on the latest top 30 news stories and major events happening in the country and around the world within the span of 30 minutes, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125090000",
+    "stopRaw": "20260125093000",
+    "start": "2026-01-25 14:30:00 IST",
+    "stop": "2026-01-25 15:00:00 IST",
+    "channel": "jio-653",
+    "title": "Real Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125093000",
+    "stopRaw": "20260125100000",
+    "start": "2026-01-25 15:00:00 IST",
+    "stop": "2026-01-25 15:30:00 IST",
+    "channel": "jio-653",
+    "title": "3 Gante Suddi",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125100000",
+    "stopRaw": "20260125103000",
+    "start": "2026-01-25 15:30:00 IST",
+    "stop": "2026-01-25 16:00:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125103000",
+    "stopRaw": "20260125110000",
+    "start": "2026-01-25 16:00:00 IST",
+    "stop": "2026-01-25 16:30:00 IST",
+    "channel": "jio-653",
+    "title": "4 Gante Suddi",
+    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125110000",
+    "stopRaw": "20260125113000",
+    "start": "2026-01-25 16:30:00 IST",
+    "stop": "2026-01-25 17:00:00 IST",
+    "channel": "jio-653",
+    "title": "Parapancha",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125113000",
+    "stopRaw": "20260125120000",
+    "start": "2026-01-25 17:00:00 IST",
+    "stop": "2026-01-25 17:30:00 IST",
+    "channel": "jio-653",
+    "title": "Sanje Samachara",
+    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125120000",
+    "stopRaw": "20260125123000",
+    "start": "2026-01-25 17:30:00 IST",
+    "stop": "2026-01-25 18:00:00 IST",
+    "channel": "jio-653",
+    "title": "Cinema Tent",
+    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125123000",
+    "stopRaw": "20260125130000",
+    "start": "2026-01-25 18:00:00 IST",
+    "stop": "2026-01-25 18:30:00 IST",
+    "channel": "jio-653",
+    "title": "Sakhat Suddi",
+    "subTitle": "The host presents news stories that have gained immense popularity on social media platforms and provides a detailed report on them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125130000",
+    "stopRaw": "20260125133000",
+    "start": "2026-01-25 18:30:00 IST",
+    "stop": "2026-01-25 19:00:00 IST",
+    "channel": "jio-653",
+    "title": "Gili Gili Politics",
+    "subTitle": "The hosts present the latest news, updates and developments from the field of politics with a comical twist and add a satirical element to the facts shared.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125133000",
+    "stopRaw": "20260125143000",
+    "start": "2026-01-25 19:00:00 IST",
+    "stop": "2026-01-25 20:00:00 IST",
+    "channel": "jio-653",
+    "title": "Jana Mana",
+    "subTitle": "The host presents the latest updates on social, economic and political developments in Karnataka, keeping viewers informed about current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125143000",
+    "stopRaw": "20260125150000",
+    "start": "2026-01-25 20:00:00 IST",
+    "stop": "2026-01-25 20:30:00 IST",
+    "channel": "jio-653",
+    "title": "Kannada Naadi",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125150000",
+    "stopRaw": "20260125153000",
+    "start": "2026-01-25 20:30:00 IST",
+    "stop": "2026-01-25 21:00:00 IST",
+    "channel": "jio-653",
+    "title": "3 Maha Suddi",
+    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125153000",
+    "stopRaw": "20260125160000",
+    "start": "2026-01-25 21:00:00 IST",
+    "stop": "2026-01-25 21:30:00 IST",
+    "channel": "jio-653",
+    "title": "Super Prime at 9 PM",
+    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125160000",
+    "stopRaw": "20260125163000",
+    "start": "2026-01-25 21:30:00 IST",
+    "stop": "2026-01-25 22:00:00 IST",
+    "channel": "jio-653",
+    "title": "Crime Diary",
+    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125163000",
+    "stopRaw": "20260125170000",
+    "start": "2026-01-25 22:00:00 IST",
+    "stop": "2026-01-25 22:30:00 IST",
+    "channel": "jio-653",
+    "title": "Namma Bengaluru",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events happening across Bangalore.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125170000",
+    "stopRaw": "20260125173000",
+    "start": "2026-01-25 22:30:00 IST",
+    "stop": "2026-01-25 23:00:00 IST",
+    "channel": "jio-653",
+    "title": "Ola Nota",
+    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125173000",
+    "stopRaw": "20260125180000",
+    "start": "2026-01-25 23:00:00 IST",
+    "stop": "2026-01-25 23:30:00 IST",
+    "channel": "jio-653",
+    "title": "Complete News @ 11pm Live",
+    "subTitle": "The host presents a detailed report on the latest news updates, stories and developments pertaining to topics ranging from current affairs to sports, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260125180000",
+    "stopRaw": "20260125182959",
+    "start": "2026-01-25 23:30:00 IST",
+    "stop": "2026-01-25 23:59:59 IST",
+    "channel": "jio-653",
+    "title": "Jana Mana",
+    "subTitle": "The host presents the latest updates on social, economic and political developments in Karnataka, keeping viewers informed about current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260125183000",
     "stopRaw": "20260125190000",
     "start": "2026-01-26 00:00:00 IST",
@@ -954,486 +1424,6 @@
     "stopRaw": "20260127182959",
     "start": "2026-01-27 23:30:00 IST",
     "stop": "2026-01-27 23:59:59 IST",
-    "channel": "jio-653",
-    "title": "Mane Mane Masala",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127183000",
-    "stopRaw": "20260127190000",
-    "start": "2026-01-28 00:00:00 IST",
-    "stop": "2026-01-28 00:30:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127190000",
-    "stopRaw": "20260127193000",
-    "start": "2026-01-28 00:30:00 IST",
-    "stop": "2026-01-28 01:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127193000",
-    "stopRaw": "20260127200000",
-    "start": "2026-01-28 01:00:00 IST",
-    "stop": "2026-01-28 01:30:00 IST",
-    "channel": "jio-653",
-    "title": "Kandiddu Kaanaddu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127200000",
-    "stopRaw": "20260127203000",
-    "start": "2026-01-28 01:30:00 IST",
-    "stop": "2026-01-28 02:00:00 IST",
-    "channel": "jio-653",
-    "title": "Real Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127203000",
-    "stopRaw": "20260127210000",
-    "start": "2026-01-28 02:00:00 IST",
-    "stop": "2026-01-28 02:30:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127210000",
-    "stopRaw": "20260127213000",
-    "start": "2026-01-28 02:30:00 IST",
-    "stop": "2026-01-28 03:00:00 IST",
-    "channel": "jio-653",
-    "title": "6 pm Sakhat Suddi",
-    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127213000",
-    "stopRaw": "20260127220000",
-    "start": "2026-01-28 03:00:00 IST",
-    "stop": "2026-01-28 03:30:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127220000",
-    "stopRaw": "20260127223000",
-    "start": "2026-01-28 03:30:00 IST",
-    "stop": "2026-01-28 04:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Vishesha Varadi",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127223000",
-    "stopRaw": "20260127230000",
-    "start": "2026-01-28 04:00:00 IST",
-    "stop": "2026-01-28 04:30:00 IST",
-    "channel": "jio-653",
-    "title": "Real Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127230000",
-    "stopRaw": "20260127233000",
-    "start": "2026-01-28 04:30:00 IST",
-    "stop": "2026-01-28 05:00:00 IST",
-    "channel": "jio-653",
-    "title": "6 pm Sakhat Suddi",
-    "subTitle": "The host highlights and discusses several highly trending news updates and developments on various social media platforms.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260127233000",
-    "stopRaw": "20260128000000",
-    "start": "2026-01-28 05:00:00 IST",
-    "stop": "2026-01-28 05:30:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128000000",
-    "stopRaw": "20260128003000",
-    "start": "2026-01-28 05:30:00 IST",
-    "stop": "2026-01-28 06:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128003000",
-    "stopRaw": "20260128010000",
-    "start": "2026-01-28 06:00:00 IST",
-    "stop": "2026-01-28 06:30:00 IST",
-    "channel": "jio-653",
-    "title": "Namaste Karnataka",
-    "subTitle": "The host presents the latest news updates and developments surrounding various socio-economic and political issues and provides updates on current events from the state of Karnataka.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128010000",
-    "stopRaw": "20260128013000",
-    "start": "2026-01-28 06:30:00 IST",
-    "stop": "2026-01-28 07:00:00 IST",
-    "channel": "jio-653",
-    "title": "En Kathe",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128013000",
-    "stopRaw": "20260128020000",
-    "start": "2026-01-28 07:00:00 IST",
-    "stop": "2026-01-28 07:30:00 IST",
-    "channel": "jio-653",
-    "title": "31 Jille 31 Suddi",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the top 31 latest news and developments from nearby villages.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128020000",
-    "stopRaw": "20260128023000",
-    "start": "2026-01-28 07:30:00 IST",
-    "stop": "2026-01-28 08:00:00 IST",
-    "channel": "jio-653",
-    "title": "Kannada Naadi",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128023000",
-    "stopRaw": "20260128030000",
-    "start": "2026-01-28 08:00:00 IST",
-    "stop": "2026-01-28 08:30:00 IST",
-    "channel": "jio-653",
-    "title": "Karnataka Suddi",
-    "subTitle": "The host presents the latest and the most important political and socio-economic updates and developments from across Karnataka, India.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128030000",
-    "stopRaw": "20260128033000",
-    "start": "2026-01-28 08:30:00 IST",
-    "stop": "2026-01-28 09:00:00 IST",
-    "channel": "jio-653",
-    "title": "3 Maha Suddi",
-    "subTitle": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128033000",
-    "stopRaw": "20260128040000",
-    "start": "2026-01-28 09:00:00 IST",
-    "stop": "2026-01-28 09:30:00 IST",
-    "channel": "jio-653",
-    "title": "Ee Kshana",
-    "subTitle": "The host delivers latest political news and analysis of current events as politicians answer press queries and debate issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128040000",
-    "stopRaw": "20260128043000",
-    "start": "2026-01-28 09:30:00 IST",
-    "stop": "2026-01-28 10:00:00 IST",
-    "channel": "jio-653",
-    "title": "Parapancha",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128043000",
-    "stopRaw": "20260128050000",
-    "start": "2026-01-28 10:00:00 IST",
-    "stop": "2026-01-28 10:30:00 IST",
-    "channel": "jio-653",
-    "title": "Nammuralli News 18",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128050000",
-    "stopRaw": "20260128053000",
-    "start": "2026-01-28 10:30:00 IST",
-    "stop": "2026-01-28 11:00:00 IST",
-    "channel": "jio-653",
-    "title": "Waw",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128053000",
-    "stopRaw": "20260128060000",
-    "start": "2026-01-28 11:00:00 IST",
-    "stop": "2026-01-28 11:30:00 IST",
-    "channel": "jio-653",
-    "title": "Express 50",
-    "subTitle": "The host presents the top 50 news headlines and significant developments pertaining to various pressing issues across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128060000",
-    "stopRaw": "20260128063000",
-    "start": "2026-01-28 11:30:00 IST",
-    "stop": "2026-01-28 12:00:00 IST",
-    "channel": "jio-653",
-    "title": "Maatu Kathe",
-    "subTitle": "The host presents a detailed report of some of the latest news stories about political, economic, social and cultural topics from all around the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128063000",
-    "stopRaw": "20260128070000",
-    "start": "2026-01-28 12:00:00 IST",
-    "stop": "2026-01-28 12:30:00 IST",
-    "channel": "jio-653",
-    "title": "12 Gante Suddi - Live",
-    "subTitle": "The host collates and presents the latest and most important social, political and economic news updates and stories of the day, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128070000",
-    "stopRaw": "20260128073000",
-    "start": "2026-01-28 12:30:00 IST",
-    "stop": "2026-01-28 13:00:00 IST",
-    "channel": "jio-653",
-    "title": "Viral Suddi",
-    "subTitle": "The host offers detailed insights into ongoing events of widespread interest across the region with relevant updates on their progress.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128073000",
-    "stopRaw": "20260128080000",
-    "start": "2026-01-28 13:00:00 IST",
-    "stop": "2026-01-28 13:30:00 IST",
-    "channel": "jio-653",
-    "title": "Suddi Madhyahna",
-    "subTitle": "The host presents a round-up of recent news and updates on politics, current affairs, business and sports from across India.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128080000",
-    "stopRaw": "20260128083000",
-    "start": "2026-01-28 13:30:00 IST",
-    "stop": "2026-01-28 14:00:00 IST",
-    "channel": "jio-653",
-    "title": "Matinee Show",
-    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128083000",
-    "stopRaw": "20260128090000",
-    "start": "2026-01-28 14:00:00 IST",
-    "stop": "2026-01-28 14:30:00 IST",
-    "channel": "jio-653",
-    "title": "30 Minutes 30 News Live",
-    "subTitle": "The host sheds light on the latest top 30 news stories and major events happening in the country and around the world within the span of 30 minutes, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128090000",
-    "stopRaw": "20260128093000",
-    "start": "2026-01-28 14:30:00 IST",
-    "stop": "2026-01-28 15:00:00 IST",
-    "channel": "jio-653",
-    "title": "Real Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128093000",
-    "stopRaw": "20260128100000",
-    "start": "2026-01-28 15:00:00 IST",
-    "stop": "2026-01-28 15:30:00 IST",
-    "channel": "jio-653",
-    "title": "3 Gante Suddi",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128100000",
-    "stopRaw": "20260128103000",
-    "start": "2026-01-28 15:30:00 IST",
-    "stop": "2026-01-28 16:00:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128103000",
-    "stopRaw": "20260128110000",
-    "start": "2026-01-28 16:00:00 IST",
-    "stop": "2026-01-28 16:30:00 IST",
-    "channel": "jio-653",
-    "title": "4 Gante Suddi",
-    "subTitle": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128110000",
-    "stopRaw": "20260128113000",
-    "start": "2026-01-28 16:30:00 IST",
-    "stop": "2026-01-28 17:00:00 IST",
-    "channel": "jio-653",
-    "title": "Chaduranga",
-    "subTitle": "The host presents information on the political affairs of the state and provides the latest developments on current happenings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128113000",
-    "stopRaw": "20260128120000",
-    "start": "2026-01-28 17:00:00 IST",
-    "stop": "2026-01-28 17:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sanje Samachara",
-    "subTitle": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128120000",
-    "stopRaw": "20260128123000",
-    "start": "2026-01-28 17:30:00 IST",
-    "stop": "2026-01-28 18:00:00 IST",
-    "channel": "jio-653",
-    "title": "Cinema Tent",
-    "subTitle": "The host presents news updates and the latest information pertaining to the entertainment industry and interviews people related to it.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128123000",
-    "stopRaw": "20260128130000",
-    "start": "2026-01-28 18:00:00 IST",
-    "stop": "2026-01-28 18:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sakhat Suddi",
-    "subTitle": "The host presents news stories that have gained immense popularity on social media platforms and provides a detailed report on them.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128130000",
-    "stopRaw": "20260128133000",
-    "start": "2026-01-28 18:30:00 IST",
-    "stop": "2026-01-28 19:00:00 IST",
-    "channel": "jio-653",
-    "title": "Kandiddu Kaanaddu",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128133000",
-    "stopRaw": "20260128140000",
-    "start": "2026-01-28 19:00:00 IST",
-    "stop": "2026-01-28 19:30:00 IST",
-    "channel": "jio-653",
-    "title": "Sanje Superfast",
-    "subTitle": "The presenter shares a sequence of updates on ongoing issues of communal, political and economic concern in quick succession.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128140000",
-    "stopRaw": "20260128143000",
-    "start": "2026-01-28 19:30:00 IST",
-    "stop": "2026-01-28 20:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Panchayti",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128143000",
-    "stopRaw": "20260128150000",
-    "start": "2026-01-28 20:00:00 IST",
-    "stop": "2026-01-28 20:30:00 IST",
-    "channel": "jio-653",
-    "title": "Kannada Naadi",
-    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128150000",
-    "stopRaw": "20260128153000",
-    "start": "2026-01-28 20:30:00 IST",
-    "stop": "2026-01-28 21:00:00 IST",
-    "channel": "jio-653",
-    "title": "News 18 Vishesha Varadi",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128153000",
-    "stopRaw": "20260128160000",
-    "start": "2026-01-28 21:00:00 IST",
-    "stop": "2026-01-28 21:30:00 IST",
-    "channel": "jio-653",
-    "title": "Super Prime at 9 PM",
-    "subTitle": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128160000",
-    "stopRaw": "20260128163000",
-    "start": "2026-01-28 21:30:00 IST",
-    "stop": "2026-01-28 22:00:00 IST",
-    "channel": "jio-653",
-    "title": "Crime Diary",
-    "subTitle": "The host narrates some of the latest crime stories from all over the country and sheds light on how the culprits were caught with a view to increase general public awareness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128163000",
-    "stopRaw": "20260128170000",
-    "start": "2026-01-28 22:00:00 IST",
-    "stop": "2026-01-28 22:30:00 IST",
-    "channel": "jio-653",
-    "title": "Namma Bengaluru",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events happening across Bangalore.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128170000",
-    "stopRaw": "20260128173000",
-    "start": "2026-01-28 22:30:00 IST",
-    "stop": "2026-01-28 23:00:00 IST",
-    "channel": "jio-653",
-    "title": "Ola Nota",
-    "subTitle": "The presenter offers detailed insights into ongoing regional affairs of political, socio-economic and cultural concerns to share relevant updates.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128173000",
-    "stopRaw": "20260128180000",
-    "start": "2026-01-28 23:00:00 IST",
-    "stop": "2026-01-28 23:30:00 IST",
-    "channel": "jio-653",
-    "title": "Complete News @ 11pm Live",
-    "subTitle": "The host presents a detailed report on the latest news updates, stories and developments pertaining to topics ranging from current affairs to sports, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260128180000",
-    "stopRaw": "20260128182959",
-    "start": "2026-01-28 23:30:00 IST",
-    "stop": "2026-01-28 23:59:59 IST",
     "channel": "jio-653",
     "title": "Mane Mane Masala",
     "subTitle": "Bringing the best in television.",

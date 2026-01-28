@@ -541,8 +541,28 @@
   },
   {
     "startRaw": "20260129130000",
-    "stopRaw": "20260129160000",
+    "stopRaw": "20260129133000",
     "start": "2026-01-29 18:30:00 IST",
+    "stop": "2026-01-29 19:00:00 IST",
+    "channel": "jio-414",
+    "title": "Kabaddi Champions League Pre Show",
+    "subTitle": "Kabaddi Champions League Pre Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129133000",
+    "stopRaw": "20260129143000",
+    "start": "2026-01-29 19:00:00 IST",
+    "stop": "2026-01-29 20:00:00 IST",
+    "channel": "jio-414",
+    "title": "Kabaddi Champions League",
+    "subTitle": "Kabaddi Champions League",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129143000",
+    "stopRaw": "20260129160000",
+    "start": "2026-01-29 20:00:00 IST",
     "stop": "2026-01-29 21:30:00 IST",
     "channel": "jio-414",
     "title": "Kabaddi Champions League",

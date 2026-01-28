@@ -881,32 +881,322 @@
   },
   {
     "startRaw": "20260128233000",
-    "stopRaw": "20260129000000",
+    "stopRaw": "20260129003000",
     "start": "2026-01-29 05:00:00 IST",
-    "stop": "2026-01-29 05:30:00 IST",
+    "stop": "2026-01-29 06:00:00 IST",
     "channel": "jio-769",
     "title": "Late Night News",
     "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260129000000",
-    "stopRaw": "20260129120000",
-    "start": "2026-01-29 05:30:00 IST",
-    "stop": "2026-01-29 17:30:00 IST",
+    "startRaw": "20260129003000",
+    "stopRaw": "20260129010000",
+    "start": "2026-01-29 06:00:00 IST",
+    "stop": "2026-01-29 06:30:00 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129010000",
+    "stopRaw": "20260129012800",
+    "start": "2026-01-29 06:30:00 IST",
+    "stop": "2026-01-29 06:58:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129012800",
+    "stopRaw": "20260129014500",
+    "start": "2026-01-29 06:58:00 IST",
+    "stop": "2026-01-29 07:15:00 IST",
+    "channel": "jio-769",
+    "title": "V6 News",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129014500",
+    "stopRaw": "20260129023000",
+    "start": "2026-01-29 07:15:00 IST",
+    "stop": "2026-01-29 08:00:00 IST",
+    "channel": "jio-769",
+    "title": "Good Morning Telangana",
+    "subTitle": "The host presents the latest news stories and developments surrounding various social and political matters concerning the state of Telangana.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129023000",
+    "stopRaw": "20260129030000",
+    "start": "2026-01-29 08:00:00 IST",
+    "stop": "2026-01-29 08:30:00 IST",
     "channel": "jio-769",
     "title": "Teenmaar Vaarthalu",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260129030000",
+    "stopRaw": "20260129031500",
+    "start": "2026-01-29 08:30:00 IST",
+    "stop": "2026-01-29 08:45:00 IST",
+    "channel": "jio-769",
+    "title": "Manasaveena",
+    "subTitle": "A compilation featuring various popular soundtracks from films, sung by talented artists, is played back-to-back to entertain the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129031500",
+    "stopRaw": "20260129033000",
+    "start": "2026-01-29 08:45:00 IST",
+    "stop": "2026-01-29 09:00:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129033000",
+    "stopRaw": "20260129043000",
+    "start": "2026-01-29 09:00:00 IST",
+    "stop": "2026-01-29 10:00:00 IST",
+    "channel": "jio-769",
+    "title": "9 AM News",
+    "subTitle": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129043000",
+    "stopRaw": "20260129052800",
+    "start": "2026-01-29 10:00:00 IST",
+    "stop": "2026-01-29 10:58:00 IST",
+    "channel": "jio-769",
+    "title": "10 AM News",
+    "subTitle": "The host provides a detailed analysis on the latest developments and updates on key issues across various frameworks affecting the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129052800",
+    "stopRaw": "20260129061500",
+    "start": "2026-01-29 10:58:00 IST",
+    "stop": "2026-01-29 11:45:00 IST",
+    "channel": "jio-769",
+    "title": "11 AM News",
+    "subTitle": "The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129061500",
+    "stopRaw": "20260129062800",
+    "start": "2026-01-29 11:45:00 IST",
+    "stop": "2026-01-29 11:58:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129062800",
+    "stopRaw": "20260129070000",
+    "start": "2026-01-29 11:58:00 IST",
+    "stop": "2026-01-29 12:30:00 IST",
+    "channel": "jio-769",
+    "title": "12 PM News",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129070000",
+    "stopRaw": "20260129072800",
+    "start": "2026-01-29 12:30:00 IST",
+    "stop": "2026-01-29 12:58:00 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129072800",
+    "stopRaw": "20260129081500",
+    "start": "2026-01-29 12:58:00 IST",
+    "stop": "2026-01-29 13:45:00 IST",
+    "channel": "jio-769",
+    "title": "News Lunch",
+    "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129081500",
+    "stopRaw": "20260129083000",
+    "start": "2026-01-29 13:45:00 IST",
+    "stop": "2026-01-29 14:00:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129083000",
+    "stopRaw": "20260129090000",
+    "start": "2026-01-29 14:00:00 IST",
+    "stop": "2026-01-29 14:30:00 IST",
+    "channel": "jio-769",
+    "title": "2 PM News",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129090000",
+    "stopRaw": "20260129092800",
+    "start": "2026-01-29 14:30:00 IST",
+    "stop": "2026-01-29 14:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129092800",
+    "stopRaw": "20260129100000",
+    "start": "2026-01-29 14:58:00 IST",
+    "stop": "2026-01-29 15:30:00 IST",
+    "channel": "jio-769",
+    "title": "3 PM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129100000",
+    "stopRaw": "20260129102800",
+    "start": "2026-01-29 15:30:00 IST",
+    "stop": "2026-01-29 15:58:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129102800",
+    "stopRaw": "20260129110000",
+    "start": "2026-01-29 15:58:00 IST",
+    "stop": "2026-01-29 16:30:00 IST",
+    "channel": "jio-769",
+    "title": "4 PM News",
+    "subTitle": "The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129110000",
+    "stopRaw": "20260129112800",
+    "start": "2026-01-29 16:30:00 IST",
+    "stop": "2026-01-29 16:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129112800",
+    "stopRaw": "20260129120000",
+    "start": "2026-01-29 16:58:00 IST",
+    "stop": "2026-01-29 17:30:00 IST",
+    "channel": "jio-769",
+    "title": "5 PM News",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260129120000",
-    "stopRaw": "20260129182959",
+    "stopRaw": "20260129122800",
     "start": "2026-01-29 17:30:00 IST",
-    "stop": "2026-01-29 23:59:59 IST",
+    "stop": "2026-01-29 17:58:00 IST",
+    "channel": "jio-769",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129122800",
+    "stopRaw": "20260129132800",
+    "start": "2026-01-29 17:58:00 IST",
+    "stop": "2026-01-29 18:58:00 IST",
+    "channel": "jio-769",
+    "title": "Telanganam",
+    "subTitle": "The host sheds light on the latest socio-political news, top stories about the economy and recent updates from the state of Telangana.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129132800",
+    "stopRaw": "20260129143000",
+    "start": "2026-01-29 18:58:00 IST",
+    "stop": "2026-01-29 20:00:00 IST",
+    "channel": "jio-769",
+    "title": "7 PM News",
+    "subTitle": "The host invites a panel of experts from different fields to discuss the latest updates and significant events related to current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129143000",
+    "stopRaw": "20260129152800",
+    "start": "2026-01-29 20:00:00 IST",
+    "stop": "2026-01-29 20:58:00 IST",
+    "channel": "jio-769",
+    "title": "8 Pm Discussion",
+    "subTitle": "The host interacts with a panel of experts who share their opinions and views on several social, political and economic issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129152800",
+    "stopRaw": "20260129160000",
+    "start": "2026-01-29 20:58:00 IST",
+    "stop": "2026-01-29 21:30:00 IST",
+    "channel": "jio-769",
+    "title": "News Junction",
+    "subTitle": "The host presents a comprehensive news bulletin comprising the latest regional and national events, updates and developments.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129160000",
+    "stopRaw": "20260129162800",
+    "start": "2026-01-29 21:30:00 IST",
+    "stop": "2026-01-29 21:58:00 IST",
     "channel": "jio-769",
     "title": "Teenmaar Vaarthalu",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129162800",
+    "stopRaw": "20260129172800",
+    "start": "2026-01-29 21:58:00 IST",
+    "stop": "2026-01-29 22:58:00 IST",
+    "channel": "jio-769",
+    "title": "Hamara Hyderabad",
+    "subTitle": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129172800",
+    "stopRaw": "20260129180000",
+    "start": "2026-01-29 22:58:00 IST",
+    "stop": "2026-01-29 23:30:00 IST",
+    "channel": "jio-769",
+    "title": "Late Night News",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260129180000",
+    "stopRaw": "20260129182959",
+    "start": "2026-01-29 23:30:00 IST",
+    "stop": "2026-01-29 23:59:59 IST",
+    "channel": "jio-769",
+    "title": "Cinema Talkies",
+    "subTitle": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

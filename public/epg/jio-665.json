@@ -1121,22 +1121,12 @@
   },
   {
     "startRaw": "20260130000000",
-    "stopRaw": "20260130002500",
-    "start": "2026-01-30 05:30:00 IST",
-    "stop": "2026-01-30 05:55:00 IST",
-    "channel": "jio-665",
-    "title": "Yoga",
-    "subTitle": "A yoga expert shares detailed techniques to improve flexibility, boost energy and reduce stress, offering a holistic approach to physical and mental wellness.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260130002500",
     "stopRaw": "20260130003000",
-    "start": "2026-01-30 05:55:00 IST",
+    "start": "2026-01-30 05:30:00 IST",
     "stop": "2026-01-30 06:00:00 IST",
     "channel": "jio-665",
-    "title": "5 Mints 25 Headlines",
-    "subTitle": "The host presents the top news stories in quick succession, covering issues across a range of frameworks that affect the lives of numerous people.",
+    "title": "Suprabhatam",
+    "subTitle": "Religious experts talk about the proper way to begin the day on a positive note and how a person can attain mental and physical composure by following these steps.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1145,8 +1135,8 @@
     "start": "2026-01-30 06:00:00 IST",
     "stop": "2026-01-30 06:30:00 IST",
     "channel": "jio-665",
-    "title": "News @6am",
-    "subTitle": "The host presents the latest news stories and significant developments of social, political and economic importance from across the globe.",
+    "title": "Nadopasana",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1155,8 +1145,8 @@
     "start": "2026-01-30 06:30:00 IST",
     "stop": "2026-01-30 06:55:00 IST",
     "channel": "jio-665",
-    "title": "Ekadasi Special",
-    "subTitle": "A religious scholar talks about the spiritual significance of Ekadasi, which constitutes the 11th day of each of the two lunar cycles in a month of the Hindu calendar.",
+    "title": "Nelathalli",
+    "subTitle": "The host explores the recent developments in the agricultural sector, highlighting the struggles and grievances of the farming community.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1165,14 +1155,24 @@
     "start": "2026-01-30 06:55:00 IST",
     "stop": "2026-01-30 07:30:00 IST",
     "channel": "jio-665",
-    "title": "Super Fast 50",
-    "subTitle": "The host presents the top fifty news updates and developments pertaining to various social, political and economic issues in quick succession.",
+    "title": "5 mints 25 headlines / News @ 7 am",
+    "subTitle": "The host presents the top 25 headlines in five minutes; the host sheds light on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260130020000",
-    "stopRaw": "20260130030000",
+    "stopRaw": "20260130023000",
     "start": "2026-01-30 07:30:00 IST",
+    "stop": "2026-01-30 08:00:00 IST",
+    "channel": "jio-665",
+    "title": "News Analysis",
+    "subTitle": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260130023000",
+    "stopRaw": "20260130030000",
+    "start": "2026-01-30 08:00:00 IST",
     "stop": "2026-01-30 08:30:00 IST",
     "channel": "jio-665",
     "title": "News Analysis",
@@ -1185,8 +1185,8 @@
     "start": "2026-01-30 08:30:00 IST",
     "stop": "2026-01-30 09:00:00 IST",
     "channel": "jio-665",
-    "title": "Bizz Buzz Live",
-    "subTitle": "The host presents some of the latest updates and developments from all across the globe, pertaining to business and finance, live.",
+    "title": "Jordar Varthalu",
+    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1215,8 +1215,8 @@
     "start": "2026-01-30 09:30:00 IST",
     "stop": "2026-01-30 10:00:00 IST",
     "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "title": "Burning Topic",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1235,8 +1235,8 @@
     "start": "2026-01-30 10:30:00 IST",
     "stop": "2026-01-30 11:00:00 IST",
     "channel": "jio-665",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "title": "Otr",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1255,8 +1255,8 @@
     "start": "2026-01-30 11:30:00 IST",
     "stop": "2026-01-30 12:00:00 IST",
     "channel": "jio-665",
-    "title": "Burning Topic",
-    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
+    "title": "Vandehlu Vandhanam",
+    "subTitle": "Vandehlu Vandhanam",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1275,8 +1275,8 @@
     "start": "2026-01-30 12:30:00 IST",
     "stop": "2026-01-30 13:00:00 IST",
     "channel": "jio-665",
-    "title": "Otr",
-    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+    "title": "Movie Interview",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1295,8 +1295,8 @@
     "start": "2026-01-30 13:30:00 IST",
     "stop": "2026-01-30 14:00:00 IST",
     "channel": "jio-665",
-    "title": "Show Time",
-    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
+    "title": "Commercial (RJR Commercial)",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1315,8 +1315,8 @@
     "start": "2026-01-30 14:30:00 IST",
     "stop": "2026-01-30 15:00:00 IST",
     "channel": "jio-665",
-    "title": "Jordar Varthalu",
-    "subTitle": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground.",
+    "title": "Jordar",
+    "subTitle": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1335,8 +1335,8 @@
     "start": "2026-01-30 15:30:00 IST",
     "stop": "2026-01-30 15:55:00 IST",
     "channel": "jio-665",
-    "title": "Food Stories",
-    "subTitle": "The host presents the development of common dishes which become strongly associated with particular countries, their fascinating backstories of inspiration and noteworthy landmarks from the world.",
+    "title": "Film Flash",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1345,8 +1345,8 @@
     "start": "2026-01-30 15:55:00 IST",
     "stop": "2026-01-30 16:30:00 IST",
     "channel": "jio-665",
-    "title": "Arogyam",
-    "subTitle": "Health experts shed light on the symptoms and cure of various ailments and suggest techniques to lead a happy and healthy life.",
+    "title": "News @ 4pm",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1355,8 +1355,8 @@
     "start": "2026-01-30 16:30:00 IST",
     "stop": "2026-01-30 17:00:00 IST",
     "channel": "jio-665",
-    "title": "Mata Pata",
-    "subTitle": "A comprehensive compilation of Telugu film songs is played back to back in order to entertain and enthrall the audience.",
+    "title": "Live Report",
+    "subTitle": "The host delivers essential bulletin stories and crucial developments on various social, economic and political issues, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1375,8 +1375,8 @@
     "start": "2026-01-30 17:30:00 IST",
     "stop": "2026-01-30 18:00:00 IST",
     "channel": "jio-665",
-    "title": "Divya Dhamam",
-    "subTitle": "Various religious leaders sing hymns and recite prayers in order to help devotees worship the Almighty and follow the path of righteousness.",
+    "title": "Greater To Greatest",
+    "subTitle": "Greater To Greatest",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1466,7 +1466,7 @@
     "stop": "2026-01-30 22:00:00 IST",
     "channel": "jio-665",
     "title": "Burning Topic",
-    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1485,8 +1485,8 @@
     "start": "2026-01-30 22:30:00 IST",
     "stop": "2026-01-30 22:55:00 IST",
     "channel": "jio-665",
-    "title": "Show Time",
-    "subTitle": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives.",
+    "title": "Film Flash",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1506,7 +1506,7 @@
     "stop": "2026-01-30 23:59:59 IST",
     "channel": "jio-665",
     "title": "Burning Topic",
-    "subTitle": "A panel of experts share their perspectives and insights on the latest social, economic and political events from around the world.",
+    "subTitle": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -725,8 +725,8 @@
     "start": "2026-01-30 06:00:00 IST",
     "stop": "2026-01-30 06:30:00 IST",
     "channel": "jio-203",
-    "title": "Good News Jazba India Ka/rang Tarang/ek Bharat Shreshtha Bharat/science Spark/ Defence Dynamic/ Cyber Alert",
-    "subTitle": "Good News Jazba India Ka/rang Tarang/ek Bharat Shreshtha Bharat/science Spark/ Defence Dynamic/ Cyber Alert",
+    "title": "Science Spark",
+    "subTitle": "Presents an in-depth analysis of the latest fascinating scientific advancements and concepts by using graphics in a simple manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -735,8 +735,8 @@
     "start": "2026-01-30 06:30:00 IST",
     "stop": "2026-01-30 06:45:00 IST",
     "channel": "jio-203",
-    "title": "Sanskrit Vaarta",
-    "subTitle": "Presents the latest news updates on politics and the economy in Sanskrit.",
+    "title": "Sanskrit Vaarta Samachar",
+    "subTitle": "Features news in Sanskrit, blending the ancient language with modern events to deliver current affairs and cultural insights.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -801,18 +801,8 @@
   },
   {
     "startRaw": "20260130043000",
-    "stopRaw": "20260130050000",
-    "start": "2026-01-30 10:00:00 IST",
-    "stop": "2026-01-30 10:30:00 IST",
-    "channel": "jio-203",
-    "title": "News @ 10",
-    "subTitle": "Explores the latest socio-economic and political updates of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260130050000",
     "stopRaw": "20260130053000",
-    "start": "2026-01-30 10:30:00 IST",
+    "start": "2026-01-30 10:00:00 IST",
     "stop": "2026-01-30 11:00:00 IST",
     "channel": "jio-203",
     "title": "News Punch",
@@ -855,8 +845,8 @@
     "start": "2026-01-30 13:00:00 IST",
     "stop": "2026-01-30 14:00:00 IST",
     "channel": "jio-203",
-    "title": "Mid Day Prime",
-    "subTitle": "A comprehensive news update from all over India and discussions on matters of concern.",
+    "title": "Mid Day Prime Hindi",
+    "subTitle": "Presents a detailed report about some of the latest news stories about political, economic, social and cultural topics from all around the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -905,8 +895,8 @@
     "start": "2026-01-30 16:30:00 IST",
     "stop": "2026-01-30 17:00:00 IST",
     "channel": "jio-203",
-    "title": "Samachar",
-    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "title": "Samachar / Sign Language",
+    "subTitle": "The host presents current events and important information in sign language, making news accessible to the hard of hearing community while delivering key updates and stories.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -965,8 +955,8 @@
     "start": "2026-01-30 20:00:00 IST",
     "stop": "2026-01-30 21:00:00 IST",
     "channel": "jio-203",
-    "title": "News Night in Hindi",
-    "subTitle": "Delivers latest updates and current affairs about commerce, athletics, governance and social matters globally.",
+    "title": "News Night",
+    "subTitle": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -981,18 +971,18 @@
   },
   {
     "startRaw": "20260130163000",
-    "stopRaw": "20260130170000",
+    "stopRaw": "20260130173000",
     "start": "2026-01-30 22:00:00 IST",
-    "stop": "2026-01-30 22:30:00 IST",
+    "stop": "2026-01-30 23:00:00 IST",
     "channel": "jio-203",
     "title": "Do Took",
     "subTitle": "Important figures come together to share their opinions about political and social topics from India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260130170000",
+    "startRaw": "20260130173000",
     "stopRaw": "20260130182959",
-    "start": "2026-01-30 22:30:00 IST",
+    "start": "2026-01-30 23:00:00 IST",
     "stop": "2026-01-30 23:59:59 IST",
     "channel": "jio-203",
     "title": "Samachar",

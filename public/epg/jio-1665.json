@@ -371,12 +371,22 @@
   },
   {
     "startRaw": "20260130013000",
-    "stopRaw": "20260130043000",
+    "stopRaw": "20260130035800",
     "start": "2026-01-30 07:00:00 IST",
-    "stop": "2026-01-30 10:00:00 IST",
+    "stop": "2026-01-30 09:28:00 IST",
     "channel": "jio-1665",
     "title": "Sahanam",
     "subTitle": "Bringing the best in cinema.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260130035800",
+    "stopRaw": "20260130043000",
+    "start": "2026-01-30 09:28:00 IST",
+    "stop": "2026-01-30 10:00:00 IST",
+    "channel": "jio-1665",
+    "title": "Film Based Programme",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -391,32 +401,72 @@
   },
   {
     "startRaw": "20260130073000",
-    "stopRaw": "20260130103000",
+    "stopRaw": "20260130073400",
     "start": "2026-01-30 13:00:00 IST",
-    "stop": "2026-01-30 16:00:00 IST",
+    "stop": "2026-01-30 13:04:00 IST",
     "channel": "jio-1665",
     "title": "Baby",
     "subTitle": "The relationship between two childhood sweethearts who are neighbours, is tested when they enter college and interact with new people.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260130073400",
+    "stopRaw": "20260130101800",
+    "start": "2026-01-30 13:04:00 IST",
+    "stop": "2026-01-30 15:48:00 IST",
+    "channel": "jio-1665",
+    "title": "Matinee Show",
+    "subTitle": "The host invites aspiring artists to showcase their talents in front of a live audience and entertain them with their performances.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260130101800",
+    "stopRaw": "20260130103000",
+    "start": "2026-01-30 15:48:00 IST",
+    "stop": "2026-01-30 16:00:00 IST",
+    "channel": "jio-1665",
+    "title": "Telugu Hits",
+    "subTitle": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260130103000",
-    "stopRaw": "20260130133000",
+    "stopRaw": "20260130124900",
     "start": "2026-01-30 16:00:00 IST",
-    "stop": "2026-01-30 19:00:00 IST",
+    "stop": "2026-01-30 18:19:00 IST",
     "channel": "jio-1665",
     "title": "Puttinti Pattucheera",
     "subTitle": "Movie starring Suresh, Yamuna and is directed by Boyina Subba Rao.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260130124900",
+    "stopRaw": "20260130133000",
+    "start": "2026-01-30 18:19:00 IST",
+    "stop": "2026-01-30 19:00:00 IST",
+    "channel": "jio-1665",
+    "title": "Film Based Programme",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260130133000",
-    "stopRaw": "20260130163000",
+    "stopRaw": "20260130162700",
     "start": "2026-01-30 19:00:00 IST",
-    "stop": "2026-01-30 22:00:00 IST",
+    "stop": "2026-01-30 21:57:00 IST",
     "channel": "jio-1665",
     "title": "Prana Mithrulu",
     "subTitle": "Life's responsibilities force two men, one a privileged son and the other an orphan, who were raised as brothers, to go their separate ways.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260130162700",
+    "stopRaw": "20260130163000",
+    "start": "2026-01-30 21:57:00 IST",
+    "stop": "2026-01-30 22:00:00 IST",
+    "channel": "jio-1665",
+    "title": "Telugu Hits",
+    "subTitle": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

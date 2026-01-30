@@ -411,18 +411,18 @@
   },
   {
     "startRaw": "20260130233000",
-    "stopRaw": "20260131003000",
+    "stopRaw": "20260131002600",
     "start": "2026-01-31 05:00:00 IST",
-    "stop": "2026-01-31 06:00:00 IST",
+    "stop": "2026-01-31 05:56:00 IST",
     "channel": "jio-414",
     "title": "Patanjali Yog by Yog Rishi Swami Ramdev",
     "subTitle": "The yoga guru, Baba Ramdev emphasises on the importance of yoga and demonstrates various asanas that enable one to lead a healthy and stress-free life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260131003000",
+    "startRaw": "20260131002600",
     "stopRaw": "20260131030000",
-    "start": "2026-01-31 06:00:00 IST",
+    "start": "2026-01-31 05:56:00 IST",
     "stop": "2026-01-31 08:30:00 IST",
     "channel": "jio-414",
     "title": "Satvapariksha",
@@ -501,12 +501,42 @@
   },
   {
     "startRaw": "20260131130000",
-    "stopRaw": "20260131160000",
+    "stopRaw": "20260131133000",
     "start": "2026-01-31 18:30:00 IST",
+    "stop": "2026-01-31 19:00:00 IST",
+    "channel": "jio-414",
+    "title": "Kabaddi Champions League Pre Show",
+    "subTitle": "Kabaddi Champions League Pre Show",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131133000",
+    "stopRaw": "20260131143000",
+    "start": "2026-01-31 19:00:00 IST",
+    "stop": "2026-01-31 20:00:00 IST",
+    "channel": "jio-414",
+    "title": "Zee Yuva",
+    "subTitle": "Zee Yuva",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131143000",
+    "stopRaw": "20260131153000",
+    "start": "2026-01-31 20:00:00 IST",
+    "stop": "2026-01-31 21:00:00 IST",
+    "channel": "jio-414",
+    "title": "Zee Yuva",
+    "subTitle": "Zee Yuva",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131153000",
+    "stopRaw": "20260131160000",
+    "start": "2026-01-31 21:00:00 IST",
     "stop": "2026-01-31 21:30:00 IST",
     "channel": "jio-414",
-    "title": "Kabaddi Champions League",
-    "subTitle": "Various intercity kabaddi teams from the state of Haryana compete against one another in the Kabaddi Champions League, vying for victory.",
+    "title": "Kabaddi Champions League Post Show",
+    "subTitle": "Kabaddi Champions League Post Show",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

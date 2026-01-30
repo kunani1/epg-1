@@ -1031,12 +1031,32 @@
   },
   {
     "startRaw": "20260131000000",
-    "stopRaw": "20260131013000",
+    "stopRaw": "20260131003000",
     "start": "2026-01-31 05:30:00 IST",
-    "stop": "2026-01-31 07:00:00 IST",
+    "stop": "2026-01-31 06:00:00 IST",
     "channel": "jio-858",
     "title": "R News",
     "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131003000",
+    "stopRaw": "20260131010000",
+    "start": "2026-01-31 06:00:00 IST",
+    "stop": "2026-01-31 06:30:00 IST",
+    "channel": "jio-858",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131010000",
+    "stopRaw": "20260131013000",
+    "start": "2026-01-31 06:30:00 IST",
+    "stop": "2026-01-31 07:00:00 IST",
+    "channel": "jio-858",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1045,8 +1065,8 @@
     "start": "2026-01-31 07:00:00 IST",
     "stop": "2026-01-31 07:30:00 IST",
     "channel": "jio-858",
-    "title": "World Of Brands",
-    "subTitle": "The host engages in a conversation with eminent businesspersons, who shed light on their company and its commercial success.",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1055,8 +1075,8 @@
     "start": "2026-01-31 07:30:00 IST",
     "stop": "2026-01-31 08:00:00 IST",
     "channel": "jio-858",
-    "title": "Live And Breaking",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1065,8 +1085,8 @@
     "start": "2026-01-31 08:00:00 IST",
     "stop": "2026-01-31 08:30:00 IST",
     "channel": "jio-858",
-    "title": "Adani 2050: Mahakumbh",
-    "subTitle": "The host presents and examines the involvement of the renowned businessman Gautam Adani within the Mahakumbh festival while offering brilliant insights.",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1075,8 +1095,8 @@
     "start": "2026-01-31 08:30:00 IST",
     "stop": "2026-01-31 09:00:00 IST",
     "channel": "jio-858",
-    "title": "6 Stories At 6",
-    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+    "title": "Live This Morning",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1085,8 +1105,8 @@
     "start": "2026-01-31 09:00:00 IST",
     "stop": "2026-01-31 09:30:00 IST",
     "channel": "jio-858",
-    "title": "Get Me Right",
-    "subTitle": "The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1095,8 +1115,8 @@
     "start": "2026-01-31 09:30:00 IST",
     "stop": "2026-01-31 10:00:00 IST",
     "channel": "jio-858",
-    "title": "This Is Exclusive",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Enterprise Intelligence Code",
+    "subTitle": "Enterprise Intelligence Code",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1105,14 +1125,24 @@
     "start": "2026-01-31 10:00:00 IST",
     "stop": "2026-01-31 10:30:00 IST",
     "channel": "jio-858",
-    "title": "Trending",
-    "subTitle": "The host presents some of the most important and trending news stories, updates and developments from different parts of the world.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131050000",
-    "stopRaw": "20260131060000",
+    "stopRaw": "20260131053000",
     "start": "2026-01-31 10:30:00 IST",
+    "stop": "2026-01-31 11:00:00 IST",
+    "channel": "jio-858",
+    "title": "Republic TV",
+    "subTitle": "Republic TV",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131053000",
+    "stopRaw": "20260131060000",
+    "start": "2026-01-31 11:00:00 IST",
     "stop": "2026-01-31 11:30:00 IST",
     "channel": "jio-858",
     "title": "Live And Breaking",
@@ -1125,8 +1155,8 @@
     "start": "2026-01-31 11:30:00 IST",
     "stop": "2026-01-31 12:00:00 IST",
     "channel": "jio-858",
-    "title": "Burning Question",
-    "subTitle": "The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1135,14 +1165,24 @@
     "start": "2026-01-31 12:00:00 IST",
     "stop": "2026-01-31 12:30:00 IST",
     "channel": "jio-858",
-    "title": "Burning Question",
-    "subTitle": "The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.",
+    "title": "Live Report",
+    "subTitle": "The host delivers essential bulletin stories and crucial developments on various social, economic and political issues, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131070000",
-    "stopRaw": "20260131080000",
+    "stopRaw": "20260131073000",
     "start": "2026-01-31 12:30:00 IST",
+    "stop": "2026-01-31 13:00:00 IST",
+    "channel": "jio-858",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131073000",
+    "stopRaw": "20260131080000",
+    "start": "2026-01-31 13:00:00 IST",
     "stop": "2026-01-31 13:30:00 IST",
     "channel": "jio-858",
     "title": "Live And Breaking",
@@ -1155,8 +1195,8 @@
     "start": "2026-01-31 13:30:00 IST",
     "stop": "2026-01-31 14:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Can India Build Own GPT",
+    "subTitle": "Can India Build Own GPT",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1165,8 +1205,8 @@
     "start": "2026-01-31 14:00:00 IST",
     "stop": "2026-01-31 14:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1175,8 +1215,8 @@
     "start": "2026-01-31 14:30:00 IST",
     "stop": "2026-01-31 15:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "India's AI Leap",
+    "subTitle": "India's AI Leap",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1185,8 +1225,8 @@
     "start": "2026-01-31 15:00:00 IST",
     "stop": "2026-01-31 15:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1195,8 +1235,8 @@
     "start": "2026-01-31 15:30:00 IST",
     "stop": "2026-01-31 16:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Republic TV",
+    "subTitle": "Republic TV",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1205,8 +1245,8 @@
     "start": "2026-01-31 16:00:00 IST",
     "stop": "2026-01-31 16:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1215,8 +1255,8 @@
     "start": "2026-01-31 16:30:00 IST",
     "stop": "2026-01-31 17:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Republic TV",
+    "subTitle": "Republic TV",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1225,8 +1265,8 @@
     "start": "2026-01-31 17:00:00 IST",
     "stop": "2026-01-31 17:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1235,8 +1275,8 @@
     "start": "2026-01-31 17:30:00 IST",
     "stop": "2026-01-31 18:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Republic TV",
+    "subTitle": "Republic TV",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1245,8 +1285,8 @@
     "start": "2026-01-31 18:00:00 IST",
     "stop": "2026-01-31 18:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "6 Stories At 6",
+    "subTitle": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1255,8 +1295,8 @@
     "start": "2026-01-31 18:30:00 IST",
     "stop": "2026-01-31 19:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "AI Role In India Health",
+    "subTitle": "AI Role In India Health",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1265,8 +1305,8 @@
     "start": "2026-01-31 19:00:00 IST",
     "stop": "2026-01-31 19:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "This Is Exclusive",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1275,8 +1315,8 @@
     "start": "2026-01-31 19:30:00 IST",
     "stop": "2026-01-31 20:00:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Trending",
+    "subTitle": "The host presents some of the most important and trending news stories, updates and developments from different parts of the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1285,8 +1325,8 @@
     "start": "2026-01-31 20:00:00 IST",
     "stop": "2026-01-31 20:30:00 IST",
     "channel": "jio-858",
-    "title": "R News",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1295,8 +1335,8 @@
     "start": "2026-01-31 20:30:00 IST",
     "stop": "2026-01-31 21:00:00 IST",
     "channel": "jio-858",
-    "title": "Quick Morning",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1305,18 +1345,48 @@
     "start": "2026-01-31 21:00:00 IST",
     "stop": "2026-01-31 21:30:00 IST",
     "channel": "jio-858",
-    "title": "Quick Morning",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
+    "title": "The Long Format",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131160000",
-    "stopRaw": "20260131180000",
+    "stopRaw": "20260131163000",
     "start": "2026-01-31 21:30:00 IST",
+    "stop": "2026-01-31 22:00:00 IST",
+    "channel": "jio-858",
+    "title": "The Long Format",
+    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131163000",
+    "stopRaw": "20260131170000",
+    "start": "2026-01-31 22:00:00 IST",
+    "stop": "2026-01-31 22:30:00 IST",
+    "channel": "jio-858",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131170000",
+    "stopRaw": "20260131173000",
+    "start": "2026-01-31 22:30:00 IST",
+    "stop": "2026-01-31 23:00:00 IST",
+    "channel": "jio-858",
+    "title": "Live And Breaking",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131173000",
+    "stopRaw": "20260131180000",
+    "start": "2026-01-31 23:00:00 IST",
     "stop": "2026-01-31 23:30:00 IST",
     "channel": "jio-858",
-    "title": "Live This Morning",
-    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.",
+    "title": "R News",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1325,8 +1395,8 @@
     "start": "2026-01-31 23:30:00 IST",
     "stop": "2026-01-31 23:59:59 IST",
     "channel": "jio-858",
-    "title": "Live And Breaking",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events, live.",
+    "title": "R News",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

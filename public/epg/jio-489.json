@@ -371,72 +371,62 @@
   },
   {
     "startRaw": "20260130200000",
-    "stopRaw": "20260130210000",
+    "stopRaw": "20260130220000",
     "start": "2026-01-31 01:30:00 IST",
-    "stop": "2026-01-31 02:30:00 IST",
+    "stop": "2026-01-31 03:30:00 IST",
     "channel": "jio-489",
     "title": "Closing Bell",
     "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260130210000",
-    "stopRaw": "20260130220000",
-    "start": "2026-01-31 02:30:00 IST",
-    "stop": "2026-01-31 03:30:00 IST",
-    "channel": "jio-489",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260130220000",
-    "stopRaw": "20260130230000",
+    "stopRaw": "20260130223000",
     "start": "2026-01-31 03:30:00 IST",
-    "stop": "2026-01-31 04:30:00 IST",
+    "stop": "2026-01-31 04:00:00 IST",
     "channel": "jio-489",
     "title": "Fast Money",
     "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260130223000",
+    "stopRaw": "20260130230000",
+    "start": "2026-01-31 04:00:00 IST",
+    "stop": "2026-01-31 04:30:00 IST",
+    "channel": "jio-489",
+    "title": "Option Exchange",
+    "subTitle": "A panel of financial experts discuss the various facets of the Indian economy and share their views on the trends in options exchange.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260130230000",
-    "stopRaw": "20260130233000",
-    "start": "2026-01-31 04:30:00 IST",
-    "stop": "2026-01-31 05:00:00 IST",
-    "channel": "jio-489",
-    "title": "The Tech Download",
-    "subTitle": "The Tech Download",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260130233000",
-    "stopRaw": "20260131000000",
-    "start": "2026-01-31 05:00:00 IST",
-    "stop": "2026-01-31 05:30:00 IST",
-    "channel": "jio-489",
-    "title": "CNBC Explains",
-    "subTitle": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260131000000",
     "stopRaw": "20260131010000",
-    "start": "2026-01-31 05:30:00 IST",
+    "start": "2026-01-31 04:30:00 IST",
     "stop": "2026-01-31 06:30:00 IST",
     "channel": "jio-489",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+    "title": "Closing Bell",
+    "subTitle": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131010000",
-    "stopRaw": "20260131020000",
+    "stopRaw": "20260131013000",
     "start": "2026-01-31 06:30:00 IST",
+    "stop": "2026-01-31 07:00:00 IST",
+    "channel": "jio-489",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131013000",
+    "stopRaw": "20260131020000",
+    "start": "2026-01-31 07:00:00 IST",
     "stop": "2026-01-31 07:30:00 IST",
     "channel": "jio-489",
-    "title": "Fast Money",
-    "subTitle": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -445,8 +435,8 @@
     "start": "2026-01-31 07:30:00 IST",
     "stop": "2026-01-31 08:00:00 IST",
     "channel": "jio-489",
-    "title": "Conversation",
-    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -455,8 +445,8 @@
     "start": "2026-01-31 08:00:00 IST",
     "stop": "2026-01-31 08:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -465,8 +455,8 @@
     "start": "2026-01-31 08:30:00 IST",
     "stop": "2026-01-31 09:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "Storyboard",
+    "subTitle": "The host interacts with various influential personalities and business leaders on a wide array of topics, including business and marketing.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -475,8 +465,8 @@
     "start": "2026-01-31 09:00:00 IST",
     "stop": "2026-01-31 09:30:00 IST",
     "channel": "jio-489",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNN News18 News Bulletin",
+    "subTitle": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -485,8 +475,8 @@
     "start": "2026-01-31 09:30:00 IST",
     "stop": "2026-01-31 10:00:00 IST",
     "channel": "jio-489",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
+    "title": "Investment Guide",
+    "subTitle": "The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -495,8 +485,8 @@
     "start": "2026-01-31 10:00:00 IST",
     "stop": "2026-01-31 10:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "Smart Money",
+    "subTitle": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -511,12 +501,22 @@
   },
   {
     "startRaw": "20260131053000",
-    "stopRaw": "20260131063000",
+    "stopRaw": "20260131060000",
     "start": "2026-01-31 11:00:00 IST",
+    "stop": "2026-01-31 11:30:00 IST",
+    "channel": "jio-489",
+    "title": "Young Turks",
+    "subTitle": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131060000",
+    "stopRaw": "20260131063000",
+    "start": "2026-01-31 11:30:00 IST",
     "stop": "2026-01-31 12:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -525,8 +525,8 @@
     "start": "2026-01-31 12:00:00 IST",
     "stop": "2026-01-31 12:30:00 IST",
     "channel": "jio-489",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNN News18 News Bulletin",
+    "subTitle": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -535,8 +535,8 @@
     "start": "2026-01-31 12:30:00 IST",
     "stop": "2026-01-31 13:00:00 IST",
     "channel": "jio-489",
-    "title": "India Energy Week",
-    "subTitle": "India Energy Week",
+    "title": "Commodity Champions",
+    "subTitle": "Trading experts take a look at how various commodities have fared in the commodity market and moreover, choose their best picks.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -545,8 +545,8 @@
     "start": "2026-01-31 13:00:00 IST",
     "stop": "2026-01-31 13:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "Overdrive",
+    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -555,8 +555,8 @@
     "start": "2026-01-31 13:30:00 IST",
     "stop": "2026-01-31 14:00:00 IST",
     "channel": "jio-489",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -565,8 +565,8 @@
     "start": "2026-01-31 14:00:00 IST",
     "stop": "2026-01-31 14:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "Kiska Brand Bajega: Home Edition",
+    "subTitle": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -575,8 +575,8 @@
     "start": "2026-01-31 14:30:00 IST",
     "stop": "2026-01-31 15:00:00 IST",
     "channel": "jio-489",
-    "title": "Media Dialogues With Storyboard18",
-    "subTitle": "The host invites marketing experts to discuss brands' strategies for leveraging the impact of IPL on digital media to reach their audience.",
+    "title": "The Media Dialogues",
+    "subTitle": "The host speaks to highly regarded figures in advertising and broadcasting about the dynamic landscape and issues of media in India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -585,8 +585,8 @@
     "start": "2026-01-31 15:00:00 IST",
     "stop": "2026-01-31 15:30:00 IST",
     "channel": "jio-489",
-    "title": "Institutional Commodity Investing",
-    "subTitle": "Institutional Commodity Investing",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -595,8 +595,8 @@
     "start": "2026-01-31 15:30:00 IST",
     "stop": "2026-01-31 16:00:00 IST",
     "channel": "jio-489",
-    "title": "Together For Road Safety - TSL",
-    "subTitle": "Together For Road Safety - TSL",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -605,8 +605,8 @@
     "start": "2026-01-31 16:00:00 IST",
     "stop": "2026-01-31 16:30:00 IST",
     "channel": "jio-489",
-    "title": "Tata Aia Aura - Empowering India's New Age Entrepreneurs",
-    "subTitle": "Tata Aia Aura - Empowering India's New Age Entrepreneurs",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -615,8 +615,8 @@
     "start": "2026-01-31 16:30:00 IST",
     "stop": "2026-01-31 17:00:00 IST",
     "channel": "jio-489",
-    "title": "The Healthy Bharat Movement",
-    "subTitle": "The Healthy Bharat Movement",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -625,8 +625,8 @@
     "start": "2026-01-31 17:00:00 IST",
     "stop": "2026-01-31 17:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -635,8 +635,8 @@
     "start": "2026-01-31 17:30:00 IST",
     "stop": "2026-01-31 18:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -645,8 +645,8 @@
     "start": "2026-01-31 18:00:00 IST",
     "stop": "2026-01-31 18:30:00 IST",
     "channel": "jio-489",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -655,8 +655,8 @@
     "start": "2026-01-31 18:30:00 IST",
     "stop": "2026-01-31 19:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "CNBC-TV18 Focus",
+    "subTitle": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -665,8 +665,8 @@
     "start": "2026-01-31 19:00:00 IST",
     "stop": "2026-01-31 19:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -675,8 +675,8 @@
     "start": "2026-01-31 19:30:00 IST",
     "stop": "2026-01-31 20:00:00 IST",
     "channel": "jio-489",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "Big Deal",
+    "subTitle": "The host discusses the latest updates in the financial sector, business and investment markets with renowned experts and personalities.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -695,8 +695,8 @@
     "start": "2026-01-31 20:30:00 IST",
     "stop": "2026-01-31 21:00:00 IST",
     "channel": "jio-489",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
+    "title": "Young Turks",
+    "subTitle": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -705,8 +705,8 @@
     "start": "2026-01-31 21:00:00 IST",
     "stop": "2026-01-31 21:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "Investment Guide",
+    "subTitle": "The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -715,8 +715,8 @@
     "start": "2026-01-31 21:30:00 IST",
     "stop": "2026-01-31 22:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "Smart Money",
+    "subTitle": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,8 +725,8 @@
     "start": "2026-01-31 22:00:00 IST",
     "stop": "2026-01-31 22:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -735,28 +735,18 @@
     "start": "2026-01-31 22:30:00 IST",
     "stop": "2026-01-31 23:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Vision",
-    "subTitle": "Budget Vision",
+    "title": "CNBC-TV18 Editorial",
+    "subTitle": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131173000",
-    "stopRaw": "20260131180000",
-    "start": "2026-01-31 23:00:00 IST",
-    "stop": "2026-01-31 23:30:00 IST",
-    "channel": "jio-489",
-    "title": "India Energy Week",
-    "subTitle": "India Energy Week",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260131180000",
     "stopRaw": "20260131182959",
-    "start": "2026-01-31 23:30:00 IST",
+    "start": "2026-01-31 23:00:00 IST",
     "stop": "2026-01-31 23:59:59 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "Kiska Brand Bajega: Home Edition",
+    "subTitle": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -765,28 +755,18 @@
     "start": "2026-02-01 00:00:00 IST",
     "stop": "2026-02-01 00:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "Storyboard18",
+    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131190000",
-    "stopRaw": "20260131193000",
-    "start": "2026-02-01 00:30:00 IST",
-    "stop": "2026-02-01 01:00:00 IST",
-    "channel": "jio-489",
-    "title": "The Tech Download",
-    "subTitle": "The Tech Download",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260131193000",
     "stopRaw": "20260131200000",
-    "start": "2026-02-01 01:00:00 IST",
+    "start": "2026-02-01 00:30:00 IST",
     "stop": "2026-02-01 01:30:00 IST",
     "channel": "jio-489",
-    "title": "CNBC Explains",
-    "subTitle": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner.",
+    "title": "CNBC Network",
+    "subTitle": "The host provides the latest business and finance top stories and developments on the national and international front.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -795,8 +775,8 @@
     "start": "2026-02-01 01:30:00 IST",
     "stop": "2026-02-01 02:00:00 IST",
     "channel": "jio-489",
-    "title": "Conversation",
-    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -805,58 +785,48 @@
     "start": "2026-02-01 02:00:00 IST",
     "stop": "2026-02-01 02:30:00 IST",
     "channel": "jio-489",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131210000",
-    "stopRaw": "20260131220000",
+    "stopRaw": "20260131213000",
     "start": "2026-02-01 02:30:00 IST",
+    "stop": "2026-02-01 03:00:00 IST",
+    "channel": "jio-489",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260131213000",
+    "stopRaw": "20260131220000",
+    "start": "2026-02-01 03:00:00 IST",
     "stop": "2026-02-01 03:30:00 IST",
     "channel": "jio-489",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131220000",
-    "stopRaw": "20260131223000",
-    "start": "2026-02-01 03:30:00 IST",
-    "stop": "2026-02-01 04:00:00 IST",
-    "channel": "jio-489",
-    "title": "The Tech Download",
-    "subTitle": "The Tech Download",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260131223000",
     "stopRaw": "20260131230000",
-    "start": "2026-02-01 04:00:00 IST",
+    "start": "2026-02-01 03:30:00 IST",
     "stop": "2026-02-01 04:30:00 IST",
     "channel": "jio-489",
-    "title": "CNBC Explains",
-    "subTitle": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner.",
+    "title": "CNBC Network",
+    "subTitle": "The host provides the latest business and finance top stories and developments on the national and international front.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260131230000",
-    "stopRaw": "20260131233000",
-    "start": "2026-02-01 04:30:00 IST",
-    "stop": "2026-02-01 05:00:00 IST",
-    "channel": "jio-489",
-    "title": "New Energy Finance",
-    "subTitle": "New Energy Finance",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260131233000",
     "stopRaw": "20260201000000",
-    "start": "2026-02-01 05:00:00 IST",
+    "start": "2026-02-01 04:30:00 IST",
     "stop": "2026-02-01 05:30:00 IST",
     "channel": "jio-489",
-    "title": "On The Record",
-    "subTitle": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+    "title": "CNBC Network",
+    "subTitle": "The host provides the latest business and finance top stories and developments on the national and international front.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,28 +835,18 @@
     "start": "2026-02-01 05:30:00 IST",
     "stop": "2026-02-01 06:00:00 IST",
     "channel": "jio-489",
-    "title": "The Tech Download",
-    "subTitle": "The Tech Download",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201003000",
-    "stopRaw": "20260201010000",
-    "start": "2026-02-01 06:00:00 IST",
-    "stop": "2026-02-01 06:30:00 IST",
-    "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201010000",
     "stopRaw": "20260201013000",
-    "start": "2026-02-01 06:30:00 IST",
+    "start": "2026-02-01 06:00:00 IST",
     "stop": "2026-02-01 07:00:00 IST",
     "channel": "jio-489",
-    "title": "Budget Countdown",
-    "subTitle": "Finance experts critically evaluate the economic aspects of the country and speculate the plans that will be implemented in the Budget for the upcoming fiscal year.",
+    "title": "CNBC Network",
+    "subTitle": "The host provides the latest business and finance top stories and developments on the national and international front.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -895,8 +855,8 @@
     "start": "2026-02-01 07:00:00 IST",
     "stop": "2026-02-01 07:30:00 IST",
     "channel": "jio-489",
-    "title": "Budget 2026 Live",
-    "subTitle": "Budget 2026 Live",
+    "title": "CNBC Special",
+    "subTitle": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

@@ -755,8 +755,8 @@
     "start": "2026-02-01 06:00:00 IST",
     "stop": "2026-02-01 06:30:00 IST",
     "channel": "jio-203",
-    "title": "Ek Bharat Shreshtha Bharat",
-    "subTitle": "Explores cultural topics related to traditions, tourism and cuisines to improve understanding between people.",
+    "title": "Good News Jazba India Ka/rang Tarang/ek Bharat Shreshtha Bharat/science Spark/ Defence Dynamic/ Cyber Alert",
+    "subTitle": "Good News Jazba India Ka/rang Tarang/ek Bharat Shreshtha Bharat/science Spark/ Defence Dynamic/ Cyber Alert",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -765,8 +765,8 @@
     "start": "2026-02-01 06:30:00 IST",
     "stop": "2026-02-01 06:45:00 IST",
     "channel": "jio-203",
-    "title": "Sanskrit Vaarta Samachar",
-    "subTitle": "Features news in Sanskrit, blending the ancient language with modern events to deliver current affairs and cultural insights.",
+    "title": "Sanskrit Vaarta",
+    "subTitle": "Presents the latest news updates on politics and the economy in Sanskrit.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -785,88 +785,238 @@
     "start": "2026-02-01 07:00:00 IST",
     "stop": "2026-02-01 07:30:00 IST",
     "channel": "jio-203",
-    "title": "Documentary On Budget History",
-    "subTitle": "Documentary On Budget History",
+    "title": "Vaartavali Sanskrit",
+    "subTitle": "Presents updates and discussions on all the latest social and political happenings from all around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201020000",
-    "stopRaw": "20260201033000",
+    "stopRaw": "20260201023000",
     "start": "2026-02-01 07:30:00 IST",
+    "stop": "2026-02-01 08:00:00 IST",
+    "channel": "jio-203",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201023000",
+    "stopRaw": "20260201033000",
+    "start": "2026-02-01 08:00:00 IST",
     "stop": "2026-02-01 09:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Naya Savera",
+    "subTitle": "Presents the latest social, economic and political updates with guests.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201033000",
-    "stopRaw": "20260201053000",
+    "stopRaw": "20260201043000",
     "start": "2026-02-01 09:00:00 IST",
+    "stop": "2026-02-01 10:00:00 IST",
+    "channel": "jio-203",
+    "title": "Total Health",
+    "subTitle": "A panel of doctors provides self-care tips via phone calls to help improve everyone's wellness and health.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201043000",
+    "stopRaw": "20260201050000",
+    "start": "2026-02-01 10:00:00 IST",
+    "stop": "2026-02-01 10:30:00 IST",
+    "channel": "jio-203",
+    "title": "News @ 10",
+    "subTitle": "Explores the latest socio-economic and political updates of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201050000",
+    "stopRaw": "20260201053000",
+    "start": "2026-02-01 10:30:00 IST",
     "stop": "2026-02-01 11:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "News Punch",
+    "subTitle": "Presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201053000",
-    "stopRaw": "20260201073000",
+    "stopRaw": "20260201060000",
     "start": "2026-02-01 11:00:00 IST",
+    "stop": "2026-02-01 11:30:00 IST",
+    "channel": "jio-203",
+    "title": "Vande Bharat",
+    "subTitle": "Presents recent information about the Vande Bharat Express, a high-speed electric train operated by Indian Railways.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201060000",
+    "stopRaw": "20260201063000",
+    "start": "2026-02-01 11:30:00 IST",
+    "stop": "2026-02-01 12:00:00 IST",
+    "channel": "jio-203",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201063000",
+    "stopRaw": "20260201070000",
+    "start": "2026-02-01 12:00:00 IST",
+    "stop": "2026-02-01 12:30:00 IST",
+    "channel": "jio-203",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201070000",
+    "stopRaw": "20260201073000",
+    "start": "2026-02-01 12:30:00 IST",
     "stop": "2026-02-01 13:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Express 100",
+    "subTitle": "Presents the latest breaking news and updates on various trending topics.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201073000",
-    "stopRaw": "20260201093000",
+    "stopRaw": "20260201083000",
     "start": "2026-02-01 13:00:00 IST",
+    "stop": "2026-02-01 14:00:00 IST",
+    "channel": "jio-203",
+    "title": "Mid Day Prime",
+    "subTitle": "A comprehensive news update from all over India and discussions on matters of concern.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201083000",
+    "stopRaw": "20260201090000",
+    "start": "2026-02-01 14:00:00 IST",
+    "stop": "2026-02-01 14:30:00 IST",
+    "channel": "jio-203",
+    "title": "News Punch",
+    "subTitle": "Presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201090000",
+    "stopRaw": "20260201093000",
+    "start": "2026-02-01 14:30:00 IST",
     "stop": "2026-02-01 15:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Cyber Alert",
+    "subTitle": "Explores numerous cases of online criminal activities globally to increase public understanding of the issue.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201093000",
-    "stopRaw": "20260201113000",
+    "stopRaw": "20260201100000",
     "start": "2026-02-01 15:00:00 IST",
+    "stop": "2026-02-01 15:30:00 IST",
+    "channel": "jio-203",
+    "title": "Nation To Nation",
+    "subTitle": "Nation To Nation",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201100000",
+    "stopRaw": "20260201103000",
+    "start": "2026-02-01 15:30:00 IST",
+    "stop": "2026-02-01 16:00:00 IST",
+    "channel": "jio-203",
+    "title": "Tejaswini",
+    "subTitle": "The best in drama and entertainment.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201103000",
+    "stopRaw": "20260201110000",
+    "start": "2026-02-01 16:00:00 IST",
+    "stop": "2026-02-01 16:30:00 IST",
+    "channel": "jio-203",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201110000",
+    "stopRaw": "20260201113000",
+    "start": "2026-02-01 16:30:00 IST",
     "stop": "2026-02-01 17:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201113000",
-    "stopRaw": "20260201133000",
+    "stopRaw": "20260201123000",
     "start": "2026-02-01 17:00:00 IST",
+    "stop": "2026-02-01 18:00:00 IST",
+    "channel": "jio-203",
+    "title": "Rashtra Manch",
+    "subTitle": "The host presents the latest news updates and developments pertaining to political, social and economic issues in India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201123000",
+    "stopRaw": "20260201130000",
+    "start": "2026-02-01 18:00:00 IST",
+    "stop": "2026-02-01 18:30:00 IST",
+    "channel": "jio-203",
+    "title": "Disha",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201130000",
+    "stopRaw": "20260201133000",
+    "start": "2026-02-01 18:30:00 IST",
     "stop": "2026-02-01 19:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Charcha Mein",
+    "subTitle": "Distinguished guests from various professions and backgrounds convene to explore and debate pressing public issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201133000",
-    "stopRaw": "20260201143000",
+    "stopRaw": "20260201140000",
     "start": "2026-02-01 19:00:00 IST",
+    "stop": "2026-02-01 19:30:00 IST",
+    "channel": "jio-203",
+    "title": "Samachar / Aapda Ka Samna",
+    "subTitle": "The host presents the latest economic, social and political updates at length;the host presents the latest news stories and developments surrounding various political and socio-economic issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201140000",
+    "stopRaw": "20260201143000",
+    "start": "2026-02-01 19:30:00 IST",
     "stop": "2026-02-01 20:00:00 IST",
     "channel": "jio-203",
-    "title": "Budget 2026",
-    "subTitle": "David McCullagh and Sharon Ní Bheoláin introduce live coverage from Dáil Éireann of the budget for 2026, with studio analysis and reaction.",
+    "title": "Good News:-Jazba India Ka",
+    "subTitle": "Presents emotional and positive stories from people in India to inspire everyone who is facing tough challenges.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260201143000",
-    "stopRaw": "20260201163000",
+    "stopRaw": "20260201153000",
     "start": "2026-02-01 20:00:00 IST",
+    "stop": "2026-02-01 21:00:00 IST",
+    "channel": "jio-203",
+    "title": "News Night in Hindi",
+    "subTitle": "Delivers latest updates and current affairs about commerce, athletics, governance and social matters globally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260201153000",
+    "stopRaw": "20260201163000",
+    "start": "2026-02-01 21:00:00 IST",
     "stop": "2026-02-01 22:00:00 IST",
     "channel": "jio-203",
-    "title": "News Night Special",
-    "subTitle": "News Night Special",
+    "title": "Decode",
+    "subTitle": "Presents the latest news stories about political, economic, social, and cultural issues, along with analysis.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -875,8 +1025,8 @@
     "start": "2026-02-01 22:00:00 IST",
     "stop": "2026-02-01 22:30:00 IST",
     "channel": "jio-203",
-    "title": "FM Interview",
-    "subTitle": "The Finance Minister discusses various pressing issues about the nation and the economy in an exclusive interview.",
+    "title": "Reporter @ 10",
+    "subTitle": "Presents information on the latest news stories and developments, providing updates on relevant current affairs.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -885,8 +1035,8 @@
     "start": "2026-02-01 22:30:00 IST",
     "stop": "2026-02-01 23:00:00 IST",
     "channel": "jio-203",
-    "title": "Samachar",
-    "subTitle": "Presents recent news, updates and developments from across the world.",
+    "title": "Defence Dynamics",
+    "subTitle": "Presents the latest update and news stories on matters of defence, geopolitics, and military technology.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

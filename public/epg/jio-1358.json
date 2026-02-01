@@ -451,18 +451,18 @@
   },
   {
     "startRaw": "20260202003000",
-    "stopRaw": "20260202010000",
+    "stopRaw": "20260202010600",
     "start": "2026-02-02 06:00:00 IST",
-    "stop": "2026-02-02 06:30:00 IST",
+    "stop": "2026-02-02 06:36:00 IST",
     "channel": "jio-1358",
     "title": "Sur Niragas Ho",
     "subTitle": "A comprehensive compilation of popular songs composed and performed by talented artists is played back-to-back to entertain the audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202010000",
+    "startRaw": "20260202010600",
     "stopRaw": "20260202020000",
-    "start": "2026-02-02 06:30:00 IST",
+    "start": "2026-02-02 06:36:00 IST",
     "stop": "2026-02-02 07:30:00 IST",
     "channel": "jio-1358",
     "title": "Gajar Kirtanacha Sohala Anandacha",
@@ -501,12 +501,22 @@
   },
   {
     "startRaw": "20260202050000",
-    "stopRaw": "20260202073000",
+    "stopRaw": "20260202071100",
     "start": "2026-02-02 10:30:00 IST",
-    "stop": "2026-02-02 13:00:00 IST",
+    "stop": "2026-02-02 12:41:00 IST",
     "channel": "jio-1358",
     "title": "Darling",
     "subTitle": "In pursuit of true love, Babli meets three men who instantly fall for her. As each one attempts to pursue their love story, it creates chaos and a series of hilarious situations in Babli's life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260202071100",
+    "stopRaw": "20260202073000",
+    "start": "2026-02-02 12:41:00 IST",
+    "stop": "2026-02-02 13:00:00 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -551,12 +561,22 @@
   },
   {
     "startRaw": "20260202153000",
-    "stopRaw": "20260202182959",
+    "stopRaw": "20260202180800",
     "start": "2026-02-02 21:00:00 IST",
-    "stop": "2026-02-02 23:59:59 IST",
+    "stop": "2026-02-02 23:38:00 IST",
     "channel": "jio-1358",
     "title": "Comedy Chya Gudgulya",
     "subTitle": "Gifted comics and stand-up sketch artists perform hilarious skits, entertaining both the judges as well as the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260202180800",
+    "stopRaw": "20260202182959",
+    "start": "2026-02-02 23:38:00 IST",
+    "stop": "2026-02-02 23:59:59 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -371,18 +371,18 @@
   },
   {
     "startRaw": "20260202002600",
-    "stopRaw": "20260202010000",
+    "stopRaw": "20260202011100",
     "start": "2026-02-02 05:56:00 IST",
-    "stop": "2026-02-02 06:30:00 IST",
+    "stop": "2026-02-02 06:41:00 IST",
     "channel": "jio-153",
     "title": "Sur Niragas Ho",
     "subTitle": "A comprehensive compilation of popular songs composed and performed by talented artists is played back-to-back to entertain the audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202010000",
+    "startRaw": "20260202011100",
     "stopRaw": "20260202020000",
-    "start": "2026-02-02 06:30:00 IST",
+    "start": "2026-02-02 06:41:00 IST",
     "stop": "2026-02-02 07:30:00 IST",
     "channel": "jio-153",
     "title": "Gajar Kirtanacha Sohala Anandacha",
@@ -431,28 +431,28 @@
   },
   {
     "startRaw": "20260202073000",
-    "stopRaw": "20260202100000",
+    "stopRaw": "20260202095500",
     "start": "2026-02-02 13:00:00 IST",
-    "stop": "2026-02-02 15:30:00 IST",
+    "stop": "2026-02-02 15:25:00 IST",
     "channel": "jio-153",
     "title": "Mulshi Pattern",
     "subTitle": "Sakharam, a farmer, sells his land due to financial constraints. His son, who holds this against him, subsequently gets enticed into a criminal's life for money.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202100000",
-    "stopRaw": "20260202123000",
-    "start": "2026-02-02 15:30:00 IST",
-    "stop": "2026-02-02 18:00:00 IST",
+    "startRaw": "20260202095500",
+    "stopRaw": "20260202122800",
+    "start": "2026-02-02 15:25:00 IST",
+    "stop": "2026-02-02 17:58:00 IST",
     "channel": "jio-153",
     "title": "Aali Angavar",
     "subTitle": "After meeting Jani, a dancer, and falling in love with her, Janya, a humble and honest washerman, finds out that he is an heir to the throne and then, he attempts to work towards people's welfare.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202123000",
+    "startRaw": "20260202122800",
     "stopRaw": "20260202133000",
-    "start": "2026-02-02 18:00:00 IST",
+    "start": "2026-02-02 17:58:00 IST",
     "stop": "2026-02-02 19:00:00 IST",
     "channel": "jio-153",
     "title": "Mann Mandira",
@@ -471,12 +471,22 @@
   },
   {
     "startRaw": "20260202153000",
-    "stopRaw": "20260202182959",
+    "stopRaw": "20260202182000",
     "start": "2026-02-02 21:00:00 IST",
-    "stop": "2026-02-02 23:59:59 IST",
+    "stop": "2026-02-02 23:50:00 IST",
     "channel": "jio-153",
     "title": "Comedy Chya Gudgulya",
     "subTitle": "Gifted comics and stand-up sketch artists perform hilarious skits, entertaining both the judges as well as the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260202182000",
+    "stopRaw": "20260202182959",
+    "start": "2026-02-02 23:50:00 IST",
+    "stop": "2026-02-02 23:59:59 IST",
+    "channel": "jio-153",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

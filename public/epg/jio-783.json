@@ -535,8 +535,8 @@
     "start": "2026-02-02 08:00:00 IST",
     "stop": "2026-02-02 08:30:00 IST",
     "channel": "jio-783",
-    "title": "State @ 100",
-    "subTitle": "The host presents the latest updates about the social, economic and political issues of the day and provides information on current events.",
+    "title": "Breaking News With Chroma",
+    "subTitle": "The host provides in-depth coverage of major national and global developments, offering analysis and context to help viewers understand ongoing events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -641,12 +641,22 @@
   },
   {
     "startRaw": "20260202083000",
-    "stopRaw": "20260202093000",
+    "stopRaw": "20260202090000",
     "start": "2026-02-02 14:00:00 IST",
+    "stop": "2026-02-02 14:30:00 IST",
+    "channel": "jio-783",
+    "title": "Breaking News",
+    "subTitle": "The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260202090000",
+    "stopRaw": "20260202093000",
+    "start": "2026-02-02 14:30:00 IST",
     "stop": "2026-02-02 15:00:00 IST",
     "channel": "jio-783",
-    "title": "State @ 100",
-    "subTitle": "The host presents the latest updates about the social, economic and political issues of the day and provides information on current events.",
+    "title": "Recorded",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -685,8 +695,8 @@
     "start": "2026-02-02 18:00:00 IST",
     "stop": "2026-02-02 18:30:00 IST",
     "channel": "jio-783",
-    "title": "UP Superfast",
-    "subTitle": "The host presents the latest developments and events on crucial political, social, economic and sports matters affecting the state.",
+    "title": "6 Baje 6 Khabrein",
+    "subTitle": "The host outlines six notable developments of the day, offering insight and analysis to help viewers grasp the significance of each occurrence.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -771,42 +781,42 @@
   },
   {
     "startRaw": "20260202183000",
-    "stopRaw": "20260202190000",
+    "stopRaw": "20260202193000",
     "start": "2026-02-03 00:00:00 IST",
-    "stop": "2026-02-03 00:30:00 IST",
+    "stop": "2026-02-03 01:00:00 IST",
     "channel": "jio-783",
-    "title": "UP Superfast",
-    "subTitle": "The host presents the latest developments and events on crucial political, social, economic and sports matters affecting the state.",
+    "title": "Janhit",
+    "subTitle": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202190000",
-    "stopRaw": "20260202200000",
-    "start": "2026-02-03 00:30:00 IST",
-    "stop": "2026-02-03 01:30:00 IST",
+    "startRaw": "20260202193000",
+    "stopRaw": "20260202203000",
+    "start": "2026-02-03 01:00:00 IST",
+    "stop": "2026-02-03 02:00:00 IST",
     "channel": "jio-783",
     "title": "Devbhoomi Ka Dangal",
     "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202200000",
-    "stopRaw": "20260202203000",
-    "start": "2026-02-03 01:30:00 IST",
-    "stop": "2026-02-03 02:00:00 IST",
+    "startRaw": "20260202203000",
+    "stopRaw": "20260202210000",
+    "start": "2026-02-03 02:00:00 IST",
+    "stop": "2026-02-03 02:30:00 IST",
     "channel": "jio-783",
     "title": "Mudde Ki Baat",
     "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202203000",
+    "startRaw": "20260202210000",
     "stopRaw": "20260202213000",
-    "start": "2026-02-03 02:00:00 IST",
+    "start": "2026-02-03 02:30:00 IST",
     "stop": "2026-02-03 03:00:00 IST",
     "channel": "jio-783",
-    "title": "Desh Ki Baat",
-    "subTitle": "Prominent personalities from different industries deliberate and examine various political and social issues of importance.",
+    "title": "Special Report",
+    "subTitle": "The host presents in depth insights and information pertaining to social, economical and political agendas of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -815,8 +825,8 @@
     "start": "2026-02-03 03:00:00 IST",
     "stop": "2026-02-03 03:30:00 IST",
     "channel": "jio-783",
-    "title": "Special Program",
-    "subTitle": "Bringing the best in television.",
+    "title": "Special Report",
+    "subTitle": "The host presents in depth insights and information pertaining to social, economical and political agendas of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -835,28 +845,28 @@
     "start": "2026-02-03 04:00:00 IST",
     "stop": "2026-02-03 04:30:00 IST",
     "channel": "jio-783",
-    "title": "UP Superfast",
-    "subTitle": "The host presents the latest developments and events on crucial political, social, economic and sports matters affecting the state.",
+    "title": "6 Baje 6 Khabrein",
+    "subTitle": "The host outlines six notable developments of the day, offering insight and analysis to help viewers grasp the significance of each occurrence.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260202230000",
-    "stopRaw": "20260202233000",
+    "stopRaw": "20260203000000",
     "start": "2026-02-03 04:30:00 IST",
-    "stop": "2026-02-03 05:00:00 IST",
+    "stop": "2026-02-03 05:30:00 IST",
     "channel": "jio-783",
     "title": "Desh Ki Baat",
     "subTitle": "Prominent personalities from different industries deliberate and examine various political and social issues of importance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260202233000",
+    "startRaw": "20260203000000",
     "stopRaw": "20260203003000",
-    "start": "2026-02-03 05:00:00 IST",
+    "start": "2026-02-03 05:30:00 IST",
     "stop": "2026-02-03 06:00:00 IST",
     "channel": "jio-783",
-    "title": "Manthan",
-    "subTitle": "A group of young professionals host insightful discussions with distinguished scholars and experts, providing their perspective on pressing social, political and cultural issues.",
+    "title": "Special Report",
+    "subTitle": "The host presents in depth insights and information pertaining to social, economical and political agendas of the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -905,8 +915,8 @@
     "start": "2026-02-03 08:00:00 IST",
     "stop": "2026-02-03 08:30:00 IST",
     "channel": "jio-783",
-    "title": "State @ 100",
-    "subTitle": "The host presents the latest updates about the social, economic and political issues of the day and provides information on current events.",
+    "title": "Breaking News With Chroma",
+    "subTitle": "The host provides in-depth coverage of major national and global developments, offering analysis and context to help viewers understand ongoing events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -985,8 +995,8 @@
     "start": "2026-02-03 12:30:00 IST",
     "stop": "2026-02-03 13:00:00 IST",
     "channel": "jio-783",
-    "title": "Khabar Uttar Pradesh",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Uttar Pradesh.",
+    "title": "Special Program",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1011,12 +1021,22 @@
   },
   {
     "startRaw": "20260203083000",
-    "stopRaw": "20260203093000",
+    "stopRaw": "20260203090000",
     "start": "2026-02-03 14:00:00 IST",
+    "stop": "2026-02-03 14:30:00 IST",
+    "channel": "jio-783",
+    "title": "Breaking News",
+    "subTitle": "The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260203090000",
+    "stopRaw": "20260203093000",
+    "start": "2026-02-03 14:30:00 IST",
     "stop": "2026-02-03 15:00:00 IST",
     "channel": "jio-783",
-    "title": "State @ 100",
-    "subTitle": "The host presents the latest updates about the social, economic and political issues of the day and provides information on current events.",
+    "title": "Recorded",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1055,8 +1075,8 @@
     "start": "2026-02-03 18:00:00 IST",
     "stop": "2026-02-03 18:30:00 IST",
     "channel": "jio-783",
-    "title": "UP Superfast",
-    "subTitle": "The host presents the latest developments and events on crucial political, social, economic and sports matters affecting the state.",
+    "title": "6 Baje 6 Khabrein",
+    "subTitle": "The host outlines six notable developments of the day, offering insight and analysis to help viewers grasp the significance of each occurrence.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

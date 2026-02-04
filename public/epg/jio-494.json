@@ -1,405 +1,5 @@
 [
   {
-    "startRaw": "20260201183000",
-    "stopRaw": "20260201190000",
-    "start": "2026-02-02 00:00:00 IST",
-    "stop": "2026-02-02 00:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201190000",
-    "stopRaw": "20260201193000",
-    "start": "2026-02-02 00:30:00 IST",
-    "stop": "2026-02-02 01:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201193000",
-    "stopRaw": "20260201200000",
-    "start": "2026-02-02 01:00:00 IST",
-    "stop": "2026-02-02 01:30:00 IST",
-    "channel": "jio-494",
-    "title": "Talk to Al Jazeera",
-    "subTitle": "The Turkish Foreign Minister discusses the war on Gaza.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201200000",
-    "stopRaw": "20260201210000",
-    "start": "2026-02-02 01:30:00 IST",
-    "stop": "2026-02-02 02:30:00 IST",
-    "channel": "jio-494",
-    "title": "Gaza - A Forever War",
-    "subTitle": "A powerful examination of the war on Gaza, challenging Israeli political and intelligence figures on Israel's response to the Hamas-led attacks two years ago.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201210000",
-    "stopRaw": "20260201220000",
-    "start": "2026-02-02 02:30:00 IST",
-    "stop": "2026-02-02 03:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201220000",
-    "stopRaw": "20260201223000",
-    "start": "2026-02-02 03:30:00 IST",
-    "stop": "2026-02-02 04:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201223000",
-    "stopRaw": "20260201230000",
-    "start": "2026-02-02 04:00:00 IST",
-    "stop": "2026-02-02 04:30:00 IST",
-    "channel": "jio-494",
-    "title": "All Hail The Military",
-    "subTitle": "Civilians don't simply endure war - its impacts shape them and their families for generations. Ali Rae explores these lasting human costs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201230000",
-    "stopRaw": "20260201233000",
-    "start": "2026-02-02 04:30:00 IST",
-    "stop": "2026-02-02 05:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201233000",
-    "stopRaw": "20260202000000",
-    "start": "2026-02-02 05:00:00 IST",
-    "stop": "2026-02-02 05:30:00 IST",
-    "channel": "jio-494",
-    "title": "Inside Story",
-    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202000000",
-    "stopRaw": "20260202010000",
-    "start": "2026-02-02 05:30:00 IST",
-    "stop": "2026-02-02 06:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202010000",
-    "stopRaw": "20260202020000",
-    "start": "2026-02-02 06:30:00 IST",
-    "stop": "2026-02-02 07:30:00 IST",
-    "channel": "jio-494",
-    "title": "Witness",
-    "subTitle": "Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202020000",
-    "stopRaw": "20260202023000",
-    "start": "2026-02-02 07:30:00 IST",
-    "stop": "2026-02-02 08:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202023000",
-    "stopRaw": "20260202030000",
-    "start": "2026-02-02 08:00:00 IST",
-    "stop": "2026-02-02 08:30:00 IST",
-    "channel": "jio-494",
-    "title": "UpFront",
-    "subTitle": "Marc Lamont Hill asks historian Alan McPherson how Trump's Venezuela regime change policy fits into a broader history of U.S. meddling in Latin America.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202030000",
-    "stopRaw": "20260202033000",
-    "start": "2026-02-02 08:30:00 IST",
-    "stop": "2026-02-02 09:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202033000",
-    "stopRaw": "20260202040000",
-    "start": "2026-02-02 09:00:00 IST",
-    "stop": "2026-02-02 09:30:00 IST",
-    "channel": "jio-494",
-    "title": "The Bottom Line",
-    "subTitle": "Discussions on US politics and policies.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202040000",
-    "stopRaw": "20260202043000",
-    "start": "2026-02-02 09:30:00 IST",
-    "stop": "2026-02-02 10:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202043000",
-    "stopRaw": "20260202050000",
-    "start": "2026-02-02 10:00:00 IST",
-    "stop": "2026-02-02 10:30:00 IST",
-    "channel": "jio-494",
-    "title": "Talk to Al Jazeera",
-    "subTitle": "The Turkish Foreign Minister discusses the war on Gaza.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202050000",
-    "stopRaw": "20260202053000",
-    "start": "2026-02-02 10:30:00 IST",
-    "stop": "2026-02-02 11:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202053000",
-    "stopRaw": "20260202060000",
-    "start": "2026-02-02 11:00:00 IST",
-    "stop": "2026-02-02 11:30:00 IST",
-    "channel": "jio-494",
-    "title": "Inside Story",
-    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202060000",
-    "stopRaw": "20260202063000",
-    "start": "2026-02-02 11:30:00 IST",
-    "stop": "2026-02-02 12:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202063000",
-    "stopRaw": "20260202070000",
-    "start": "2026-02-02 12:00:00 IST",
-    "stop": "2026-02-02 12:30:00 IST",
-    "channel": "jio-494",
-    "title": "People and Power",
-    "subTitle": "More than three decades after 72 Muslims were massacred in the Indian village of Maliana, People and Power asks why the victims continue to be denied justice.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202070000",
-    "stopRaw": "20260202073000",
-    "start": "2026-02-02 12:30:00 IST",
-    "stop": "2026-02-02 13:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202073000",
-    "stopRaw": "20260202080000",
-    "start": "2026-02-02 13:00:00 IST",
-    "stop": "2026-02-02 13:30:00 IST",
-    "channel": "jio-494",
-    "title": "Counting the Cost",
-    "subTitle": "The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202080000",
-    "stopRaw": "20260202083000",
-    "start": "2026-02-02 13:30:00 IST",
-    "stop": "2026-02-02 14:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202083000",
-    "stopRaw": "20260202090000",
-    "start": "2026-02-02 14:00:00 IST",
-    "stop": "2026-02-02 14:30:00 IST",
-    "channel": "jio-494",
-    "title": "The Listening Post",
-    "subTitle": "What is being reported by world media and how? Richard Gizbert guides you through the global news maze.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202090000",
-    "stopRaw": "20260202093000",
-    "start": "2026-02-02 14:30:00 IST",
-    "stop": "2026-02-02 15:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202093000",
-    "stopRaw": "20260202100000",
-    "start": "2026-02-02 15:00:00 IST",
-    "stop": "2026-02-02 15:30:00 IST",
-    "channel": "jio-494",
-    "title": "All Hail The Military",
-    "subTitle": "Civilians don't simply endure war - its impacts shape them and their families for generations. Ali Rae explores these lasting human costs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202100000",
-    "stopRaw": "20260202110000",
-    "start": "2026-02-02 15:30:00 IST",
-    "stop": "2026-02-02 16:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202110000",
-    "stopRaw": "20260202113000",
-    "start": "2026-02-02 16:30:00 IST",
-    "stop": "2026-02-02 17:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202113000",
-    "stopRaw": "20260202120000",
-    "start": "2026-02-02 17:00:00 IST",
-    "stop": "2026-02-02 17:30:00 IST",
-    "channel": "jio-494",
-    "title": "Inside Story",
-    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202120000",
-    "stopRaw": "20260202130000",
-    "start": "2026-02-02 17:30:00 IST",
-    "stop": "2026-02-02 18:30:00 IST",
-    "channel": "jio-494",
-    "title": "Gaza - A Forever War",
-    "subTitle": "A powerful examination of the war on Gaza, challenging Israeli political and intelligence figures on Israel's response to the Hamas-led attacks two years ago.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202130000",
-    "stopRaw": "20260202140000",
-    "start": "2026-02-02 18:30:00 IST",
-    "stop": "2026-02-02 19:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202140000",
-    "stopRaw": "20260202143000",
-    "start": "2026-02-02 19:30:00 IST",
-    "stop": "2026-02-02 20:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202143000",
-    "stopRaw": "20260202150000",
-    "start": "2026-02-02 20:00:00 IST",
-    "stop": "2026-02-02 20:30:00 IST",
-    "channel": "jio-494",
-    "title": "Talk to Al Jazeera",
-    "subTitle": "The Turkish Foreign Minister discusses the war on Gaza.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202150000",
-    "stopRaw": "20260202160000",
-    "start": "2026-02-02 20:30:00 IST",
-    "stop": "2026-02-02 21:30:00 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202160000",
-    "stopRaw": "20260202163000",
-    "start": "2026-02-02 21:30:00 IST",
-    "stop": "2026-02-02 22:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202163000",
-    "stopRaw": "20260202170000",
-    "start": "2026-02-02 22:00:00 IST",
-    "stop": "2026-02-02 22:30:00 IST",
-    "channel": "jio-494",
-    "title": "101 East",
-    "subTitle": "101 East follows the Catholic priest and star witness taking on former Filipino president Rodrigo Duterte for his alleged 'drug war' crimes.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202170000",
-    "stopRaw": "20260202173000",
-    "start": "2026-02-02 22:30:00 IST",
-    "stop": "2026-02-02 23:00:00 IST",
-    "channel": "jio-494",
-    "title": "News",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202173000",
-    "stopRaw": "20260202180000",
-    "start": "2026-02-02 23:00:00 IST",
-    "stop": "2026-02-02 23:30:00 IST",
-    "channel": "jio-494",
-    "title": "Inside Story",
-    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202180000",
-    "stopRaw": "20260202182959",
-    "start": "2026-02-02 23:30:00 IST",
-    "stop": "2026-02-02 23:59:59 IST",
-    "channel": "jio-494",
-    "title": "Newshour",
-    "subTitle": "Up-to-date news and analysis from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260202183000",
     "stopRaw": "20260202190000",
     "start": "2026-02-03 00:00:00 IST",
@@ -1194,6 +794,406 @@
     "stopRaw": "20260204182959",
     "start": "2026-02-04 23:30:00 IST",
     "stop": "2026-02-04 23:59:59 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204183000",
+    "stopRaw": "20260204190000",
+    "start": "2026-02-05 00:00:00 IST",
+    "stop": "2026-02-05 00:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204190000",
+    "stopRaw": "20260204193000",
+    "start": "2026-02-05 00:30:00 IST",
+    "stop": "2026-02-05 01:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204193000",
+    "stopRaw": "20260204200000",
+    "start": "2026-02-05 01:00:00 IST",
+    "stop": "2026-02-05 01:30:00 IST",
+    "channel": "jio-494",
+    "title": "101 East",
+    "subTitle": "101 East follows the Catholic priest and star witness taking on former Filipino president Rodrigo Duterte for his alleged 'drug war' crimes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204200000",
+    "stopRaw": "20260204210000",
+    "start": "2026-02-05 01:30:00 IST",
+    "stop": "2026-02-05 02:30:00 IST",
+    "channel": "jio-494",
+    "title": "Witness",
+    "subTitle": "Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204210000",
+    "stopRaw": "20260204220000",
+    "start": "2026-02-05 02:30:00 IST",
+    "stop": "2026-02-05 03:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204220000",
+    "stopRaw": "20260204223000",
+    "start": "2026-02-05 03:30:00 IST",
+    "stop": "2026-02-05 04:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204223000",
+    "stopRaw": "20260204230000",
+    "start": "2026-02-05 04:00:00 IST",
+    "stop": "2026-02-05 04:30:00 IST",
+    "channel": "jio-494",
+    "title": "People and Power",
+    "subTitle": "How weapons from the Balkans are fuelling violence on the streets of Sweden ? We follow their trail.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204230000",
+    "stopRaw": "20260204233000",
+    "start": "2026-02-05 04:30:00 IST",
+    "stop": "2026-02-05 05:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204233000",
+    "stopRaw": "20260205000000",
+    "start": "2026-02-05 05:00:00 IST",
+    "stop": "2026-02-05 05:30:00 IST",
+    "channel": "jio-494",
+    "title": "Inside Story",
+    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205000000",
+    "stopRaw": "20260205010000",
+    "start": "2026-02-05 05:30:00 IST",
+    "stop": "2026-02-05 06:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205010000",
+    "stopRaw": "20260205020000",
+    "start": "2026-02-05 06:30:00 IST",
+    "stop": "2026-02-05 07:30:00 IST",
+    "channel": "jio-494",
+    "title": "Al Jazeera World",
+    "subTitle": "A French nurse and an Italian photographer who devoted their lives to fighting for the rights of the Palestinian people but ended up paying the ultimate price.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205020000",
+    "stopRaw": "20260205023000",
+    "start": "2026-02-05 07:30:00 IST",
+    "stop": "2026-02-05 08:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205023000",
+    "stopRaw": "20260205030000",
+    "start": "2026-02-05 08:00:00 IST",
+    "stop": "2026-02-05 08:30:00 IST",
+    "channel": "jio-494",
+    "title": "The Stream",
+    "subTitle": "The Stream is where Al Jazeera's audience becomes a global community.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205030000",
+    "stopRaw": "20260205033000",
+    "start": "2026-02-05 08:30:00 IST",
+    "stop": "2026-02-05 09:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205033000",
+    "stopRaw": "20260205040000",
+    "start": "2026-02-05 09:00:00 IST",
+    "stop": "2026-02-05 09:30:00 IST",
+    "channel": "jio-494",
+    "title": "Bangladesh",
+    "subTitle": "Sreenivasan Jain challenges BNP secretary Mirza Fakhrul on whether the party and its leader really represent change after years of political wilderness.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205040000",
+    "stopRaw": "20260205043000",
+    "start": "2026-02-05 09:30:00 IST",
+    "stop": "2026-02-05 10:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205043000",
+    "stopRaw": "20260205050000",
+    "start": "2026-02-05 10:00:00 IST",
+    "stop": "2026-02-05 10:30:00 IST",
+    "channel": "jio-494",
+    "title": "All Hail The Military",
+    "subTitle": "Civilians don't simply endure war - its impacts shape them and their families for generations. Ali Rae explores these lasting human costs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205050000",
+    "stopRaw": "20260205053000",
+    "start": "2026-02-05 10:30:00 IST",
+    "stop": "2026-02-05 11:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205053000",
+    "stopRaw": "20260205060000",
+    "start": "2026-02-05 11:00:00 IST",
+    "stop": "2026-02-05 11:30:00 IST",
+    "channel": "jio-494",
+    "title": "Inside Story",
+    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205060000",
+    "stopRaw": "20260205063000",
+    "start": "2026-02-05 11:30:00 IST",
+    "stop": "2026-02-05 12:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205063000",
+    "stopRaw": "20260205070000",
+    "start": "2026-02-05 12:00:00 IST",
+    "stop": "2026-02-05 12:30:00 IST",
+    "channel": "jio-494",
+    "title": "The Bottom Line",
+    "subTitle": "Drop Site news journalist Sharif Abdel Kouddous explains Trump's plans to build a New Gaza.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205070000",
+    "stopRaw": "20260205073000",
+    "start": "2026-02-05 12:30:00 IST",
+    "stop": "2026-02-05 13:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205073000",
+    "stopRaw": "20260205080000",
+    "start": "2026-02-05 13:00:00 IST",
+    "stop": "2026-02-05 13:30:00 IST",
+    "channel": "jio-494",
+    "title": "Witness",
+    "subTitle": "Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205080000",
+    "stopRaw": "20260205083000",
+    "start": "2026-02-05 13:30:00 IST",
+    "stop": "2026-02-05 14:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205083000",
+    "stopRaw": "20260205090000",
+    "start": "2026-02-05 14:00:00 IST",
+    "stop": "2026-02-05 14:30:00 IST",
+    "channel": "jio-494",
+    "title": "The Listening Post",
+    "subTitle": "What is being reported by world media and how? Richard Gizbert guides you through the global news maze.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205090000",
+    "stopRaw": "20260205093000",
+    "start": "2026-02-05 14:30:00 IST",
+    "stop": "2026-02-05 15:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205093000",
+    "stopRaw": "20260205100000",
+    "start": "2026-02-05 15:00:00 IST",
+    "stop": "2026-02-05 15:30:00 IST",
+    "channel": "jio-494",
+    "title": "People and Power",
+    "subTitle": "How weapons from the Balkans are fuelling violence on the streets of Sweden ? We follow their trail.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205100000",
+    "stopRaw": "20260205110000",
+    "start": "2026-02-05 15:30:00 IST",
+    "stop": "2026-02-05 16:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205110000",
+    "stopRaw": "20260205113000",
+    "start": "2026-02-05 16:30:00 IST",
+    "stop": "2026-02-05 17:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205113000",
+    "stopRaw": "20260205120000",
+    "start": "2026-02-05 17:00:00 IST",
+    "stop": "2026-02-05 17:30:00 IST",
+    "channel": "jio-494",
+    "title": "Inside Story",
+    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205120000",
+    "stopRaw": "20260205130000",
+    "start": "2026-02-05 17:30:00 IST",
+    "stop": "2026-02-05 18:30:00 IST",
+    "channel": "jio-494",
+    "title": "Witness",
+    "subTitle": "Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205130000",
+    "stopRaw": "20260205140000",
+    "start": "2026-02-05 18:30:00 IST",
+    "stop": "2026-02-05 19:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205140000",
+    "stopRaw": "20260205143000",
+    "start": "2026-02-05 19:30:00 IST",
+    "stop": "2026-02-05 20:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205143000",
+    "stopRaw": "20260205150000",
+    "start": "2026-02-05 20:00:00 IST",
+    "stop": "2026-02-05 20:30:00 IST",
+    "channel": "jio-494",
+    "title": "101 East",
+    "subTitle": "101 East follows the Catholic priest and star witness taking on former Filipino president Rodrigo Duterte for his alleged 'drug war' crimes.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205150000",
+    "stopRaw": "20260205160000",
+    "start": "2026-02-05 20:30:00 IST",
+    "stop": "2026-02-05 21:30:00 IST",
+    "channel": "jio-494",
+    "title": "Newshour",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205160000",
+    "stopRaw": "20260205163000",
+    "start": "2026-02-05 21:30:00 IST",
+    "stop": "2026-02-05 22:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205163000",
+    "stopRaw": "20260205170000",
+    "start": "2026-02-05 22:00:00 IST",
+    "stop": "2026-02-05 22:30:00 IST",
+    "channel": "jio-494",
+    "title": "All Hail The Military",
+    "subTitle": "Civilians don't simply endure war - its impacts shape them and their families for generations. Ali Rae explores these lasting human costs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205170000",
+    "stopRaw": "20260205173000",
+    "start": "2026-02-05 22:30:00 IST",
+    "stop": "2026-02-05 23:00:00 IST",
+    "channel": "jio-494",
+    "title": "News",
+    "subTitle": "Up-to-date news and analysis from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205173000",
+    "stopRaw": "20260205180000",
+    "start": "2026-02-05 23:00:00 IST",
+    "stop": "2026-02-05 23:30:00 IST",
+    "channel": "jio-494",
+    "title": "Inside Story",
+    "subTitle": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205180000",
+    "stopRaw": "20260205182959",
+    "start": "2026-02-05 23:30:00 IST",
+    "stop": "2026-02-05 23:59:59 IST",
     "channel": "jio-494",
     "title": "Newshour",
     "subTitle": "Up-to-date news and analysis from around the world.",

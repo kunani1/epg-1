@@ -1,245 +1,5 @@
 [
   {
-    "startRaw": "20260201183000",
-    "stopRaw": "20260201193000",
-    "start": "2026-02-02 00:00:00 IST",
-    "stop": "2026-02-02 01:00:00 IST",
-    "channel": "jio-2914",
-    "title": "News Update",
-    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201193000",
-    "stopRaw": "20260201203000",
-    "start": "2026-02-02 01:00:00 IST",
-    "stop": "2026-02-02 02:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Khabar Din Bhar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201203000",
-    "stopRaw": "20260201213000",
-    "start": "2026-02-02 02:00:00 IST",
-    "stop": "2026-02-02 03:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Ground Report",
-    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201213000",
-    "stopRaw": "20260201223000",
-    "start": "2026-02-02 03:00:00 IST",
-    "stop": "2026-02-02 04:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201223000",
-    "stopRaw": "20260201233000",
-    "start": "2026-02-02 04:00:00 IST",
-    "stop": "2026-02-02 05:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Khas Mulakat",
-    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260201233000",
-    "stopRaw": "20260202003000",
-    "start": "2026-02-02 05:00:00 IST",
-    "stop": "2026-02-02 06:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Filmi Galiyara",
-    "subTitle": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202003000",
-    "stopRaw": "20260202013000",
-    "start": "2026-02-02 06:00:00 IST",
-    "stop": "2026-02-02 07:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Divya Darshan",
-    "subTitle": "The host provides detailed insights into the latest news stories and significant updates concerning matters of faith and religion.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202013000",
-    "stopRaw": "20260202023000",
-    "start": "2026-02-02 07:00:00 IST",
-    "stop": "2026-02-02 08:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Mudde Ki Baat",
-    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202023000",
-    "stopRaw": "20260202033000",
-    "start": "2026-02-02 08:00:00 IST",
-    "stop": "2026-02-02 09:00:00 IST",
-    "channel": "jio-2914",
-    "title": "News Express",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202033000",
-    "stopRaw": "20260202043000",
-    "start": "2026-02-02 09:00:00 IST",
-    "stop": "2026-02-02 10:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Hello Doctor",
-    "subTitle": "Ayurveda, allopathy and homoeopathy experts attend to the call-in viewers' health concerns and demystify the recipe for a hale and hearty life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202043000",
-    "stopRaw": "20260202053000",
-    "start": "2026-02-02 10:00:00 IST",
-    "stop": "2026-02-02 11:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Kolkata News",
-    "subTitle": "The host presents the latest information, updates and in-depth insights about the social, economic and political issues of Kolkata.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202053000",
-    "stopRaw": "20260202063000",
-    "start": "2026-02-02 11:00:00 IST",
-    "stop": "2026-02-02 12:00:00 IST",
-    "channel": "jio-2914",
-    "title": "MP News",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202063000",
-    "stopRaw": "20260202073000",
-    "start": "2026-02-02 12:00:00 IST",
-    "stop": "2026-02-02 13:00:00 IST",
-    "channel": "jio-2914",
-    "title": "News Update",
-    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202073000",
-    "stopRaw": "20260202083000",
-    "start": "2026-02-02 13:00:00 IST",
-    "stop": "2026-02-02 14:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Khabar Din Bhar",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202083000",
-    "stopRaw": "20260202093000",
-    "start": "2026-02-02 14:00:00 IST",
-    "stop": "2026-02-02 15:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Ground Report",
-    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202093000",
-    "stopRaw": "20260202103000",
-    "start": "2026-02-02 15:00:00 IST",
-    "stop": "2026-02-02 16:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Special Report",
-    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202103000",
-    "stopRaw": "20260202113000",
-    "start": "2026-02-02 16:00:00 IST",
-    "stop": "2026-02-02 17:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Khas Mulakat",
-    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202113000",
-    "stopRaw": "20260202123000",
-    "start": "2026-02-02 17:00:00 IST",
-    "stop": "2026-02-02 18:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Filmi Galiyara",
-    "subTitle": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202123000",
-    "stopRaw": "20260202133000",
-    "start": "2026-02-02 18:00:00 IST",
-    "stop": "2026-02-02 19:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Divya Darshan",
-    "subTitle": "The host provides detailed insights into the latest news stories and significant updates concerning matters of faith and religion.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202133000",
-    "stopRaw": "20260202143000",
-    "start": "2026-02-02 19:00:00 IST",
-    "stop": "2026-02-02 20:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Mudde Ki Baat",
-    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202143000",
-    "stopRaw": "20260202153000",
-    "start": "2026-02-02 20:00:00 IST",
-    "stop": "2026-02-02 21:00:00 IST",
-    "channel": "jio-2914",
-    "title": "News Express",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202153000",
-    "stopRaw": "20260202163000",
-    "start": "2026-02-02 21:00:00 IST",
-    "stop": "2026-02-02 22:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Prime Debets",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202163000",
-    "stopRaw": "20260202173000",
-    "start": "2026-02-02 22:00:00 IST",
-    "stop": "2026-02-02 23:00:00 IST",
-    "channel": "jio-2914",
-    "title": "Hello Doctor",
-    "subTitle": "Ayurveda, allopathy and homoeopathy experts attend to the call-in viewers' health concerns and demystify the recipe for a hale and hearty life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202173000",
-    "stopRaw": "20260202182959",
-    "start": "2026-02-02 23:00:00 IST",
-    "stop": "2026-02-02 23:59:59 IST",
-    "channel": "jio-2914",
-    "title": "Bengali News",
-    "subTitle": "The host delivers the latest news headlines and updates on governance, social issues, economic developments, sports, and political affairs across the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260202183000",
     "stopRaw": "20260202193000",
     "start": "2026-02-03 00:00:00 IST",
@@ -714,6 +474,246 @@
     "stopRaw": "20260204182959",
     "start": "2026-02-04 23:00:00 IST",
     "stop": "2026-02-04 23:59:59 IST",
+    "channel": "jio-2914",
+    "title": "Bengali News",
+    "subTitle": "The host delivers the latest news headlines and updates on governance, social issues, economic developments, sports, and political affairs across the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204183000",
+    "stopRaw": "20260204193000",
+    "start": "2026-02-05 00:00:00 IST",
+    "stop": "2026-02-05 01:00:00 IST",
+    "channel": "jio-2914",
+    "title": "News Update",
+    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204193000",
+    "stopRaw": "20260204203000",
+    "start": "2026-02-05 01:00:00 IST",
+    "stop": "2026-02-05 02:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Khabar Din Bhar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204203000",
+    "stopRaw": "20260204213000",
+    "start": "2026-02-05 02:00:00 IST",
+    "stop": "2026-02-05 03:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Ground Report",
+    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204213000",
+    "stopRaw": "20260204223000",
+    "start": "2026-02-05 03:00:00 IST",
+    "stop": "2026-02-05 04:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204223000",
+    "stopRaw": "20260204233000",
+    "start": "2026-02-05 04:00:00 IST",
+    "stop": "2026-02-05 05:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Khas Mulakat",
+    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260204233000",
+    "stopRaw": "20260205003000",
+    "start": "2026-02-05 05:00:00 IST",
+    "stop": "2026-02-05 06:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Filmi Galiyara",
+    "subTitle": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205003000",
+    "stopRaw": "20260205013000",
+    "start": "2026-02-05 06:00:00 IST",
+    "stop": "2026-02-05 07:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Divya Darshan",
+    "subTitle": "The host provides detailed insights into the latest news stories and significant updates concerning matters of faith and religion.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205013000",
+    "stopRaw": "20260205023000",
+    "start": "2026-02-05 07:00:00 IST",
+    "stop": "2026-02-05 08:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Mudde Ki Baat",
+    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205023000",
+    "stopRaw": "20260205033000",
+    "start": "2026-02-05 08:00:00 IST",
+    "stop": "2026-02-05 09:00:00 IST",
+    "channel": "jio-2914",
+    "title": "News Express",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205033000",
+    "stopRaw": "20260205043000",
+    "start": "2026-02-05 09:00:00 IST",
+    "stop": "2026-02-05 10:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Hello Doctor",
+    "subTitle": "Ayurveda, allopathy and homoeopathy experts attend to the call-in viewers' health concerns and demystify the recipe for a hale and hearty life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205043000",
+    "stopRaw": "20260205053000",
+    "start": "2026-02-05 10:00:00 IST",
+    "stop": "2026-02-05 11:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Kolkata News",
+    "subTitle": "The host presents the latest information, updates and in-depth insights about the social, economic and political issues of Kolkata.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205053000",
+    "stopRaw": "20260205063000",
+    "start": "2026-02-05 11:00:00 IST",
+    "stop": "2026-02-05 12:00:00 IST",
+    "channel": "jio-2914",
+    "title": "MP News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events from Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205063000",
+    "stopRaw": "20260205073000",
+    "start": "2026-02-05 12:00:00 IST",
+    "stop": "2026-02-05 13:00:00 IST",
+    "channel": "jio-2914",
+    "title": "News Update",
+    "subTitle": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205073000",
+    "stopRaw": "20260205083000",
+    "start": "2026-02-05 13:00:00 IST",
+    "stop": "2026-02-05 14:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Khabar Din Bhar",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205083000",
+    "stopRaw": "20260205093000",
+    "start": "2026-02-05 14:00:00 IST",
+    "stop": "2026-02-05 15:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Ground Report",
+    "subTitle": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205093000",
+    "stopRaw": "20260205103000",
+    "start": "2026-02-05 15:00:00 IST",
+    "stop": "2026-02-05 16:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205103000",
+    "stopRaw": "20260205113000",
+    "start": "2026-02-05 16:00:00 IST",
+    "stop": "2026-02-05 17:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Khas Mulakat",
+    "subTitle": "The host conducts an insightful interaction with prominent personalities from various fields to seek information on relevant matters.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205113000",
+    "stopRaw": "20260205123000",
+    "start": "2026-02-05 17:00:00 IST",
+    "stop": "2026-02-05 18:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Filmi Galiyara",
+    "subTitle": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205123000",
+    "stopRaw": "20260205133000",
+    "start": "2026-02-05 18:00:00 IST",
+    "stop": "2026-02-05 19:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Divya Darshan",
+    "subTitle": "The host provides detailed insights into the latest news stories and significant updates concerning matters of faith and religion.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205133000",
+    "stopRaw": "20260205143000",
+    "start": "2026-02-05 19:00:00 IST",
+    "stop": "2026-02-05 20:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Mudde Ki Baat",
+    "subTitle": "The host facilitates discussions and debates with experts from various fields, who present their opinions on matters of national importance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205143000",
+    "stopRaw": "20260205153000",
+    "start": "2026-02-05 20:00:00 IST",
+    "stop": "2026-02-05 21:00:00 IST",
+    "channel": "jio-2914",
+    "title": "News Express",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205153000",
+    "stopRaw": "20260205163000",
+    "start": "2026-02-05 21:00:00 IST",
+    "stop": "2026-02-05 22:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Prime Debets",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205163000",
+    "stopRaw": "20260205173000",
+    "start": "2026-02-05 22:00:00 IST",
+    "stop": "2026-02-05 23:00:00 IST",
+    "channel": "jio-2914",
+    "title": "Hello Doctor",
+    "subTitle": "Ayurveda, allopathy and homoeopathy experts attend to the call-in viewers' health concerns and demystify the recipe for a hale and hearty life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205173000",
+    "stopRaw": "20260205182959",
+    "start": "2026-02-05 23:00:00 IST",
+    "stop": "2026-02-05 23:59:59 IST",
     "channel": "jio-2914",
     "title": "Bengali News",
     "subTitle": "The host delivers the latest news headlines and updates on governance, social issues, economic developments, sports, and political affairs across the country.",

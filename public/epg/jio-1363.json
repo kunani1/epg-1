@@ -361,12 +361,22 @@
   },
   {
     "startRaw": "20260206153000",
-    "stopRaw": "20260206182959",
+    "stopRaw": "20260206181000",
     "start": "2026-02-06 21:00:00 IST",
-    "stop": "2026-02-06 23:59:59 IST",
+    "stop": "2026-02-06 23:40:00 IST",
     "channel": "jio-1363",
     "title": "Crime 23",
     "subTitle": "ACP Vetrimaaran, a dedicated cop posted in Chennai, investigates a missing woman and the murder of a Church priest. As he delves deeper, he uncovers a larger crime syndicate involving medical professionals.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206181000",
+    "stopRaw": "20260206182959",
+    "start": "2026-02-06 23:40:00 IST",
+    "stop": "2026-02-06 23:59:59 IST",
+    "channel": "jio-1363",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

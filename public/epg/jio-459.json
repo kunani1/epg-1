@@ -241,8 +241,18 @@
   },
   {
     "startRaw": "20260206013000",
-    "stopRaw": "20260206043000",
+    "stopRaw": "20260206015500",
     "start": "2026-02-06 07:00:00 IST",
+    "stop": "2026-02-06 07:25:00 IST",
+    "channel": "jio-459",
+    "title": "Chirikkum Thalika",
+    "subTitle": "A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206015500",
+    "stopRaw": "20260206043000",
+    "start": "2026-02-06 07:25:00 IST",
     "stop": "2026-02-06 10:00:00 IST",
     "channel": "jio-459",
     "title": "Vellimoonga",

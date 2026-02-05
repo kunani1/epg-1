@@ -1,365 +1,5 @@
 [
   {
-    "startRaw": "20260202183000",
-    "stopRaw": "20260202190000",
-    "start": "2026-02-03 00:00:00 IST",
-    "stop": "2026-02-03 00:30:00 IST",
-    "channel": "jio-2782",
-    "title": "News Breakfast",
-    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202190000",
-    "stopRaw": "20260202210000",
-    "start": "2026-02-03 00:30:00 IST",
-    "stop": "2026-02-03 02:30:00 IST",
-    "channel": "jio-2782",
-    "title": "News Breakfast",
-    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260202210000",
-    "stopRaw": "20260203000000",
-    "start": "2026-02-03 02:30:00 IST",
-    "stop": "2026-02-03 05:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News Mornings",
-    "subTitle": "Morning news programme featuring coverage of breaking news events. This includes segments from reporters and experts for on-the-spot reports, context, and analysis.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203000000",
-    "stopRaw": "20260203010000",
-    "start": "2026-02-03 05:30:00 IST",
-    "stop": "2026-02-03 06:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News At Noon",
-    "subTitle": "The latest news updates, as well as analysis and opinions from the experts on significant issues around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203010000",
-    "stopRaw": "20260203013000",
-    "start": "2026-02-03 06:30:00 IST",
-    "stop": "2026-02-03 07:00:00 IST",
-    "channel": "jio-2782",
-    "title": "Australian Story",
-    "subTitle": "Unique stories about Australian life, including all of the complications and challenges faced on a daily basis.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203013000",
-    "stopRaw": "20260203021500",
-    "start": "2026-02-03 07:00:00 IST",
-    "stop": "2026-02-03 07:45:00 IST",
-    "channel": "jio-2782",
-    "title": "Great Australian Walks",
-    "subTitle": "Julia Zemiro treks along the south-west coast of NSW and receives an insider's guide to the biggest blowhole in the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203021500",
-    "stopRaw": "20260203023500",
-    "start": "2026-02-03 07:45:00 IST",
-    "stop": "2026-02-03 08:05:00 IST",
-    "channel": "jio-2782",
-    "title": "Wide Open Spaces",
-    "subTitle": "Everyone wishes they could ditch the office job for something a bit more magical. For two young Australians, their day jobs involve swimming with dolphins in the Gulf of Carpentaria and sleeping under the stars in the outback.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203023500",
-    "stopRaw": "20260203030000",
-    "start": "2026-02-03 08:05:00 IST",
-    "stop": "2026-02-03 08:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Built To Survive",
-    "subTitle": "Phil Breslin journeys down Australia's river system in a kayak, all the way from the rocky rapids to the wide, brown estuaries, where he encounters a duck-billed platypus, a long-finned eel, and a bull shark.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203030000",
-    "stopRaw": "20260203040000",
-    "start": "2026-02-03 08:30:00 IST",
-    "stop": "2026-02-03 09:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Gardening Australia",
-    "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203040000",
-    "stopRaw": "20260203043000",
-    "start": "2026-02-03 09:30:00 IST",
-    "stop": "2026-02-03 10:00:00 IST",
-    "channel": "jio-2782",
-    "title": "Back Roads",
-    "subTitle": "Journalist Heather Ewart visits remote towns and regions to discover some of Australia's most inspiring and extraordinary communities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203043000",
-    "stopRaw": "20260203050000",
-    "start": "2026-02-03 10:00:00 IST",
-    "stop": "2026-02-03 10:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Planet America",
-    "subTitle": "Examines America's complex and controversial political news, views and developments, all with a satirical edge.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203050000",
-    "stopRaw": "20260203060000",
-    "start": "2026-02-03 10:30:00 IST",
-    "stop": "2026-02-03 11:30:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC News With Joe O'Brien",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203060000",
-    "stopRaw": "20260203062500",
-    "start": "2026-02-03 11:30:00 IST",
-    "stop": "2026-02-03 11:55:00 IST",
-    "channel": "jio-2782",
-    "title": "The Cook Up with Adam Liaw",
-    "subTitle": "Comedian Nina Oyama and chef Matt Stone are in for an interesting ride as they join Adam Liaw to make good food with zero wastage.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203062500",
-    "stopRaw": "20260203065000",
-    "start": "2026-02-03 11:55:00 IST",
-    "stop": "2026-02-03 12:20:00 IST",
-    "channel": "jio-2782",
-    "title": "Extraordinary Animals",
-    "subTitle": "This wildlife documentary follows Hugh Fearnley-Whittingstall and a team of experts as they travel across seas to find the world's most extraordinary animal stories. The series focuses on animal intelligence, exploring remarkable behaviours, relationships and actions of various species. In Florida, Hugh discovers the unusual relationship between the predatory alligator and the placid manatee, while zoologist Lucy Cooke travels to Canada to reveal how raccoons are cleverly adapting to city life. Biologist Patrick Aryee is in Cambodia to explore why the Sun Bear is one of the world's shrewdest animals and conservationist Giles Clark discusses elephants and emotional intelligence while in Kenya.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203065000",
-    "stopRaw": "20260203070000",
-    "start": "2026-02-03 12:20:00 IST",
-    "stop": "2026-02-03 12:30:00 IST",
-    "channel": "jio-2782",
-    "title": "How Deadly",
-    "subTitle": "Ann Jones examines the divisive magpie and its infamy for dive-bombing people and singing in the backyard.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203070000",
-    "stopRaw": "20260203073000",
-    "start": "2026-02-03 12:30:00 IST",
-    "stop": "2026-02-03 13:00:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC National News",
-    "subTitle": "Presents the day's top stories, latest news and information, and exclusive investigations, with reports from journalists across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203073000",
-    "stopRaw": "20260203080000",
-    "start": "2026-02-03 13:00:00 IST",
-    "stop": "2026-02-03 13:30:00 IST",
-    "channel": "jio-2782",
-    "title": "7.30",
-    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203080000",
-    "stopRaw": "20260203083000",
-    "start": "2026-02-03 13:30:00 IST",
-    "stop": "2026-02-03 14:00:00 IST",
-    "channel": "jio-2782",
-    "title": "Australian Story",
-    "subTitle": "Unique stories about Australian life, including all of the complications and challenges faced on a daily basis.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203083000",
-    "stopRaw": "20260203090000",
-    "start": "2026-02-03 14:00:00 IST",
-    "stop": "2026-02-03 14:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Built To Survive",
-    "subTitle": "Phil Breslin journeys down Australia's river system in a kayak, all the way from the rocky rapids to the wide, brown estuaries, where he encounters a duck-billed platypus, a long-finned eel, and a bull shark.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203090000",
-    "stopRaw": "20260203100000",
-    "start": "2026-02-03 14:30:00 IST",
-    "stop": "2026-02-03 15:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203100000",
-    "stopRaw": "20260203104500",
-    "start": "2026-02-03 15:30:00 IST",
-    "stop": "2026-02-03 16:15:00 IST",
-    "channel": "jio-2782",
-    "title": "Great Australian Walks",
-    "subTitle": "Julia Zemiro treks along the south-west coast of NSW and receives an insider's guide to the biggest blowhole in the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203104500",
-    "stopRaw": "20260203110000",
-    "start": "2026-02-03 16:15:00 IST",
-    "stop": "2026-02-03 16:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Wide Open Spaces",
-    "subTitle": "Everyone wishes they could ditch the office job for something a bit more magical. For two young Australians, their day jobs involve swimming with dolphins in the Gulf of Carpentaria and sleeping under the stars in the outback.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203110000",
-    "stopRaw": "20260203112500",
-    "start": "2026-02-03 16:30:00 IST",
-    "stop": "2026-02-03 16:55:00 IST",
-    "channel": "jio-2782",
-    "title": "Extraordinary Animals",
-    "subTitle": "This wildlife documentary follows Hugh Fearnley-Whittingstall and a team of experts as they travel across seas to find the world's most extraordinary animal stories. The series focuses on animal intelligence, exploring remarkable behaviours, relationships and actions of various species. In Florida, Hugh discovers the unusual relationship between the predatory alligator and the placid manatee, while zoologist Lucy Cooke travels to Canada to reveal how raccoons are cleverly adapting to city life. Biologist Patrick Aryee is in Cambodia to explore why the Sun Bear is one of the world's shrewdest animals and conservationist Giles Clark discusses elephants and emotional intelligence while in Kenya.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203112500",
-    "stopRaw": "20260203113000",
-    "start": "2026-02-03 16:55:00 IST",
-    "stop": "2026-02-03 17:00:00 IST",
-    "channel": "jio-2782",
-    "title": "How Deadly",
-    "subTitle": "Ann Jones examines the divisive magpie and its infamy for dive-bombing people and singing in the backyard.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203113000",
-    "stopRaw": "20260203120000",
-    "start": "2026-02-03 17:00:00 IST",
-    "stop": "2026-02-03 17:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Australian Story",
-    "subTitle": "Unique stories about Australian life, including all of the complications and challenges faced on a daily basis.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203120000",
-    "stopRaw": "20260203121500",
-    "start": "2026-02-03 17:30:00 IST",
-    "stop": "2026-02-03 17:45:00 IST",
-    "channel": "jio-2782",
-    "title": "ABC Late News",
-    "subTitle": "The latest information on the day's top stories, with a snapshot of several areas in Australia to show what is happening in the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203121500",
-    "stopRaw": "20260203123000",
-    "start": "2026-02-03 17:45:00 IST",
-    "stop": "2026-02-03 18:00:00 IST",
-    "channel": "jio-2782",
-    "title": "The Business",
-    "subTitle": "Ticky Fullerton takes a detailed look at the day's business and finance news. With the latest trends on international share and currency markets, pointing to what Australians can expect in the days ahead.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203123000",
-    "stopRaw": "20260203130000",
-    "start": "2026-02-03 18:00:00 IST",
-    "stop": "2026-02-03 18:30:00 IST",
-    "channel": "jio-2782",
-    "title": "7.30",
-    "subTitle": "Looks at local, national and international current affairs, as well as the effects they may have on Australian society and culture. Includes political, environmental and sociological issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203130000",
-    "stopRaw": "20260203140000",
-    "start": "2026-02-03 18:30:00 IST",
-    "stop": "2026-02-03 19:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203140000",
-    "stopRaw": "20260203144500",
-    "start": "2026-02-03 19:30:00 IST",
-    "stop": "2026-02-03 20:15:00 IST",
-    "channel": "jio-2782",
-    "title": "Great Australian Walks",
-    "subTitle": "Julia Zemiro treks along the south-west coast of NSW and receives an insider's guide to the biggest blowhole in the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203144500",
-    "stopRaw": "20260203150000",
-    "start": "2026-02-03 20:15:00 IST",
-    "stop": "2026-02-03 20:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Wide Open Spaces",
-    "subTitle": "Everyone wishes they could ditch the office job for something a bit more magical. For two young Australians, their day jobs involve swimming with dolphins in the Gulf of Carpentaria and sleeping under the stars in the outback.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203150000",
-    "stopRaw": "20260203152500",
-    "start": "2026-02-03 20:30:00 IST",
-    "stop": "2026-02-03 20:55:00 IST",
-    "channel": "jio-2782",
-    "title": "Built To Survive",
-    "subTitle": "Phil Breslin journeys down Australia's river system in a kayak, all the way from the rocky rapids to the wide, brown estuaries, where he encounters a duck-billed platypus, a long-finned eel, and a bull shark.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203152500",
-    "stopRaw": "20260203165000",
-    "start": "2026-02-03 20:55:00 IST",
-    "stop": "2026-02-03 22:20:00 IST",
-    "channel": "jio-2782",
-    "title": "Queens of Concrete",
-    "subTitle": "Shot over 8 years, Queens of Concrete chronicles the journey from childhood to adulthood and the moments that define us, as three girls chase their dreams to qualify for the first ever Australian Olympic skateboarding team.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203165000",
-    "stopRaw": "20260203170000",
-    "start": "2026-02-03 22:20:00 IST",
-    "stop": "2026-02-03 22:30:00 IST",
-    "channel": "jio-2782",
-    "title": "Common Cause",
-    "subTitle": "Common Cause",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203170000",
-    "stopRaw": "20260203180000",
-    "start": "2026-02-03 22:30:00 IST",
-    "stop": "2026-02-03 23:30:00 IST",
-    "channel": "jio-2782",
-    "title": "The World",
-    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203180000",
-    "stopRaw": "20260203182959",
-    "start": "2026-02-03 23:30:00 IST",
-    "stop": "2026-02-03 23:59:59 IST",
-    "channel": "jio-2782",
-    "title": "News Breakfast",
-    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260203183000",
     "stopRaw": "20260203190000",
     "start": "2026-02-04 00:00:00 IST",
@@ -967,6 +607,326 @@
     "channel": "jio-2782",
     "title": "Gardening Australia",
     "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205183000",
+    "stopRaw": "20260205190000",
+    "start": "2026-02-06 00:00:00 IST",
+    "stop": "2026-02-06 00:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Gardening Australia",
+    "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205190000",
+    "stopRaw": "20260205200000",
+    "start": "2026-02-06 00:30:00 IST",
+    "stop": "2026-02-06 01:30:00 IST",
+    "channel": "jio-2782",
+    "title": "The Great Australian Bake Off",
+    "subTitle": "Four bakers are left in the semi-final, and to celebrate their hard work, they make some fabulous creations with the theme of celebrations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205200000",
+    "stopRaw": "20260205210000",
+    "start": "2026-02-06 01:30:00 IST",
+    "stop": "2026-02-06 02:30:00 IST",
+    "channel": "jio-2782",
+    "title": "News Breakfast",
+    "subTitle": "The latest breaking news and coverage of overnight developments in politics, world events, entertainment, sport, finance and weather.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260205210000",
+    "stopRaw": "20260206000000",
+    "start": "2026-02-06 02:30:00 IST",
+    "stop": "2026-02-06 05:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News Mornings",
+    "subTitle": "Morning news programme featuring coverage of breaking news events. This includes segments from reporters and experts for on-the-spot reports, context, and analysis.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206000000",
+    "stopRaw": "20260206010000",
+    "start": "2026-02-06 05:30:00 IST",
+    "stop": "2026-02-06 06:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News At Noon",
+    "subTitle": "The latest news updates, as well as analysis and opinions from the experts on significant issues around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206010000",
+    "stopRaw": "20260206020000",
+    "start": "2026-02-06 06:30:00 IST",
+    "stop": "2026-02-06 07:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Gardening Australia",
+    "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206020000",
+    "stopRaw": "20260206030000",
+    "start": "2026-02-06 07:30:00 IST",
+    "stop": "2026-02-06 08:30:00 IST",
+    "channel": "jio-2782",
+    "title": "The Great Australian Bake Off",
+    "subTitle": "Four bakers are left in the semi-final, and to celebrate their hard work, they make some fabulous creations with the theme of celebrations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206030000",
+    "stopRaw": "20260206035000",
+    "start": "2026-02-06 08:30:00 IST",
+    "stop": "2026-02-06 09:20:00 IST",
+    "channel": "jio-2782",
+    "title": "Great Australian Road Trips",
+    "subTitle": "Great Australian Road Trips",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206035000",
+    "stopRaw": "20260206042000",
+    "start": "2026-02-06 09:20:00 IST",
+    "stop": "2026-02-06 09:50:00 IST",
+    "channel": "jio-2782",
+    "title": "Roads Unknown: India",
+    "subTitle": "Australian adventure rider Jessica Zahra embarks on a motorbike journey across India, where she experiences the nation's stunning scenic landscapes and rich cultural tapestry.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206042000",
+    "stopRaw": "20260206045000",
+    "start": "2026-02-06 09:50:00 IST",
+    "stop": "2026-02-06 10:20:00 IST",
+    "channel": "jio-2782",
+    "title": "That Pacific Sports Show",
+    "subTitle": "Tiana Penitani and the team share stories, meet athletes and explore issues affecting the Pacific region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206045000",
+    "stopRaw": "20260206050000",
+    "start": "2026-02-06 10:20:00 IST",
+    "stop": "2026-02-06 10:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Common Cause",
+    "subTitle": "Common Cause",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206050000",
+    "stopRaw": "20260206060000",
+    "start": "2026-02-06 10:30:00 IST",
+    "stop": "2026-02-06 11:30:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC News With Joe O'Brien",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206060000",
+    "stopRaw": "20260206070000",
+    "start": "2026-02-06 11:30:00 IST",
+    "stop": "2026-02-06 12:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Gardening Australia",
+    "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206070000",
+    "stopRaw": "20260206073500",
+    "start": "2026-02-06 12:30:00 IST",
+    "stop": "2026-02-06 13:05:00 IST",
+    "channel": "jio-2782",
+    "title": "ABC National News",
+    "subTitle": "Presents the day's top stories, latest news and information, and exclusive investigations, with reports from journalists across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206073500",
+    "stopRaw": "20260206080500",
+    "start": "2026-02-06 13:05:00 IST",
+    "stop": "2026-02-06 13:35:00 IST",
+    "channel": "jio-2782",
+    "title": "Better Date Than Never",
+    "subTitle": "Sparks fly between Jack and Claire. Asher and Matt have a surprising end to their date. Kento builds up the courage to ask Rebecca out.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206080500",
+    "stopRaw": "20260206090500",
+    "start": "2026-02-06 13:35:00 IST",
+    "stop": "2026-02-06 14:35:00 IST",
+    "channel": "jio-2782",
+    "title": "The Great Australian Bake Off",
+    "subTitle": "Four bakers are left in the semi-final, and to celebrate their hard work, they make some fabulous creations with the theme of celebrations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206090500",
+    "stopRaw": "20260206093500",
+    "start": "2026-02-06 14:35:00 IST",
+    "stop": "2026-02-06 15:05:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206093500",
+    "stopRaw": "20260206100500",
+    "start": "2026-02-06 15:05:00 IST",
+    "stop": "2026-02-06 15:35:00 IST",
+    "channel": "jio-2782",
+    "title": "That Pacific Sports Show",
+    "subTitle": "Tiana Penitani and the team share stories, meet athletes and explore issues affecting the Pacific region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206100500",
+    "stopRaw": "20260206110000",
+    "start": "2026-02-06 15:35:00 IST",
+    "stop": "2026-02-06 16:30:00 IST",
+    "channel": "jio-2782",
+    "title": "A Brief History of Cricket Down Under: Changing of the Guard",
+    "subTitle": "Interviews and archival footage highlight the transitional period of cricket during the late 1980s and early 1990s, with the decline of previously dominant teams and the rise of new ones.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206110000",
+    "stopRaw": "20260206115000",
+    "start": "2026-02-06 16:30:00 IST",
+    "stop": "2026-02-06 17:20:00 IST",
+    "channel": "jio-2782",
+    "title": "Great Australian Road Trips",
+    "subTitle": "Great Australian Road Trips",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206115000",
+    "stopRaw": "20260206120000",
+    "start": "2026-02-06 17:20:00 IST",
+    "stop": "2026-02-06 17:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Common Cause",
+    "subTitle": "Common Cause",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206120000",
+    "stopRaw": "20260206123000",
+    "start": "2026-02-06 17:30:00 IST",
+    "stop": "2026-02-06 18:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Australian Story",
+    "subTitle": "Unique stories about Australian life, including all of the complications and challenges faced on a daily basis.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206123000",
+    "stopRaw": "20260206130000",
+    "start": "2026-02-06 18:00:00 IST",
+    "stop": "2026-02-06 18:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Asia News Week",
+    "subTitle": "Yvonne Yong presents the biggest current stories on Asia and reveals why they matter. Covering China, Thailand, Myanmar, Vietnam, Malaysia, Philippines, India, Sri Lanka, Pakistan, Nepal, Bangladesh, Indonesia, South Korea and Japan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206130000",
+    "stopRaw": "20260206133000",
+    "start": "2026-02-06 18:30:00 IST",
+    "stop": "2026-02-06 19:00:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206133000",
+    "stopRaw": "20260206143000",
+    "start": "2026-02-06 19:00:00 IST",
+    "stop": "2026-02-06 20:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Gardening Australia",
+    "subTitle": "This programme provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206143000",
+    "stopRaw": "20260206153000",
+    "start": "2026-02-06 20:00:00 IST",
+    "stop": "2026-02-06 21:00:00 IST",
+    "channel": "jio-2782",
+    "title": "The Great Australian Bake Off",
+    "subTitle": "Four bakers are left in the semi-final, and to celebrate their hard work, they make some fabulous creations with the theme of celebrations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206153000",
+    "stopRaw": "20260206162000",
+    "start": "2026-02-06 21:00:00 IST",
+    "stop": "2026-02-06 21:50:00 IST",
+    "channel": "jio-2782",
+    "title": "Great Australian Road Trips",
+    "subTitle": "Great Australian Road Trips",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206162000",
+    "stopRaw": "20260206163000",
+    "start": "2026-02-06 21:50:00 IST",
+    "stop": "2026-02-06 22:00:00 IST",
+    "channel": "jio-2782",
+    "title": "Common Cause",
+    "subTitle": "Common Cause",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206163000",
+    "stopRaw": "20260206170000",
+    "start": "2026-02-06 22:00:00 IST",
+    "stop": "2026-02-06 22:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Asia News Week",
+    "subTitle": "Yvonne Yong presents the biggest current stories on Asia and reveals why they matter. Covering China, Thailand, Myanmar, Vietnam, Malaysia, Philippines, India, Sri Lanka, Pakistan, Nepal, Bangladesh, Indonesia, South Korea and Japan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206170000",
+    "stopRaw": "20260206173000",
+    "start": "2026-02-06 22:30:00 IST",
+    "stop": "2026-02-06 23:00:00 IST",
+    "channel": "jio-2782",
+    "title": "The World",
+    "subTitle": "The host presents the daily news, interviews experts on major issues and gives extended insights into worldwide current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206173000",
+    "stopRaw": "20260206180000",
+    "start": "2026-02-06 23:00:00 IST",
+    "stop": "2026-02-06 23:30:00 IST",
+    "channel": "jio-2782",
+    "title": "Australian Story",
+    "subTitle": "Unique stories about Australian life, including all of the complications and challenges faced on a daily basis.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206180000",
+    "stopRaw": "20260206182959",
+    "start": "2026-02-06 23:30:00 IST",
+    "stop": "2026-02-06 23:59:59 IST",
+    "channel": "jio-2782",
+    "title": "Yakka: Australia At Work",
+    "subTitle": "Explores how Australians miners have exerted huge political influence on the workplace and the country since 1949.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

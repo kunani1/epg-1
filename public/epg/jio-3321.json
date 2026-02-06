@@ -1,335 +1,5 @@
 [
   {
-    "startRaw": "20260203183000",
-    "stopRaw": "20260203203000",
-    "start": "2026-02-04 00:00:00 IST",
-    "stop": "2026-02-04 02:00:00 IST",
-    "channel": "jio-3321",
-    "title": "ZB Cartoon",
-    "subTitle": "ZB Cartoon",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260203203000",
-    "stopRaw": "20260204023000",
-    "start": "2026-02-04 02:00:00 IST",
-    "stop": "2026-02-04 08:00:00 IST",
-    "channel": "jio-3321",
-    "title": "ZB Cartoon",
-    "subTitle": "ZB Cartoon",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204023000",
-    "stopRaw": "20260204030000",
-    "start": "2026-02-04 08:00:00 IST",
-    "stop": "2026-02-04 08:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Jhorer Ghor",
-    "subTitle": "Jhorer Ghor",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204030000",
-    "stopRaw": "20260204033000",
-    "start": "2026-02-04 08:30:00 IST",
-    "stop": "2026-02-04 09:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Goromer Dine Shak Ranna",
-    "subTitle": "Goromer Dine Shak Ranna",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204033000",
-    "stopRaw": "20260204043000",
-    "start": "2026-02-04 09:00:00 IST",
-    "stop": "2026-02-04 10:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Goromer Dine Kochu Ghonto",
-    "subTitle": "Goromer Dine Kochu Ghonto",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204043000",
-    "stopRaw": "20260204050000",
-    "start": "2026-02-04 10:00:00 IST",
-    "stop": "2026-02-04 10:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Gorip Khathurer Ghore Jomidarer Meye",
-    "subTitle": "Gorip Khathurer Ghore Jomidarer Meye",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204050000",
-    "stopRaw": "20260204053000",
-    "start": "2026-02-04 10:30:00 IST",
-    "stop": "2026-02-04 11:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Ghore Mach Chas",
-    "subTitle": "Ghore Mach Chas",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204053000",
-    "stopRaw": "20260204060000",
-    "start": "2026-02-04 11:00:00 IST",
-    "stop": "2026-02-04 11:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Chasir Jele Bou",
-    "subTitle": "Chasir Jele Bou",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204060000",
-    "stopRaw": "20260204063000",
-    "start": "2026-02-04 11:30:00 IST",
-    "stop": "2026-02-04 12:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Chasir Hinsute Tin Meye",
-    "subTitle": "Chasir Hinsute Tin Meye",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204063000",
-    "stopRaw": "20260204070000",
-    "start": "2026-02-04 12:00:00 IST",
-    "stop": "2026-02-04 12:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Chasir Ovaber Sonsar",
-    "subTitle": "Chasir Ovaber Sonsar",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204070000",
-    "stopRaw": "20260204073000",
-    "start": "2026-02-04 12:30:00 IST",
-    "stop": "2026-02-04 13:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Chul Diea Mach Dhora",
-    "subTitle": "Chul Diea Mach Dhora",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204073000",
-    "stopRaw": "20260204080000",
-    "start": "2026-02-04 13:00:00 IST",
-    "stop": "2026-02-04 13:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Jomoj Tin Bon",
-    "subTitle": "Jomoj Tin Bon",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204080000",
-    "stopRaw": "20260204083000",
-    "start": "2026-02-04 13:30:00 IST",
-    "stop": "2026-02-04 14:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Jole Vasa Sonsar",
-    "subTitle": "Jole Vasa Sonsar",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204083000",
-    "stopRaw": "20260204090000",
-    "start": "2026-02-04 14:00:00 IST",
-    "stop": "2026-02-04 14:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Joler Dore Khasir Mangso",
-    "subTitle": "Joler Dore Khasir Mangso",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204090000",
-    "stopRaw": "20260204093000",
-    "start": "2026-02-04 14:30:00 IST",
-    "stop": "2026-02-04 15:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Jadur Korai",
-    "subTitle": "Jadur Korai",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204093000",
-    "stopRaw": "20260204100000",
-    "start": "2026-02-04 15:00:00 IST",
-    "stop": "2026-02-04 15:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Tunir Sami Labutea Bondi",
-    "subTitle": "Tunir Sami Labutea Bondi",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204100000",
-    "stopRaw": "20260204103000",
-    "start": "2026-02-04 15:30:00 IST",
-    "stop": "2026-02-04 16:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Tin Poribarer Ek Chula",
-    "subTitle": "Tin Poribarer Ek Chula",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204103000",
-    "stopRaw": "20260204110000",
-    "start": "2026-02-04 16:00:00 IST",
-    "stop": "2026-02-04 16:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Tin Vaiyer Macher Bebsa",
-    "subTitle": "Tin Vaiyer Macher Bebsa",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204110000",
-    "stopRaw": "20260204113000",
-    "start": "2026-02-04 16:30:00 IST",
-    "stop": "2026-02-04 17:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Dukhi Chashi Sukhi Chashi",
-    "subTitle": "Dukhi Chashi Sukhi Chashi",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204113000",
-    "stopRaw": "20260204120000",
-    "start": "2026-02-04 17:00:00 IST",
-    "stop": "2026-02-04 17:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Dui Goriber Sonsar",
-    "subTitle": "Dui Goriber Sonsar",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204120000",
-    "stopRaw": "20260204123000",
-    "start": "2026-02-04 17:30:00 IST",
-    "stop": "2026-02-04 18:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Dui Gramer Ak Nodi",
-    "subTitle": "Dui Gramer Ak Nodi",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204123000",
-    "stopRaw": "20260204130000",
-    "start": "2026-02-04 18:00:00 IST",
-    "stop": "2026-02-04 18:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Dui Bouyer Ek Nonod",
-    "subTitle": "Dui Bouyer Ek Nonod",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204130000",
-    "stopRaw": "20260204133000",
-    "start": "2026-02-04 18:30:00 IST",
-    "stop": "2026-02-04 19:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Deser Barir Boro Mach",
-    "subTitle": "Deser Barir Boro Mach",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204133000",
-    "stopRaw": "20260204140000",
-    "start": "2026-02-04 19:00:00 IST",
-    "stop": "2026-02-04 19:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Dhoni Barir Torkari Jhol",
-    "subTitle": "Dhoni Barir Torkari Jhol",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204140000",
-    "stopRaw": "20260204143000",
-    "start": "2026-02-04 19:30:00 IST",
-    "stop": "2026-02-04 20:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Dhonir Gorom Goriber Gorom",
-    "subTitle": "Dhonir Gorom Goriber Gorom",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204143000",
-    "stopRaw": "20260204150000",
-    "start": "2026-02-04 20:00:00 IST",
-    "stop": "2026-02-04 20:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Notun Bouyer Kochu Shak",
-    "subTitle": "Notun Bouyer Kochu Shak",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204150000",
-    "stopRaw": "20260204153000",
-    "start": "2026-02-04 20:30:00 IST",
-    "stop": "2026-02-04 21:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Notun Bouyer Olos Otithi",
-    "subTitle": "Notun Bouyer Olos Otithi",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204153000",
-    "stopRaw": "20260204160000",
-    "start": "2026-02-04 21:00:00 IST",
-    "stop": "2026-02-04 21:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Notun Bouyer Siter Pitha",
-    "subTitle": "Notun Bouyer Siter Pitha",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204160000",
-    "stopRaw": "20260204163000",
-    "start": "2026-02-04 21:30:00 IST",
-    "stop": "2026-02-04 22:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Podda Konna",
-    "subTitle": "Podda Konna",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204163000",
-    "stopRaw": "20260204170000",
-    "start": "2026-02-04 22:00:00 IST",
-    "stop": "2026-02-04 22:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Pach Burir Notun Songsar",
-    "subTitle": "Pach Burir Notun Songsar",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204170000",
-    "stopRaw": "20260204173000",
-    "start": "2026-02-04 22:30:00 IST",
-    "stop": "2026-02-04 23:00:00 IST",
-    "channel": "jio-3321",
-    "title": "Pisimar Hater Garum Bhat",
-    "subTitle": "Pisimar Hater Garum Bhat",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204173000",
-    "stopRaw": "20260204180000",
-    "start": "2026-02-04 23:00:00 IST",
-    "stop": "2026-02-04 23:30:00 IST",
-    "channel": "jio-3321",
-    "title": "Bou Sasuri Vager Rannaghor",
-    "subTitle": "Bou Sasuri Vager Rannaghor",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260204180000",
-    "stopRaw": "20260204182959",
-    "start": "2026-02-04 23:30:00 IST",
-    "stop": "2026-02-04 23:59:59 IST",
-    "channel": "jio-3321",
-    "title": "Borsar Dine Khichuri",
-    "subTitle": "Borsar Dine Khichuri",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260204183000",
     "stopRaw": "20260205063000",
     "start": "2026-02-05 00:00:00 IST",
@@ -514,6 +184,76 @@
     "stopRaw": "20260206182959",
     "start": "2026-02-06 22:00:00 IST",
     "stop": "2026-02-06 23:59:59 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206183000",
+    "stopRaw": "20260206203000",
+    "start": "2026-02-07 00:00:00 IST",
+    "stop": "2026-02-07 02:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206203000",
+    "stopRaw": "20260207003000",
+    "start": "2026-02-07 02:00:00 IST",
+    "stop": "2026-02-07 06:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207003000",
+    "stopRaw": "20260207043000",
+    "start": "2026-02-07 06:00:00 IST",
+    "stop": "2026-02-07 10:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207043000",
+    "stopRaw": "20260207083000",
+    "start": "2026-02-07 10:00:00 IST",
+    "stop": "2026-02-07 14:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207083000",
+    "stopRaw": "20260207123000",
+    "start": "2026-02-07 14:00:00 IST",
+    "stop": "2026-02-07 18:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207123000",
+    "stopRaw": "20260207163000",
+    "start": "2026-02-07 18:00:00 IST",
+    "stop": "2026-02-07 22:00:00 IST",
+    "channel": "jio-3321",
+    "title": "ZB Cartoon",
+    "subTitle": "ZB Cartoon",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207163000",
+    "stopRaw": "20260207182959",
+    "start": "2026-02-07 22:00:00 IST",
+    "stop": "2026-02-07 23:59:59 IST",
     "channel": "jio-3321",
     "title": "ZB Cartoon",
     "subTitle": "ZB Cartoon",

@@ -1126,7 +1126,7 @@
     "stop": "2026-02-07 08:30:00 IST",
     "channel": "jio-927",
     "title": "Speed News",
-    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1146,7 +1146,7 @@
     "stop": "2026-02-07 09:30:00 IST",
     "channel": "jio-927",
     "title": "National News",
-    "subTitle": "The host presents the latest news updates and developments regarding social, economic and political issues from across the country.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1156,13 +1156,23 @@
     "stop": "2026-02-07 10:00:00 IST",
     "channel": "jio-927",
     "title": "News Special",
-    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207043000",
-    "stopRaw": "20260207053000",
+    "stopRaw": "20260207050000",
     "start": "2026-02-07 10:00:00 IST",
+    "stop": "2026-02-07 10:30:00 IST",
+    "channel": "jio-927",
+    "title": "Rajasthan 10 Baje",
+    "subTitle": "The host presents some of the latest news stories and updates as well as the schemes undertaken by the government for the development of Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207050000",
+    "stopRaw": "20260207053000",
+    "start": "2026-02-07 10:30:00 IST",
     "stop": "2026-02-07 11:00:00 IST",
     "channel": "jio-927",
     "title": "Rajasthan 10 Baje",
@@ -1176,7 +1186,7 @@
     "stop": "2026-02-07 11:30:00 IST",
     "channel": "jio-927",
     "title": "Breaking Bulletin",
-    "subTitle": "The host presents the latest news and updates from the world of politics, sports, economics, entertainment and business.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1205,18 +1215,28 @@
     "start": "2026-02-07 12:30:00 IST",
     "stop": "2026-02-07 13:00:00 IST",
     "channel": "jio-927",
-    "title": "Viral Hit Live",
-    "subTitle": "The host presents the latest news stories and recent updates on significant matters that are going viral on social media, live.",
+    "title": "Viral Hits Live",
+    "subTitle": "The host sheds light on the latest updates and developments pertaining to education, politics, sports and entertainment news, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207073000",
-    "stopRaw": "20260207083000",
+    "stopRaw": "20260207080000",
     "start": "2026-02-07 13:00:00 IST",
+    "stop": "2026-02-07 13:30:00 IST",
+    "channel": "jio-927",
+    "title": "Hamara Rajasthan",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207080000",
+    "stopRaw": "20260207083000",
+    "start": "2026-02-07 13:30:00 IST",
     "stop": "2026-02-07 14:00:00 IST",
     "channel": "jio-927",
     "title": "Hamara Rajasthan",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1246,7 +1266,7 @@
     "stop": "2026-02-07 15:30:00 IST",
     "channel": "jio-927",
     "title": "Speed News",
-    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1261,12 +1281,22 @@
   },
   {
     "startRaw": "20260207103000",
-    "stopRaw": "20260207113000",
+    "stopRaw": "20260207110000",
     "start": "2026-02-07 16:00:00 IST",
+    "stop": "2026-02-07 16:30:00 IST",
+    "channel": "jio-927",
+    "title": "Hamara Rajasthan",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207110000",
+    "stopRaw": "20260207113000",
+    "start": "2026-02-07 16:30:00 IST",
     "stop": "2026-02-07 17:00:00 IST",
     "channel": "jio-927",
     "title": "Hamara Rajasthan",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1295,8 +1325,8 @@
     "start": "2026-02-07 18:00:00 IST",
     "stop": "2026-02-07 18:30:00 IST",
     "channel": "jio-927",
-    "title": "Khabaraa Tahsil Ree",
-    "subTitle": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
+    "title": "Khel Khel Mein",
+    "subTitle": "An analyst presents the latest updates on players and teams from the world of sports, providing details and insights into their performances.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1311,12 +1341,22 @@
   },
   {
     "startRaw": "20260207133000",
-    "stopRaw": "20260207143000",
+    "stopRaw": "20260207140000",
     "start": "2026-02-07 19:00:00 IST",
+    "stop": "2026-02-07 19:30:00 IST",
+    "channel": "jio-927",
+    "title": "Hamara Rajasthan",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207140000",
+    "stopRaw": "20260207143000",
+    "start": "2026-02-07 19:30:00 IST",
     "stop": "2026-02-07 20:00:00 IST",
     "channel": "jio-927",
     "title": "Hamara Rajasthan",
-    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+    "subTitle": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1325,8 +1365,8 @@
     "start": "2026-02-07 20:00:00 IST",
     "stop": "2026-02-07 20:30:00 IST",
     "channel": "jio-927",
-    "title": "Shakhsiyat 2022",
-    "subTitle": "The host engages in insightful conversations with prominent personalities from various fields, uncovering their personal experiences, views and contributions to society.",
+    "title": "News Live",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1336,7 +1376,7 @@
     "stop": "2026-02-07 21:00:00 IST",
     "channel": "jio-927",
     "title": "Speed News",
-    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1355,8 +1395,8 @@
     "start": "2026-02-07 21:30:00 IST",
     "stop": "2026-02-07 22:00:00 IST",
     "channel": "jio-927",
-    "title": "News Special",
-    "subTitle": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+    "title": "Kya Kahte Hai Narendra Modi",
+    "subTitle": "The host talks about Narendra Modi's speech and analyses his plans for the future as he addresses the public and shares his vision.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1376,7 +1416,7 @@
     "stop": "2026-02-07 23:00:00 IST",
     "channel": "jio-927",
     "title": "Speed News",
-    "subTitle": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1395,8 +1435,8 @@
     "start": "2026-02-07 23:30:00 IST",
     "stop": "2026-02-07 23:59:59 IST",
     "channel": "jio-927",
-    "title": "Mushaira",
-    "subTitle": "Poets from across regions gather at an event to present poems on various topics and to analyse works of prominent literary figures.",
+    "title": "News Live",
+    "subTitle": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

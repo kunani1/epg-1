@@ -321,22 +321,42 @@
   },
   {
     "startRaw": "20260206053000",
-    "stopRaw": "20260206083000",
+    "stopRaw": "20260206093000",
     "start": "2026-02-06 11:00:00 IST",
-    "stop": "2026-02-06 14:00:00 IST",
+    "stop": "2026-02-06 15:00:00 IST",
     "channel": "jio-204",
-    "title": "T20 Cricket",
-    "subTitle": "From Greater Noida Sports Complex Ground in Greater Noida, India.",
+    "title": "2026 Davis Cup Tennis",
+    "subTitle": "International event contested between teams from competing countries in a knock-out format.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260206083000",
+    "startRaw": "20260206093000",
+    "stopRaw": "20260206103000",
+    "start": "2026-02-06 15:00:00 IST",
+    "stop": "2026-02-06 16:00:00 IST",
+    "channel": "jio-204",
+    "title": "The Great Indian Cricket Show",
+    "subTitle": "Various cricket players and sports experts engage in in-depth conversations with the aim of honouring India's rich cricketing legacy and nurturing enthusiasm among up-and-coming fans.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206103000",
+    "stopRaw": "20260206113000",
+    "start": "2026-02-06 16:00:00 IST",
+    "stop": "2026-02-06 17:00:00 IST",
+    "channel": "jio-204",
+    "title": "Hockey India League",
+    "subTitle": "Coverage of the professional field hockey league in India.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206113000",
     "stopRaw": "20260206130000",
-    "start": "2026-02-06 14:00:00 IST",
+    "start": "2026-02-06 17:00:00 IST",
     "stop": "2026-02-06 18:30:00 IST",
     "channel": "jio-204",
-    "title": "WAKO India Open International Kickboxing Cup 2026",
-    "subTitle": "WAKO India Open International Kickboxing Cup 2026",
+    "title": "Commonwealth Weightlifting Championship",
+    "subTitle": "Professional athletes compete against each other to emerge victorious in the Commonwealth Weightlifting Championships to win the coveted title.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -441,18 +461,8 @@
   },
   {
     "startRaw": "20260206233000",
-    "stopRaw": "20260207000000",
-    "start": "2026-02-07 05:00:00 IST",
-    "stop": "2026-02-07 05:30:00 IST",
-    "channel": "jio-204",
-    "title": "Khelo India Youth Games",
-    "subTitle": "Emerging youth compete in diverse sporting disciplines, aiming to inspire a new generation of athletes and strengthen the foundation of India's sports ecosystem.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260207000000",
     "stopRaw": "20260207003000",
-    "start": "2026-02-07 05:30:00 IST",
+    "start": "2026-02-07 05:00:00 IST",
     "stop": "2026-02-07 06:00:00 IST",
     "channel": "jio-204",
     "title": "Khelo India Youth Games",
@@ -461,52 +471,142 @@
   },
   {
     "startRaw": "20260207003000",
-    "stopRaw": "20260207033000",
+    "stopRaw": "20260207013000",
     "start": "2026-02-07 06:00:00 IST",
+    "stop": "2026-02-07 07:00:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India University Games",
+    "subTitle": "A national level multi-sport competition organised by Sports Authority of India for athletes from universities across India to compete.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207013000",
+    "stopRaw": "20260207023000",
+    "start": "2026-02-07 07:00:00 IST",
+    "stop": "2026-02-07 08:00:00 IST",
+    "channel": "jio-204",
+    "title": "Commonwealth Weightlifting Championship",
+    "subTitle": "Professional athletes compete against each other to emerge victorious in the Commonwealth Weightlifting Championships to win the coveted title.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207023000",
+    "stopRaw": "20260207033000",
+    "start": "2026-02-07 08:00:00 IST",
     "stop": "2026-02-07 09:00:00 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "Billie Jean King Cup",
+    "subTitle": "Professional players compete against each other in the Billie Jean King Cup, a women's tennis tournament, in order to emerge victorious.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207033000",
-    "stopRaw": "20260207063000",
+    "stopRaw": "20260207040000",
     "start": "2026-02-07 09:00:00 IST",
+    "stop": "2026-02-07 09:30:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India Winter Games Highlights",
+    "subTitle": "Khelo India Winter Games Highlights",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207040000",
+    "stopRaw": "20260207043000",
+    "start": "2026-02-07 09:30:00 IST",
+    "stop": "2026-02-07 10:00:00 IST",
+    "channel": "jio-204",
+    "title": "Highlights Of 2nd Khelo India Beach Games",
+    "subTitle": "Highlights Of 2nd Khelo India Beach Games",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207043000",
+    "stopRaw": "20260207053000",
+    "start": "2026-02-07 10:00:00 IST",
+    "stop": "2026-02-07 11:00:00 IST",
+    "channel": "jio-204",
+    "title": "The Great Indian Cricket Show",
+    "subTitle": "Various cricket players and sports experts engage in in-depth conversations with the aim of honouring India's rich cricketing legacy and nurturing enthusiasm among up-and-coming fans.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207053000",
+    "stopRaw": "20260207063000",
+    "start": "2026-02-07 11:00:00 IST",
     "stop": "2026-02-07 12:00:00 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "Vovinam Martial Art National Championship",
+    "subTitle": "Delhi Vovinam Association hosts a championship tournament as martial arts athletes from several states of India compete to emerge victorious.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207063000",
-    "stopRaw": "20260207093000",
+    "stopRaw": "20260207073000",
     "start": "2026-02-07 12:00:00 IST",
+    "stop": "2026-02-07 13:00:00 IST",
+    "channel": "jio-204",
+    "title": "Women's Field Hockey",
+    "subTitle": "Coverage of women's field hockey action.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207073000",
+    "stopRaw": "20260207083000",
+    "start": "2026-02-07 13:00:00 IST",
+    "stop": "2026-02-07 14:00:00 IST",
+    "channel": "jio-204",
+    "title": "Khelo India Beach Games",
+    "subTitle": "Athletes from all over India come together to compete with one another in various beach games and take home the winning title.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207083000",
+    "stopRaw": "20260207093000",
+    "start": "2026-02-07 14:00:00 IST",
     "stop": "2026-02-07 15:00:00 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "Commonwealth Weightlifting Championship",
+    "subTitle": "Professional athletes compete against each other to emerge victorious in the Commonwealth Weightlifting Championships to win the coveted title.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207093000",
-    "stopRaw": "20260207123000",
+    "stopRaw": "20260207103000",
     "start": "2026-02-07 15:00:00 IST",
-    "stop": "2026-02-07 18:00:00 IST",
+    "stop": "2026-02-07 16:00:00 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "The Great Indian Cricket Show",
+    "subTitle": "Various cricket players and sports experts engage in in-depth conversations with the aim of honouring India's rich cricketing legacy and nurturing enthusiasm among up-and-coming fans.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260207123000",
+    "startRaw": "20260207103000",
+    "stopRaw": "20260207130000",
+    "start": "2026-02-07 16:00:00 IST",
+    "stop": "2026-02-07 18:30:00 IST",
+    "channel": "jio-204",
+    "title": "2026 Davis Cup Tennis",
+    "subTitle": "International event contested between teams from competing countries in a knock-out format.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207130000",
+    "stopRaw": "20260207143000",
+    "start": "2026-02-07 18:30:00 IST",
+    "stop": "2026-02-07 20:00:00 IST",
+    "channel": "jio-204",
+    "title": "Kabaddi Champions League",
+    "subTitle": "Kabaddi Champions League",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207143000",
     "stopRaw": "20260207153000",
-    "start": "2026-02-07 18:00:00 IST",
+    "start": "2026-02-07 20:00:00 IST",
     "stop": "2026-02-07 21:00:00 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "The Great Indian Cricket Show",
+    "subTitle": "Various cricket players and sports experts engage in in-depth conversations with the aim of honouring India's rich cricketing legacy and nurturing enthusiasm among up-and-coming fans.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -515,8 +615,8 @@
     "start": "2026-02-07 21:00:00 IST",
     "stop": "2026-02-07 23:59:59 IST",
     "channel": "jio-204",
-    "title": "Sports Programme",
-    "subTitle": "Bringing the best in television.",
+    "title": "Kabaddi Champions League",
+    "subTitle": "Kabaddi Champions League",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

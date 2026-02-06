@@ -281,18 +281,8 @@
   },
   {
     "startRaw": "20260207003000",
-    "stopRaw": "20260207010000",
-    "start": "2026-02-07 06:00:00 IST",
-    "stop": "2026-02-07 06:30:00 IST",
-    "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260207010000",
     "stopRaw": "20260207013000",
-    "start": "2026-02-07 06:30:00 IST",
+    "start": "2026-02-07 06:00:00 IST",
     "stop": "2026-02-07 07:00:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
@@ -351,12 +341,22 @@
   },
   {
     "startRaw": "20260207153000",
-    "stopRaw": "20260207182959",
+    "stopRaw": "20260207181200",
     "start": "2026-02-07 21:00:00 IST",
-    "stop": "2026-02-07 23:59:59 IST",
+    "stop": "2026-02-07 23:42:00 IST",
     "channel": "jio-413",
     "title": "Cheekati",
     "subTitle": "Inspector Chezhiyan is assigned to investigate a series of bizarre and baffling deaths in a quiet hilly town, However, as he delves deeper into the cases, his own family becomes plagued with supernatural occurrences.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207181200",
+    "stopRaw": "20260207182959",
+    "start": "2026-02-07 23:42:00 IST",
+    "stop": "2026-02-07 23:59:59 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

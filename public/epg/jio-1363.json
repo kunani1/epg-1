@@ -291,12 +291,22 @@
   },
   {
     "startRaw": "20260207003000",
-    "stopRaw": "20260207013000",
+    "stopRaw": "20260207010000",
     "start": "2026-02-07 06:00:00 IST",
+    "stop": "2026-02-07 06:30:00 IST",
+    "channel": "jio-1363",
+    "title": "Just Chill",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207010000",
+    "stopRaw": "20260207013000",
+    "start": "2026-02-07 06:30:00 IST",
     "stop": "2026-02-07 07:00:00 IST",
     "channel": "jio-1363",
     "title": "Just Chill",
-    "subTitle": "Enjoy a collection of beloved, beautiful songs. Talented artists sing and create the music. Listen to one song after another in this pleasing compilation.",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -341,32 +351,22 @@
   },
   {
     "startRaw": "20260207123000",
-    "stopRaw": "20260207152300",
+    "stopRaw": "20260207153000",
     "start": "2026-02-07 18:00:00 IST",
-    "stop": "2026-02-07 20:53:00 IST",
+    "stop": "2026-02-07 21:00:00 IST",
     "channel": "jio-1363",
     "title": "#Single",
     "subTitle": "Vijay enjoys his single life until he falls for Purva. While pursuing her, he discovers that Harini, his friend, loves him and inadvertently gets caught in a love triangle.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260207152300",
-    "stopRaw": "20260207175800",
-    "start": "2026-02-07 20:53:00 IST",
-    "stop": "2026-02-07 23:28:00 IST",
+    "startRaw": "20260207153000",
+    "stopRaw": "20260207182959",
+    "start": "2026-02-07 21:00:00 IST",
+    "stop": "2026-02-07 23:59:59 IST",
     "channel": "jio-1363",
     "title": "Cheekati",
     "subTitle": "Inspector Chezhiyan is assigned to investigate a series of bizarre and baffling deaths in a quiet hilly town, However, as he delves deeper into the cases, his own family becomes plagued with supernatural occurrences.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260207175800",
-    "stopRaw": "20260207182959",
-    "start": "2026-02-07 23:28:00 IST",
-    "stop": "2026-02-07 23:59:59 IST",
-    "channel": "jio-1363",
-    "title": "Fillers",
-    "subTitle": "Watch promos and fillers back to back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

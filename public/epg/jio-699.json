@@ -915,8 +915,8 @@
     "start": "2026-02-07 08:00:00 IST",
     "stop": "2026-02-07 08:30:00 IST",
     "channel": "jio-699",
-    "title": "Bharathanatyam",
-    "subTitle": "Skilled performers demonstrate the artistry of classical dance, enchanting spectators with their graceful movements and intricate choreography.",
+    "title": "DD Grooves",
+    "subTitle": "A comprehensive compilation of the latest and most popular songs sung by famous bands and artists from around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -925,8 +925,8 @@
     "start": "2026-02-07 08:30:00 IST",
     "stop": "2026-02-07 09:00:00 IST",
     "channel": "jio-699",
-    "title": "Pattinte Sakhimar",
-    "subTitle": "The host interacts with singers who discuss their careers, perform some of their best songs and answer questions from the viewers.",
+    "title": "Stage Show",
+    "subTitle": "Talented artists participate in various cultural activities, delivering captivating performances of melodious songs and elegant dances.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -941,8 +941,18 @@
   },
   {
     "startRaw": "20260207043000",
-    "stopRaw": "20260207053000",
+    "stopRaw": "20260207044000",
     "start": "2026-02-07 10:00:00 IST",
+    "stop": "2026-02-07 10:10:00 IST",
+    "channel": "jio-699",
+    "title": "Varthakal",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207044000",
+    "stopRaw": "20260207053000",
+    "start": "2026-02-07 10:10:00 IST",
     "stop": "2026-02-07 11:00:00 IST",
     "channel": "jio-699",
     "title": "Doctors Speak",
@@ -951,18 +961,28 @@
   },
   {
     "startRaw": "20260207053000",
-    "stopRaw": "20260207060000",
+    "stopRaw": "20260207054000",
     "start": "2026-02-07 11:00:00 IST",
-    "stop": "2026-02-07 11:30:00 IST",
+    "stop": "2026-02-07 11:10:00 IST",
     "channel": "jio-699",
     "title": "Varthakal",
     "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260207060000",
+    "startRaw": "20260207054000",
+    "stopRaw": "20260207060500",
+    "start": "2026-02-07 11:10:00 IST",
+    "stop": "2026-02-07 11:35:00 IST",
+    "channel": "jio-699",
+    "title": "Classical Dance",
+    "subTitle": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthral the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207060500",
     "stopRaw": "20260207063000",
-    "start": "2026-02-07 11:30:00 IST",
+    "start": "2026-02-07 11:35:00 IST",
     "stop": "2026-02-07 12:00:00 IST",
     "channel": "jio-699",
     "title": "Krishi Darshan",
@@ -971,8 +991,18 @@
   },
   {
     "startRaw": "20260207063000",
-    "stopRaw": "20260207073000",
+    "stopRaw": "20260207064000",
     "start": "2026-02-07 12:00:00 IST",
+    "stop": "2026-02-07 12:10:00 IST",
+    "channel": "jio-699",
+    "title": "Varthakal",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207064000",
+    "stopRaw": "20260207073000",
+    "start": "2026-02-07 12:10:00 IST",
     "stop": "2026-02-07 13:00:00 IST",
     "channel": "jio-699",
     "title": "Koottinoru Pattu",
@@ -995,8 +1025,8 @@
     "start": "2026-02-07 13:30:00 IST",
     "stop": "2026-02-07 14:00:00 IST",
     "channel": "jio-699",
-    "title": "Ruchimalayalam",
-    "subTitle": "Ruchimalayalam",
+    "title": "Cookery",
+    "subTitle": "Talented home cooks and professional chefs reveal their culinary secrets, demonstrating simple yet innovative recipes. Their expertise transforms ordinary ingredients into extraordinary dishes.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1005,64 +1035,104 @@
     "start": "2026-02-07 14:00:00 IST",
     "stop": "2026-02-07 15:00:00 IST",
     "channel": "jio-699",
-    "title": "DD Talk",
-    "subTitle": "DD Talk",
+    "title": "Doctors Speak",
+    "subTitle": "The host teams up with doctors to shed light on the coronavirus disease (COVID-19), its symptoms, precautionary measures and when to get tested.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207093000",
-    "stopRaw": "20260207100000",
+    "stopRaw": "20260207094000",
     "start": "2026-02-07 15:00:00 IST",
-    "stop": "2026-02-07 15:30:00 IST",
+    "stop": "2026-02-07 15:10:00 IST",
     "channel": "jio-699",
     "title": "Varthakal",
     "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260207100000",
+    "startRaw": "20260207094000",
     "stopRaw": "20260207103000",
-    "start": "2026-02-07 15:30:00 IST",
+    "start": "2026-02-07 15:10:00 IST",
     "stop": "2026-02-07 16:00:00 IST",
     "channel": "jio-699",
-    "title": "Pattinte Sakhimar",
-    "subTitle": "The host interacts with singers who discuss their careers, perform some of their best songs and answer questions from the viewers.",
+    "title": "Uthrada Chinthu",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207103000",
-    "stopRaw": "20260207113000",
+    "stopRaw": "20260207104000",
     "start": "2026-02-07 16:00:00 IST",
-    "stop": "2026-02-07 17:00:00 IST",
-    "channel": "jio-699",
-    "title": "Bharathanatyam",
-    "subTitle": "Skilled performers demonstrate the artistry of classical dance, enchanting spectators with their graceful movements and intricate choreography.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260207113000",
-    "stopRaw": "20260207120000",
-    "start": "2026-02-07 17:00:00 IST",
-    "stop": "2026-02-07 17:30:00 IST",
+    "stop": "2026-02-07 16:10:00 IST",
     "channel": "jio-699",
     "title": "Varthakal",
     "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260207120000",
+    "startRaw": "20260207104000",
+    "stopRaw": "20260207110500",
+    "start": "2026-02-07 16:10:00 IST",
+    "stop": "2026-02-07 16:35:00 IST",
+    "channel": "jio-699",
+    "title": "Kananaya Thanima",
+    "subTitle": "The filmmaker explores the traditions, culture and history of the Knanaya community, showcasing their unique and vibrant heritage.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207110500",
+    "stopRaw": "20260207113000",
+    "start": "2026-02-07 16:35:00 IST",
+    "stop": "2026-02-07 17:00:00 IST",
+    "channel": "jio-699",
+    "title": "Enswaram",
+    "subTitle": "Popular and talented playback singers pay tribute to their teachers by singing some of their most favourite Malayalam songs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207113000",
+    "stopRaw": "20260207114000",
+    "start": "2026-02-07 17:00:00 IST",
+    "stop": "2026-02-07 17:10:00 IST",
+    "channel": "jio-699",
+    "title": "Varthakal",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207114000",
+    "stopRaw": "20260207120500",
+    "start": "2026-02-07 17:10:00 IST",
+    "stop": "2026-02-07 17:35:00 IST",
+    "channel": "jio-699",
+    "title": "Arthavathinte Kalayum Kaalavum",
+    "subTitle": "The host interviews an expert to explore key aspects of the female reproductive system and offers viewers valuable insights.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207120500",
     "stopRaw": "20260207123000",
-    "start": "2026-02-07 17:30:00 IST",
+    "start": "2026-02-07 17:35:00 IST",
     "stop": "2026-02-07 18:00:00 IST",
     "channel": "jio-699",
-    "title": "Book Marked",
-    "subTitle": "Book Marked",
+    "title": "Siet",
+    "subTitle": "A subject matter expert provides a comprehensive overview of various course-related topics in an easy-to-understand manner, using relevant examples.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207123000",
-    "stopRaw": "20260207130000",
+    "stopRaw": "20260207124000",
     "start": "2026-02-07 18:00:00 IST",
+    "stop": "2026-02-07 18:10:00 IST",
+    "channel": "jio-699",
+    "title": "Varthakal",
+    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207124000",
+    "stopRaw": "20260207130000",
+    "start": "2026-02-07 18:10:00 IST",
     "stop": "2026-02-07 18:30:00 IST",
     "channel": "jio-699",
     "title": "Employment News",
@@ -1071,12 +1141,22 @@
   },
   {
     "startRaw": "20260207130000",
-    "stopRaw": "20260207133000",
+    "stopRaw": "20260207132500",
     "start": "2026-02-07 18:30:00 IST",
-    "stop": "2026-02-07 19:00:00 IST",
+    "stop": "2026-02-07 18:55:00 IST",
     "channel": "jio-699",
     "title": "Vaartavali",
     "subTitle": "The host presents the latest news, updates and developments on areas like politics, socio-economic issues and current affairs from across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207132500",
+    "stopRaw": "20260207133000",
+    "start": "2026-02-07 18:55:00 IST",
+    "stop": "2026-02-07 19:00:00 IST",
+    "channel": "jio-699",
+    "title": "Sabarimala Visheshangal",
+    "subTitle": "The host provides insights into the activities and rituals at the Sabarimala temple, discussing key events and their cultural impacts.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1095,8 +1175,8 @@
     "start": "2026-02-07 19:30:00 IST",
     "stop": "2026-02-07 20:00:00 IST",
     "channel": "jio-699",
-    "title": "Priyakeralam",
-    "subTitle": "The host goes on an expedition to Kerala to know more about the culture and traditions of its people while sharing insights about the place.",
+    "title": "Enswaram",
+    "subTitle": "Popular and talented playback singers pay tribute to their teachers by singing some of their most favourite Malayalam songs.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1105,8 +1185,8 @@
     "start": "2026-02-07 20:00:00 IST",
     "stop": "2026-02-07 20:30:00 IST",
     "channel": "jio-699",
-    "title": "Njaan Kanda Lokam",
-    "subTitle": "Njaan Kanda Lokam",
+    "title": "Visesha Kazchakal",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1115,8 +1195,8 @@
     "start": "2026-02-07 20:30:00 IST",
     "stop": "2026-02-07 21:00:00 IST",
     "channel": "jio-699",
-    "title": "Heritage Bites",
-    "subTitle": "The host explores the rich heritage, monuments and history of the region, while highlighting the glorious traditions and customs of the people.",
+    "title": "IFFK - Report",
+    "subTitle": "The host presents latest updates and key developments pertaining to the International Film Festival of Kerala, a platform to celebrate cinematic excellence.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1125,8 +1205,8 @@
     "start": "2026-02-07 21:00:00 IST",
     "stop": "2026-02-07 21:30:00 IST",
     "channel": "jio-699",
-    "title": "Ullekham",
-    "subTitle": "Ullekham",
+    "title": "Ullekham Kavithayile Velichangal",
+    "subTitle": "The host explains the importance of poetry, followed by individuals who sing various verses from poems and showcase their talent.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1135,8 +1215,8 @@
     "start": "2026-02-07 21:30:00 IST",
     "stop": "2026-02-07 22:00:00 IST",
     "channel": "jio-699",
-    "title": "Akkidippuram Panchayath",
-    "subTitle": "Akkidippuram Panchayath",
+    "title": "Amrutha Bharatham",
+    "subTitle": "The host sheds light on numerous top stories, including updates about significant developments taking place in the country.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1145,8 +1225,8 @@
     "start": "2026-02-07 22:00:00 IST",
     "stop": "2026-02-07 22:30:00 IST",
     "channel": "jio-699",
-    "title": "Amrutha Bharatham",
-    "subTitle": "The host sheds light on numerous top stories, including updates about significant developments taking place in the country.",
+    "title": "Folk Programme",
+    "subTitle": "Various forms of folk art inherent to the state of Kerala are showcased, with several talented artists delivering brilliant performances.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1155,8 +1235,8 @@
     "start": "2026-02-07 22:30:00 IST",
     "stop": "2026-02-07 23:00:00 IST",
     "channel": "jio-699",
-    "title": "Start Comedy Action",
-    "subTitle": "Start Comedy Action",
+    "title": "Kathakali",
+    "subTitle": "The host invites various Kathakali artists to perform a series of classical dance routines that retell stories from Hindu scriptures through exquisite theatrical expression.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1165,8 +1245,8 @@
     "start": "2026-02-07 23:00:00 IST",
     "stop": "2026-02-07 23:59:59 IST",
     "channel": "jio-699",
-    "title": "DD Talks Podcast",
-    "subTitle": "DD Talks Podcast",
+    "title": "Doctors Speak",
+    "subTitle": "The host teams up with doctors to shed light on the coronavirus disease (COVID-19), its symptoms, precautionary measures and when to get tested.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

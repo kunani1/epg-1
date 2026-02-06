@@ -351,8 +351,18 @@
   },
   {
     "startRaw": "20260207003000",
-    "stopRaw": "20260207033000",
+    "stopRaw": "20260207010000",
     "start": "2026-02-07 06:00:00 IST",
+    "stop": "2026-02-07 06:30:00 IST",
+    "channel": "jio-3047",
+    "title": "Aaradhane",
+    "subTitle": "Aaradhane",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207010000",
+    "stopRaw": "20260207033000",
+    "start": "2026-02-07 06:30:00 IST",
     "stop": "2026-02-07 09:00:00 IST",
     "channel": "jio-3047",
     "title": "Pandavaru",
@@ -395,8 +405,8 @@
     "start": "2026-02-07 17:00:00 IST",
     "stop": "2026-02-07 18:00:00 IST",
     "channel": "jio-3047",
-    "title": "Queens Premier League",
-    "subTitle": "Queens Premier League",
+    "title": "Sports Programme",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

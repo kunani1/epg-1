@@ -1161,12 +1161,22 @@
   },
   {
     "startRaw": "20260206163000",
-    "stopRaw": "20260206170000",
+    "stopRaw": "20260206165500",
     "start": "2026-02-06 22:00:00 IST",
+    "stop": "2026-02-06 22:25:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260206165500",
+    "stopRaw": "20260206170000",
+    "start": "2026-02-06 22:25:00 IST",
     "stop": "2026-02-06 22:30:00 IST",
     "channel": "jio-142",
-    "title": "The Epstein files: What We Know",
-    "subTitle": "A week on from the largest-ever release of the Epstein files, this special programme examines the shockwaves now rippling through Washington, London and capitals around the world. We speak to survivors about what the latest disclosures have meant for them - and how they feel institutions are responding. We take you inside the painstaking process of sifting through millions of documents, videos and images.",
+    "title": "The Travel Show",
+    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

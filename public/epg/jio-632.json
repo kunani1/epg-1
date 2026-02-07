@@ -775,17 +775,27 @@
     "start": "2026-02-08 00:00:00 IST",
     "stop": "2026-02-08 00:30:00 IST",
     "channel": "jio-632",
-    "title": "NRI News",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "title": "Late Night Edition",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260207190000",
-    "stopRaw": "20260207233000",
+    "stopRaw": "20260207193000",
     "start": "2026-02-08 00:30:00 IST",
-    "stop": "2026-02-08 05:00:00 IST",
+    "stop": "2026-02-08 01:00:00 IST",
     "channel": "jio-632",
     "title": "Garam Garam Vartalu",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260207193000",
+    "stopRaw": "20260207233000",
+    "start": "2026-02-08 01:00:00 IST",
+    "stop": "2026-02-08 05:00:00 IST",
+    "channel": "jio-632",
+    "title": "NRI News",
     "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },

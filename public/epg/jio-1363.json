@@ -361,12 +361,22 @@
   },
   {
     "startRaw": "20260208153000",
-    "stopRaw": "20260208182959",
+    "stopRaw": "20260208181500",
     "start": "2026-02-08 21:00:00 IST",
-    "stop": "2026-02-08 23:59:59 IST",
+    "stop": "2026-02-08 23:45:00 IST",
     "channel": "jio-1363",
     "title": "Aa Okkati Adakku",
     "subTitle": "A seer's prediction reveals Gana, a registrar, will stay unmarried forever unless he ties the knot within the next 25 days.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260208181500",
+    "stopRaw": "20260208182959",
+    "start": "2026-02-08 23:45:00 IST",
+    "stop": "2026-02-08 23:59:59 IST",
+    "channel": "jio-1363",
+    "title": "Fillers",
+    "subTitle": "Watch promos and fillers back to back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

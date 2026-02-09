@@ -831,32 +831,32 @@
   },
   {
     "startRaw": "20260209183000",
-    "stopRaw": "20260209215500",
+    "stopRaw": "20260209220000",
     "start": "2026-02-10 00:00:00 IST",
-    "stop": "2026-02-10 03:25:00 IST",
+    "stop": "2026-02-10 03:30:00 IST",
     "channel": "jio-794",
     "title": "Paramdham Meditation",
     "subTitle": "The host interacts with a spiritual expert who briefs viewers about practising the proper techniques of meditation through which one can achieve peace and health.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260209215500",
-    "stopRaw": "20260209220000",
-    "start": "2026-02-10 03:25:00 IST",
-    "stop": "2026-02-10 03:30:00 IST",
-    "channel": "jio-794",
-    "title": "Gagar Mein Sagar",
-    "subTitle": "Gagar Mein Sagar",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260209220000",
-    "stopRaw": "20260209234500",
+    "stopRaw": "20260209233000",
     "start": "2026-02-10 03:30:00 IST",
-    "stop": "2026-02-10 05:15:00 IST",
+    "stop": "2026-02-10 05:00:00 IST",
     "channel": "jio-794",
     "title": "Amritvela Meditation",
     "subTitle": "A spiritual leader leads a session of deep meditation to help people achieve a peaceful and tranquil state of mind and improve overall health.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260209233000",
+    "stopRaw": "20260209234500",
+    "start": "2026-02-10 05:00:00 IST",
+    "stop": "2026-02-10 05:15:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,8 +865,8 @@
     "start": "2026-02-10 05:15:00 IST",
     "stop": "2026-02-10 05:45:00 IST",
     "channel": "jio-794",
-    "title": "Amrutvani",
-    "subTitle": "A religious practitioner provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life.",
+    "title": "Gyan Nidhi",
+    "subTitle": "A religious leader offers a discourse to the viewers on the significance of spiritual enlightenment and the ways of attaining it.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -875,8 +875,8 @@
     "start": "2026-02-10 05:45:00 IST",
     "stop": "2026-02-10 06:15:00 IST",
     "channel": "jio-794",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -895,8 +895,8 @@
     "start": "2026-02-10 07:00:00 IST",
     "stop": "2026-02-10 08:00:00 IST",
     "channel": "jio-794",
-    "title": "Live Telecast",
-    "subTitle": "An ambitious TV producer sets up her crew in a haunted house to capture paranormal activity.",
+    "title": "Aaj Ki Murli Live",
+    "subTitle": "A religious scholar shares some spiritual thoughts and ideologies based on the scriptures to guide the followers and help them lead better lives.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -921,12 +921,22 @@
   },
   {
     "startRaw": "20260210031500",
-    "stopRaw": "20260210040000",
+    "stopRaw": "20260210033000",
     "start": "2026-02-10 08:45:00 IST",
+    "stop": "2026-02-10 09:00:00 IST",
+    "channel": "jio-794",
+    "title": "Sabrang - A Morning Show",
+    "subTitle": "The host presents tips on health and nutrition, talks about spiritual places, shares thought-provoking jokes and real-life inspirational stories.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210033000",
+    "stopRaw": "20260210040000",
+    "start": "2026-02-10 09:00:00 IST",
     "stop": "2026-02-10 09:30:00 IST",
     "channel": "jio-794",
-    "title": "Sabrang",
-    "subTitle": "A segment that nurtures the mind, body and soul, guiding viewers towards a holistic life that's mentally, emotionally and spiritually fulfilling.",
+    "title": "Samadhan",
+    "subTitle": "Spiritual leaders provide practical solutions to life's problems and motivate followers to cope with the challenges in a positive manner and lead a content life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -935,18 +945,28 @@
     "start": "2026-02-10 09:30:00 IST",
     "stop": "2026-02-10 09:50:00 IST",
     "channel": "jio-794",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260210042000",
-    "stopRaw": "20260210043000",
+    "stopRaw": "20260210042500",
     "start": "2026-02-10 09:50:00 IST",
+    "stop": "2026-02-10 09:55:00 IST",
+    "channel": "jio-794",
+    "title": "Sampannta ki Ore Badhte Kadam - BK Raju",
+    "subTitle": "A religious leader delivers a discourse on the topic of spirituality, encouraging devotees to live a life of devotion and worship to the Almighty.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210042500",
+    "stopRaw": "20260210043000",
+    "start": "2026-02-10 09:55:00 IST",
     "stop": "2026-02-10 10:00:00 IST",
     "channel": "jio-794",
-    "title": "Sampannata Ki Ore Badhte Kadam",
-    "subTitle": "Sampannata Ki Ore Badhte Kadam",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -955,128 +975,198 @@
     "start": "2026-02-10 10:00:00 IST",
     "stop": "2026-02-10 10:30:00 IST",
     "channel": "jio-794",
-    "title": "Fillers",
-    "subTitle": "Bringing the best in television.",
+    "title": "Time For Change - BK Ramnath Bhaiji",
+    "subTitle": "A spiritual leader delivers a discourse on the importance of spiritualism and good habits, emphasising their benefits for leading a peaceful life in today's world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260210050000",
-    "stopRaw": "20260210053000",
+    "stopRaw": "20260210051500",
     "start": "2026-02-10 10:30:00 IST",
-    "stop": "2026-02-10 11:00:00 IST",
-    "channel": "jio-794",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210053000",
-    "stopRaw": "20260210063000",
-    "start": "2026-02-10 11:00:00 IST",
-    "stop": "2026-02-10 12:00:00 IST",
-    "channel": "jio-794",
-    "title": "Duayein Do, Duayein Lo",
-    "subTitle": "Duayein Do, Duayein Lo",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210063000",
-    "stopRaw": "20260210064500",
-    "start": "2026-02-10 12:00:00 IST",
-    "stop": "2026-02-10 12:15:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Punjabi",
-    "subTitle": "The importance and purpose of an individual's life is emphasised, with the aim of encouraging followers to lead a spiritual life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210064500",
-    "stopRaw": "20260210070000",
-    "start": "2026-02-10 12:15:00 IST",
-    "stop": "2026-02-10 12:30:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Nepali",
-    "subTitle": "A religious leader delivers a discourse on the teachings of the Almighty and guides devotees to follow the path of spirituality.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210070000",
-    "stopRaw": "20260210071500",
-    "start": "2026-02-10 12:30:00 IST",
-    "stop": "2026-02-10 12:45:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Marathi",
-    "subTitle": "Learn about the importance of living a content and purposeful life by connecting with the true self and following the Almighty.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210071500",
-    "stopRaw": "20260210073000",
-    "start": "2026-02-10 12:45:00 IST",
-    "stop": "2026-02-10 13:00:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Gujarati",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210073000",
-    "stopRaw": "20260210074500",
-    "start": "2026-02-10 13:00:00 IST",
-    "stop": "2026-02-10 13:15:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Malayalam",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210074500",
-    "stopRaw": "20260210080000",
-    "start": "2026-02-10 13:15:00 IST",
-    "stop": "2026-02-10 13:30:00 IST",
-    "channel": "jio-794",
-    "title": "Fillers / Peace News",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to Brahma Kumaris and their spiritual activities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210080000",
-    "stopRaw": "20260210081500",
-    "start": "2026-02-10 13:30:00 IST",
-    "stop": "2026-02-10 13:45:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Tamil",
-    "subTitle": "The importance and purpose of an individual's life is emphasised, with the aim of encouraging followers to lead a spiritual life.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210081500",
-    "stopRaw": "20260210083000",
-    "start": "2026-02-10 13:45:00 IST",
-    "stop": "2026-02-10 14:00:00 IST",
-    "channel": "jio-794",
-    "title": "Regional Program - Telugu",
-    "subTitle": "Learn about the importance of living a content and purposeful life by connecting with the true self and following the Almighty.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210083000",
-    "stopRaw": "20260210090000",
-    "start": "2026-02-10 14:00:00 IST",
-    "stop": "2026-02-10 14:30:00 IST",
+    "stop": "2026-02-10 10:45:00 IST",
     "channel": "jio-794",
     "title": "Filler",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260210051500",
+    "stopRaw": "20260210054500",
+    "start": "2026-02-10 10:45:00 IST",
+    "stop": "2026-02-10 11:15:00 IST",
+    "channel": "jio-794",
+    "title": "The Secret of Ultimate Living",
+    "subTitle": "An expert shares spiritual solutions and measures to overcome life's challenges and live a more blissful and fulfilling life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210054500",
+    "stopRaw": "20260210060000",
+    "start": "2026-02-10 11:15:00 IST",
+    "stop": "2026-02-10 11:30:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210060000",
+    "stopRaw": "20260210064000",
+    "start": "2026-02-10 11:30:00 IST",
+    "stop": "2026-02-10 12:10:00 IST",
+    "channel": "jio-794",
+    "title": "Dharna Swaroop Dwara hi Sachi Seva",
+    "subTitle": "A religious speaker delivers a spiritual discourse on true service, signifying how one can perform selfless acts of service towards others and encouraging followers to implement it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210064000",
+    "stopRaw": "20260210064500",
+    "start": "2026-02-10 12:10:00 IST",
+    "stop": "2026-02-10 12:15:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210064500",
+    "stopRaw": "20260210065500",
+    "start": "2026-02-10 12:15:00 IST",
+    "stop": "2026-02-10 12:25:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Nepali",
+    "subTitle": "A religious leader delivers a discourse on the teachings of the Almighty and guides devotees to follow the path of spirituality.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210065500",
+    "stopRaw": "20260210070000",
+    "start": "2026-02-10 12:25:00 IST",
+    "stop": "2026-02-10 12:30:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210070000",
+    "stopRaw": "20260210071000",
+    "start": "2026-02-10 12:30:00 IST",
+    "stop": "2026-02-10 12:40:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program",
+    "subTitle": "A religious scholar provides a discourse on various spiritual discourses to devoted followers and encourages them to lead a life of faith.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210071000",
+    "stopRaw": "20260210071500",
+    "start": "2026-02-10 12:40:00 IST",
+    "stop": "2026-02-10 12:45:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210071500",
+    "stopRaw": "20260210072500",
+    "start": "2026-02-10 12:45:00 IST",
+    "stop": "2026-02-10 12:55:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Gujarati",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210072500",
+    "stopRaw": "20260210073000",
+    "start": "2026-02-10 12:55:00 IST",
+    "stop": "2026-02-10 13:00:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210073000",
+    "stopRaw": "20260210075000",
+    "start": "2026-02-10 13:00:00 IST",
+    "stop": "2026-02-10 13:20:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Malayalam",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210075000",
+    "stopRaw": "20260210081500",
+    "start": "2026-02-10 13:20:00 IST",
+    "stop": "2026-02-10 13:45:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210081500",
+    "stopRaw": "20260210082500",
+    "start": "2026-02-10 13:45:00 IST",
+    "stop": "2026-02-10 13:55:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Telugu",
+    "subTitle": "Learn about the importance of living a content and purposeful life by connecting with the true self and following the Almighty.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210082500",
+    "stopRaw": "20260210083000",
+    "start": "2026-02-10 13:55:00 IST",
+    "stop": "2026-02-10 14:00:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210083000",
+    "stopRaw": "20260210084500",
+    "start": "2026-02-10 14:00:00 IST",
+    "stop": "2026-02-10 14:15:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Punjabi",
+    "subTitle": "The importance and purpose of an individual's life is emphasised, with the aim of encouraging followers to lead a spiritual life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210084500",
+    "stopRaw": "20260210090000",
+    "start": "2026-02-10 14:15:00 IST",
+    "stop": "2026-02-10 14:30:00 IST",
+    "channel": "jio-794",
+    "title": "Regional Program - Bengali",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260210090000",
-    "stopRaw": "20260210094500",
+    "stopRaw": "20260210093000",
     "start": "2026-02-10 14:30:00 IST",
+    "stop": "2026-02-10 15:00:00 IST",
+    "channel": "jio-794",
+    "title": "Ek Mulakat",
+    "subTitle": "Various personalities from different walks of life talk about the beauty of spirituality and urge the devotees to pay attention to their spiritual life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210093000",
+    "stopRaw": "20260210094500",
+    "start": "2026-02-10 15:00:00 IST",
     "stop": "2026-02-10 15:15:00 IST",
     "channel": "jio-794",
-    "title": "Prerna",
-    "subTitle": "Through insightful discourses, a spiritual expert explores the essence of true devotion, encouraging individuals to embrace a path of righteousness and spiritual awakening.",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1085,8 +1175,8 @@
     "start": "2026-02-10 15:15:00 IST",
     "stop": "2026-02-10 15:45:00 IST",
     "channel": "jio-794",
-    "title": "Zindagi Banein Aasaan",
-    "subTitle": "Zindagi Banein Aasaan",
+    "title": "Samadhan",
+    "subTitle": "Spiritual leaders provide practical solutions to life's problems and motivate followers to cope with the challenges in a positive manner and lead a content life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1101,38 +1191,38 @@
   },
   {
     "startRaw": "20260210103000",
-    "stopRaw": "20260210110000",
+    "stopRaw": "20260210115000",
     "start": "2026-02-10 16:00:00 IST",
-    "stop": "2026-02-10 16:30:00 IST",
+    "stop": "2026-02-10 17:20:00 IST",
     "channel": "jio-794",
-    "title": "Spiritual Class",
-    "subTitle": "The lectures by brothers and sisters practicing Rajyoga has an everlasting impact on our perspective towards ourselves &amp; people surrounding us. Thereby empowering us to be &amp; to bring out the best in ourselves.",
+    "title": "Rajyoga Shivir (By BK Shreya Didi)",
+    "subTitle": "BK Shreya Didi provides detailed insights into various aspects of spirituality whilst shedding light on various methods of practising Raja yoga.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260210110000",
-    "stopRaw": "20260210113000",
-    "start": "2026-02-10 16:30:00 IST",
-    "stop": "2026-02-10 17:00:00 IST",
+    "startRaw": "20260210115000",
+    "stopRaw": "20260210120000",
+    "start": "2026-02-10 17:20:00 IST",
+    "stop": "2026-02-10 17:30:00 IST",
     "channel": "jio-794",
-    "title": "Fillers",
+    "title": "Filler",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260210113000",
-    "stopRaw": "20260210120000",
-    "start": "2026-02-10 17:00:00 IST",
-    "stop": "2026-02-10 17:30:00 IST",
+    "startRaw": "20260210120000",
+    "stopRaw": "20260210123000",
+    "start": "2026-02-10 17:30:00 IST",
+    "stop": "2026-02-10 18:00:00 IST",
     "channel": "jio-794",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "title": "Anmol Moti",
+    "subTitle": "An eminent religious leader provides a comprehensive and detailed insight into the teachings of the Almighty and guides people on the right path.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260210120000",
+    "startRaw": "20260210123000",
     "stopRaw": "20260210130000",
-    "start": "2026-02-10 17:30:00 IST",
+    "start": "2026-02-10 18:00:00 IST",
     "stop": "2026-02-10 18:30:00 IST",
     "channel": "jio-794",
     "title": "Filler",
@@ -1151,12 +1241,22 @@
   },
   {
     "startRaw": "20260210140000",
-    "stopRaw": "20260210143000",
+    "stopRaw": "20260210141000",
     "start": "2026-02-10 19:30:00 IST",
-    "stop": "2026-02-10 20:00:00 IST",
+    "stop": "2026-02-10 19:40:00 IST",
     "channel": "jio-794",
     "title": "Amulya Ratan",
     "subTitle": "Renowned religious leaders share their experiences and insights, offering guidance to empower individuals and inspire them toward a fulfilling lifestyle rooted in wisdom, faith and personal growth.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210141000",
+    "stopRaw": "20260210143000",
+    "start": "2026-02-10 19:40:00 IST",
+    "stop": "2026-02-10 20:00:00 IST",
+    "channel": "jio-794",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1165,8 +1265,8 @@
     "start": "2026-02-10 20:00:00 IST",
     "stop": "2026-02-10 20:15:00 IST",
     "channel": "jio-794",
-    "title": "Filler",
-    "subTitle": "Bringing the best in television.",
+    "title": "Enjoy, Experience &amp; Love Nature",
+    "subTitle": "A religious leader shares his wisdom and delivers a detailed discourse on the importance of experiencing and embracing nature.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1175,8 +1275,8 @@
     "start": "2026-02-10 20:15:00 IST",
     "stop": "2026-02-10 20:30:00 IST",
     "channel": "jio-794",
-    "title": "Fillers / Peace News",
-    "subTitle": "The host sheds light on the latest updates and developments pertaining to Brahma Kumaris and their spiritual activities.",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1185,8 +1285,8 @@
     "start": "2026-02-10 20:30:00 IST",
     "stop": "2026-02-10 21:00:00 IST",
     "channel": "jio-794",
-    "title": "Filler",
-    "subTitle": "Bringing the best in television.",
+    "title": "Sachchi Gita Saar by BK Brijmohan",
+    "subTitle": "A religious leader delivers a discourse on the teachings of the Bhagavad Gita to guide devotees on the path of righteousness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1221,22 +1321,12 @@
   },
   {
     "startRaw": "20260210170000",
-    "stopRaw": "20260210173000",
-    "start": "2026-02-10 22:30:00 IST",
-    "stop": "2026-02-10 23:00:00 IST",
-    "channel": "jio-794",
-    "title": "Sadabahar Geet",
-    "subTitle": "A comprehensive catalogue of several evergreen devotional songs written and produced by talented artists is played one after the other.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260210173000",
     "stopRaw": "20260210182959",
-    "start": "2026-02-10 23:00:00 IST",
+    "start": "2026-02-10 22:30:00 IST",
     "stop": "2026-02-10 23:59:59 IST",
     "channel": "jio-794",
-    "title": "Filler",
-    "subTitle": "Bringing the best in television.",
+    "title": "Sadabahar Geet/Fillers",
+    "subTitle": "A comprehensive compilation of popular, evergreen songs written and composed by a number of artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

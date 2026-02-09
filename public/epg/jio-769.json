@@ -945,8 +945,8 @@
     "start": "2026-02-10 06:00:00 IST",
     "stop": "2026-02-10 06:30:00 IST",
     "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "title": "6 AM News",
+    "subTitle": "The host presents the latest news pertaining to areas like politics, socioeconomic issues and developments and current affairs during the early hours of the morning.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -965,8 +965,8 @@
     "start": "2026-02-10 06:58:00 IST",
     "stop": "2026-02-10 07:15:00 IST",
     "channel": "jio-769",
-    "title": "V6 News",
-    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "title": "7 AM News",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1001,18 +1001,18 @@
   },
   {
     "startRaw": "20260210031500",
-    "stopRaw": "20260210032800",
+    "stopRaw": "20260210033000",
     "start": "2026-02-10 08:45:00 IST",
-    "stop": "2026-02-10 08:58:00 IST",
+    "stop": "2026-02-10 09:00:00 IST",
     "channel": "jio-769",
     "title": "Commercial",
     "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260210032800",
+    "startRaw": "20260210033000",
     "stopRaw": "20260210043000",
-    "start": "2026-02-10 08:58:00 IST",
+    "start": "2026-02-10 09:00:00 IST",
     "stop": "2026-02-10 10:00:00 IST",
     "channel": "jio-769",
     "title": "9 AM News",
@@ -1071,12 +1071,22 @@
   },
   {
     "startRaw": "20260210072800",
-    "stopRaw": "20260210083000",
+    "stopRaw": "20260210081500",
     "start": "2026-02-10 12:58:00 IST",
-    "stop": "2026-02-10 14:00:00 IST",
+    "stop": "2026-02-10 13:45:00 IST",
     "channel": "jio-769",
     "title": "News Lunch",
     "subTitle": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260210081500",
+    "stopRaw": "20260210083000",
+    "start": "2026-02-10 13:45:00 IST",
+    "stop": "2026-02-10 14:00:00 IST",
+    "channel": "jio-769",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1095,8 +1105,8 @@
     "start": "2026-02-10 14:30:00 IST",
     "stop": "2026-02-10 14:58:00 IST",
     "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1115,8 +1125,8 @@
     "start": "2026-02-10 15:30:00 IST",
     "stop": "2026-02-10 15:58:00 IST",
     "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1155,8 +1165,8 @@
     "start": "2026-02-10 17:30:00 IST",
     "stop": "2026-02-10 17:58:00 IST",
     "channel": "jio-769",
-    "title": "Commercial",
-    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "title": "Special Stories",
+    "subTitle": "The host presents a comprehensive and detailed insight, elucidating on special stories by highlighting their uniqueness.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1185,8 +1195,8 @@
     "start": "2026-02-10 20:00:00 IST",
     "stop": "2026-02-10 20:58:00 IST",
     "channel": "jio-769",
-    "title": "Discussion",
-    "subTitle": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.",
+    "title": "8 Pm Discussion",
+    "subTitle": "The host interacts with a panel of experts who share their opinions and views on several social, political and economic issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

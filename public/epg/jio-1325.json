@@ -761,18 +761,18 @@
   },
   {
     "startRaw": "20260212003000",
-    "stopRaw": "20260212011500",
+    "stopRaw": "20260212010000",
     "start": "2026-02-12 06:00:00 IST",
-    "stop": "2026-02-12 06:45:00 IST",
+    "stop": "2026-02-12 06:30:00 IST",
     "channel": "jio-1325",
     "title": "Entourage",
     "subTitle": "Vince has to get his license while promoting his new movie. Meanwhile, Lloyd demands a promotion and Eric considers buying his own house.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260212011500",
+    "startRaw": "20260212010000",
     "stopRaw": "20260212013000",
-    "start": "2026-02-12 06:45:00 IST",
+    "start": "2026-02-12 06:30:00 IST",
     "stop": "2026-02-12 07:00:00 IST",
     "channel": "jio-1325",
     "title": "Entourage",
@@ -981,22 +981,32 @@
   },
   {
     "startRaw": "20260212163000",
-    "stopRaw": "20260212173000",
+    "stopRaw": "20260212172000",
     "start": "2026-02-12 22:00:00 IST",
-    "stop": "2026-02-12 23:00:00 IST",
+    "stop": "2026-02-12 22:50:00 IST",
     "channel": "jio-1325",
     "title": "Peacemaker",
     "subTitle": "Chris joins a secret team to fight weird bugs living inside people around the world, travelling to many places to stop the bugs from spreading.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260212173000",
-    "stopRaw": "20260212182959",
-    "start": "2026-02-12 23:00:00 IST",
-    "stop": "2026-02-12 23:59:59 IST",
+    "startRaw": "20260212172000",
+    "stopRaw": "20260212180500",
+    "start": "2026-02-12 22:50:00 IST",
+    "stop": "2026-02-12 23:35:00 IST",
     "channel": "jio-1325",
     "title": "Elementary",
     "subTitle": "The general manager of a luxury hotel is found dead inside an industrial laundry machine; Sherlock offers Joan an apprenticeship.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260212180500",
+    "stopRaw": "20260212182959",
+    "start": "2026-02-12 23:35:00 IST",
+    "stop": "2026-02-12 23:59:59 IST",
+    "channel": "jio-1325",
+    "title": "The Sopranos",
+    "subTitle": "Tony starts cleaning house, while Artie feels torn between keeping the peace in his household, and getting even with Tony for destroying his restaurant.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

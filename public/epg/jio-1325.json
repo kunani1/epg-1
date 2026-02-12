@@ -771,18 +771,18 @@
   },
   {
     "startRaw": "20260213003000",
-    "stopRaw": "20260213011500",
+    "stopRaw": "20260213010000",
     "start": "2026-02-13 06:00:00 IST",
-    "stop": "2026-02-13 06:45:00 IST",
+    "stop": "2026-02-13 06:30:00 IST",
     "channel": "jio-1325",
     "title": "Entourage",
     "subTitle": "Turtle considers a new career path and enlists Ari's help. Meanwhile, Charlie's new TV show may spell problems for Eric.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260213011500",
+    "startRaw": "20260213010000",
     "stopRaw": "20260213013000",
-    "start": "2026-02-13 06:45:00 IST",
+    "start": "2026-02-13 06:30:00 IST",
     "stop": "2026-02-13 07:00:00 IST",
     "channel": "jio-1325",
     "title": "Entourage",
@@ -1001,12 +1001,22 @@
   },
   {
     "startRaw": "20260213173000",
-    "stopRaw": "20260213182959",
+    "stopRaw": "20260213182500",
     "start": "2026-02-13 23:00:00 IST",
-    "stop": "2026-02-13 23:59:59 IST",
+    "stop": "2026-02-13 23:55:00 IST",
     "channel": "jio-1325",
     "title": "Elementary",
     "subTitle": "A British criminal named M seems to have followed Sherlock to New York; Joan is unsure about leaving Sherlock and taking a new client.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260213182500",
+    "stopRaw": "20260213182959",
+    "start": "2026-02-13 23:55:00 IST",
+    "stop": "2026-02-13 23:59:59 IST",
+    "channel": "jio-1325",
+    "title": "The Sopranos",
+    "subTitle": "Richie Aprile gets out after ten years in prison and starts reasserting his authority while unaware of the changes made in the crime family's archetype.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

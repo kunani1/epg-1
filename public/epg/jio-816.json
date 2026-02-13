@@ -681,18 +681,18 @@
   },
   {
     "startRaw": "20260213223000",
-    "stopRaw": "20260213233000",
+    "stopRaw": "20260214003000",
     "start": "2026-02-14 04:00:00 IST",
-    "stop": "2026-02-14 05:00:00 IST",
+    "stop": "2026-02-14 06:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
     "subTitle": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
     "image": "http://ttpl.tmsimg.com/assets/p11921875_b_h10_aj.jpg?lock=1280x720"
   },
   {
-    "startRaw": "20260213233000",
+    "startRaw": "20260214003000",
     "stopRaw": "20260214013000",
-    "start": "2026-02-14 05:00:00 IST",
+    "start": "2026-02-14 06:00:00 IST",
     "stop": "2026-02-14 07:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
@@ -811,13 +811,23 @@
   },
   {
     "startRaw": "20260214060000",
-    "stopRaw": "20260214080000",
+    "stopRaw": "20260214070000",
     "start": "2026-02-14 11:30:00 IST",
+    "stop": "2026-02-14 12:30:00 IST",
+    "channel": "jio-816",
+    "title": "Teen Titans Go!",
+    "subTitle": "The superheroes Robin, Cyborg, Starfire, Raven and Beast Boy love saving the world. However, after they are done fighting crime, things do not always go as planned.",
+    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260214070000",
+    "stopRaw": "20260214080000",
+    "start": "2026-02-14 12:30:00 IST",
     "stop": "2026-02-14 13:30:00 IST",
     "channel": "jio-816",
-    "title": "Teen Titans GO!",
-    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
-    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+    "title": "Teen Titans Go! Special 2",
+    "subTitle": "Teen Titans Go! Special 2",
+    "image": "http://ttpl.tmsimg.com/assets/p30411348_b_h8_aa.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260214080000",

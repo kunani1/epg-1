@@ -321,18 +321,8 @@
   },
   {
     "startRaw": "20260216033000",
-    "stopRaw": "20260216040000",
-    "start": "2026-02-16 09:00:00 IST",
-    "stop": "2026-02-16 09:30:00 IST",
-    "channel": "jio-1363",
-    "title": "Commercial Slot",
-    "subTitle": "A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260216040000",
     "stopRaw": "20260216063000",
-    "start": "2026-02-16 09:30:00 IST",
+    "start": "2026-02-16 09:00:00 IST",
     "stop": "2026-02-16 12:00:00 IST",
     "channel": "jio-1363",
     "title": "Godavari",
@@ -351,12 +341,22 @@
   },
   {
     "startRaw": "20260216093000",
-    "stopRaw": "20260216123000",
+    "stopRaw": "20260216121600",
     "start": "2026-02-16 15:00:00 IST",
-    "stop": "2026-02-16 18:00:00 IST",
+    "stop": "2026-02-16 17:46:00 IST",
     "channel": "jio-1363",
     "title": "Next Nuvve",
     "subTitle": "Kiran, a failed TV serial director and his girlfriend, decide to transform an ancestral property into a resort. However, soon, they find their customers mysteriously dying.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260216121600",
+    "stopRaw": "20260216123000",
+    "start": "2026-02-16 17:46:00 IST",
+    "stop": "2026-02-16 18:00:00 IST",
+    "channel": "jio-1363",
+    "title": "Fillers",
+    "subTitle": "Watch promos and fillers back to back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -371,12 +371,22 @@
   },
   {
     "startRaw": "20260216153000",
-    "stopRaw": "20260216182959",
+    "stopRaw": "20260216181400",
     "start": "2026-02-16 21:00:00 IST",
-    "stop": "2026-02-16 23:59:59 IST",
+    "stop": "2026-02-16 23:44:00 IST",
     "channel": "jio-1363",
     "title": "DD Next Level",
     "subTitle": "A brutally honest film critic is invited to an exclusive preview of a horror-laced movie by an enigmatic filmmaker. However, events take a surreal turn when he finds himself trapped inside the film.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260216181400",
+    "stopRaw": "20260216182959",
+    "start": "2026-02-16 23:44:00 IST",
+    "stop": "2026-02-16 23:59:59 IST",
+    "channel": "jio-1363",
+    "title": "Fillers",
+    "subTitle": "Watch promos and fillers back to back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

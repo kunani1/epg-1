@@ -461,18 +461,18 @@
   },
   {
     "startRaw": "20260215223000",
-    "stopRaw": "20260215233000",
+    "stopRaw": "20260216003000",
     "start": "2026-02-16 04:00:00 IST",
-    "stop": "2026-02-16 05:00:00 IST",
+    "stop": "2026-02-16 06:00:00 IST",
     "channel": "jio-166",
     "title": "We Bare Bears",
     "subTitle": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260215233000",
+    "startRaw": "20260216003000",
     "stopRaw": "20260216013000",
-    "start": "2026-02-16 05:00:00 IST",
+    "start": "2026-02-16 06:00:00 IST",
     "stop": "2026-02-16 07:00:00 IST",
     "channel": "jio-166",
     "title": "We Bare Bears",
@@ -511,18 +511,8 @@
   },
   {
     "startRaw": "20260216030000",
-    "stopRaw": "20260216032000",
-    "start": "2026-02-16 08:30:00 IST",
-    "stop": "2026-02-16 08:50:00 IST",
-    "channel": "jio-166",
-    "title": "Larva Island",
-    "subTitle": "When Yellow and Red, two larvae, get stranded on an island, they use that as an opportunity to discover different things and make new animal friends.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260216032000",
     "stopRaw": "20260216033000",
-    "start": "2026-02-16 08:50:00 IST",
+    "start": "2026-02-16 08:30:00 IST",
     "stop": "2026-02-16 09:00:00 IST",
     "channel": "jio-166",
     "title": "Larva",
@@ -531,8 +521,18 @@
   },
   {
     "startRaw": "20260216033000",
-    "stopRaw": "20260216040000",
+    "stopRaw": "20260216035000",
     "start": "2026-02-16 09:00:00 IST",
+    "stop": "2026-02-16 09:20:00 IST",
+    "channel": "jio-166",
+    "title": "Larva Island",
+    "subTitle": "When Yellow and Red, two larvae, get stranded on an island, they use that as an opportunity to discover different things and make new animal friends.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260216035000",
+    "stopRaw": "20260216040000",
+    "start": "2026-02-16 09:20:00 IST",
     "stop": "2026-02-16 09:30:00 IST",
     "channel": "jio-166",
     "title": "Larva",

@@ -241,18 +241,28 @@
   },
   {
     "startRaw": "20260217013000",
-    "stopRaw": "20260217043000",
+    "stopRaw": "20260217015000",
     "start": "2026-02-17 07:00:00 IST",
-    "stop": "2026-02-17 10:00:00 IST",
+    "stop": "2026-02-17 07:20:00 IST",
+    "channel": "jio-459",
+    "title": "Chirikkum Thalika",
+    "subTitle": "A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260217015000",
+    "stopRaw": "20260217044000",
+    "start": "2026-02-17 07:20:00 IST",
+    "stop": "2026-02-17 10:10:00 IST",
     "channel": "jio-459",
     "title": "Sherlock Toms",
     "subTitle": "Inspired by Sherlock Holmes, an IRS officer, resolves to employ his analytical prowess in tackling an extensive criminal operation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260217043000",
+    "startRaw": "20260217044000",
     "stopRaw": "20260217073000",
-    "start": "2026-02-17 10:00:00 IST",
+    "start": "2026-02-17 10:10:00 IST",
     "stop": "2026-02-17 13:00:00 IST",
     "channel": "jio-459",
     "title": "Bramayugam",

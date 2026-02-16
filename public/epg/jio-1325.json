@@ -1001,22 +1001,32 @@
   },
   {
     "startRaw": "20260217163000",
-    "stopRaw": "20260217173000",
+    "stopRaw": "20260217171000",
     "start": "2026-02-17 22:00:00 IST",
-    "stop": "2026-02-17 23:00:00 IST",
+    "stop": "2026-02-17 22:40:00 IST",
     "channel": "jio-1325",
     "title": "Peacemaker",
     "subTitle": "Chris joins a secret team to fight weird bugs living inside people around the world, travelling to many places to stop the bugs from spreading.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260217173000",
-    "stopRaw": "20260217182959",
-    "start": "2026-02-17 23:00:00 IST",
-    "stop": "2026-02-17 23:59:59 IST",
+    "startRaw": "20260217171000",
+    "stopRaw": "20260217175500",
+    "start": "2026-02-17 22:40:00 IST",
+    "stop": "2026-02-17 23:25:00 IST",
     "channel": "jio-1325",
     "title": "Elementary",
     "subTitle": "Sherlock tries to catch Martin Ennis, an erratic criminal, before he strikes again; Sherlock works with an FBI profiler who wrote a book on Ennis; Watson may be evicted from her apartment.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260217175500",
+    "stopRaw": "20260217182959",
+    "start": "2026-02-17 23:25:00 IST",
+    "stop": "2026-02-17 23:59:59 IST",
+    "channel": "jio-1325",
+    "title": "The Sopranos",
+    "subTitle": "Richie and Janice get engaged, but Richie's violent temper reaches a fever pitch. Meanwhile, Tony breaks up with Irina, much to her dismay.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

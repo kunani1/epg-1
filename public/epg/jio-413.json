@@ -331,22 +331,42 @@
   },
   {
     "startRaw": "20260218003000",
-    "stopRaw": "20260218010000",
+    "stopRaw": "20260218005400",
     "start": "2026-02-18 06:00:00 IST",
-    "stop": "2026-02-18 06:30:00 IST",
+    "stop": "2026-02-18 06:24:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260218005400",
+    "stopRaw": "20260218010000",
+    "start": "2026-02-18 06:24:00 IST",
+    "stop": "2026-02-18 06:30:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260218010000",
-    "stopRaw": "20260218013000",
+    "stopRaw": "20260218012300",
     "start": "2026-02-18 06:30:00 IST",
-    "stop": "2026-02-18 07:00:00 IST",
+    "stop": "2026-02-18 06:53:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260218012300",
+    "stopRaw": "20260218013000",
+    "start": "2026-02-18 06:53:00 IST",
+    "stop": "2026-02-18 07:00:00 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -401,12 +421,22 @@
   },
   {
     "startRaw": "20260218153000",
-    "stopRaw": "20260218182959",
+    "stopRaw": "20260218181800",
     "start": "2026-02-18 21:00:00 IST",
-    "stop": "2026-02-18 23:59:59 IST",
+    "stop": "2026-02-18 23:48:00 IST",
     "channel": "jio-413",
     "title": "Kurukshetram",
     "subTitle": "A police officer and his two subordinates embark on a mission to find a meticulous serial killer. As they dig into the case, they unravel a secret.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260218181800",
+    "stopRaw": "20260218182959",
+    "start": "2026-02-18 23:48:00 IST",
+    "stop": "2026-02-18 23:59:59 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -1036,7 +1036,7 @@
     "stop": "2026-02-18 19:30:00 IST",
     "channel": "jio-702",
     "title": "Samachar",
-    "subTitle": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
+    "subTitle": "The host presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1141,12 +1141,22 @@
   },
   {
     "startRaw": "20260218183000",
-    "stopRaw": "20260218190000",
+    "stopRaw": "20260218184500",
     "start": "2026-02-19 00:00:00 IST",
+    "stop": "2026-02-19 00:15:00 IST",
+    "channel": "jio-702",
+    "title": "Sakalara Mahaka",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260218184500",
+    "stopRaw": "20260218190000",
+    "start": "2026-02-19 00:15:00 IST",
     "stop": "2026-02-19 00:30:00 IST",
     "channel": "jio-702",
-    "title": "Gopal Rahasya",
-    "subTitle": "Bringing the best in television.",
+    "title": "Sangeeta Murchhana",
+    "subTitle": "The host explains the concept of 'murchhana' and sheds light on its significance and usage in classical Hindustani and Carnatic music.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1275,8 +1285,8 @@
     "start": "2026-02-19 07:00:00 IST",
     "stop": "2026-02-19 07:15:00 IST",
     "channel": "jio-702",
-    "title": "Vaishnav Jan To / Devotional Music",
-    "subTitle": "Singers perform a famous Hindu bhajan called 'Vaishnava Jana To', written by the renowned poet Narsinh Mehta; a comprehensive compilation of devotional songs.",
+    "title": "Vaishnav Jan To / Devotional Song",
+    "subTitle": "Renowned singers perform the song 'Vaishnav Jan To', a popular Hindu bhajan composed by the poet Narsinh Mehta; a compilation of various devotional songs.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1301,12 +1311,22 @@
   },
   {
     "startRaw": "20260219030000",
-    "stopRaw": "20260219033000",
+    "stopRaw": "20260219032900",
     "start": "2026-02-19 08:30:00 IST",
-    "stop": "2026-02-19 09:00:00 IST",
+    "stop": "2026-02-19 08:59:00 IST",
     "channel": "jio-702",
     "title": "Gopal Rahasya",
     "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219032900",
+    "stopRaw": "20260219033000",
+    "start": "2026-02-19 08:59:00 IST",
+    "stop": "2026-02-19 09:00:00 IST",
+    "channel": "jio-702",
+    "title": "Graphical News Headlines",
+    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1315,18 +1335,28 @@
     "start": "2026-02-19 09:00:00 IST",
     "stop": "2026-02-19 09:30:00 IST",
     "channel": "jio-702",
-    "title": "Tate Jhure Mun Rati Dina",
+    "title": "Mu Kichhi Be Karipare",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260219040000",
-    "stopRaw": "20260219043000",
+    "stopRaw": "20260219042900",
     "start": "2026-02-19 09:30:00 IST",
+    "stop": "2026-02-19 09:59:00 IST",
+    "channel": "jio-702",
+    "title": "DDK, SBP Contribution",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219042900",
+    "stopRaw": "20260219043000",
+    "start": "2026-02-19 09:59:00 IST",
     "stop": "2026-02-19 10:00:00 IST",
     "channel": "jio-702",
-    "title": "SBP Contribution",
-    "subTitle": "Bringing the best in television.",
+    "title": "Graphical News Headlines",
+    "subTitle": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1345,8 +1375,8 @@
     "start": "2026-02-19 10:30:00 IST",
     "stop": "2026-02-19 10:59:00 IST",
     "channel": "jio-702",
-    "title": "Sabita",
-    "subTitle": "A woman strives to overcome the various challenges of her daily life along with attempting to manage her interpersonal relationships.",
+    "title": "Samaya Suare Jeevana Dhara",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1365,7 +1395,7 @@
     "start": "2026-02-19 11:00:00 IST",
     "stop": "2026-02-19 11:30:00 IST",
     "channel": "jio-702",
-    "title": "Sua Muhan Ra Patra",
+    "title": "Jeevana Ranga",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1375,8 +1405,8 @@
     "start": "2026-02-19 11:30:00 IST",
     "stop": "2026-02-19 11:59:00 IST",
     "channel": "jio-702",
-    "title": "Folk Dance",
-    "subTitle": "Talented performers present traditional and folk dance routines to entertain the audience with their captivating skills.",
+    "title": "Loka Nrutya / Loka Sangeeta",
+    "subTitle": "Oriya classical dancers and musicians come together on stage and entertain the audience with their mesmerising performances.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1395,8 +1425,8 @@
     "start": "2026-02-19 12:00:00 IST",
     "stop": "2026-02-19 12:30:00 IST",
     "channel": "jio-702",
-    "title": "DDK, BPN",
-    "subTitle": "Bringing the best of television.",
+    "title": "Prog. DDK, BPN",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1426,7 +1456,7 @@
     "stop": "2026-02-19 13:30:00 IST",
     "channel": "jio-702",
     "title": "Health Show",
-    "subTitle": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle.",
+    "subTitle": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1465,7 +1495,7 @@
     "start": "2026-02-19 14:30:00 IST",
     "stop": "2026-02-19 15:00:00 IST",
     "channel": "jio-702",
-    "title": "Sarjana",
+    "title": "Special Programme",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1485,8 +1515,8 @@
     "start": "2026-02-19 15:02:00 IST",
     "stop": "2026-02-19 15:30:00 IST",
     "channel": "jio-702",
-    "title": "Tate Jhure Mun Rati Dina",
-    "subTitle": "Bringing the best in television.",
+    "title": "Classical Music",
+    "subTitle": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1495,8 +1525,8 @@
     "start": "2026-02-19 15:30:00 IST",
     "stop": "2026-02-19 15:59:00 IST",
     "channel": "jio-702",
-    "title": "Sabita",
-    "subTitle": "A woman strives to overcome the various challenges of her daily life along with attempting to manage her interpersonal relationships.",
+    "title": "Samaya Suare Jeevana Dhara",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1515,8 +1545,8 @@
     "start": "2026-02-19 16:00:00 IST",
     "stop": "2026-02-19 16:30:00 IST",
     "channel": "jio-702",
-    "title": "Ghasa",
-    "subTitle": "Bringing the best in television.",
+    "title": "P M Flagship",
+    "subTitle": "The host speaks to numerous experts about miscellaneous topics pertaining to the prime minister's speeches and initiatives.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1525,7 +1555,7 @@
     "start": "2026-02-19 16:30:00 IST",
     "stop": "2026-02-19 16:59:00 IST",
     "channel": "jio-702",
-    "title": "Sua Munhare Patara",
+    "title": "Jeevana Ranga",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1545,8 +1575,8 @@
     "start": "2026-02-19 17:00:00 IST",
     "stop": "2026-02-19 17:30:00 IST",
     "channel": "jio-702",
-    "title": "Parikrama",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Parikrama Live",
+    "subTitle": "The host presents some of the latest news stories and developments pertaining to economics and politics among other topics, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1601,12 +1631,22 @@
   },
   {
     "startRaw": "20260219140000",
-    "stopRaw": "20260219143000",
+    "stopRaw": "20260219141000",
     "start": "2026-02-19 19:30:00 IST",
+    "stop": "2026-02-19 19:40:00 IST",
+    "channel": "jio-702",
+    "title": "Bidhan Sabha Samachar",
+    "subTitle": "The host presents updates on the latest news, developments and current affairs making headlines from the Odisha state assembly.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219141000",
+    "stopRaw": "20260219143000",
+    "start": "2026-02-19 19:40:00 IST",
     "stop": "2026-02-19 20:00:00 IST",
     "channel": "jio-702",
-    "title": "Bulding Blocks Of Bharat",
-    "subTitle": "The host provides deeper insights into the rich Indian architecture from across the ancient, medieval and contemporary eras.",
+    "title": "Dandi Ramayana",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1625,8 +1665,8 @@
     "start": "2026-02-19 20:30:00 IST",
     "stop": "2026-02-19 20:59:00 IST",
     "channel": "jio-702",
-    "title": "We The Soldiers",
-    "subTitle": "The host sheds light on the Indian army and showcases the lifestyle and achievements of the soldiers and the challenges they experience.",
+    "title": "Arohi",
+    "subTitle": "The host holds insightful conversations with talented artists, showcasing their skills and discussing their musical journey.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1655,7 +1695,7 @@
     "start": "2026-02-19 22:00:00 IST",
     "stop": "2026-02-19 22:30:00 IST",
     "channel": "jio-702",
-    "title": "Ghasa",
+    "title": "Samaya Suare Jeevana Dhara",
     "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1665,8 +1705,8 @@
     "start": "2026-02-19 22:30:00 IST",
     "stop": "2026-02-19 23:00:00 IST",
     "channel": "jio-702",
-    "title": "Sabita",
-    "subTitle": "A woman strives to overcome the various challenges of her daily life along with attempting to manage her interpersonal relationships.",
+    "title": "Jeevana Ranga",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1675,8 +1715,8 @@
     "start": "2026-02-19 23:00:00 IST",
     "stop": "2026-02-19 23:30:00 IST",
     "channel": "jio-702",
-    "title": "Sua Munhare Patara",
-    "subTitle": "Bringing the best in television.",
+    "title": "P M Flagship",
+    "subTitle": "The host speaks to numerous experts about miscellaneous topics pertaining to the prime minister's speeches and initiatives.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

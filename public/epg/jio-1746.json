@@ -301,18 +301,18 @@
   },
   {
     "startRaw": "20260220013000",
-    "stopRaw": "20260220033000",
+    "stopRaw": "20260220033200",
     "start": "2026-02-20 07:00:00 IST",
-    "stop": "2026-02-20 09:00:00 IST",
+    "stop": "2026-02-20 09:02:00 IST",
     "channel": "jio-1746",
     "title": "Nagarahavu",
     "subTitle": "Naganika, daughter of Shivaiyya, a man safeguarding an ancient relic is killed by Kapali while protecting the relic. She is reborn in her next life to avenge her murder.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260220033000",
+    "startRaw": "20260220033200",
     "stopRaw": "20260220063000",
-    "start": "2026-02-20 09:00:00 IST",
+    "start": "2026-02-20 09:02:00 IST",
     "stop": "2026-02-20 12:00:00 IST",
     "channel": "jio-1746",
     "title": "F3: Fun and Frustration",
@@ -351,12 +351,22 @@
   },
   {
     "startRaw": "20260220153000",
-    "stopRaw": "20260220182959",
+    "stopRaw": "20260220181800",
     "start": "2026-02-20 21:00:00 IST",
-    "stop": "2026-02-20 23:59:59 IST",
+    "stop": "2026-02-20 23:48:00 IST",
     "channel": "jio-1746",
     "title": "My Dear Bootham",
     "subTitle": "A young boy, who struggles at school after his father died, finds a lantern in a cave that releases Karkimuki, the king of all genies that only he can seem to see.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220181800",
+    "stopRaw": "20260220182959",
+    "start": "2026-02-20 23:48:00 IST",
+    "stop": "2026-02-20 23:59:59 IST",
+    "channel": "jio-1746",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

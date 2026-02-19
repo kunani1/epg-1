@@ -245,8 +245,8 @@
     "start": "2026-02-20 06:00:00 IST",
     "stop": "2026-02-20 07:00:00 IST",
     "channel": "jio-894",
-    "title": "Fillers",
-    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "title": "Teleshopping",
+    "subTitle": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -291,12 +291,32 @@
   },
   {
     "startRaw": "20260220133000",
-    "stopRaw": "20260220182959",
+    "stopRaw": "20260220163000",
     "start": "2026-02-20 19:00:00 IST",
-    "stop": "2026-02-20 23:59:59 IST",
+    "stop": "2026-02-20 22:00:00 IST",
     "channel": "jio-894",
     "title": "Soorarai Pottru",
     "subTitle": "A young man from a remote village dreams of launching his own airline service and must overcome various challenges in his quest.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220163000",
+    "stopRaw": "20260220170000",
+    "start": "2026-02-20 22:00:00 IST",
+    "stop": "2026-02-20 22:30:00 IST",
+    "channel": "jio-894",
+    "title": "Eyarkai",
+    "subTitle": "Marudhu, a sailor, falls in love with Nancy, a fruit vendor. However, she waits for the captain who had promised that he would return and marry her.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220170000",
+    "stopRaw": "20260220182959",
+    "start": "2026-02-20 22:30:00 IST",
+    "stop": "2026-02-20 23:59:59 IST",
+    "channel": "jio-894",
+    "title": "Eyarkai",
+    "subTitle": "Marudhu, a sailor, falls in love with Nancy, a fruit vendor. However, she waits for the captain who had promised that he would return and marry her.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

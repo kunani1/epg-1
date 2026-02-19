@@ -961,22 +961,32 @@
   },
   {
     "startRaw": "20260220163000",
-    "stopRaw": "20260220173000",
+    "stopRaw": "20260220171500",
     "start": "2026-02-20 22:00:00 IST",
-    "stop": "2026-02-20 23:00:00 IST",
+    "stop": "2026-02-20 22:45:00 IST",
     "channel": "jio-1325",
     "title": "Peacemaker",
     "subTitle": "Chris joins a secret team to fight weird bugs living inside people around the world, travelling to many places to stop the bugs from spreading.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260220173000",
-    "stopRaw": "20260220182959",
-    "start": "2026-02-20 23:00:00 IST",
-    "stop": "2026-02-20 23:59:59 IST",
+    "startRaw": "20260220171500",
+    "stopRaw": "20260220180500",
+    "start": "2026-02-20 22:45:00 IST",
+    "stop": "2026-02-20 23:35:00 IST",
     "channel": "jio-1325",
     "title": "Elementary",
     "subTitle": "Sherlock investigates when a wealthy philanthropist believes he was intentionally infected with an incurable illness; Sherlock sends Joan to a suspicious dry cleaners to teach her deductive skills.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220180500",
+    "stopRaw": "20260220182959",
+    "start": "2026-02-20 23:35:00 IST",
+    "stop": "2026-02-20 23:59:59 IST",
+    "channel": "jio-1325",
+    "title": "The Sopranos",
+    "subTitle": "Tensions rise between Tony and Ralphie until circumstances demand that they resolve their differences. Meanwhile, Meadow gets involved with Jackie's son and ends up in trouble.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

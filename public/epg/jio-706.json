@@ -881,12 +881,42 @@
   },
   {
     "startRaw": "20260219223000",
-    "stopRaw": "20260220003000",
+    "stopRaw": "20260219233000",
     "start": "2026-02-20 04:00:00 IST",
-    "stop": "2026-02-20 06:00:00 IST",
+    "stop": "2026-02-20 05:00:00 IST",
     "channel": "jio-706",
     "title": "Classical Music",
     "subTitle": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219233000",
+    "stopRaw": "20260219233300",
+    "start": "2026-02-20 05:00:00 IST",
+    "stop": "2026-02-20 05:03:00 IST",
+    "channel": "jio-706",
+    "title": "Vandemataram Song",
+    "subTitle": "A compilation of patriotic songs glorifying the greatness and unity of India and performed by various artists is played back to back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219233300",
+    "stopRaw": "20260220000000",
+    "start": "2026-02-20 05:03:00 IST",
+    "stop": "2026-02-20 05:30:00 IST",
+    "channel": "jio-706",
+    "title": "Nadaswaram",
+    "subTitle": "Professional musicians play classical compositions on the nadaswaram, a traditional South Indian wind instrument, and enthral the viewers.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220000000",
+    "stopRaw": "20260220003000",
+    "start": "2026-02-20 05:30:00 IST",
+    "stop": "2026-02-20 06:00:00 IST",
+    "channel": "jio-706",
+    "title": "Pasidipantalu",
+    "subTitle": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -915,8 +945,8 @@
     "start": "2026-02-20 06:45:00 IST",
     "stop": "2026-02-20 07:00:00 IST",
     "channel": "jio-706",
-    "title": "Maryada Ramanna",
-    "subTitle": "Ramu arrives at his rural hometown in order to sell a piece of land he owns. However, he ends up falling in love with a woman whose family wants him dead.",
+    "title": "Bhamidipati Ramagopalam Kathalu",
+    "subTitle": "A compilation of short stories by Telugu writer Bhamidipati Ramagopalam that revolve around human emotions and experiences is presented.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -925,8 +955,8 @@
     "start": "2026-02-20 07:00:00 IST",
     "stop": "2026-02-20 07:30:00 IST",
     "channel": "jio-706",
-    "title": "Darshaniyasthalalu",
-    "subTitle": "Devotees from different parts of the country visit various temples to offer their prayers and seek blessings of the deities.",
+    "title": "Bharathiya Samskruthi Sikharalu",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -981,22 +1011,222 @@
   },
   {
     "startRaw": "20260220043000",
-    "stopRaw": "20260220060000",
+    "stopRaw": "20260220053000",
     "start": "2026-02-20 10:00:00 IST",
-    "stop": "2026-02-20 11:30:00 IST",
+    "stop": "2026-02-20 11:00:00 IST",
     "channel": "jio-706",
     "title": "Classical Dance",
     "subTitle": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthral the audience.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260220060000",
+    "startRaw": "20260220053000",
+    "stopRaw": "20260220063000",
+    "start": "2026-02-20 11:00:00 IST",
+    "stop": "2026-02-20 12:00:00 IST",
+    "channel": "jio-706",
+    "title": "Career Guidance",
+    "subTitle": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220063000",
+    "stopRaw": "20260220073000",
+    "start": "2026-02-20 12:00:00 IST",
+    "stop": "2026-02-20 13:00:00 IST",
+    "channel": "jio-706",
+    "title": "Bandhalu Anubandhalu",
+    "subTitle": "The host discusses various contemporary issues that plague modern society and offers solutions on how to handle them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220073000",
+    "stopRaw": "20260220080000",
+    "start": "2026-02-20 13:00:00 IST",
+    "stop": "2026-02-20 13:30:00 IST",
+    "channel": "jio-706",
+    "title": "Vartalu",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220080000",
+    "stopRaw": "20260220083000",
+    "start": "2026-02-20 13:30:00 IST",
+    "stop": "2026-02-20 14:00:00 IST",
+    "channel": "jio-706",
+    "title": "Jeevana Samaram",
+    "subTitle": "The host implores people to be sympathetic to the underdogs of society through dramatizations of various moralistic stories.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220083000",
+    "stopRaw": "20260220090000",
+    "start": "2026-02-20 14:00:00 IST",
+    "stop": "2026-02-20 14:30:00 IST",
+    "channel": "jio-706",
+    "title": "Vivahabandham",
+    "subTitle": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220090000",
+    "stopRaw": "20260220093000",
+    "start": "2026-02-20 14:30:00 IST",
+    "stop": "2026-02-20 15:00:00 IST",
+    "channel": "jio-706",
+    "title": "Chantigadi Swyamvaram",
+    "subTitle": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220093000",
+    "stopRaw": "20260220103000",
+    "start": "2026-02-20 15:00:00 IST",
+    "stop": "2026-02-20 16:00:00 IST",
+    "channel": "jio-706",
+    "title": "Hello Saptagiri",
+    "subTitle": "Mimicry artist Bapiraji interacts with callers and encourages them to sing or crack and also entertains the audience by impersonating various personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220103000",
+    "stopRaw": "20260220110000",
+    "start": "2026-02-20 16:00:00 IST",
+    "stop": "2026-02-20 16:30:00 IST",
+    "channel": "jio-706",
+    "title": "Vyshali",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220110000",
+    "stopRaw": "20260220113000",
+    "start": "2026-02-20 16:30:00 IST",
+    "stop": "2026-02-20 17:00:00 IST",
+    "channel": "jio-706",
+    "title": "Brundavanam",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220113000",
+    "stopRaw": "20260220114000",
+    "start": "2026-02-20 17:00:00 IST",
+    "stop": "2026-02-20 17:10:00 IST",
+    "channel": "jio-706",
+    "title": "District News Bulletin",
+    "subTitle": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across all the districts of the state.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220114000",
+    "stopRaw": "20260220120000",
+    "start": "2026-02-20 17:10:00 IST",
+    "stop": "2026-02-20 17:30:00 IST",
+    "channel": "jio-706",
+    "title": "Maryada Ramanna",
+    "subTitle": "Ramu arrives at his rural hometown in order to sell a piece of land he owns. However, he ends up falling in love with a woman whose family wants him dead.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220120000",
+    "stopRaw": "20260220123000",
+    "start": "2026-02-20 17:30:00 IST",
+    "stop": "2026-02-20 18:00:00 IST",
+    "channel": "jio-706",
+    "title": "Tarane Purane",
+    "subTitle": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220123000",
+    "stopRaw": "20260220133000",
+    "start": "2026-02-20 18:00:00 IST",
+    "stop": "2026-02-20 19:00:00 IST",
+    "channel": "jio-706",
+    "title": "Pasidipantalu",
+    "subTitle": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220133000",
+    "stopRaw": "20260220140000",
+    "start": "2026-02-20 19:00:00 IST",
+    "stop": "2026-02-20 19:30:00 IST",
+    "channel": "jio-706",
+    "title": "Vartalu",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220140000",
+    "stopRaw": "20260220143000",
+    "start": "2026-02-20 19:30:00 IST",
+    "stop": "2026-02-20 20:00:00 IST",
+    "channel": "jio-706",
+    "title": "Vivahabandham",
+    "subTitle": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220143000",
+    "stopRaw": "20260220150000",
+    "start": "2026-02-20 20:00:00 IST",
+    "stop": "2026-02-20 20:30:00 IST",
+    "channel": "jio-706",
+    "title": "Chantigadi Swyamvaram",
+    "subTitle": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220150000",
+    "stopRaw": "20260220153000",
+    "start": "2026-02-20 20:30:00 IST",
+    "stop": "2026-02-20 21:00:00 IST",
+    "channel": "jio-706",
+    "title": "Jeevana Samaram",
+    "subTitle": "The host implores people to be sympathetic to the underdogs of society through dramatizations of various moralistic stories.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220153000",
+    "stopRaw": "20260220160000",
+    "start": "2026-02-20 21:00:00 IST",
+    "stop": "2026-02-20 21:30:00 IST",
+    "channel": "jio-706",
+    "title": "Kantham Kathalu",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220160000",
+    "stopRaw": "20260220163000",
+    "start": "2026-02-20 21:30:00 IST",
+    "stop": "2026-02-20 22:00:00 IST",
+    "channel": "jio-706",
+    "title": "Vartalu",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220163000",
+    "stopRaw": "20260220173000",
+    "start": "2026-02-20 22:00:00 IST",
+    "stop": "2026-02-20 23:00:00 IST",
+    "channel": "jio-706",
+    "title": "Career Guidance",
+    "subTitle": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260220173000",
     "stopRaw": "20260220180000",
-    "start": "2026-02-20 11:30:00 IST",
+    "start": "2026-02-20 23:00:00 IST",
     "stop": "2026-02-20 23:30:00 IST",
     "channel": "jio-706",
-    "title": "Darshaniyasthalalu",
-    "subTitle": "Devotees from different parts of the country visit various temples to offer their prayers and seek blessings of the deities.",
+    "title": "Tarane Purane",
+    "subTitle": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1005,8 +1235,8 @@
     "start": "2026-02-20 23:30:00 IST",
     "stop": "2026-02-20 23:59:59 IST",
     "channel": "jio-706",
-    "title": "Darshaniyasthalalu",
-    "subTitle": "Devotees from different parts of the country visit various temples to offer their prayers and seek blessings of the deities.",
+    "title": "Bharathiya Samskruthi Sikharalu",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

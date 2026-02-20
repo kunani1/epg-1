@@ -181,18 +181,8 @@
   },
   {
     "startRaw": "20260219163000",
-    "stopRaw": "20260219173000",
-    "start": "2026-02-19 22:00:00 IST",
-    "stop": "2026-02-19 23:00:00 IST",
-    "channel": "jio-183",
-    "title": "Awaaz De Kahan Hai",
-    "subTitle": "A comprehensive collection of top songs and soundtracks from a variety of genres of Hindi films play back to back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260219173000",
     "stopRaw": "20260219182959",
-    "start": "2026-02-19 23:00:00 IST",
+    "start": "2026-02-19 22:00:00 IST",
     "stop": "2026-02-19 23:59:59 IST",
     "channel": "jio-183",
     "title": "Awaaz De Kahan Hai",
@@ -201,8 +191,28 @@
   },
   {
     "startRaw": "20260219183000",
-    "stopRaw": "20260220013000",
+    "stopRaw": "20260219203000",
     "start": "2026-02-20 00:00:00 IST",
+    "stop": "2026-02-20 02:00:00 IST",
+    "channel": "jio-183",
+    "title": "Bajao",
+    "subTitle": "Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219203000",
+    "stopRaw": "20260219233000",
+    "start": "2026-02-20 02:00:00 IST",
+    "stop": "2026-02-20 05:00:00 IST",
+    "channel": "jio-183",
+    "title": "Bajao",
+    "subTitle": "Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260219233000",
+    "stopRaw": "20260220013000",
+    "start": "2026-02-20 05:00:00 IST",
     "stop": "2026-02-20 07:00:00 IST",
     "channel": "jio-183",
     "title": "Awaaz De Kahan Hai",

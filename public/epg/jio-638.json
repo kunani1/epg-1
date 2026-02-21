@@ -375,8 +375,8 @@
     "start": "2026-02-21 06:00:00 IST",
     "stop": "2026-02-21 06:30:00 IST",
     "channel": "jio-638",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "TWR Premdhara",
+    "subTitle": "A religious leader sheds light on various biblical teachings and principles whilst encouraging the devotees to reflect on the same.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -385,8 +385,8 @@
     "start": "2026-02-21 06:30:00 IST",
     "stop": "2026-02-21 07:00:00 IST",
     "channel": "jio-638",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "Zee Telugu",
+    "subTitle": "Zee Telugu",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -535,8 +535,8 @@
     "start": "2026-02-21 16:30:00 IST",
     "stop": "2026-02-21 18:00:00 IST",
     "channel": "jio-638",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Saaho",
+    "subTitle": "An undercover agent and his partner go after a thief who has stolen 2,000 crore rupees. Soon, they realise that the case is linked to the death of a crime lord and an emerging gang war.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -621,22 +621,52 @@
   },
   {
     "startRaw": "20260221183000",
-    "stopRaw": "20260221213000",
+    "stopRaw": "20260221192400",
     "start": "2026-02-22 00:00:00 IST",
-    "stop": "2026-02-22 03:00:00 IST",
+    "stop": "2026-02-22 00:54:00 IST",
+    "channel": "jio-638",
+    "title": "DD Next Level",
+    "subTitle": "A brutally honest film critic is invited to an exclusive preview of a horror-laced movie by an enigmatic filmmaker. However, events take a surreal turn when he finds himself trapped inside the film.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221192400",
+    "stopRaw": "20260221200200",
+    "start": "2026-02-22 00:54:00 IST",
+    "stop": "2026-02-22 01:32:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221200200",
+    "stopRaw": "20260221221600",
+    "start": "2026-02-22 01:32:00 IST",
+    "stop": "2026-02-22 03:46:00 IST",
     "channel": "jio-638",
     "title": "Rowdy Boys",
     "subTitle": "Kavya, a medical student, and Akshay, an engineering student, begin to fall for each other. However, an ugly gang war between their respective colleges impacts their love story.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260221213000",
-    "stopRaw": "20260222003000",
-    "start": "2026-02-22 03:00:00 IST",
-    "stop": "2026-02-22 06:00:00 IST",
+    "startRaw": "20260221221600",
+    "stopRaw": "20260222002000",
+    "start": "2026-02-22 03:46:00 IST",
+    "stop": "2026-02-22 05:50:00 IST",
     "channel": "jio-638",
     "title": "Kanya kumari",
     "subTitle": "Kanyakumari, a girl who aspires to become a software engineer, falls in love with Tirupati, a farmer. She soon finds herself confronted with a dilemma, having to choose between love and ambition.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222002000",
+    "stopRaw": "20260222003000",
+    "start": "2026-02-22 05:50:00 IST",
+    "stop": "2026-02-22 06:00:00 IST",
+    "channel": "jio-638",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

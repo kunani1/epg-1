@@ -351,12 +351,22 @@
   },
   {
     "startRaw": "20260221010000",
-    "stopRaw": "20260221020000",
+    "stopRaw": "20260221013000",
     "start": "2026-02-21 06:30:00 IST",
+    "stop": "2026-02-21 07:00:00 IST",
+    "channel": "jio-143",
+    "title": "Leader's Playbook",
+    "subTitle": "The host invites prominent personalities from different fields and engages in a conversation with them on their life journeys, careers and success.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221013000",
+    "stopRaw": "20260221020000",
+    "start": "2026-02-21 07:00:00 IST",
     "stop": "2026-02-21 07:30:00 IST",
     "channel": "jio-143",
-    "title": "Closing Bell: Overtime",
-    "subTitle": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+    "title": "Leader's Playbook",
+    "subTitle": "Candid conversations with some of the world's most influential CEOs and business leaders, about how they think, decide, and lead.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -365,8 +375,8 @@
     "start": "2026-02-21 07:30:00 IST",
     "stop": "2026-02-21 08:00:00 IST",
     "channel": "jio-143",
-    "title": "Converge Live",
-    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live.",
+    "title": "Exec. Decisions",
+    "subTitle": "Exec. Decisions",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -375,28 +385,18 @@
     "start": "2026-02-21 08:00:00 IST",
     "stop": "2026-02-21 08:30:00 IST",
     "channel": "jio-143",
-    "title": "The Global Eye",
-    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.",
+    "title": "On Assignment",
+    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221030000",
-    "stopRaw": "20260221033000",
-    "start": "2026-02-21 08:30:00 IST",
-    "stop": "2026-02-21 09:00:00 IST",
-    "channel": "jio-143",
-    "title": "Storyboard18",
-    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221033000",
     "stopRaw": "20260221040000",
-    "start": "2026-02-21 09:00:00 IST",
+    "start": "2026-02-21 08:30:00 IST",
     "stop": "2026-02-21 09:30:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -415,8 +415,8 @@
     "start": "2026-02-21 10:00:00 IST",
     "stop": "2026-02-21 10:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Editor",
-    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -425,18 +425,28 @@
     "start": "2026-02-21 10:30:00 IST",
     "stop": "2026-02-21 11:00:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221053000",
-    "stopRaw": "20260221063000",
+    "stopRaw": "20260221060000",
     "start": "2026-02-21 11:00:00 IST",
+    "stop": "2026-02-21 11:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221060000",
+    "stopRaw": "20260221063000",
+    "start": "2026-02-21 11:30:00 IST",
     "stop": "2026-02-21 12:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -445,8 +455,8 @@
     "start": "2026-02-21 12:00:00 IST",
     "stop": "2026-02-21 12:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Masters",
-    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -455,8 +465,8 @@
     "start": "2026-02-21 12:30:00 IST",
     "stop": "2026-02-21 13:00:00 IST",
     "channel": "jio-143",
-    "title": "Tokenomics",
-    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -465,8 +475,8 @@
     "start": "2026-02-21 13:00:00 IST",
     "stop": "2026-02-21 13:30:00 IST",
     "channel": "jio-143",
-    "title": "Overdrive",
-    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -475,8 +485,8 @@
     "start": "2026-02-21 13:30:00 IST",
     "stop": "2026-02-21 14:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -485,8 +495,8 @@
     "start": "2026-02-21 14:00:00 IST",
     "stop": "2026-02-21 14:30:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -495,8 +505,8 @@
     "start": "2026-02-21 14:30:00 IST",
     "stop": "2026-02-21 15:00:00 IST",
     "channel": "jio-143",
-    "title": "Media Dialogues With Storyboard18",
-    "subTitle": "The host invites marketing experts to discuss brands' strategies for leveraging the impact of IPL on digital media to reach their audience.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -505,8 +515,8 @@
     "start": "2026-02-21 15:00:00 IST",
     "stop": "2026-02-21 15:30:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -515,8 +525,8 @@
     "start": "2026-02-21 15:30:00 IST",
     "stop": "2026-02-21 16:00:00 IST",
     "channel": "jio-143",
-    "title": "Converge Live",
-    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -525,28 +535,48 @@
     "start": "2026-02-21 16:00:00 IST",
     "stop": "2026-02-21 16:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Masters",
-    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221110000",
-    "stopRaw": "20260221120000",
+    "stopRaw": "20260221113000",
     "start": "2026-02-21 16:30:00 IST",
+    "stop": "2026-02-21 17:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221113000",
+    "stopRaw": "20260221120000",
+    "start": "2026-02-21 17:00:00 IST",
     "stop": "2026-02-21 17:30:00 IST",
     "channel": "jio-143",
-    "title": "Unlocked",
-    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221120000",
-    "stopRaw": "20260221130000",
+    "stopRaw": "20260221123000",
     "start": "2026-02-21 17:30:00 IST",
+    "stop": "2026-02-21 18:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221123000",
+    "stopRaw": "20260221130000",
+    "start": "2026-02-21 18:00:00 IST",
     "stop": "2026-02-21 18:30:00 IST",
     "channel": "jio-143",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -555,8 +585,8 @@
     "start": "2026-02-21 18:30:00 IST",
     "stop": "2026-02-21 19:00:00 IST",
     "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -565,8 +595,8 @@
     "start": "2026-02-21 19:00:00 IST",
     "stop": "2026-02-21 19:30:00 IST",
     "channel": "jio-143",
-    "title": "The Global Eye",
-    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -575,8 +605,8 @@
     "start": "2026-02-21 19:30:00 IST",
     "stop": "2026-02-21 20:00:00 IST",
     "channel": "jio-143",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -585,28 +615,18 @@
     "start": "2026-02-21 20:00:00 IST",
     "stop": "2026-02-21 20:30:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221150000",
-    "stopRaw": "20260221153000",
-    "start": "2026-02-21 20:30:00 IST",
-    "stop": "2026-02-21 21:00:00 IST",
-    "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221153000",
     "stopRaw": "20260221160000",
-    "start": "2026-02-21 21:00:00 IST",
+    "start": "2026-02-21 20:30:00 IST",
     "stop": "2026-02-21 21:30:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -615,18 +635,28 @@
     "start": "2026-02-21 21:30:00 IST",
     "stop": "2026-02-21 22:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Editor",
-    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221163000",
-    "stopRaw": "20260221173000",
+    "stopRaw": "20260221170000",
     "start": "2026-02-21 22:00:00 IST",
+    "stop": "2026-02-21 22:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221170000",
+    "stopRaw": "20260221173000",
+    "start": "2026-02-21 22:30:00 IST",
     "stop": "2026-02-21 23:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -635,8 +665,8 @@
     "start": "2026-02-21 23:00:00 IST",
     "stop": "2026-02-21 23:30:00 IST",
     "channel": "jio-143",
-    "title": "Tokenomics",
-    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -645,8 +675,8 @@
     "start": "2026-02-21 23:30:00 IST",
     "stop": "2026-02-21 23:59:59 IST",
     "channel": "jio-143",
-    "title": "Overdrive",
-    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -655,18 +685,28 @@
     "start": "2026-02-22 00:00:00 IST",
     "stop": "2026-02-22 00:30:00 IST",
     "channel": "jio-143",
-    "title": "Overdrive",
-    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221190000",
-    "stopRaw": "20260221200000",
+    "stopRaw": "20260221193000",
     "start": "2026-02-22 00:30:00 IST",
+    "stop": "2026-02-22 01:00:00 IST",
+    "channel": "jio-143",
+    "title": "Leader's Playbook",
+    "subTitle": "The host invites prominent personalities from different fields and engages in a conversation with them on their life journeys, careers and success.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221193000",
+    "stopRaw": "20260221200000",
+    "start": "2026-02-22 01:00:00 IST",
     "stop": "2026-02-22 01:30:00 IST",
     "channel": "jio-143",
-    "title": "Unlocked",
-    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
+    "title": "Leader's Playbook",
+    "subTitle": "Candid conversations with some of the world's most influential CEOs and business leaders, about how they think, decide, and lead.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -675,8 +715,8 @@
     "start": "2026-02-22 01:30:00 IST",
     "stop": "2026-02-22 02:00:00 IST",
     "channel": "jio-143",
-    "title": "Converge Live",
-    "subTitle": "The host presents a detailed report of the latest news stories about business, sports, and entertainment from all around the world, live.",
+    "title": "Exec. Decisions",
+    "subTitle": "Exec. Decisions",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -695,28 +735,48 @@
     "start": "2026-02-22 02:30:00 IST",
     "stop": "2026-02-22 03:30:00 IST",
     "channel": "jio-143",
-    "title": "Unlocked",
-    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221220000",
-    "stopRaw": "20260221230000",
+    "stopRaw": "20260221223000",
     "start": "2026-02-22 03:30:00 IST",
+    "stop": "2026-02-22 04:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221223000",
+    "stopRaw": "20260221230000",
+    "start": "2026-02-22 04:00:00 IST",
     "stop": "2026-02-22 04:30:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260221230000",
-    "stopRaw": "20260222000000",
+    "stopRaw": "20260221233000",
     "start": "2026-02-22 04:30:00 IST",
+    "stop": "2026-02-22 05:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221233000",
+    "stopRaw": "20260222000000",
+    "start": "2026-02-22 05:00:00 IST",
     "stop": "2026-02-22 05:30:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,18 +785,28 @@
     "start": "2026-02-22 05:30:00 IST",
     "stop": "2026-02-22 06:30:00 IST",
     "channel": "jio-143",
-    "title": "Unlocked",
-    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222010000",
-    "stopRaw": "20260222020000",
+    "stopRaw": "20260222013000",
     "start": "2026-02-22 06:30:00 IST",
+    "stop": "2026-02-22 07:00:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222013000",
+    "stopRaw": "20260222020000",
+    "start": "2026-02-22 07:00:00 IST",
     "stop": "2026-02-22 07:30:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -745,28 +815,28 @@
     "start": "2026-02-22 07:30:00 IST",
     "stop": "2026-02-22 08:00:00 IST",
     "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222023000",
-    "stopRaw": "20260222033000",
+    "stopRaw": "20260222030000",
     "start": "2026-02-22 08:00:00 IST",
-    "stop": "2026-02-22 09:00:00 IST",
+    "stop": "2026-02-22 08:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260222033000",
+    "startRaw": "20260222030000",
     "stopRaw": "20260222040000",
-    "start": "2026-02-22 09:00:00 IST",
+    "start": "2026-02-22 08:30:00 IST",
     "stop": "2026-02-22 09:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Editor",
-    "subTitle": "The host invites market experts to offer insights into the performance of financial instruments across various sectors of the market.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -795,8 +865,8 @@
     "start": "2026-02-22 10:30:00 IST",
     "stop": "2026-02-22 11:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Masters",
-    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -805,8 +875,8 @@
     "start": "2026-02-22 11:00:00 IST",
     "stop": "2026-02-22 11:30:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -815,8 +885,8 @@
     "start": "2026-02-22 11:30:00 IST",
     "stop": "2026-02-22 12:00:00 IST",
     "channel": "jio-143",
-    "title": "Storyboard18",
-    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -825,8 +895,8 @@
     "start": "2026-02-22 12:00:00 IST",
     "stop": "2026-02-22 12:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -835,18 +905,28 @@
     "start": "2026-02-22 12:30:00 IST",
     "stop": "2026-02-22 13:00:00 IST",
     "channel": "jio-143",
-    "title": "Overdrive",
-    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222073000",
-    "stopRaw": "20260222083000",
+    "stopRaw": "20260222080000",
     "start": "2026-02-22 13:00:00 IST",
+    "stop": "2026-02-22 13:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222080000",
+    "stopRaw": "20260222083000",
+    "start": "2026-02-22 13:30:00 IST",
     "stop": "2026-02-22 14:00:00 IST",
     "channel": "jio-143",
-    "title": "Young Turks Reloaded",
-    "subTitle": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -855,8 +935,8 @@
     "start": "2026-02-22 14:00:00 IST",
     "stop": "2026-02-22 14:30:00 IST",
     "channel": "jio-143",
-    "title": "Storyboard18",
-    "subTitle": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -865,8 +945,8 @@
     "start": "2026-02-22 14:30:00 IST",
     "stop": "2026-02-22 15:00:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -875,8 +955,8 @@
     "start": "2026-02-22 15:00:00 IST",
     "stop": "2026-02-22 15:30:00 IST",
     "channel": "jio-143",
-    "title": "On Assignment",
-    "subTitle": "International correspondents explore compelling global stories through immersive field reporting and personal testimonies from those most affected.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -885,38 +965,68 @@
     "start": "2026-02-22 15:30:00 IST",
     "stop": "2026-02-22 16:00:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222103000",
-    "stopRaw": "20260222113000",
+    "stopRaw": "20260222110000",
     "start": "2026-02-22 16:00:00 IST",
+    "stop": "2026-02-22 16:30:00 IST",
+    "channel": "jio-143",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222110000",
+    "stopRaw": "20260222113000",
+    "start": "2026-02-22 16:30:00 IST",
     "stop": "2026-02-22 17:00:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222113000",
-    "stopRaw": "20260222123000",
+    "stopRaw": "20260222120000",
     "start": "2026-02-22 17:00:00 IST",
+    "stop": "2026-02-22 17:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222120000",
+    "stopRaw": "20260222123000",
+    "start": "2026-02-22 17:30:00 IST",
     "stop": "2026-02-22 18:00:00 IST",
     "channel": "jio-143",
-    "title": "Unlocked",
-    "subTitle": "In order to attain their dream house, people go above and beyond to navigate a tough market and challenging responsibilities.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222123000",
-    "stopRaw": "20260222133000",
+    "stopRaw": "20260222130000",
     "start": "2026-02-22 18:00:00 IST",
+    "stop": "2026-02-22 18:30:00 IST",
+    "channel": "jio-143",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222130000",
+    "stopRaw": "20260222133000",
+    "start": "2026-02-22 18:30:00 IST",
     "stop": "2026-02-22 19:00:00 IST",
     "channel": "jio-143",
-    "title": "American Greed",
-    "subTitle": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
+    "title": "Editors' Roundtable",
+    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -925,8 +1035,8 @@
     "start": "2026-02-22 19:00:00 IST",
     "stop": "2026-02-22 19:30:00 IST",
     "channel": "jio-143",
-    "title": "The Global Eye",
-    "subTitle": "The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -935,8 +1045,8 @@
     "start": "2026-02-22 19:30:00 IST",
     "stop": "2026-02-22 20:00:00 IST",
     "channel": "jio-143",
-    "title": "Tokenomics",
-    "subTitle": "The host invites eminent industry experts to discuss the exponential boom in the trade of non-fungible tokens, popularly known as NFTs, and how they are replacing cryptocurrency.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -945,28 +1055,28 @@
     "start": "2026-02-22 20:00:00 IST",
     "stop": "2026-02-22 20:30:00 IST",
     "channel": "jio-143",
-    "title": "Overdrive",
-    "subTitle": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+    "title": "Conversation",
+    "subTitle": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260222150000",
-    "stopRaw": "20260222153000",
+    "stopRaw": "20260222160000",
     "start": "2026-02-22 20:30:00 IST",
-    "stop": "2026-02-22 21:00:00 IST",
+    "stop": "2026-02-22 21:30:00 IST",
     "channel": "jio-143",
-    "title": "Indianomics",
-    "subTitle": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260222153000",
+    "startRaw": "20260222160000",
     "stopRaw": "20260222163000",
-    "start": "2026-02-22 21:00:00 IST",
+    "start": "2026-02-22 21:30:00 IST",
     "stop": "2026-02-22 22:00:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 FFF",
-    "subTitle": "Eminent persons from various fields come together to discuss important matters at the 'Future Female Forward' initiative.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -975,8 +1085,8 @@
     "start": "2026-02-22 22:00:00 IST",
     "stop": "2026-02-22 22:30:00 IST",
     "channel": "jio-143",
-    "title": "CNBC-TV18 Market Masters",
-    "subTitle": "The host interviews top investment professionals and market experts who offer insights into latest market trends, economic strategies and their perspectives for the viewers to make informed decisions.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -985,8 +1095,8 @@
     "start": "2026-02-22 22:30:00 IST",
     "stop": "2026-02-22 23:00:00 IST",
     "channel": "jio-143",
-    "title": "Media Dialogues With Storyboard18",
-    "subTitle": "The host invites marketing experts to discuss brands' strategies for leveraging the impact of IPL on digital media to reach their audience.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -995,8 +1105,8 @@
     "start": "2026-02-22 23:00:00 IST",
     "stop": "2026-02-22 23:30:00 IST",
     "channel": "jio-143",
-    "title": "Editors' Roundtable",
-    "subTitle": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1005,8 +1115,8 @@
     "start": "2026-02-22 23:30:00 IST",
     "stop": "2026-02-22 23:59:59 IST",
     "channel": "jio-143",
-    "title": "Let's Talk Money",
-    "subTitle": "The host invites finance experts to offer their advice on various significant topics involving money management, investments and real estate.",
+    "title": "CNBC TV18 Prime",
+    "subTitle": "CNBC TV18 Prime",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

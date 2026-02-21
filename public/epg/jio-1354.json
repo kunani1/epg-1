@@ -375,8 +375,8 @@
     "start": "2026-02-21 06:00:00 IST",
     "stop": "2026-02-21 06:30:00 IST",
     "channel": "jio-1354",
-    "title": "Teleshopping",
-    "subTitle": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+    "title": "TWR Premdhara",
+    "subTitle": "A religious leader encourages followers to dive into biblical teachings, inviting them to think deeply about the principles that can guide their lives and strengthen their faith.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -535,8 +535,8 @@
     "start": "2026-02-21 16:30:00 IST",
     "stop": "2026-02-21 18:00:00 IST",
     "channel": "jio-1354",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Saaho",
+    "subTitle": "An undercover agent and his partner go after a thief who has stolen 2,000 crore rupees. Soon, they realise that the case is linked to the death of a crime lord and an emerging gang war.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -621,22 +621,52 @@
   },
   {
     "startRaw": "20260221183000",
-    "stopRaw": "20260221213000",
+    "stopRaw": "20260221191600",
     "start": "2026-02-22 00:00:00 IST",
-    "stop": "2026-02-22 03:00:00 IST",
+    "stop": "2026-02-22 00:46:00 IST",
+    "channel": "jio-1354",
+    "title": "DD Next Level",
+    "subTitle": "A brutally honest film critic is invited to an exclusive preview of a horror-laced movie by an enigmatic filmmaker. However, events take a surreal turn when he finds himself trapped inside the film.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221191600",
+    "stopRaw": "20260221212800",
+    "start": "2026-02-22 00:46:00 IST",
+    "stop": "2026-02-22 02:58:00 IST",
     "channel": "jio-1354",
     "title": "Rowdy Boys",
     "subTitle": "Kavya, a medical student, and Akshay, an engineering student, begin to fall for each other. However, an ugly gang war between their respective colleges impacts their love story.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260221213000",
-    "stopRaw": "20260222003000",
-    "start": "2026-02-22 03:00:00 IST",
-    "stop": "2026-02-22 06:00:00 IST",
+    "startRaw": "20260221212800",
+    "stopRaw": "20260221220000",
+    "start": "2026-02-22 02:58:00 IST",
+    "stop": "2026-02-22 03:30:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221220000",
+    "stopRaw": "20260222000500",
+    "start": "2026-02-22 03:30:00 IST",
+    "stop": "2026-02-22 05:35:00 IST",
     "channel": "jio-1354",
     "title": "Kanya kumari",
     "subTitle": "Kanyakumari, a girl who aspires to become a software engineer, falls in love with Tirupati, a farmer. She soon finds herself confronted with a dilemma, having to choose between love and ambition.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222000500",
+    "stopRaw": "20260222003000",
+    "start": "2026-02-22 05:35:00 IST",
+    "stop": "2026-02-22 06:00:00 IST",
+    "channel": "jio-1354",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

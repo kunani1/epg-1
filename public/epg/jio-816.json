@@ -741,18 +741,18 @@
   },
   {
     "startRaw": "20260222223000",
-    "stopRaw": "20260222233000",
+    "stopRaw": "20260223003000",
     "start": "2026-02-23 04:00:00 IST",
-    "stop": "2026-02-23 05:00:00 IST",
+    "stop": "2026-02-23 06:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
     "subTitle": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
     "image": "http://ttpl.tmsimg.com/assets/p11921875_b_h10_aj.jpg?lock=1280x720"
   },
   {
-    "startRaw": "20260222233000",
+    "startRaw": "20260223003000",
     "stopRaw": "20260223013000",
-    "start": "2026-02-23 05:00:00 IST",
+    "start": "2026-02-23 06:00:00 IST",
     "stop": "2026-02-23 07:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
@@ -791,8 +791,18 @@
   },
   {
     "startRaw": "20260223030000",
-    "stopRaw": "20260223033000",
+    "stopRaw": "20260223031500",
     "start": "2026-02-23 08:30:00 IST",
+    "stop": "2026-02-23 08:45:00 IST",
+    "channel": "jio-816",
+    "title": "Larva",
+    "subTitle": "Two curious little worms explore the objects that they daily come across in their world which is located under the ground.",
+    "image": "http://ttpl.tmsimg.com/assets/p16979308_b_h8_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260223031500",
+    "stopRaw": "20260223033000",
+    "start": "2026-02-23 08:45:00 IST",
     "stop": "2026-02-23 09:00:00 IST",
     "channel": "jio-816",
     "title": "Larva",
@@ -881,8 +891,18 @@
   },
   {
     "startRaw": "20260223063000",
-    "stopRaw": "20260223090000",
+    "stopRaw": "20260223070000",
     "start": "2026-02-23 12:00:00 IST",
+    "stop": "2026-02-23 12:30:00 IST",
+    "channel": "jio-816",
+    "title": "Teen Titans GO!",
+    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260223070000",
+    "stopRaw": "20260223090000",
+    "start": "2026-02-23 12:30:00 IST",
     "stop": "2026-02-23 14:30:00 IST",
     "channel": "jio-816",
     "title": "Teen Titans GO!",
@@ -941,13 +961,23 @@
   },
   {
     "startRaw": "20260223130000",
-    "stopRaw": "20260223150000",
+    "stopRaw": "20260223140000",
     "start": "2026-02-23 18:30:00 IST",
-    "stop": "2026-02-23 20:30:00 IST",
+    "stop": "2026-02-23 19:30:00 IST",
     "channel": "jio-816",
     "title": "Teen Titans GO!",
     "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
     "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260223140000",
+    "stopRaw": "20260223150000",
+    "start": "2026-02-23 19:30:00 IST",
+    "stop": "2026-02-23 20:30:00 IST",
+    "channel": "jio-816",
+    "title": "Teen Titans",
+    "subTitle": "Led by Robin, a team of teenage superheroes consisting of Starfire, Raven, Cyborg and Beast Boy embark on an exciting adventure to save the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260223150000",
@@ -955,9 +985,9 @@
     "start": "2026-02-23 20:30:00 IST",
     "stop": "2026-02-23 21:00:00 IST",
     "channel": "jio-816",
-    "title": "Dragon Ball Z Kai",
-    "subTitle": "Goku is settled with his family and is living in peace. Unfortunately, his peaceful time is cut-short due to a visitor coming to Earth and claiming to be his long-lost brother.",
-    "image": "http://ttpl.tmsimg.com/assets/p18281831_b_h10_aa.jpg?lock=1280x720"
+    "title": "Teen Titans",
+    "subTitle": "Led by Robin, a team of teenage superheroes consisting of Starfire, Raven, Cyborg and Beast Boy embark on an exciting adventure to save the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260223153000",

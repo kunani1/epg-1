@@ -316,7 +316,7 @@
     "stop": "2026-02-21 11:10:00 IST",
     "channel": "jio-1405",
     "title": "Face to Face",
-    "subTitle": "Robert Campbell speaks with Hiromi, a Japanese pianist, about her musical world, her philosophy in performing and the challenges she faces.",
+    "subTitle": "Face to Face",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -506,7 +506,7 @@
     "stop": "2026-02-21 17:10:00 IST",
     "channel": "jio-1405",
     "title": "Face to Face",
-    "subTitle": "Robert Campbell speaks with Hiromi, a Japanese pianist, about her musical world, her philosophy in performing and the challenges she faces.",
+    "subTitle": "Face to Face",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -696,7 +696,7 @@
     "stop": "2026-02-21 23:10:00 IST",
     "channel": "jio-1405",
     "title": "Face to Face",
-    "subTitle": "Robert Campbell speaks with Hiromi, a Japanese pianist, about her musical world, her philosophy in performing and the challenges she faces.",
+    "subTitle": "Face to Face",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -871,22 +871,552 @@
   },
   {
     "startRaw": "20260221225500",
-    "stopRaw": "20260222105500",
+    "stopRaw": "20260221230000",
     "start": "2026-02-22 04:25:00 IST",
-    "stop": "2026-02-22 16:25:00 IST",
+    "stop": "2026-02-22 04:30:00 IST",
     "channel": "jio-1405",
     "title": "Design Museum Japan",
     "subTitle": "The Nishimonai Bon Odori Festival has continued for over 700 years. Koike finds timeless beauty in the costumes, remade using beloved family kimono.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260221230000",
+    "stopRaw": "20260221231000",
+    "start": "2026-02-22 04:30:00 IST",
+    "stop": "2026-02-22 04:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221231000",
+    "stopRaw": "20260221234000",
+    "start": "2026-02-22 04:40:00 IST",
+    "stop": "2026-02-22 05:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Samurai Wisdom",
+    "subTitle": "Explores Japan's most historic samurai and what pieces of wisdom they can offer to the modern world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221234000",
+    "stopRaw": "20260221235000",
+    "start": "2026-02-22 05:10:00 IST",
+    "stop": "2026-02-22 05:20:00 IST",
+    "channel": "jio-1405",
+    "title": "Magical Japanese",
+    "subTitle": "A deep dive into the unique world of the Japanese language accompanied by scenes from Japan. Many fascinating aspects of the Japanese language like onomatopeia, and more, are also introduced.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260221235000",
+    "stopRaw": "20260222000000",
+    "start": "2026-02-22 05:20:00 IST",
+    "stop": "2026-02-22 05:30:00 IST",
+    "channel": "jio-1405",
+    "title": "MATSURI: The Heartbeat of Japan",
+    "subTitle": "Explores the process of making ryusei rockets that bring prayers from people in the community to the sky.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222000000",
+    "stopRaw": "20260222001000",
+    "start": "2026-02-22 05:30:00 IST",
+    "stop": "2026-02-22 05:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222001000",
+    "stopRaw": "20260222010000",
+    "start": "2026-02-22 05:40:00 IST",
+    "stop": "2026-02-22 06:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222010000",
+    "stopRaw": "20260222011000",
+    "start": "2026-02-22 06:30:00 IST",
+    "stop": "2026-02-22 06:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222011000",
+    "stopRaw": "20260222015500",
+    "start": "2026-02-22 06:40:00 IST",
+    "stop": "2026-02-22 07:25:00 IST",
+    "channel": "jio-1405",
+    "title": "Demolition Kingdom",
+    "subTitle": "We follow the demolition of Japan's World Trade Center Building at 162m. Craftsmen take on the highest demolition in history with world-first new techniques!",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222015500",
+    "stopRaw": "20260222020000",
+    "start": "2026-02-22 07:25:00 IST",
+    "stop": "2026-02-22 07:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Framing Everyday's Moments",
+    "subTitle": "A unique time-lapse photography project. Shot by pros and non-pros. As most of Japan sleeps, factories across the country work through the night to keep the wheels of industry turning.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222020000",
+    "stopRaw": "20260222021000",
+    "start": "2026-02-22 07:30:00 IST",
+    "stop": "2026-02-22 07:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222021000",
+    "stopRaw": "20260222024000",
+    "start": "2026-02-22 07:40:00 IST",
+    "stop": "2026-02-22 08:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Tiny Desk Concerts Japan",
+    "subTitle": "One of Tokyo's most talked-about emerging trios,CHO CO PA CO CHO CO QUIN QUIN, comes to tiny desk.The performance also features special guest artists:U-zhaan,Nii Tete Boye,and Hajime Chitose.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222024000",
+    "stopRaw": "20260222025000",
+    "start": "2026-02-22 08:10:00 IST",
+    "stop": "2026-02-22 08:20:00 IST",
+    "channel": "jio-1405",
+    "title": "Little Charo",
+    "subTitle": "Charo meets up with Budori, a raccoon who loves stars, and helps him find his own constellation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222025000",
+    "stopRaw": "20260222025500",
+    "start": "2026-02-22 08:20:00 IST",
+    "stop": "2026-02-22 08:25:00 IST",
+    "channel": "jio-1405",
+    "title": "Japanology Plus Mini",
+    "subTitle": "Japan has been a hot spot for discovering dinosaur fossils since an excavation in Hokkaido. Kobayashi Yoshitsugu shares his opinion on why this sparked a nationwide enthusiasm for dinosaurs that led to several dinosaur-themed museums and events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222025500",
+    "stopRaw": "20260222030000",
+    "start": "2026-02-22 08:25:00 IST",
+    "stop": "2026-02-22 08:30:00 IST",
+    "channel": "jio-1405",
+    "title": "A Cat's-Eye View of Japan",
+    "subTitle": "Chibita is a friendly cat who lives at a souvenir shop near Chusonji Temple, a world heritage site. Popo lives at a horseback riding club with 20 horses, and Kikujiro is spotted at a rose garden.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222030000",
+    "stopRaw": "20260222031000",
+    "start": "2026-02-22 08:30:00 IST",
+    "stop": "2026-02-22 08:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222031000",
+    "stopRaw": "20260222034000",
+    "start": "2026-02-22 08:40:00 IST",
+    "stop": "2026-02-22 09:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Anime Manga Explosion",
+    "subTitle": "Yamashita Shingo is known for NARUTO key animation and JUJUTSU KAISEN openings. Go behind the scenes of his new feature, Cosmic Princess Kaguya!, and learn how he uses cutting-edge tools to create.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222034000",
+    "stopRaw": "20260222035000",
+    "start": "2026-02-22 09:10:00 IST",
+    "stop": "2026-02-22 09:20:00 IST",
+    "channel": "jio-1405",
+    "title": "The New Adventures of Rockie and Her Friends",
+    "subTitle": "Shelly draws a picture of her busy mother to get her attention. However, she fails to achieve her goal and runs away from home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222035000",
+    "stopRaw": "20260222040000",
+    "start": "2026-02-22 09:20:00 IST",
+    "stop": "2026-02-22 09:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Texico",
+    "subTitle": "Fascinating experiments that help people visualise sequences and predict future outcomes. Conveys the pleasure found in improving sequence patterns and how programming principles can be discovered in many aspects of daily life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222040000",
+    "stopRaw": "20260222041000",
+    "start": "2026-02-22 09:30:00 IST",
+    "stop": "2026-02-22 09:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222041000",
+    "stopRaw": "20260222050000",
+    "start": "2026-02-22 09:40:00 IST",
+    "stop": "2026-02-22 10:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Somewhere Street",
+    "subTitle": "A unique walking-eye view of the greatest cities around the globe. Featuring chats with locals and enjoying encounters that only strolling the city streets can bring.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222050000",
+    "stopRaw": "20260222051000",
+    "start": "2026-02-22 10:30:00 IST",
+    "stop": "2026-02-22 10:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222051000",
+    "stopRaw": "20260222052500",
+    "start": "2026-02-22 10:40:00 IST",
+    "stop": "2026-02-22 10:55:00 IST",
+    "channel": "jio-1405",
+    "title": "Through the Kitchen Window",
+    "subTitle": "A look into Japanese kitchens offering insights into Japanese food and its preparation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222052500",
+    "stopRaw": "20260222053000",
+    "start": "2026-02-22 10:55:00 IST",
+    "stop": "2026-02-22 11:00:00 IST",
+    "channel": "jio-1405",
+    "title": "Core Kyoto Mini",
+    "subTitle": "The perfect shading in beautiful tie-dyed patterns may result from sections randomly touching in the dye. Discover the future of clamp resist dyeing.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222053000",
+    "stopRaw": "20260222054500",
+    "start": "2026-02-22 11:00:00 IST",
+    "stop": "2026-02-22 11:15:00 IST",
+    "channel": "jio-1405",
+    "title": "Easy Japanese for Work",
+    "subTitle": "Loraine from Philippines has just started working at a housekeeping company. She will tackle a role play to help her explain and apologise when unexpected things happen.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222054500",
+    "stopRaw": "20260222060000",
+    "start": "2026-02-22 11:15:00 IST",
+    "stop": "2026-02-22 11:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Zero Waste Life",
+    "subTitle": "Some 20% of grown flowers for sale in Japan are discarded as substandard. Nakanishi Megumi uses them to make candles. Just like the flawed beauty of humanity, waste flowers, too, have a unique charm.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222060000",
+    "stopRaw": "20260222061000",
+    "start": "2026-02-22 11:30:00 IST",
+    "stop": "2026-02-22 11:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222061000",
+    "stopRaw": "20260222070000",
+    "start": "2026-02-22 11:40:00 IST",
+    "stop": "2026-02-22 12:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222070000",
+    "stopRaw": "20260222071000",
+    "start": "2026-02-22 12:30:00 IST",
+    "stop": "2026-02-22 12:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222071000",
+    "stopRaw": "20260222075500",
+    "start": "2026-02-22 12:40:00 IST",
+    "stop": "2026-02-22 13:25:00 IST",
+    "channel": "jio-1405",
+    "title": "Demolition Kingdom",
+    "subTitle": "We follow the demolition of Japan's World Trade Center Building at 162m. Craftsmen take on the highest demolition in history with world-first new techniques!",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222075500",
+    "stopRaw": "20260222080000",
+    "start": "2026-02-22 13:25:00 IST",
+    "stop": "2026-02-22 13:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Framing Everyday's Moments",
+    "subTitle": "A unique time-lapse photography project. Shot by pros and non-pros. As most of Japan sleeps, factories across the country work through the night to keep the wheels of industry turning.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222080000",
+    "stopRaw": "20260222081000",
+    "start": "2026-02-22 13:30:00 IST",
+    "stop": "2026-02-22 13:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222081000",
+    "stopRaw": "20260222090000",
+    "start": "2026-02-22 13:40:00 IST",
+    "stop": "2026-02-22 14:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Somewhere Street",
+    "subTitle": "A unique walking-eye view of the greatest cities around the globe. Featuring chats with locals and enjoying encounters that only strolling the city streets can bring.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222090000",
+    "stopRaw": "20260222091000",
+    "start": "2026-02-22 14:30:00 IST",
+    "stop": "2026-02-22 14:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222091000",
+    "stopRaw": "20260222094000",
+    "start": "2026-02-22 14:40:00 IST",
+    "stop": "2026-02-22 15:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Anime Manga Explosion",
+    "subTitle": "Yamashita Shingo is known for NARUTO key animation and JUJUTSU KAISEN openings. Go behind the scenes of his new feature, Cosmic Princess Kaguya!, and learn how he uses cutting-edge tools to create.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222094000",
+    "stopRaw": "20260222095000",
+    "start": "2026-02-22 15:10:00 IST",
+    "stop": "2026-02-22 15:20:00 IST",
+    "channel": "jio-1405",
+    "title": "The New Adventures of Rockie and Her Friends",
+    "subTitle": "Shelly draws a picture of her busy mother to get her attention. However, she fails to achieve her goal and runs away from home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222095000",
+    "stopRaw": "20260222100000",
+    "start": "2026-02-22 15:20:00 IST",
+    "stop": "2026-02-22 15:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Texico",
+    "subTitle": "Fascinating experiments that help people visualise sequences and predict future outcomes. Conveys the pleasure found in improving sequence patterns and how programming principles can be discovered in many aspects of daily life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222100000",
+    "stopRaw": "20260222101000",
+    "start": "2026-02-22 15:30:00 IST",
+    "stop": "2026-02-22 15:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222101000",
+    "stopRaw": "20260222104000",
+    "start": "2026-02-22 15:40:00 IST",
+    "stop": "2026-02-22 16:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Tiny Desk Concerts Japan",
+    "subTitle": "One of Tokyo's most talked-about emerging trios,CHO CO PA CO CHO CO QUIN QUIN, comes to tiny desk.The performance also features special guest artists:U-zhaan,Nii Tete Boye,and Hajime Chitose.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222104000",
+    "stopRaw": "20260222105000",
+    "start": "2026-02-22 16:10:00 IST",
+    "stop": "2026-02-22 16:20:00 IST",
+    "channel": "jio-1405",
+    "title": "Little Charo",
+    "subTitle": "Charo meets up with Budori, a raccoon who loves stars, and helps him find his own constellation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222105000",
+    "stopRaw": "20260222105500",
+    "start": "2026-02-22 16:20:00 IST",
+    "stop": "2026-02-22 16:25:00 IST",
+    "channel": "jio-1405",
+    "title": "Japanology Plus Mini",
+    "subTitle": "Japan has been a hot spot for discovering dinosaur fossils since an excavation in Hokkaido. Kobayashi Yoshitsugu shares his opinion on why this sparked a nationwide enthusiasm for dinosaurs that led to several dinosaur-themed museums and events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260222105500",
-    "stopRaw": "20260222145000",
+    "stopRaw": "20260222110000",
     "start": "2026-02-22 16:25:00 IST",
+    "stop": "2026-02-22 16:30:00 IST",
+    "channel": "jio-1405",
+    "title": "A Cat's-Eye View of Japan",
+    "subTitle": "Chibita is a friendly cat who lives at a souvenir shop near Chusonji Temple, a world heritage site. Popo lives at a horseback riding club with 20 horses, and Kikujiro is spotted at a rose garden.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222110000",
+    "stopRaw": "20260222111000",
+    "start": "2026-02-22 16:30:00 IST",
+    "stop": "2026-02-22 16:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222111000",
+    "stopRaw": "20260222112500",
+    "start": "2026-02-22 16:40:00 IST",
+    "stop": "2026-02-22 16:55:00 IST",
+    "channel": "jio-1405",
+    "title": "Through the Kitchen Window",
+    "subTitle": "A look into Japanese kitchens offering insights into Japanese food and its preparation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222112500",
+    "stopRaw": "20260222113000",
+    "start": "2026-02-22 16:55:00 IST",
+    "stop": "2026-02-22 17:00:00 IST",
+    "channel": "jio-1405",
+    "title": "Core Kyoto Mini",
+    "subTitle": "The perfect shading in beautiful tie-dyed patterns may result from sections randomly touching in the dye. Discover the future of clamp resist dyeing.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222113000",
+    "stopRaw": "20260222114500",
+    "start": "2026-02-22 17:00:00 IST",
+    "stop": "2026-02-22 17:15:00 IST",
+    "channel": "jio-1405",
+    "title": "Easy Japanese for Work",
+    "subTitle": "Loraine from Philippines has just started working at a housekeeping company. She will tackle a role play to help her explain and apologise when unexpected things happen.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222114500",
+    "stopRaw": "20260222120000",
+    "start": "2026-02-22 17:15:00 IST",
+    "stop": "2026-02-22 17:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Zero Waste Life",
+    "subTitle": "Some 20% of grown flowers for sale in Japan are discarded as substandard. Nakanishi Megumi uses them to make candles. Just like the flawed beauty of humanity, waste flowers, too, have a unique charm.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222120000",
+    "stopRaw": "20260222121000",
+    "start": "2026-02-22 17:30:00 IST",
+    "stop": "2026-02-22 17:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222121000",
+    "stopRaw": "20260222130000",
+    "start": "2026-02-22 17:40:00 IST",
+    "stop": "2026-02-22 18:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222130000",
+    "stopRaw": "20260222131000",
+    "start": "2026-02-22 18:30:00 IST",
+    "stop": "2026-02-22 18:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222131000",
+    "stopRaw": "20260222135500",
+    "start": "2026-02-22 18:40:00 IST",
+    "stop": "2026-02-22 19:25:00 IST",
+    "channel": "jio-1405",
+    "title": "Demolition Kingdom",
+    "subTitle": "We follow the demolition of Japan's World Trade Center Building at 162m. Craftsmen take on the highest demolition in history with world-first new techniques!",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222135500",
+    "stopRaw": "20260222140000",
+    "start": "2026-02-22 19:25:00 IST",
+    "stop": "2026-02-22 19:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Framing Everyday's Moments",
+    "subTitle": "A unique time-lapse photography project. Shot by pros and non-pros. As most of Japan sleeps, factories across the country work through the night to keep the wheels of industry turning.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222140000",
+    "stopRaw": "20260222141000",
+    "start": "2026-02-22 19:30:00 IST",
+    "stop": "2026-02-22 19:40:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222141000",
+    "stopRaw": "20260222144000",
+    "start": "2026-02-22 19:40:00 IST",
+    "stop": "2026-02-22 20:10:00 IST",
+    "channel": "jio-1405",
+    "title": "Anime Manga Explosion",
+    "subTitle": "Yamashita Shingo is known for NARUTO key animation and JUJUTSU KAISEN openings. Go behind the scenes of his new feature, Cosmic Princess Kaguya!, and learn how he uses cutting-edge tools to create.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260222144000",
+    "stopRaw": "20260222145000",
+    "start": "2026-02-22 20:10:00 IST",
     "stop": "2026-02-22 20:20:00 IST",
     "channel": "jio-1405",
-    "title": "Design Museum Japan",
-    "subTitle": "The Nishimonai Bon Odori Festival has continued for over 700 years. Koike finds timeless beauty in the costumes, remade using beloved family kimono.",
+    "title": "The New Adventures of Rockie and Her Friends",
+    "subTitle": "Shelly draws a picture of her busy mother to get her attention. However, she fails to achieve her goal and runs away from home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1035,8 +1565,8 @@
     "start": "2026-02-22 23:40:00 IST",
     "stop": "2026-02-22 23:59:59 IST",
     "channel": "jio-1405",
-    "title": "Unsolved Cases",
-    "subTitle": "The filmmakers explore various criminal cases that impacted society and unsolved mysteries affecting communities.",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1045,8 +1575,8 @@
     "start": "2026-02-23 00:00:00 IST",
     "stop": "2026-02-23 00:30:00 IST",
     "channel": "jio-1405",
-    "title": "Unsolved Cases",
-    "subTitle": "The filmmakers explore various criminal cases that impacted society and unsolved mysteries affecting communities.",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

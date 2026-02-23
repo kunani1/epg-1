@@ -731,18 +731,18 @@
   },
   {
     "startRaw": "20260223223000",
-    "stopRaw": "20260223233000",
+    "stopRaw": "20260224003000",
     "start": "2026-02-24 04:00:00 IST",
-    "stop": "2026-02-24 05:00:00 IST",
+    "stop": "2026-02-24 06:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
     "subTitle": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
     "image": "http://ttpl.tmsimg.com/assets/p11921875_b_h10_aj.jpg?lock=1280x720"
   },
   {
-    "startRaw": "20260223233000",
+    "startRaw": "20260224003000",
     "stopRaw": "20260224013000",
-    "start": "2026-02-24 05:00:00 IST",
+    "start": "2026-02-24 06:00:00 IST",
     "stop": "2026-02-24 07:00:00 IST",
     "channel": "jio-816",
     "title": "We Bare Bears",
@@ -781,8 +781,18 @@
   },
   {
     "startRaw": "20260224030000",
-    "stopRaw": "20260224033000",
+    "stopRaw": "20260224031500",
     "start": "2026-02-24 08:30:00 IST",
+    "stop": "2026-02-24 08:45:00 IST",
+    "channel": "jio-816",
+    "title": "Larva",
+    "subTitle": "Two curious little worms explore the objects that they daily come across in their world which is located under the ground.",
+    "image": "http://ttpl.tmsimg.com/assets/p16979308_b_h8_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260224031500",
+    "stopRaw": "20260224033000",
+    "start": "2026-02-24 08:45:00 IST",
     "stop": "2026-02-24 09:00:00 IST",
     "channel": "jio-816",
     "title": "Larva",
@@ -871,8 +881,18 @@
   },
   {
     "startRaw": "20260224063000",
-    "stopRaw": "20260224090000",
+    "stopRaw": "20260224070000",
     "start": "2026-02-24 12:00:00 IST",
+    "stop": "2026-02-24 12:30:00 IST",
+    "channel": "jio-816",
+    "title": "Teen Titans GO!",
+    "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+    "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260224070000",
+    "stopRaw": "20260224090000",
+    "start": "2026-02-24 12:30:00 IST",
     "stop": "2026-02-24 14:30:00 IST",
     "channel": "jio-816",
     "title": "Teen Titans GO!",
@@ -931,13 +951,23 @@
   },
   {
     "startRaw": "20260224130000",
-    "stopRaw": "20260224150000",
+    "stopRaw": "20260224140000",
     "start": "2026-02-24 18:30:00 IST",
-    "stop": "2026-02-24 20:30:00 IST",
+    "stop": "2026-02-24 19:30:00 IST",
     "channel": "jio-816",
     "title": "Teen Titans GO!",
     "subTitle": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
     "image": "http://ttpl.tmsimg.com/assets/p24686942_b_h10_aa.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260224140000",
+    "stopRaw": "20260224150000",
+    "start": "2026-02-24 19:30:00 IST",
+    "stop": "2026-02-24 20:30:00 IST",
+    "channel": "jio-816",
+    "title": "Teen Titans",
+    "subTitle": "Led by Robin, a team of teenage superheroes consisting of Starfire, Raven, Cyborg and Beast Boy embark on an exciting adventure to save the world.",
+    "image": "http://ttpl.tmsimg.com/assets/p186031_b_h10_ah.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260224150000",
@@ -945,9 +975,9 @@
     "start": "2026-02-24 20:30:00 IST",
     "stop": "2026-02-24 21:00:00 IST",
     "channel": "jio-816",
-    "title": "Dragon Ball Z Kai",
-    "subTitle": "Goku is settled with his family and is living in peace. Unfortunately, his peaceful time is cut-short due to a visitor coming to Earth and claiming to be his long-lost brother.",
-    "image": "http://ttpl.tmsimg.com/assets/p18281831_b_h10_aa.jpg?lock=1280x720"
+    "title": "Teen Titans",
+    "subTitle": "Led by Robin, a team of teenage superheroes consisting of Starfire, Raven, Cyborg and Beast Boy embark on an exciting adventure to save the world.",
+    "image": "http://ttpl.tmsimg.com/assets/p186031_b_h10_ah.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260224153000",

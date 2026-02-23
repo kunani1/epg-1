@@ -506,7 +506,7 @@
     "stop": "2026-02-23 02:00:00 IST",
     "channel": "jio-718",
     "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -515,7 +515,7 @@
     "start": "2026-02-23 02:00:00 IST",
     "stop": "2026-02-23 02:30:00 IST",
     "channel": "jio-718",
-    "title": "Olta Palta",
+    "title": "Olta Palta 3",
     "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -545,8 +545,8 @@
     "start": "2026-02-23 03:30:00 IST",
     "stop": "2026-02-23 04:00:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -555,8 +555,8 @@
     "start": "2026-02-23 04:00:00 IST",
     "stop": "2026-02-23 04:30:00 IST",
     "channel": "jio-718",
-    "title": "Special Story",
-    "subTitle": "The host presents latest updates and developments pertaining to the social, political and economic issues of the country and the state of Punjab.",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -581,12 +581,22 @@
   },
   {
     "startRaw": "20260223000000",
-    "stopRaw": "20260223010000",
+    "stopRaw": "20260223003000",
     "start": "2026-02-23 05:30:00 IST",
+    "stop": "2026-02-23 06:00:00 IST",
+    "channel": "jio-718",
+    "title": "Olta Palta 3",
+    "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223003000",
+    "stopRaw": "20260223010000",
+    "start": "2026-02-23 06:00:00 IST",
     "stop": "2026-02-23 06:30:00 IST",
     "channel": "jio-718",
-    "title": "Olta Palta",
-    "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
+    "title": "Suprabhat Odisha",
+    "subTitle": "The host provides the latest news and updates on political and socio-economic issues and developments in the state of Odisha, India.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -595,18 +605,28 @@
     "start": "2026-02-23 06:30:00 IST",
     "stop": "2026-02-23 07:00:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Ama Atithi",
+    "subTitle": "The host engages in conversations with notable personalities, discussing their experiences, achievements and perspectives across various fields.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260223013000",
-    "stopRaw": "20260223023000",
+    "stopRaw": "20260223020000",
     "start": "2026-02-23 07:00:00 IST",
-    "stop": "2026-02-23 08:00:00 IST",
+    "stop": "2026-02-23 07:30:00 IST",
     "channel": "jio-718",
     "title": "Sakalara Bada Khabar",
     "subTitle": "The host presents a detailed insight into latest updates pertaining to socio-political issues and current affairs from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223020000",
+    "stopRaw": "20260223023000",
+    "start": "2026-02-23 07:30:00 IST",
+    "stop": "2026-02-23 08:00:00 IST",
+    "channel": "jio-718",
+    "title": "Ama Swasthya",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -625,8 +645,8 @@
     "start": "2026-02-23 08:30:00 IST",
     "stop": "2026-02-23 09:00:00 IST",
     "channel": "jio-718",
-    "title": "Olta Palta",
-    "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
+    "title": "Non Stop Odisha",
+    "subTitle": "The host presents a nonstop news program covering Odisha featuring breaking stories, politics, culture, economy, and local events from across the state in real time.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -671,22 +691,12 @@
   },
   {
     "startRaw": "20260223053000",
-    "stopRaw": "20260223060000",
+    "stopRaw": "20260223063000",
     "start": "2026-02-23 11:00:00 IST",
-    "stop": "2026-02-23 11:30:00 IST",
+    "stop": "2026-02-23 12:00:00 IST",
     "channel": "jio-718",
     "title": "Bartamanar Bada Khabar",
     "subTitle": "The host presents the latest news updates and key developments on pressing matters from various fields across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260223060000",
-    "stopRaw": "20260223063000",
-    "start": "2026-02-23 11:30:00 IST",
-    "stop": "2026-02-23 12:00:00 IST",
-    "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -695,8 +705,8 @@
     "start": "2026-02-23 12:00:00 IST",
     "stop": "2026-02-23 12:30:00 IST",
     "channel": "jio-718",
-    "title": "Madhyana Khabar",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "Madhyarna Khabar",
+    "subTitle": "The host provides real-time updates and in-depth analysis of current events affecting social, economic and political issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -725,7 +735,7 @@
     "start": "2026-02-23 13:30:00 IST",
     "stop": "2026-02-23 14:00:00 IST",
     "channel": "jio-718",
-    "title": "Olta Palta",
+    "title": "Olta Palta 3",
     "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -735,8 +745,8 @@
     "start": "2026-02-23 14:00:00 IST",
     "stop": "2026-02-23 14:30:00 IST",
     "channel": "jio-718",
-    "title": "Odisha Dwiprahara",
-    "subTitle": "The host provides a comprehensive report, elucidating on the latest news and developments from various regions across Odisha.",
+    "title": "Khabar Dunia",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -766,7 +776,7 @@
     "stop": "2026-02-23 16:00:00 IST",
     "channel": "jio-718",
     "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -775,18 +785,28 @@
     "start": "2026-02-23 16:00:00 IST",
     "stop": "2026-02-23 16:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Dunia",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "Odisha @ 4 PM",
+    "subTitle": "The host presents daily life, news and culture in Odisha, offering a glimpse into the state's afternoon activities and current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260223110000",
-    "stopRaw": "20260223113000",
+    "stopRaw": "20260223111500",
     "start": "2026-02-23 16:30:00 IST",
+    "stop": "2026-02-23 16:45:00 IST",
+    "channel": "jio-718",
+    "title": "AFP",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223111500",
+    "stopRaw": "20260223113000",
+    "start": "2026-02-23 16:45:00 IST",
     "stop": "2026-02-23 17:00:00 IST",
     "channel": "jio-718",
-    "title": "Bazar Halchal",
-    "subTitle": "The host provides insight into the success stories of people from various walks of life, highlighting their achievements.",
+    "title": "AFP",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -805,7 +825,7 @@
     "start": "2026-02-23 17:30:00 IST",
     "stop": "2026-02-23 18:00:00 IST",
     "channel": "jio-718",
-    "title": "Ama Odisha",
+    "title": "Khabar Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -825,8 +845,8 @@
     "start": "2026-02-23 18:30:00 IST",
     "stop": "2026-02-23 19:00:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -835,7 +855,7 @@
     "start": "2026-02-23 19:00:00 IST",
     "stop": "2026-02-23 19:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
+    "title": "Ama Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -865,8 +885,8 @@
     "start": "2026-02-23 20:30:00 IST",
     "stop": "2026-02-23 21:00:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -885,8 +905,8 @@
     "start": "2026-02-23 21:30:00 IST",
     "stop": "2026-02-23 22:00:00 IST",
     "channel": "jio-718",
-    "title": "Lokanakali Katha Asali",
-    "subTitle": "A diverse ensemble of witty characters deliver sharp and satirical commentary on current events and various national issues.",
+    "title": "Loka Nakali Katha Asali",
+    "subTitle": "Through various sketches and hilarious conversations, characters present the latest issues from all over the world in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -895,8 +915,8 @@
     "start": "2026-02-23 22:00:00 IST",
     "stop": "2026-02-23 22:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "10 PM Live",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events affecting the lives of many individuals, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -905,8 +925,8 @@
     "start": "2026-02-23 22:30:00 IST",
     "stop": "2026-02-23 23:00:00 IST",
     "channel": "jio-718",
-    "title": "Health Conclave 2024",
-    "subTitle": "A panel of esteemed doctors engage in an insightful discussion on various medical issues and diseases at a health conclave.",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -915,7 +935,7 @@
     "start": "2026-02-23 23:00:00 IST",
     "stop": "2026-02-23 23:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
+    "title": "Ama Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -925,8 +945,8 @@
     "start": "2026-02-23 23:30:00 IST",
     "stop": "2026-02-23 23:59:59 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -955,8 +975,8 @@
     "start": "2026-02-24 01:00:00 IST",
     "stop": "2026-02-24 01:30:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -966,7 +986,7 @@
     "stop": "2026-02-24 02:00:00 IST",
     "channel": "jio-718",
     "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1005,8 +1025,8 @@
     "start": "2026-02-24 03:30:00 IST",
     "stop": "2026-02-24 04:00:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1015,8 +1035,8 @@
     "start": "2026-02-24 04:00:00 IST",
     "stop": "2026-02-24 04:30:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1025,8 +1045,8 @@
     "start": "2026-02-24 04:30:00 IST",
     "stop": "2026-02-24 05:00:00 IST",
     "channel": "jio-718",
-    "title": "Lokanakali Katha Asali",
-    "subTitle": "A diverse ensemble of witty characters deliver sharp and satirical commentary on current events and various national issues.",
+    "title": "News Point @ 8 PM",
+    "subTitle": "The host provides the latest news and updates on current affairs, politics, socio-economic issues and developments in the country and around the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1035,8 +1055,8 @@
     "start": "2026-02-24 05:00:00 IST",
     "stop": "2026-02-24 05:30:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Desh Bidesh",
+    "subTitle": "The host presents the latest news updates and key developments on pressing matters from various fields across the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1045,8 +1065,8 @@
     "start": "2026-02-24 05:30:00 IST",
     "stop": "2026-02-24 06:00:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Lokanakali Katha Asali",
+    "subTitle": "A diverse ensemble of witty characters deliver sharp and satirical commentary on current events and various national issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1065,18 +1085,28 @@
     "start": "2026-02-24 06:30:00 IST",
     "stop": "2026-02-24 07:00:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ground Zero",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260224013000",
-    "stopRaw": "20260224023000",
+    "stopRaw": "20260224020000",
     "start": "2026-02-24 07:00:00 IST",
-    "stop": "2026-02-24 08:00:00 IST",
+    "stop": "2026-02-24 07:30:00 IST",
     "channel": "jio-718",
     "title": "Sakalara Bada Khabar",
     "subTitle": "The host presents a detailed insight into latest updates pertaining to socio-political issues and current affairs from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224020000",
+    "stopRaw": "20260224023000",
+    "start": "2026-02-24 07:30:00 IST",
+    "stop": "2026-02-24 08:00:00 IST",
+    "channel": "jio-718",
+    "title": "Ama Khela",
+    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the field of sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1095,8 +1125,8 @@
     "start": "2026-02-24 08:30:00 IST",
     "stop": "2026-02-24 09:00:00 IST",
     "channel": "jio-718",
-    "title": "Olta Palta",
-    "subTitle": "The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.",
+    "title": "Non Stop Odisha",
+    "subTitle": "The host presents a nonstop news program covering Odisha featuring breaking stories, politics, culture, economy, and local events from across the state in real time.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1115,8 +1145,8 @@
     "start": "2026-02-24 09:30:00 IST",
     "stop": "2026-02-24 10:00:00 IST",
     "channel": "jio-718",
-    "title": "Bazar Halchal",
-    "subTitle": "The host provides insight into the success stories of people from various walks of life, highlighting their achievements.",
+    "title": "Pala Bhuta Jagichi",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1135,28 +1165,18 @@
     "start": "2026-02-24 10:30:00 IST",
     "stop": "2026-02-24 11:00:00 IST",
     "channel": "jio-718",
-    "title": "Health Conclave 2024",
-    "subTitle": "A panel of esteemed doctors engage in an insightful discussion on various medical issues and diseases at a health conclave.",
+    "title": "Bada Khabar",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260224053000",
-    "stopRaw": "20260224060000",
+    "stopRaw": "20260224063000",
     "start": "2026-02-24 11:00:00 IST",
-    "stop": "2026-02-24 11:30:00 IST",
+    "stop": "2026-02-24 12:00:00 IST",
     "channel": "jio-718",
     "title": "Bartamanar Bada Khabar",
     "subTitle": "The host presents the latest news updates and key developments on pressing matters from various fields across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260224060000",
-    "stopRaw": "20260224063000",
-    "start": "2026-02-24 11:30:00 IST",
-    "stop": "2026-02-24 12:00:00 IST",
-    "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1165,8 +1185,8 @@
     "start": "2026-02-24 12:00:00 IST",
     "stop": "2026-02-24 12:30:00 IST",
     "channel": "jio-718",
-    "title": "Madhyana Khabar",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "Madhyarna Khabar",
+    "subTitle": "The host provides real-time updates and in-depth analysis of current events affecting social, economic and political issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1195,8 +1215,8 @@
     "start": "2026-02-24 13:30:00 IST",
     "stop": "2026-02-24 14:00:00 IST",
     "channel": "jio-718",
-    "title": "Lokanakali Katha Asali",
-    "subTitle": "A diverse ensemble of witty characters deliver sharp and satirical commentary on current events and various national issues.",
+    "title": "Loka Nakali Katha Asali",
+    "subTitle": "Through various sketches and hilarious conversations, characters present the latest issues from all over the world in a satirical manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1205,8 +1225,8 @@
     "start": "2026-02-24 14:00:00 IST",
     "stop": "2026-02-24 14:30:00 IST",
     "channel": "jio-718",
-    "title": "Odisha Dwiprahara",
-    "subTitle": "The host provides a comprehensive report, elucidating on the latest news and developments from various regions across Odisha.",
+    "title": "Khabar Dunia",
+    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1236,7 +1256,7 @@
     "stop": "2026-02-24 16:00:00 IST",
     "channel": "jio-718",
     "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1245,18 +1265,28 @@
     "start": "2026-02-24 16:00:00 IST",
     "stop": "2026-02-24 16:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Dunia",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "Odisha @ 4 PM",
+    "subTitle": "The host presents daily life, news and culture in Odisha, offering a glimpse into the state's afternoon activities and current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260224110000",
-    "stopRaw": "20260224113000",
+    "stopRaw": "20260224111500",
     "start": "2026-02-24 16:30:00 IST",
+    "stop": "2026-02-24 16:45:00 IST",
+    "channel": "jio-718",
+    "title": "AFP",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224111500",
+    "stopRaw": "20260224113000",
+    "start": "2026-02-24 16:45:00 IST",
     "stop": "2026-02-24 17:00:00 IST",
     "channel": "jio-718",
-    "title": "Bhuri Bhojan",
-    "subTitle": "An eminent chef gives insight into various food recipes, demonstrating the process of cooking the dish step by step and shares valuable tips.",
+    "title": "AFP",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1275,7 +1305,7 @@
     "start": "2026-02-24 17:30:00 IST",
     "stop": "2026-02-24 18:00:00 IST",
     "channel": "jio-718",
-    "title": "Ama Odisha",
+    "title": "Khabar Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1295,8 +1325,8 @@
     "start": "2026-02-24 18:30:00 IST",
     "stop": "2026-02-24 19:00:00 IST",
     "channel": "jio-718",
-    "title": "Damdar Khabar",
-    "subTitle": "The host presents a comprehensive and detailed report, elucidating on the latest news and matters of national importance.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1305,7 +1335,7 @@
     "start": "2026-02-24 19:00:00 IST",
     "stop": "2026-02-24 19:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
+    "title": "Ama Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1335,8 +1365,8 @@
     "start": "2026-02-24 20:30:00 IST",
     "stop": "2026-02-24 21:00:00 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Pala Bhuta Jagichi",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1365,8 +1395,8 @@
     "start": "2026-02-24 22:00:00 IST",
     "stop": "2026-02-24 22:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
-    "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "10 PM Live",
+    "subTitle": "The host presents the latest information, advancements and developments on various important issues and events affecting the lives of many individuals, live.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1375,8 +1405,8 @@
     "start": "2026-02-24 22:30:00 IST",
     "stop": "2026-02-24 23:00:00 IST",
     "channel": "jio-718",
-    "title": "Health Conclave 2024",
-    "subTitle": "A panel of esteemed doctors engage in an insightful discussion on various medical issues and diseases at a health conclave.",
+    "title": "Special Report",
+    "subTitle": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1385,7 +1415,7 @@
     "start": "2026-02-24 23:00:00 IST",
     "stop": "2026-02-24 23:30:00 IST",
     "channel": "jio-718",
-    "title": "Khabar Odisha",
+    "title": "Ama Odisha",
     "subTitle": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1395,8 +1425,8 @@
     "start": "2026-02-24 23:30:00 IST",
     "stop": "2026-02-24 23:59:59 IST",
     "channel": "jio-718",
-    "title": "Special Report",
-    "subTitle": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.",
+    "title": "Ama Sahara",
+    "subTitle": "The host interacts with people from various town in the state of Odisha who talk about the problems that they face in their day-to-day life and provides solutions to them.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

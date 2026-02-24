@@ -1,435 +1,5 @@
 [
   {
-    "startRaw": "20260221183000",
-    "stopRaw": "20260221191500",
-    "start": "2026-02-22 00:00:00 IST",
-    "stop": "2026-02-22 00:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Ved Time",
-    "subTitle": "The host offers in-depth analysis of notable literary works from various languages, highlighting their significant aspects.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221191500",
-    "stopRaw": "20260221193000",
-    "start": "2026-02-22 00:45:00 IST",
-    "stop": "2026-02-22 01:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221193000",
-    "stopRaw": "20260221201500",
-    "start": "2026-02-22 01:00:00 IST",
-    "stop": "2026-02-22 01:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News Special",
-    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221201500",
-    "stopRaw": "20260221210000",
-    "start": "2026-02-22 01:45:00 IST",
-    "stop": "2026-02-22 02:30:00 IST",
-    "channel": "jio-2954",
-    "title": "BKB + Feature (ENT)",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221210000",
-    "stopRaw": "20260221214500",
-    "start": "2026-02-22 02:30:00 IST",
-    "stop": "2026-02-22 03:15:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221214500",
-    "stopRaw": "20260221220000",
-    "start": "2026-02-22 03:15:00 IST",
-    "stop": "2026-02-22 03:30:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221220000",
-    "stopRaw": "20260221224500",
-    "start": "2026-02-22 03:30:00 IST",
-    "stop": "2026-02-22 04:15:00 IST",
-    "channel": "jio-2954",
-    "title": "ADAR",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221224500",
-    "stopRaw": "20260221233000",
-    "start": "2026-02-22 04:15:00 IST",
-    "stop": "2026-02-22 05:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221233000",
-    "stopRaw": "20260222001500",
-    "start": "2026-02-22 05:00:00 IST",
-    "stop": "2026-02-22 05:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News Special",
-    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222001500",
-    "stopRaw": "20260222003000",
-    "start": "2026-02-22 05:45:00 IST",
-    "stop": "2026-02-22 06:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222003000",
-    "stopRaw": "20260222011500",
-    "start": "2026-02-22 06:00:00 IST",
-    "stop": "2026-02-22 06:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222011500",
-    "stopRaw": "20260222020000",
-    "start": "2026-02-22 06:45:00 IST",
-    "stop": "2026-02-22 07:30:00 IST",
-    "channel": "jio-2954",
-    "title": "Morning Mantra",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222020000",
-    "stopRaw": "20260222023000",
-    "start": "2026-02-22 07:30:00 IST",
-    "stop": "2026-02-22 08:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222023000",
-    "stopRaw": "20260222031500",
-    "start": "2026-02-22 08:00:00 IST",
-    "stop": "2026-02-22 08:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222031500",
-    "stopRaw": "20260222040000",
-    "start": "2026-02-22 08:45:00 IST",
-    "stop": "2026-02-22 09:30:00 IST",
-    "channel": "jio-2954",
-    "title": "Ved Time",
-    "subTitle": "The host offers in-depth analysis of notable literary works from various languages, highlighting their significant aspects.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222040000",
-    "stopRaw": "20260222041500",
-    "start": "2026-02-22 09:30:00 IST",
-    "stop": "2026-02-22 09:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222041500",
-    "stopRaw": "20260222050000",
-    "start": "2026-02-22 09:45:00 IST",
-    "stop": "2026-02-22 10:30:00 IST",
-    "channel": "jio-2954",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222050000",
-    "stopRaw": "20260222053000",
-    "start": "2026-02-22 10:30:00 IST",
-    "stop": "2026-02-22 11:00:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222053000",
-    "stopRaw": "20260222061500",
-    "start": "2026-02-22 11:00:00 IST",
-    "stop": "2026-02-22 11:45:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222061500",
-    "stopRaw": "20260222063000",
-    "start": "2026-02-22 11:45:00 IST",
-    "stop": "2026-02-22 12:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222063000",
-    "stopRaw": "20260222071500",
-    "start": "2026-02-22 12:00:00 IST",
-    "stop": "2026-02-22 12:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222071500",
-    "stopRaw": "20260222073000",
-    "start": "2026-02-22 12:45:00 IST",
-    "stop": "2026-02-22 13:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222073000",
-    "stopRaw": "20260222081500",
-    "start": "2026-02-22 13:00:00 IST",
-    "stop": "2026-02-22 13:45:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222081500",
-    "stopRaw": "20260222083000",
-    "start": "2026-02-22 13:45:00 IST",
-    "stop": "2026-02-22 14:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222083000",
-    "stopRaw": "20260222091500",
-    "start": "2026-02-22 14:00:00 IST",
-    "stop": "2026-02-22 14:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222091500",
-    "stopRaw": "20260222093000",
-    "start": "2026-02-22 14:45:00 IST",
-    "stop": "2026-02-22 15:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222093000",
-    "stopRaw": "20260222101500",
-    "start": "2026-02-22 15:00:00 IST",
-    "stop": "2026-02-22 15:45:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222101500",
-    "stopRaw": "20260222103000",
-    "start": "2026-02-22 15:45:00 IST",
-    "stop": "2026-02-22 16:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222103000",
-    "stopRaw": "20260222111500",
-    "start": "2026-02-22 16:00:00 IST",
-    "stop": "2026-02-22 16:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222111500",
-    "stopRaw": "20260222113000",
-    "start": "2026-02-22 16:45:00 IST",
-    "stop": "2026-02-22 17:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222113000",
-    "stopRaw": "20260222121500",
-    "start": "2026-02-22 17:00:00 IST",
-    "stop": "2026-02-22 17:45:00 IST",
-    "channel": "jio-2954",
-    "title": "News Special",
-    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222121500",
-    "stopRaw": "20260222130000",
-    "start": "2026-02-22 17:45:00 IST",
-    "stop": "2026-02-22 18:30:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222130000",
-    "stopRaw": "20260222131500",
-    "start": "2026-02-22 18:30:00 IST",
-    "stop": "2026-02-22 18:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222131500",
-    "stopRaw": "20260222140000",
-    "start": "2026-02-22 18:45:00 IST",
-    "stop": "2026-02-22 19:30:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222140000",
-    "stopRaw": "20260222143000",
-    "start": "2026-02-22 19:30:00 IST",
-    "stop": "2026-02-22 20:00:00 IST",
-    "channel": "jio-2954",
-    "title": "BKB",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222143000",
-    "stopRaw": "20260222151500",
-    "start": "2026-02-22 20:00:00 IST",
-    "stop": "2026-02-22 20:45:00 IST",
-    "channel": "jio-2954",
-    "title": "ADAR",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222151500",
-    "stopRaw": "20260222160000",
-    "start": "2026-02-22 20:45:00 IST",
-    "stop": "2026-02-22 21:30:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222160000",
-    "stopRaw": "20260222161500",
-    "start": "2026-02-22 21:30:00 IST",
-    "stop": "2026-02-22 21:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222161500",
-    "stopRaw": "20260222163000",
-    "start": "2026-02-22 21:45:00 IST",
-    "stop": "2026-02-22 22:00:00 IST",
-    "channel": "jio-2954",
-    "title": "FEA",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222163000",
-    "stopRaw": "20260222171500",
-    "start": "2026-02-22 22:00:00 IST",
-    "stop": "2026-02-22 22:45:00 IST",
-    "channel": "jio-2954",
-    "title": "ADAR",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222171500",
-    "stopRaw": "20260222173000",
-    "start": "2026-02-22 22:45:00 IST",
-    "stop": "2026-02-22 23:00:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222173000",
-    "stopRaw": "20260222181500",
-    "start": "2026-02-22 23:00:00 IST",
-    "stop": "2026-02-22 23:45:00 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222181500",
-    "stopRaw": "20260222182959",
-    "start": "2026-02-22 23:45:00 IST",
-    "stop": "2026-02-22 23:59:59 IST",
-    "channel": "jio-2954",
-    "title": "Feature",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260222183000",
     "stopRaw": "20260222191500",
     "start": "2026-02-23 00:00:00 IST",
@@ -1284,6 +854,436 @@
     "stopRaw": "20260224182959",
     "start": "2026-02-24 23:45:00 IST",
     "stop": "2026-02-24 23:59:59 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224183000",
+    "stopRaw": "20260224191500",
+    "start": "2026-02-25 00:00:00 IST",
+    "stop": "2026-02-25 00:45:00 IST",
+    "channel": "jio-2954",
+    "title": "Ved Time",
+    "subTitle": "The host offers in-depth analysis of notable literary works from various languages, highlighting their significant aspects.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224191500",
+    "stopRaw": "20260224193000",
+    "start": "2026-02-25 00:45:00 IST",
+    "stop": "2026-02-25 01:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224193000",
+    "stopRaw": "20260224201500",
+    "start": "2026-02-25 01:00:00 IST",
+    "stop": "2026-02-25 01:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News Special",
+    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224201500",
+    "stopRaw": "20260224210000",
+    "start": "2026-02-25 01:45:00 IST",
+    "stop": "2026-02-25 02:30:00 IST",
+    "channel": "jio-2954",
+    "title": "BKB + Feature (SN)",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224210000",
+    "stopRaw": "20260224214500",
+    "start": "2026-02-25 02:30:00 IST",
+    "stop": "2026-02-25 03:15:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224214500",
+    "stopRaw": "20260224220000",
+    "start": "2026-02-25 03:15:00 IST",
+    "stop": "2026-02-25 03:30:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224220000",
+    "stopRaw": "20260224224500",
+    "start": "2026-02-25 03:30:00 IST",
+    "stop": "2026-02-25 04:15:00 IST",
+    "channel": "jio-2954",
+    "title": "ADAR",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224224500",
+    "stopRaw": "20260224233000",
+    "start": "2026-02-25 04:15:00 IST",
+    "stop": "2026-02-25 05:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224233000",
+    "stopRaw": "20260225001500",
+    "start": "2026-02-25 05:00:00 IST",
+    "stop": "2026-02-25 05:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News Special",
+    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225001500",
+    "stopRaw": "20260225003000",
+    "start": "2026-02-25 05:45:00 IST",
+    "stop": "2026-02-25 06:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225003000",
+    "stopRaw": "20260225011500",
+    "start": "2026-02-25 06:00:00 IST",
+    "stop": "2026-02-25 06:45:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225011500",
+    "stopRaw": "20260225020000",
+    "start": "2026-02-25 06:45:00 IST",
+    "stop": "2026-02-25 07:30:00 IST",
+    "channel": "jio-2954",
+    "title": "Morning Mantra",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225020000",
+    "stopRaw": "20260225023000",
+    "start": "2026-02-25 07:30:00 IST",
+    "stop": "2026-02-25 08:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225023000",
+    "stopRaw": "20260225031500",
+    "start": "2026-02-25 08:00:00 IST",
+    "stop": "2026-02-25 08:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225031500",
+    "stopRaw": "20260225040000",
+    "start": "2026-02-25 08:45:00 IST",
+    "stop": "2026-02-25 09:30:00 IST",
+    "channel": "jio-2954",
+    "title": "Ved Time",
+    "subTitle": "The host offers in-depth analysis of notable literary works from various languages, highlighting their significant aspects.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225040000",
+    "stopRaw": "20260225041500",
+    "start": "2026-02-25 09:30:00 IST",
+    "stop": "2026-02-25 09:45:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225041500",
+    "stopRaw": "20260225050000",
+    "start": "2026-02-25 09:45:00 IST",
+    "stop": "2026-02-25 10:30:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225050000",
+    "stopRaw": "20260225053000",
+    "start": "2026-02-25 10:30:00 IST",
+    "stop": "2026-02-25 11:00:00 IST",
+    "channel": "jio-2954",
+    "title": "FEA",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225053000",
+    "stopRaw": "20260225061500",
+    "start": "2026-02-25 11:00:00 IST",
+    "stop": "2026-02-25 11:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225061500",
+    "stopRaw": "20260225063000",
+    "start": "2026-02-25 11:45:00 IST",
+    "stop": "2026-02-25 12:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225063000",
+    "stopRaw": "20260225071500",
+    "start": "2026-02-25 12:00:00 IST",
+    "stop": "2026-02-25 12:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225071500",
+    "stopRaw": "20260225073000",
+    "start": "2026-02-25 12:45:00 IST",
+    "stop": "2026-02-25 13:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225073000",
+    "stopRaw": "20260225081500",
+    "start": "2026-02-25 13:00:00 IST",
+    "stop": "2026-02-25 13:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225081500",
+    "stopRaw": "20260225083000",
+    "start": "2026-02-25 13:45:00 IST",
+    "stop": "2026-02-25 14:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225083000",
+    "stopRaw": "20260225091500",
+    "start": "2026-02-25 14:00:00 IST",
+    "stop": "2026-02-25 14:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225091500",
+    "stopRaw": "20260225093000",
+    "start": "2026-02-25 14:45:00 IST",
+    "stop": "2026-02-25 15:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225093000",
+    "stopRaw": "20260225101500",
+    "start": "2026-02-25 15:00:00 IST",
+    "stop": "2026-02-25 15:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225101500",
+    "stopRaw": "20260225103000",
+    "start": "2026-02-25 15:45:00 IST",
+    "stop": "2026-02-25 16:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225103000",
+    "stopRaw": "20260225111500",
+    "start": "2026-02-25 16:00:00 IST",
+    "stop": "2026-02-25 16:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News",
+    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225111500",
+    "stopRaw": "20260225113000",
+    "start": "2026-02-25 16:45:00 IST",
+    "stop": "2026-02-25 17:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225113000",
+    "stopRaw": "20260225121500",
+    "start": "2026-02-25 17:00:00 IST",
+    "stop": "2026-02-25 17:45:00 IST",
+    "channel": "jio-2954",
+    "title": "News Special",
+    "subTitle": "The host delivers updates on the regional and national news, highlighting significant developments and current events throughout the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225121500",
+    "stopRaw": "20260225130000",
+    "start": "2026-02-25 17:45:00 IST",
+    "stop": "2026-02-25 18:30:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225130000",
+    "stopRaw": "20260225131500",
+    "start": "2026-02-25 18:30:00 IST",
+    "stop": "2026-02-25 18:45:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225131500",
+    "stopRaw": "20260225140000",
+    "start": "2026-02-25 18:45:00 IST",
+    "stop": "2026-02-25 19:30:00 IST",
+    "channel": "jio-2954",
+    "title": "JKSK",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225140000",
+    "stopRaw": "20260225143000",
+    "start": "2026-02-25 19:30:00 IST",
+    "stop": "2026-02-25 20:00:00 IST",
+    "channel": "jio-2954",
+    "title": "BKB",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225143000",
+    "stopRaw": "20260225151500",
+    "start": "2026-02-25 20:00:00 IST",
+    "stop": "2026-02-25 20:45:00 IST",
+    "channel": "jio-2954",
+    "title": "ADAR",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225151500",
+    "stopRaw": "20260225160000",
+    "start": "2026-02-25 20:45:00 IST",
+    "stop": "2026-02-25 21:30:00 IST",
+    "channel": "jio-2954",
+    "title": "Ved Time",
+    "subTitle": "The host offers in-depth analysis of notable literary works from various languages, highlighting their significant aspects.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225160000",
+    "stopRaw": "20260225161500",
+    "start": "2026-02-25 21:30:00 IST",
+    "stop": "2026-02-25 21:45:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225161500",
+    "stopRaw": "20260225163000",
+    "start": "2026-02-25 21:45:00 IST",
+    "stop": "2026-02-25 22:00:00 IST",
+    "channel": "jio-2954",
+    "title": "FEA",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225163000",
+    "stopRaw": "20260225171500",
+    "start": "2026-02-25 22:00:00 IST",
+    "stop": "2026-02-25 22:45:00 IST",
+    "channel": "jio-2954",
+    "title": "ADAR",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225171500",
+    "stopRaw": "20260225173000",
+    "start": "2026-02-25 22:45:00 IST",
+    "stop": "2026-02-25 23:00:00 IST",
+    "channel": "jio-2954",
+    "title": "Feature",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225173000",
+    "stopRaw": "20260225181500",
+    "start": "2026-02-25 23:00:00 IST",
+    "stop": "2026-02-25 23:45:00 IST",
+    "channel": "jio-2954",
+    "title": "JKSK",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225181500",
+    "stopRaw": "20260225182959",
+    "start": "2026-02-25 23:45:00 IST",
+    "stop": "2026-02-25 23:59:59 IST",
     "channel": "jio-2954",
     "title": "Feature",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",

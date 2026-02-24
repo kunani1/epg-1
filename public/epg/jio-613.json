@@ -1,175 +1,5 @@
 [
   {
-    "startRaw": "20260221183000",
-    "stopRaw": "20260221193000",
-    "start": "2026-02-22 00:00:00 IST",
-    "stop": "2026-02-22 01:00:00 IST",
-    "channel": "jio-613",
-    "title": "Musical Show",
-    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221193000",
-    "stopRaw": "20260221213000",
-    "start": "2026-02-22 01:00:00 IST",
-    "stop": "2026-02-22 03:00:00 IST",
-    "channel": "jio-613",
-    "title": "Prime Time News",
-    "subTitle": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260221213000",
-    "stopRaw": "20260222003000",
-    "start": "2026-02-22 03:00:00 IST",
-    "stop": "2026-02-22 06:00:00 IST",
-    "channel": "jio-613",
-    "title": "Talk Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222003000",
-    "stopRaw": "20260222013000",
-    "start": "2026-02-22 06:00:00 IST",
-    "stop": "2026-02-22 07:00:00 IST",
-    "channel": "jio-613",
-    "title": "Talk Show",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222013000",
-    "stopRaw": "20260222023000",
-    "start": "2026-02-22 07:00:00 IST",
-    "stop": "2026-02-22 08:00:00 IST",
-    "channel": "jio-613",
-    "title": "Breakfast Live",
-    "subTitle": "The host interviews prominent celebrities from various fields to shed light on their personal lives, profession and future projects, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222023000",
-    "stopRaw": "20260222033000",
-    "start": "2026-02-22 08:00:00 IST",
-    "stop": "2026-02-22 09:00:00 IST",
-    "channel": "jio-613",
-    "title": "Live At 8",
-    "subTitle": "The host provides the latest information, advancements and developments on various political, economic and social issues, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222033000",
-    "stopRaw": "20260222043000",
-    "start": "2026-02-22 09:00:00 IST",
-    "stop": "2026-02-22 10:00:00 IST",
-    "channel": "jio-613",
-    "title": "Good Morning Assam",
-    "subTitle": "The host presents the latest social, economic and political news from Assam and provides information on relevant current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222043000",
-    "stopRaw": "20260222053000",
-    "start": "2026-02-22 10:00:00 IST",
-    "stop": "2026-02-22 11:00:00 IST",
-    "channel": "jio-613",
-    "title": "Musical Show",
-    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222053000",
-    "stopRaw": "20260222063000",
-    "start": "2026-02-22 11:00:00 IST",
-    "stop": "2026-02-22 12:00:00 IST",
-    "channel": "jio-613",
-    "title": "Morning Prime Time",
-    "subTitle": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222063000",
-    "stopRaw": "20260222073000",
-    "start": "2026-02-22 12:00:00 IST",
-    "stop": "2026-02-22 13:00:00 IST",
-    "channel": "jio-613",
-    "title": "Mid Day Live",
-    "subTitle": "The host presents the latest news updates and developments pertaining to social, political and economic issues around the nation, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222073000",
-    "stopRaw": "20260222113000",
-    "start": "2026-02-22 13:00:00 IST",
-    "stop": "2026-02-22 17:00:00 IST",
-    "channel": "jio-613",
-    "title": "Assamese Feature Film",
-    "subTitle": "A curated collection of all the latest and most popular Assamese feature films is played back-to-back to enthral the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222113000",
-    "stopRaw": "20260222123000",
-    "start": "2026-02-22 17:00:00 IST",
-    "stop": "2026-02-22 18:00:00 IST",
-    "channel": "jio-613",
-    "title": "Guwahati Live",
-    "subTitle": "This host sheds light on the different facets of the developing city of Guwahati, including the law and order, academics, sports and entertainment, live.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222123000",
-    "stopRaw": "20260222143000",
-    "start": "2026-02-22 18:00:00 IST",
-    "stop": "2026-02-22 20:00:00 IST",
-    "channel": "jio-613",
-    "title": "Prime Time News",
-    "subTitle": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222143000",
-    "stopRaw": "20260222153000",
-    "start": "2026-02-22 20:00:00 IST",
-    "stop": "2026-02-22 21:00:00 IST",
-    "channel": "jio-613",
-    "title": "Musical Show",
-    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222153000",
-    "stopRaw": "20260222163000",
-    "start": "2026-02-22 21:00:00 IST",
-    "stop": "2026-02-22 22:00:00 IST",
-    "channel": "jio-613",
-    "title": "Super Prime time",
-    "subTitle": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222163000",
-    "stopRaw": "20260222173000",
-    "start": "2026-02-22 22:00:00 IST",
-    "stop": "2026-02-22 23:00:00 IST",
-    "channel": "jio-613",
-    "title": "Prime @ 10",
-    "subTitle": "The host provides a report on the latest news regarding politics, socio-economic issues, developments and current affairs in the nation and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260222173000",
-    "stopRaw": "20260222182959",
-    "start": "2026-02-22 23:00:00 IST",
-    "stop": "2026-02-22 23:59:59 IST",
-    "channel": "jio-613",
-    "title": "Musical Show",
-    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260222183000",
     "stopRaw": "20260222193000",
     "start": "2026-02-23 00:00:00 IST",
@@ -544,6 +374,196 @@
     "stopRaw": "20260224182959",
     "start": "2026-02-24 23:00:00 IST",
     "stop": "2026-02-24 23:59:59 IST",
+    "channel": "jio-613",
+    "title": "Musical Show",
+    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224183000",
+    "stopRaw": "20260224193000",
+    "start": "2026-02-25 00:00:00 IST",
+    "stop": "2026-02-25 01:00:00 IST",
+    "channel": "jio-613",
+    "title": "Prasangik",
+    "subTitle": "The host features famous personalities to share their thoughts on crucial national issues, offering insightful discussions and expert opinions on current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224193000",
+    "stopRaw": "20260224213000",
+    "start": "2026-02-25 01:00:00 IST",
+    "stop": "2026-02-25 03:00:00 IST",
+    "channel": "jio-613",
+    "title": "Prime Time News",
+    "subTitle": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224213000",
+    "stopRaw": "20260225003000",
+    "start": "2026-02-25 03:00:00 IST",
+    "stop": "2026-02-25 06:00:00 IST",
+    "channel": "jio-613",
+    "title": "Talk Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225003000",
+    "stopRaw": "20260225013000",
+    "start": "2026-02-25 06:00:00 IST",
+    "stop": "2026-02-25 07:00:00 IST",
+    "channel": "jio-613",
+    "title": "Talk Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225013000",
+    "stopRaw": "20260225023000",
+    "start": "2026-02-25 07:00:00 IST",
+    "stop": "2026-02-25 08:00:00 IST",
+    "channel": "jio-613",
+    "title": "Breakfast Live",
+    "subTitle": "The host interviews prominent celebrities from various fields to shed light on their personal lives, profession and future projects, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225023000",
+    "stopRaw": "20260225033000",
+    "start": "2026-02-25 08:00:00 IST",
+    "stop": "2026-02-25 09:00:00 IST",
+    "channel": "jio-613",
+    "title": "Live At 8",
+    "subTitle": "The host provides the latest information, advancements and developments on various political, economic and social issues, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225033000",
+    "stopRaw": "20260225043000",
+    "start": "2026-02-25 09:00:00 IST",
+    "stop": "2026-02-25 10:00:00 IST",
+    "channel": "jio-613",
+    "title": "Good Morning Assam",
+    "subTitle": "The host presents the latest social, economic and political news from Assam and provides information on relevant current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225043000",
+    "stopRaw": "20260225053000",
+    "start": "2026-02-25 10:00:00 IST",
+    "stop": "2026-02-25 11:00:00 IST",
+    "channel": "jio-613",
+    "title": "Musical Show",
+    "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225053000",
+    "stopRaw": "20260225063000",
+    "start": "2026-02-25 11:00:00 IST",
+    "stop": "2026-02-25 12:00:00 IST",
+    "channel": "jio-613",
+    "title": "Morning Prime Time",
+    "subTitle": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225063000",
+    "stopRaw": "20260225073000",
+    "start": "2026-02-25 12:00:00 IST",
+    "stop": "2026-02-25 13:00:00 IST",
+    "channel": "jio-613",
+    "title": "Mid Day Live",
+    "subTitle": "The host presents the latest news updates and developments pertaining to social, political and economic issues around the nation, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225073000",
+    "stopRaw": "20260225090000",
+    "start": "2026-02-25 13:00:00 IST",
+    "stop": "2026-02-25 14:30:00 IST",
+    "channel": "jio-613",
+    "title": "Assamese Feature Film",
+    "subTitle": "A curated collection of all the latest and most popular Assamese feature films is played back-to-back to enthral the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225090000",
+    "stopRaw": "20260225103000",
+    "start": "2026-02-25 14:30:00 IST",
+    "stop": "2026-02-25 16:00:00 IST",
+    "channel": "jio-613",
+    "title": "Afternoon Prime",
+    "subTitle": "The host presents latest updates, top stories and other developments pertaining to the social, political and economical issues of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225103000",
+    "stopRaw": "20260225113000",
+    "start": "2026-02-25 16:00:00 IST",
+    "stop": "2026-02-25 17:00:00 IST",
+    "channel": "jio-613",
+    "title": "Talk Show",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225113000",
+    "stopRaw": "20260225123000",
+    "start": "2026-02-25 17:00:00 IST",
+    "stop": "2026-02-25 18:00:00 IST",
+    "channel": "jio-613",
+    "title": "Guwahati Live",
+    "subTitle": "This host sheds light on the different facets of the developing city of Guwahati, including the law and order, academics, sports and entertainment, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225123000",
+    "stopRaw": "20260225143000",
+    "start": "2026-02-25 18:00:00 IST",
+    "stop": "2026-02-25 20:00:00 IST",
+    "channel": "jio-613",
+    "title": "Prime Time News",
+    "subTitle": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225143000",
+    "stopRaw": "20260225153000",
+    "start": "2026-02-25 20:00:00 IST",
+    "stop": "2026-02-25 21:00:00 IST",
+    "channel": "jio-613",
+    "title": "Prekhapat",
+    "subTitle": "The host engages in intellectual debates with experts that provides a logical insight into glaring issues that torment the country and its communities.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225153000",
+    "stopRaw": "20260225163000",
+    "start": "2026-02-25 21:00:00 IST",
+    "stop": "2026-02-25 22:00:00 IST",
+    "channel": "jio-613",
+    "title": "Super Prime time",
+    "subTitle": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225163000",
+    "stopRaw": "20260225173000",
+    "start": "2026-02-25 22:00:00 IST",
+    "stop": "2026-02-25 23:00:00 IST",
+    "channel": "jio-613",
+    "title": "Prime @ 10",
+    "subTitle": "The host provides a report on the latest news regarding politics, socio-economic issues, developments and current affairs in the nation and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225173000",
+    "stopRaw": "20260225182959",
+    "start": "2026-02-25 23:00:00 IST",
+    "stop": "2026-02-25 23:59:59 IST",
     "channel": "jio-613",
     "title": "Musical Show",
     "subTitle": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience.",

@@ -1,5 +1,605 @@
 [
   {
+    "startRaw": "20260223183000",
+    "stopRaw": "20260223190000",
+    "start": "2026-02-24 00:00:00 IST",
+    "stop": "2026-02-24 00:30:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223190000",
+    "stopRaw": "20260223193000",
+    "start": "2026-02-24 00:30:00 IST",
+    "stop": "2026-02-24 01:00:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223193000",
+    "stopRaw": "20260223195500",
+    "start": "2026-02-24 01:00:00 IST",
+    "stop": "2026-02-24 01:25:00 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223195500",
+    "stopRaw": "20260223200000",
+    "start": "2026-02-24 01:25:00 IST",
+    "stop": "2026-02-24 01:30:00 IST",
+    "channel": "jio-142",
+    "title": "Tech Now",
+    "subTitle": "Exploring the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space, from AI and robotics, to health, climate, transport, and gaming.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223200000",
+    "stopRaw": "20260223203000",
+    "start": "2026-02-24 01:30:00 IST",
+    "stop": "2026-02-24 02:00:00 IST",
+    "channel": "jio-142",
+    "title": "The Context",
+    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223203000",
+    "stopRaw": "20260223210000",
+    "start": "2026-02-24 02:00:00 IST",
+    "stop": "2026-02-24 02:30:00 IST",
+    "channel": "jio-142",
+    "title": "The Context",
+    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223210000",
+    "stopRaw": "20260223213000",
+    "start": "2026-02-24 02:30:00 IST",
+    "stop": "2026-02-24 03:00:00 IST",
+    "channel": "jio-142",
+    "title": "The Context USA",
+    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223213000",
+    "stopRaw": "20260223215500",
+    "start": "2026-02-24 03:00:00 IST",
+    "stop": "2026-02-24 03:25:00 IST",
+    "channel": "jio-142",
+    "title": "The Context USA",
+    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223215500",
+    "stopRaw": "20260223220000",
+    "start": "2026-02-24 03:25:00 IST",
+    "stop": "2026-02-24 03:30:00 IST",
+    "channel": "jio-142",
+    "title": "Tech Now",
+    "subTitle": "Exploring the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space, from AI and robotics, to health, climate, transport, and gaming.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223220000",
+    "stopRaw": "20260223223000",
+    "start": "2026-02-24 03:30:00 IST",
+    "stop": "2026-02-24 04:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC World News America",
+    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223223000",
+    "stopRaw": "20260223230000",
+    "start": "2026-02-24 04:00:00 IST",
+    "stop": "2026-02-24 04:30:00 IST",
+    "channel": "jio-142",
+    "title": "Newsnight",
+    "subTitle": "Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260223230000",
+    "stopRaw": "20260224000000",
+    "start": "2026-02-24 04:30:00 IST",
+    "stop": "2026-02-24 05:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC World News America",
+    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224000000",
+    "stopRaw": "20260224003000",
+    "start": "2026-02-24 05:30:00 IST",
+    "stop": "2026-02-24 06:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224003000",
+    "stopRaw": "20260224010000",
+    "start": "2026-02-24 06:00:00 IST",
+    "stop": "2026-02-24 06:30:00 IST",
+    "channel": "jio-142",
+    "title": "Newscast",
+    "subTitle": "Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224010000",
+    "stopRaw": "20260224013000",
+    "start": "2026-02-24 06:30:00 IST",
+    "stop": "2026-02-24 07:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224013000",
+    "stopRaw": "20260224020000",
+    "start": "2026-02-24 07:00:00 IST",
+    "stop": "2026-02-24 07:30:00 IST",
+    "channel": "jio-142",
+    "title": "Talking Business",
+    "subTitle": "As the so-called quiet quitting and 'act your wage' craze spreads on social media, encouraging workers to do the bare minimum, Aaron Heslehurst asks why employees are disillusioned and what managers can do about it.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224020000",
+    "stopRaw": "20260224023000",
+    "start": "2026-02-24 07:30:00 IST",
+    "stop": "2026-02-24 08:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224023000",
+    "stopRaw": "20260224024500",
+    "start": "2026-02-24 08:00:00 IST",
+    "stop": "2026-02-24 08:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224024500",
+    "stopRaw": "20260224030000",
+    "start": "2026-02-24 08:15:00 IST",
+    "stop": "2026-02-24 08:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224030000",
+    "stopRaw": "20260224033000",
+    "start": "2026-02-24 08:30:00 IST",
+    "stop": "2026-02-24 09:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224033000",
+    "stopRaw": "20260224034500",
+    "start": "2026-02-24 09:00:00 IST",
+    "stop": "2026-02-24 09:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224034500",
+    "stopRaw": "20260224040000",
+    "start": "2026-02-24 09:15:00 IST",
+    "stop": "2026-02-24 09:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224040000",
+    "stopRaw": "20260224043000",
+    "start": "2026-02-24 09:30:00 IST",
+    "stop": "2026-02-24 10:00:00 IST",
+    "channel": "jio-142",
+    "title": "Newsday",
+    "subTitle": "The latest international news from London and Singapore.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224043000",
+    "stopRaw": "20260224044500",
+    "start": "2026-02-24 10:00:00 IST",
+    "stop": "2026-02-24 10:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224044500",
+    "stopRaw": "20260224050000",
+    "start": "2026-02-24 10:15:00 IST",
+    "stop": "2026-02-24 10:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC Sport",
+    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224050000",
+    "stopRaw": "20260224053000",
+    "start": "2026-02-24 10:30:00 IST",
+    "stop": "2026-02-24 11:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224053000",
+    "stopRaw": "20260224060000",
+    "start": "2026-02-24 11:00:00 IST",
+    "stop": "2026-02-24 11:30:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224060000",
+    "stopRaw": "20260224063000",
+    "start": "2026-02-24 11:30:00 IST",
+    "stop": "2026-02-24 12:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224063000",
+    "stopRaw": "20260224065500",
+    "start": "2026-02-24 12:00:00 IST",
+    "stop": "2026-02-24 12:25:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224065500",
+    "stopRaw": "20260224070000",
+    "start": "2026-02-24 12:25:00 IST",
+    "stop": "2026-02-24 12:30:00 IST",
+    "channel": "jio-142",
+    "title": "Inside Museums",
+    "subTitle": "Join art critic Alastair Sooke as he discovers how museums around the world are changing from grand, intimidating treasuries for objects to something more dynamic and inclusive.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224070000",
+    "stopRaw": "20260224073000",
+    "start": "2026-02-24 12:30:00 IST",
+    "stop": "2026-02-24 13:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224073000",
+    "stopRaw": "20260224075500",
+    "start": "2026-02-24 13:00:00 IST",
+    "stop": "2026-02-24 13:25:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224075500",
+    "stopRaw": "20260224080000",
+    "start": "2026-02-24 13:25:00 IST",
+    "stop": "2026-02-24 13:30:00 IST",
+    "channel": "jio-142",
+    "title": "Inside Museums",
+    "subTitle": "Join art critic Alastair Sooke as he discovers how museums around the world are changing from grand, intimidating treasuries for objects to something more dynamic and inclusive.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224080000",
+    "stopRaw": "20260224083000",
+    "start": "2026-02-24 13:30:00 IST",
+    "stop": "2026-02-24 14:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224083000",
+    "stopRaw": "20260224090000",
+    "start": "2026-02-24 14:00:00 IST",
+    "stop": "2026-02-24 14:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224090000",
+    "stopRaw": "20260224093000",
+    "start": "2026-02-24 14:30:00 IST",
+    "stop": "2026-02-24 15:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224093000",
+    "stopRaw": "20260224095500",
+    "start": "2026-02-24 15:00:00 IST",
+    "stop": "2026-02-24 15:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224095500",
+    "stopRaw": "20260224100000",
+    "start": "2026-02-24 15:25:00 IST",
+    "stop": "2026-02-24 15:30:00 IST",
+    "channel": "jio-142",
+    "title": "Inside Museums",
+    "subTitle": "Join art critic Alastair Sooke as he discovers how museums around the world are changing from grand, intimidating treasuries for objects to something more dynamic and inclusive.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224100000",
+    "stopRaw": "20260224103000",
+    "start": "2026-02-24 15:30:00 IST",
+    "stop": "2026-02-24 16:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224103000",
+    "stopRaw": "20260224110000",
+    "start": "2026-02-24 16:00:00 IST",
+    "stop": "2026-02-24 16:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224110000",
+    "stopRaw": "20260224113000",
+    "start": "2026-02-24 16:30:00 IST",
+    "stop": "2026-02-24 17:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224113000",
+    "stopRaw": "20260224114500",
+    "start": "2026-02-24 17:00:00 IST",
+    "stop": "2026-02-24 17:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224114500",
+    "stopRaw": "20260224115500",
+    "start": "2026-02-24 17:15:00 IST",
+    "stop": "2026-02-24 17:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News",
+    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224115500",
+    "stopRaw": "20260224120000",
+    "start": "2026-02-24 17:25:00 IST",
+    "stop": "2026-02-24 17:30:00 IST",
+    "channel": "jio-142",
+    "title": "Inside Museums",
+    "subTitle": "Join art critic Alastair Sooke as he discovers how museums around the world are changing from grand, intimidating treasuries for objects to something more dynamic and inclusive.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224120000",
+    "stopRaw": "20260224123000",
+    "start": "2026-02-24 17:30:00 IST",
+    "stop": "2026-02-24 18:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224123000",
+    "stopRaw": "20260224130000",
+    "start": "2026-02-24 18:00:00 IST",
+    "stop": "2026-02-24 18:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224130000",
+    "stopRaw": "20260224133000",
+    "start": "2026-02-24 18:30:00 IST",
+    "stop": "2026-02-24 19:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224133000",
+    "stopRaw": "20260224135500",
+    "start": "2026-02-24 19:00:00 IST",
+    "stop": "2026-02-24 19:25:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224135500",
+    "stopRaw": "20260224140000",
+    "start": "2026-02-24 19:25:00 IST",
+    "stop": "2026-02-24 19:30:00 IST",
+    "channel": "jio-142",
+    "title": "Inside Museums",
+    "subTitle": "Join art critic Alastair Sooke as he discovers how museums around the world are changing from grand, intimidating treasuries for objects to something more dynamic and inclusive.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224140000",
+    "stopRaw": "20260224143000",
+    "start": "2026-02-24 19:30:00 IST",
+    "stop": "2026-02-24 20:00:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224143000",
+    "stopRaw": "20260224144500",
+    "start": "2026-02-24 20:00:00 IST",
+    "stop": "2026-02-24 20:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224144500",
+    "stopRaw": "20260224150000",
+    "start": "2026-02-24 20:15:00 IST",
+    "stop": "2026-02-24 20:30:00 IST",
+    "channel": "jio-142",
+    "title": "BBC News Now",
+    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224150000",
+    "stopRaw": "20260224153000",
+    "start": "2026-02-24 20:30:00 IST",
+    "stop": "2026-02-24 21:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224153000",
+    "stopRaw": "20260224160000",
+    "start": "2026-02-24 21:00:00 IST",
+    "stop": "2026-02-24 21:30:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224160000",
+    "stopRaw": "20260224163000",
+    "start": "2026-02-24 21:30:00 IST",
+    "stop": "2026-02-24 22:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224163000",
+    "stopRaw": "20260224164500",
+    "start": "2026-02-24 22:00:00 IST",
+    "stop": "2026-02-24 22:15:00 IST",
+    "channel": "jio-142",
+    "title": "Business Today",
+    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224164500",
+    "stopRaw": "20260224170000",
+    "start": "2026-02-24 22:15:00 IST",
+    "stop": "2026-02-24 22:30:00 IST",
+    "channel": "jio-142",
+    "title": "War in Ukraine: What Happens Next?",
+    "subTitle": "Four years since Russia invaded Ukraine, Lucy Hockings presents a special programme from Kyiv, with reporters on the ground and around the world. She looks at the impact that this devastating conflict has had and assesses where it could be headed.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224170000",
+    "stopRaw": "20260224173000",
+    "start": "2026-02-24 22:30:00 IST",
+    "stop": "2026-02-24 23:00:00 IST",
+    "channel": "jio-142",
+    "title": "Verified Live",
+    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224173000",
+    "stopRaw": "20260224180000",
+    "start": "2026-02-24 23:00:00 IST",
+    "stop": "2026-02-24 23:30:00 IST",
+    "channel": "jio-142",
+    "title": "Focus on Africa",
+    "subTitle": "A presentation of the biggest stories from all over Africa and around the world, led by the BBC team.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260224180000",
+    "stopRaw": "20260224182959",
+    "start": "2026-02-24 23:30:00 IST",
+    "stop": "2026-02-24 23:59:59 IST",
+    "channel": "jio-142",
+    "title": "The World Today with Maryam Moshiri",
+    "subTitle": "The best of the BBC's journalism from around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260224183000",
     "stopRaw": "20260224190000",
     "start": "2026-02-25 00:00:00 IST",
@@ -1114,606 +1714,6 @@
     "stopRaw": "20260226182959",
     "start": "2026-02-26 23:30:00 IST",
     "stop": "2026-02-26 23:59:59 IST",
-    "channel": "jio-142",
-    "title": "The World Today with Maryam Moshiri",
-    "subTitle": "The best of the BBC's journalism from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226183000",
-    "stopRaw": "20260226190000",
-    "start": "2026-02-27 00:00:00 IST",
-    "stop": "2026-02-27 00:30:00 IST",
-    "channel": "jio-142",
-    "title": "The World Today with Maryam Moshiri",
-    "subTitle": "The best of the BBC's journalism from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226190000",
-    "stopRaw": "20260226193000",
-    "start": "2026-02-27 00:30:00 IST",
-    "stop": "2026-02-27 01:00:00 IST",
-    "channel": "jio-142",
-    "title": "The World Today with Maryam Moshiri",
-    "subTitle": "The best of the BBC's journalism from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226193000",
-    "stopRaw": "20260226195500",
-    "start": "2026-02-27 01:00:00 IST",
-    "stop": "2026-02-27 01:25:00 IST",
-    "channel": "jio-142",
-    "title": "The World Today with Maryam Moshiri",
-    "subTitle": "The best of the BBC's journalism from around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226195500",
-    "stopRaw": "20260226200000",
-    "start": "2026-02-27 01:25:00 IST",
-    "stop": "2026-02-27 01:30:00 IST",
-    "channel": "jio-142",
-    "title": "Talking Movies",
-    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226200000",
-    "stopRaw": "20260226203000",
-    "start": "2026-02-27 01:30:00 IST",
-    "stop": "2026-02-27 02:00:00 IST",
-    "channel": "jio-142",
-    "title": "The Context",
-    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226203000",
-    "stopRaw": "20260226210000",
-    "start": "2026-02-27 02:00:00 IST",
-    "stop": "2026-02-27 02:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Context",
-    "subTitle": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226210000",
-    "stopRaw": "20260226213000",
-    "start": "2026-02-27 02:30:00 IST",
-    "stop": "2026-02-27 03:00:00 IST",
-    "channel": "jio-142",
-    "title": "The Context USA",
-    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226213000",
-    "stopRaw": "20260226215500",
-    "start": "2026-02-27 03:00:00 IST",
-    "stop": "2026-02-27 03:25:00 IST",
-    "channel": "jio-142",
-    "title": "The Context USA",
-    "subTitle": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226215500",
-    "stopRaw": "20260226220000",
-    "start": "2026-02-27 03:25:00 IST",
-    "stop": "2026-02-27 03:30:00 IST",
-    "channel": "jio-142",
-    "title": "Talking Movies",
-    "subTitle": "The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226220000",
-    "stopRaw": "20260226223000",
-    "start": "2026-02-27 03:30:00 IST",
-    "stop": "2026-02-27 04:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC World News America",
-    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226223000",
-    "stopRaw": "20260226230000",
-    "start": "2026-02-27 04:00:00 IST",
-    "stop": "2026-02-27 04:30:00 IST",
-    "channel": "jio-142",
-    "title": "Newsnight",
-    "subTitle": "Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260226230000",
-    "stopRaw": "20260227000000",
-    "start": "2026-02-27 04:30:00 IST",
-    "stop": "2026-02-27 05:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC World News America",
-    "subTitle": "An in-depth examination of major international news, events and current affairs with an emphasis on American news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227000000",
-    "stopRaw": "20260227003000",
-    "start": "2026-02-27 05:30:00 IST",
-    "stop": "2026-02-27 06:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227003000",
-    "stopRaw": "20260227010000",
-    "start": "2026-02-27 06:00:00 IST",
-    "stop": "2026-02-27 06:30:00 IST",
-    "channel": "jio-142",
-    "title": "Newscast",
-    "subTitle": "Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227010000",
-    "stopRaw": "20260227013000",
-    "start": "2026-02-27 06:30:00 IST",
-    "stop": "2026-02-27 07:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227013000",
-    "stopRaw": "20260227020000",
-    "start": "2026-02-27 07:00:00 IST",
-    "stop": "2026-02-27 07:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Media Show",
-    "subTitle": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227020000",
-    "stopRaw": "20260227023000",
-    "start": "2026-02-27 07:30:00 IST",
-    "stop": "2026-02-27 08:00:00 IST",
-    "channel": "jio-142",
-    "title": "Newsday",
-    "subTitle": "The latest international news from London and Singapore.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227023000",
-    "stopRaw": "20260227024500",
-    "start": "2026-02-27 08:00:00 IST",
-    "stop": "2026-02-27 08:15:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227024500",
-    "stopRaw": "20260227030000",
-    "start": "2026-02-27 08:15:00 IST",
-    "stop": "2026-02-27 08:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC Sport",
-    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227030000",
-    "stopRaw": "20260227033000",
-    "start": "2026-02-27 08:30:00 IST",
-    "stop": "2026-02-27 09:00:00 IST",
-    "channel": "jio-142",
-    "title": "Newsday",
-    "subTitle": "The latest international news from London and Singapore.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227033000",
-    "stopRaw": "20260227034500",
-    "start": "2026-02-27 09:00:00 IST",
-    "stop": "2026-02-27 09:15:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227034500",
-    "stopRaw": "20260227040000",
-    "start": "2026-02-27 09:15:00 IST",
-    "stop": "2026-02-27 09:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC Sport",
-    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227040000",
-    "stopRaw": "20260227043000",
-    "start": "2026-02-27 09:30:00 IST",
-    "stop": "2026-02-27 10:00:00 IST",
-    "channel": "jio-142",
-    "title": "Newsday",
-    "subTitle": "The latest international news from London and Singapore.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227043000",
-    "stopRaw": "20260227044500",
-    "start": "2026-02-27 10:00:00 IST",
-    "stop": "2026-02-27 10:15:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227044500",
-    "stopRaw": "20260227050000",
-    "start": "2026-02-27 10:15:00 IST",
-    "stop": "2026-02-27 10:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC Sport",
-    "subTitle": "Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227050000",
-    "stopRaw": "20260227053000",
-    "start": "2026-02-27 10:30:00 IST",
-    "stop": "2026-02-27 11:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227053000",
-    "stopRaw": "20260227060000",
-    "start": "2026-02-27 11:00:00 IST",
-    "stop": "2026-02-27 11:30:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227060000",
-    "stopRaw": "20260227063000",
-    "start": "2026-02-27 11:30:00 IST",
-    "stop": "2026-02-27 12:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227063000",
-    "stopRaw": "20260227065500",
-    "start": "2026-02-27 12:00:00 IST",
-    "stop": "2026-02-27 12:25:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227065500",
-    "stopRaw": "20260227070000",
-    "start": "2026-02-27 12:25:00 IST",
-    "stop": "2026-02-27 12:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227070000",
-    "stopRaw": "20260227073000",
-    "start": "2026-02-27 12:30:00 IST",
-    "stop": "2026-02-27 13:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227073000",
-    "stopRaw": "20260227075500",
-    "start": "2026-02-27 13:00:00 IST",
-    "stop": "2026-02-27 13:25:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227075500",
-    "stopRaw": "20260227080000",
-    "start": "2026-02-27 13:25:00 IST",
-    "stop": "2026-02-27 13:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227080000",
-    "stopRaw": "20260227083000",
-    "start": "2026-02-27 13:30:00 IST",
-    "stop": "2026-02-27 14:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227083000",
-    "stopRaw": "20260227090000",
-    "start": "2026-02-27 14:00:00 IST",
-    "stop": "2026-02-27 14:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227090000",
-    "stopRaw": "20260227093000",
-    "start": "2026-02-27 14:30:00 IST",
-    "stop": "2026-02-27 15:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227093000",
-    "stopRaw": "20260227095500",
-    "start": "2026-02-27 15:00:00 IST",
-    "stop": "2026-02-27 15:25:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227095500",
-    "stopRaw": "20260227100000",
-    "start": "2026-02-27 15:25:00 IST",
-    "stop": "2026-02-27 15:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227100000",
-    "stopRaw": "20260227103000",
-    "start": "2026-02-27 15:30:00 IST",
-    "stop": "2026-02-27 16:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227103000",
-    "stopRaw": "20260227110000",
-    "start": "2026-02-27 16:00:00 IST",
-    "stop": "2026-02-27 16:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227110000",
-    "stopRaw": "20260227113000",
-    "start": "2026-02-27 16:30:00 IST",
-    "stop": "2026-02-27 17:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227113000",
-    "stopRaw": "20260227114500",
-    "start": "2026-02-27 17:00:00 IST",
-    "stop": "2026-02-27 17:15:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227114500",
-    "stopRaw": "20260227115500",
-    "start": "2026-02-27 17:15:00 IST",
-    "stop": "2026-02-27 17:25:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News",
-    "subTitle": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227115500",
-    "stopRaw": "20260227120000",
-    "start": "2026-02-27 17:25:00 IST",
-    "stop": "2026-02-27 17:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227120000",
-    "stopRaw": "20260227123000",
-    "start": "2026-02-27 17:30:00 IST",
-    "stop": "2026-02-27 18:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227123000",
-    "stopRaw": "20260227130000",
-    "start": "2026-02-27 18:00:00 IST",
-    "stop": "2026-02-27 18:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227130000",
-    "stopRaw": "20260227133000",
-    "start": "2026-02-27 18:30:00 IST",
-    "stop": "2026-02-27 19:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227133000",
-    "stopRaw": "20260227135500",
-    "start": "2026-02-27 19:00:00 IST",
-    "stop": "2026-02-27 19:25:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227135500",
-    "stopRaw": "20260227140000",
-    "start": "2026-02-27 19:25:00 IST",
-    "stop": "2026-02-27 19:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227140000",
-    "stopRaw": "20260227143000",
-    "start": "2026-02-27 19:30:00 IST",
-    "stop": "2026-02-27 20:00:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227143000",
-    "stopRaw": "20260227144500",
-    "start": "2026-02-27 20:00:00 IST",
-    "stop": "2026-02-27 20:15:00 IST",
-    "channel": "jio-142",
-    "title": "Business Today",
-    "subTitle": "Bringing the latest business news and up to date informed analysis from London and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227144500",
-    "stopRaw": "20260227150000",
-    "start": "2026-02-27 20:15:00 IST",
-    "stop": "2026-02-27 20:30:00 IST",
-    "channel": "jio-142",
-    "title": "BBC News Now",
-    "subTitle": "All the big stories, live as they happen, presented by Lucy Hockings.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227150000",
-    "stopRaw": "20260227153000",
-    "start": "2026-02-27 20:30:00 IST",
-    "stop": "2026-02-27 21:00:00 IST",
-    "channel": "jio-142",
-    "title": "Verified Live",
-    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227153000",
-    "stopRaw": "20260227160000",
-    "start": "2026-02-27 21:00:00 IST",
-    "stop": "2026-02-27 21:30:00 IST",
-    "channel": "jio-142",
-    "title": "Verified Live",
-    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227160000",
-    "stopRaw": "20260227163000",
-    "start": "2026-02-27 21:30:00 IST",
-    "stop": "2026-02-27 22:00:00 IST",
-    "channel": "jio-142",
-    "title": "Verified Live",
-    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227163000",
-    "stopRaw": "20260227165500",
-    "start": "2026-02-27 22:00:00 IST",
-    "stop": "2026-02-27 22:25:00 IST",
-    "channel": "jio-142",
-    "title": "Verified Live",
-    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227165500",
-    "stopRaw": "20260227170000",
-    "start": "2026-02-27 22:25:00 IST",
-    "stop": "2026-02-27 22:30:00 IST",
-    "channel": "jio-142",
-    "title": "The Travel Show",
-    "subTitle": "The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227170000",
-    "stopRaw": "20260227173000",
-    "start": "2026-02-27 22:30:00 IST",
-    "stop": "2026-02-27 23:00:00 IST",
-    "channel": "jio-142",
-    "title": "Verified Live",
-    "subTitle": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227173000",
-    "stopRaw": "20260227180000",
-    "start": "2026-02-27 23:00:00 IST",
-    "stop": "2026-02-27 23:30:00 IST",
-    "channel": "jio-142",
-    "title": "Focus on Africa",
-    "subTitle": "A presentation of the biggest stories from all over Africa and around the world, led by the BBC team.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260227180000",
-    "stopRaw": "20260227182959",
-    "start": "2026-02-27 23:30:00 IST",
-    "stop": "2026-02-27 23:59:59 IST",
     "channel": "jio-142",
     "title": "The World Today with Maryam Moshiri",
     "subTitle": "The best of the BBC's journalism from around the world.",

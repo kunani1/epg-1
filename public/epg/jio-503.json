@@ -1,5 +1,505 @@
 [
   {
+    "startRaw": "20260225183000",
+    "stopRaw": "20260225190000",
+    "start": "2026-02-26 00:00:00 IST",
+    "stop": "2026-02-26 00:30:00 IST",
+    "channel": "jio-503",
+    "title": "Chhattisgarh Ki Baat",
+    "subTitle": "The host invites various experts and holds an insightful discussion on the political, social and economic issues of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225190000",
+    "stopRaw": "20260225193000",
+    "start": "2026-02-26 00:30:00 IST",
+    "stop": "2026-02-26 01:00:00 IST",
+    "channel": "jio-503",
+    "title": "Madhya Pradesh Ki Baat",
+    "subTitle": "The host presents the latest updates, developments and current events on several important issues in the state of Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225193000",
+    "stopRaw": "20260225200000",
+    "start": "2026-02-26 01:00:00 IST",
+    "stop": "2026-02-26 01:30:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225200000",
+    "stopRaw": "20260225203000",
+    "start": "2026-02-26 01:30:00 IST",
+    "stop": "2026-02-26 02:00:00 IST",
+    "channel": "jio-503",
+    "title": "Panchayati",
+    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225203000",
+    "stopRaw": "20260225210000",
+    "start": "2026-02-26 02:00:00 IST",
+    "stop": "2026-02-26 02:30:00 IST",
+    "channel": "jio-503",
+    "title": "Dharohar",
+    "subTitle": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225210000",
+    "stopRaw": "20260225213000",
+    "start": "2026-02-26 02:30:00 IST",
+    "stop": "2026-02-26 03:00:00 IST",
+    "channel": "jio-503",
+    "title": "Citylight",
+    "subTitle": "The host presents the day's major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225213000",
+    "stopRaw": "20260225220000",
+    "start": "2026-02-26 03:00:00 IST",
+    "stop": "2026-02-26 03:30:00 IST",
+    "channel": "jio-503",
+    "title": "Chhattisgarh Aaj",
+    "subTitle": "The host presents some of the most important and latest social, economic and political news stories and developments from Chattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225220000",
+    "stopRaw": "20260225223000",
+    "start": "2026-02-26 03:30:00 IST",
+    "stop": "2026-02-26 04:00:00 IST",
+    "channel": "jio-503",
+    "title": "Mera Madhyapradesh",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225223000",
+    "stopRaw": "20260225230000",
+    "start": "2026-02-26 04:00:00 IST",
+    "stop": "2026-02-26 04:30:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225230000",
+    "stopRaw": "20260225233000",
+    "start": "2026-02-26 04:30:00 IST",
+    "stop": "2026-02-26 05:00:00 IST",
+    "channel": "jio-503",
+    "title": "Panchayati",
+    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260225233000",
+    "stopRaw": "20260226000000",
+    "start": "2026-02-26 05:00:00 IST",
+    "stop": "2026-02-26 05:30:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226000000",
+    "stopRaw": "20260226003000",
+    "start": "2026-02-26 05:30:00 IST",
+    "stop": "2026-02-26 06:00:00 IST",
+    "channel": "jio-503",
+    "title": "Arpan",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226003000",
+    "stopRaw": "20260226010000",
+    "start": "2026-02-26 06:00:00 IST",
+    "stop": "2026-02-26 06:30:00 IST",
+    "channel": "jio-503",
+    "title": "Arpan",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226010000",
+    "stopRaw": "20260226011500",
+    "start": "2026-02-26 06:30:00 IST",
+    "stop": "2026-02-26 06:45:00 IST",
+    "channel": "jio-503",
+    "title": "Salasar Balaji Arti",
+    "subTitle": "Priests offer 'aarti' to the deity of Lord Balaji amid sacred chants and worship him, at the Salasar Balaji temple in Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226011500",
+    "stopRaw": "20260226013000",
+    "start": "2026-02-26 06:45:00 IST",
+    "stop": "2026-02-26 07:00:00 IST",
+    "channel": "jio-503",
+    "title": "Shubharambh",
+    "subTitle": "The host presents a roundup of the latest social, political and economic news updates and developments from the nation and around the world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226013000",
+    "stopRaw": "20260226020000",
+    "start": "2026-02-26 07:00:00 IST",
+    "stop": "2026-02-26 07:30:00 IST",
+    "channel": "jio-503",
+    "title": "7 Ki Badi Baat",
+    "subTitle": "The host presents all the latest news stories, updates and major developments pertaining to the current affairs of the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226020000",
+    "stopRaw": "20260226023000",
+    "start": "2026-02-26 07:30:00 IST",
+    "stop": "2026-02-26 08:00:00 IST",
+    "channel": "jio-503",
+    "title": "Hamer Bani Hamer Goth",
+    "subTitle": "The host collates and presents some of the most important news updates and current affairs from the Indian state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226023000",
+    "stopRaw": "20260226030000",
+    "start": "2026-02-26 08:00:00 IST",
+    "stop": "2026-02-26 08:30:00 IST",
+    "channel": "jio-503",
+    "title": "Good Morning Madhyapradesh",
+    "subTitle": "The host presents the latest updates, developments and current events on several important issues in the state of Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226030000",
+    "stopRaw": "20260226033000",
+    "start": "2026-02-26 08:30:00 IST",
+    "stop": "2026-02-26 09:00:00 IST",
+    "channel": "jio-503",
+    "title": "Good Morning Chhatisgarh",
+    "subTitle": "The host presents the latest social, economic and political news from Chhattisgarh and provides information on relevant current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226033000",
+    "stopRaw": "20260226040000",
+    "start": "2026-02-26 09:00:00 IST",
+    "stop": "2026-02-26 09:30:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226040000",
+    "stopRaw": "20260226043000",
+    "start": "2026-02-26 09:30:00 IST",
+    "stop": "2026-02-26 10:00:00 IST",
+    "channel": "jio-503",
+    "title": "Ram Kahani",
+    "subTitle": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226043000",
+    "stopRaw": "20260226050000",
+    "start": "2026-02-26 10:00:00 IST",
+    "stop": "2026-02-26 10:30:00 IST",
+    "channel": "jio-503",
+    "title": "Khabar 10 Baje",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226050000",
+    "stopRaw": "20260226053000",
+    "start": "2026-02-26 10:30:00 IST",
+    "stop": "2026-02-26 11:00:00 IST",
+    "channel": "jio-503",
+    "title": "EV To EVM",
+    "subTitle": "The host travels across the city before elections to interact with citizens about their challenges and problems to gain insights.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226053000",
+    "stopRaw": "20260226060000",
+    "start": "2026-02-26 11:00:00 IST",
+    "stop": "2026-02-26 11:30:00 IST",
+    "channel": "jio-503",
+    "title": "City 11",
+    "subTitle": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226060000",
+    "stopRaw": "20260226063000",
+    "start": "2026-02-26 11:30:00 IST",
+    "stop": "2026-02-26 12:00:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226063000",
+    "stopRaw": "20260226070000",
+    "start": "2026-02-26 12:00:00 IST",
+    "stop": "2026-02-26 12:30:00 IST",
+    "channel": "jio-503",
+    "title": "Afternoon Roundup",
+    "subTitle": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226070000",
+    "stopRaw": "20260226073000",
+    "start": "2026-02-26 12:30:00 IST",
+    "stop": "2026-02-26 13:00:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226073000",
+    "stopRaw": "20260226080000",
+    "start": "2026-02-26 13:00:00 IST",
+    "stop": "2026-02-26 13:30:00 IST",
+    "channel": "jio-503",
+    "title": "Khabar Dopahar",
+    "subTitle": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226080000",
+    "stopRaw": "20260226083000",
+    "start": "2026-02-26 13:30:00 IST",
+    "stop": "2026-02-26 14:00:00 IST",
+    "channel": "jio-503",
+    "title": "Afternoon Debate",
+    "subTitle": "The host engages in discussion with a panel of experts from different fields to share their views on important topics that concern society.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226083000",
+    "stopRaw": "20260226090000",
+    "start": "2026-02-26 14:00:00 IST",
+    "stop": "2026-02-26 14:30:00 IST",
+    "channel": "jio-503",
+    "title": "Khabar Dopahar",
+    "subTitle": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226090000",
+    "stopRaw": "20260226093000",
+    "start": "2026-02-26 14:30:00 IST",
+    "stop": "2026-02-26 15:00:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226093000",
+    "stopRaw": "20260226100000",
+    "start": "2026-02-26 15:00:00 IST",
+    "stop": "2026-02-26 15:30:00 IST",
+    "channel": "jio-503",
+    "title": "City @ 3 PM",
+    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226100000",
+    "stopRaw": "20260226103000",
+    "start": "2026-02-26 15:30:00 IST",
+    "stop": "2026-02-26 16:00:00 IST",
+    "channel": "jio-503",
+    "title": "Arpan",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226103000",
+    "stopRaw": "20260226110000",
+    "start": "2026-02-26 16:00:00 IST",
+    "stop": "2026-02-26 16:30:00 IST",
+    "channel": "jio-503",
+    "title": "Mera Madhyapradesh",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226110000",
+    "stopRaw": "20260226113000",
+    "start": "2026-02-26 16:30:00 IST",
+    "stop": "2026-02-26 17:00:00 IST",
+    "channel": "jio-503",
+    "title": "Chhattisgarh Abhi",
+    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across the state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226113000",
+    "stopRaw": "20260226120000",
+    "start": "2026-02-26 17:00:00 IST",
+    "stop": "2026-02-26 17:30:00 IST",
+    "channel": "jio-503",
+    "title": "5 Anchor 25 Khaberen",
+    "subTitle": "The hosts present the top 25 news stories and significant developments from various fields that impact people around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226120000",
+    "stopRaw": "20260226123000",
+    "start": "2026-02-26 17:30:00 IST",
+    "stop": "2026-02-26 18:00:00 IST",
+    "channel": "jio-503",
+    "title": "Fast 50",
+    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226123000",
+    "stopRaw": "20260226125500",
+    "start": "2026-02-26 18:00:00 IST",
+    "stop": "2026-02-26 18:25:00 IST",
+    "channel": "jio-503",
+    "title": "Panchayati",
+    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226125500",
+    "stopRaw": "20260226130000",
+    "start": "2026-02-26 18:25:00 IST",
+    "stop": "2026-02-26 18:30:00 IST",
+    "channel": "jio-503",
+    "title": "Salasar Balaji Arti",
+    "subTitle": "Priests offer 'aarti' to the deity of Lord Balaji amid sacred chants and worship him, at the Salasar Balaji temple in Rajasthan.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226130000",
+    "stopRaw": "20260226133000",
+    "start": "2026-02-26 18:30:00 IST",
+    "stop": "2026-02-26 19:00:00 IST",
+    "channel": "jio-503",
+    "title": "Dharohar",
+    "subTitle": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226133000",
+    "stopRaw": "20260226140000",
+    "start": "2026-02-26 19:00:00 IST",
+    "stop": "2026-02-26 19:30:00 IST",
+    "channel": "jio-503",
+    "title": "Madhyapradesh @ 24 Min",
+    "subTitle": "The host sheds light on the various news updates and development related to social, political, economic and cultural topics.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226140000",
+    "stopRaw": "20260226143000",
+    "start": "2026-02-26 19:30:00 IST",
+    "stop": "2026-02-26 20:00:00 IST",
+    "channel": "jio-503",
+    "title": "Hamer Bani Hamer Goth",
+    "subTitle": "The host collates and presents some of the most important news updates and current affairs from the Indian state of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226143000",
+    "stopRaw": "20260226150000",
+    "start": "2026-02-26 20:00:00 IST",
+    "stop": "2026-02-26 20:30:00 IST",
+    "channel": "jio-503",
+    "title": "Chhattisgarh Ki Baat",
+    "subTitle": "The host invites various experts and holds an insightful discussion on the political, social and economic issues of Chhattisgarh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226150000",
+    "stopRaw": "20260226153000",
+    "start": "2026-02-26 20:30:00 IST",
+    "stop": "2026-02-26 21:00:00 IST",
+    "channel": "jio-503",
+    "title": "Face To Face Madhya Pradesh",
+    "subTitle": "The host leads intense political debates, discussing critical issues with expert panellsts offering various perspectives on regional affairs and their broader implications.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226153000",
+    "stopRaw": "20260226160000",
+    "start": "2026-02-26 21:00:00 IST",
+    "stop": "2026-02-26 21:30:00 IST",
+    "channel": "jio-503",
+    "title": "Sarkar",
+    "subTitle": "The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226160000",
+    "stopRaw": "20260226163000",
+    "start": "2026-02-26 21:30:00 IST",
+    "stop": "2026-02-26 22:00:00 IST",
+    "channel": "jio-503",
+    "title": "Ram Kahani",
+    "subTitle": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226163000",
+    "stopRaw": "20260226170000",
+    "start": "2026-02-26 22:00:00 IST",
+    "stop": "2026-02-26 22:30:00 IST",
+    "channel": "jio-503",
+    "title": "10 Baje Raat Pure Din Ki Baat",
+    "subTitle": "The host sheds on the news updates and developments of the day pertaining to politics, social issues, the economy, sports and more.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226170000",
+    "stopRaw": "20260226173000",
+    "start": "2026-02-26 22:30:00 IST",
+    "stop": "2026-02-26 23:00:00 IST",
+    "channel": "jio-503",
+    "title": "Fast100",
+    "subTitle": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226173000",
+    "stopRaw": "20260226180000",
+    "start": "2026-02-26 23:00:00 IST",
+    "stop": "2026-02-26 23:30:00 IST",
+    "channel": "jio-503",
+    "title": "Citylight",
+    "subTitle": "The host presents the day's major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260226180000",
+    "stopRaw": "20260226182959",
+    "start": "2026-02-26 23:30:00 IST",
+    "stop": "2026-02-26 23:59:59 IST",
+    "channel": "jio-503",
+    "title": "News Roundup",
+    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260226183000",
     "stopRaw": "20260226190000",
     "start": "2026-02-27 00:00:00 IST",
@@ -874,496 +1374,6 @@
     "stopRaw": "20260228182959",
     "start": "2026-02-28 23:30:00 IST",
     "stop": "2026-02-28 23:59:59 IST",
-    "channel": "jio-503",
-    "title": "News Roundup",
-    "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228183000",
-    "stopRaw": "20260228190000",
-    "start": "2026-03-01 00:00:00 IST",
-    "stop": "2026-03-01 00:30:00 IST",
-    "channel": "jio-503",
-    "title": "Chhattisgarh Ki Baat",
-    "subTitle": "The host invites various experts and holds an insightful discussion on the political, social and economic issues of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228190000",
-    "stopRaw": "20260228193000",
-    "start": "2026-03-01 00:30:00 IST",
-    "stop": "2026-03-01 01:00:00 IST",
-    "channel": "jio-503",
-    "title": "Madhya Pradesh Ki Baat",
-    "subTitle": "The host presents the latest updates, developments and current events on several important issues in the state of Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228193000",
-    "stopRaw": "20260228200000",
-    "start": "2026-03-01 01:00:00 IST",
-    "stop": "2026-03-01 01:30:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228200000",
-    "stopRaw": "20260228203000",
-    "start": "2026-03-01 01:30:00 IST",
-    "stop": "2026-03-01 02:00:00 IST",
-    "channel": "jio-503",
-    "title": "Panchayati",
-    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228203000",
-    "stopRaw": "20260228210000",
-    "start": "2026-03-01 02:00:00 IST",
-    "stop": "2026-03-01 02:30:00 IST",
-    "channel": "jio-503",
-    "title": "Dharohar",
-    "subTitle": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228210000",
-    "stopRaw": "20260228213000",
-    "start": "2026-03-01 02:30:00 IST",
-    "stop": "2026-03-01 03:00:00 IST",
-    "channel": "jio-503",
-    "title": "Citylight",
-    "subTitle": "The host presents the day's major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228213000",
-    "stopRaw": "20260228220000",
-    "start": "2026-03-01 03:00:00 IST",
-    "stop": "2026-03-01 03:30:00 IST",
-    "channel": "jio-503",
-    "title": "Chhattisgarh Aaj",
-    "subTitle": "The host presents some of the most important and latest social, economic and political news stories and developments from Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228220000",
-    "stopRaw": "20260228223000",
-    "start": "2026-03-01 03:30:00 IST",
-    "stop": "2026-03-01 04:00:00 IST",
-    "channel": "jio-503",
-    "title": "Mera Madhyapradesh",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228223000",
-    "stopRaw": "20260228230000",
-    "start": "2026-03-01 04:00:00 IST",
-    "stop": "2026-03-01 04:30:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228230000",
-    "stopRaw": "20260228233000",
-    "start": "2026-03-01 04:30:00 IST",
-    "stop": "2026-03-01 05:00:00 IST",
-    "channel": "jio-503",
-    "title": "Panchayati",
-    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260228233000",
-    "stopRaw": "20260301000000",
-    "start": "2026-03-01 05:00:00 IST",
-    "stop": "2026-03-01 05:30:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301000000",
-    "stopRaw": "20260301003000",
-    "start": "2026-03-01 05:30:00 IST",
-    "stop": "2026-03-01 06:00:00 IST",
-    "channel": "jio-503",
-    "title": "CG Ke Rang",
-    "subTitle": "The host invites various singers and musical artists who showcase their talents by performing a series of melodious songs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301003000",
-    "stopRaw": "20260301010000",
-    "start": "2026-03-01 06:00:00 IST",
-    "stop": "2026-03-01 06:30:00 IST",
-    "channel": "jio-503",
-    "title": "Arpan",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301010000",
-    "stopRaw": "20260301011500",
-    "start": "2026-03-01 06:30:00 IST",
-    "stop": "2026-03-01 06:45:00 IST",
-    "channel": "jio-503",
-    "title": "Salasar Balaji Arti",
-    "subTitle": "Priests offer 'aarti' to the deity of Lord Balaji amid sacred chants and worship him, at the Salasar Balaji temple in Rajasthan.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301011500",
-    "stopRaw": "20260301013000",
-    "start": "2026-03-01 06:45:00 IST",
-    "stop": "2026-03-01 07:00:00 IST",
-    "channel": "jio-503",
-    "title": "Shubharambh",
-    "subTitle": "The host presents a roundup of the latest social, political and economic news updates and developments from the nation and around the world.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301013000",
-    "stopRaw": "20260301020000",
-    "start": "2026-03-01 07:00:00 IST",
-    "stop": "2026-03-01 07:30:00 IST",
-    "channel": "jio-503",
-    "title": "7 Ki Badi Baat",
-    "subTitle": "The host presents all the latest news stories, updates and major developments pertaining to the current affairs of the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301020000",
-    "stopRaw": "20260301023000",
-    "start": "2026-03-01 07:30:00 IST",
-    "stop": "2026-03-01 08:00:00 IST",
-    "channel": "jio-503",
-    "title": "Hamer Bani Hamer Goth",
-    "subTitle": "The host collates and presents some of the most important news updates and current affairs from the Indian state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301023000",
-    "stopRaw": "20260301030000",
-    "start": "2026-03-01 08:00:00 IST",
-    "stop": "2026-03-01 08:30:00 IST",
-    "channel": "jio-503",
-    "title": "Good Morning Madhyapradesh",
-    "subTitle": "The host presents the latest updates, developments and current events on several important issues in the state of Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301030000",
-    "stopRaw": "20260301033000",
-    "start": "2026-03-01 08:30:00 IST",
-    "stop": "2026-03-01 09:00:00 IST",
-    "channel": "jio-503",
-    "title": "Good Morning Chhatisgarh",
-    "subTitle": "The host presents the latest social, economic and political news from Chhattisgarh and provides information on relevant current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301033000",
-    "stopRaw": "20260301040000",
-    "start": "2026-03-01 09:00:00 IST",
-    "stop": "2026-03-01 09:30:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301040000",
-    "stopRaw": "20260301043000",
-    "start": "2026-03-01 09:30:00 IST",
-    "stop": "2026-03-01 10:00:00 IST",
-    "channel": "jio-503",
-    "title": "Ram Kahani",
-    "subTitle": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301043000",
-    "stopRaw": "20260301050000",
-    "start": "2026-03-01 10:00:00 IST",
-    "stop": "2026-03-01 10:30:00 IST",
-    "channel": "jio-503",
-    "title": "Khabar 10 Baje",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301050000",
-    "stopRaw": "20260301053000",
-    "start": "2026-03-01 10:30:00 IST",
-    "stop": "2026-03-01 11:00:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301053000",
-    "stopRaw": "20260301060000",
-    "start": "2026-03-01 11:00:00 IST",
-    "stop": "2026-03-01 11:30:00 IST",
-    "channel": "jio-503",
-    "title": "City 11",
-    "subTitle": "The host delivers the latest national news updates and developments pertaining to politics, economy and sociocultural affairs.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301060000",
-    "stopRaw": "20260301063000",
-    "start": "2026-03-01 11:30:00 IST",
-    "stop": "2026-03-01 12:00:00 IST",
-    "channel": "jio-503",
-    "title": "News",
-    "subTitle": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301063000",
-    "stopRaw": "20260301070000",
-    "start": "2026-03-01 12:00:00 IST",
-    "stop": "2026-03-01 12:30:00 IST",
-    "channel": "jio-503",
-    "title": "Afternoon Roundup",
-    "subTitle": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301070000",
-    "stopRaw": "20260301073000",
-    "start": "2026-03-01 12:30:00 IST",
-    "stop": "2026-03-01 13:00:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301073000",
-    "stopRaw": "20260301080000",
-    "start": "2026-03-01 13:00:00 IST",
-    "stop": "2026-03-01 13:30:00 IST",
-    "channel": "jio-503",
-    "title": "Khabar Dopahar",
-    "subTitle": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301080000",
-    "stopRaw": "20260301083000",
-    "start": "2026-03-01 13:30:00 IST",
-    "stop": "2026-03-01 14:00:00 IST",
-    "channel": "jio-503",
-    "title": "Afternoon Debate",
-    "subTitle": "The host engages in discussion with a panel of experts from different fields to share their views on important topics that concern society.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301083000",
-    "stopRaw": "20260301090000",
-    "start": "2026-03-01 14:00:00 IST",
-    "stop": "2026-03-01 14:30:00 IST",
-    "channel": "jio-503",
-    "title": "Khabar Dopahar",
-    "subTitle": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301090000",
-    "stopRaw": "20260301093000",
-    "start": "2026-03-01 14:30:00 IST",
-    "stop": "2026-03-01 15:00:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301093000",
-    "stopRaw": "20260301103000",
-    "start": "2026-03-01 15:00:00 IST",
-    "stop": "2026-03-01 16:00:00 IST",
-    "channel": "jio-503",
-    "title": "City @ 3 PM",
-    "subTitle": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301103000",
-    "stopRaw": "20260301110000",
-    "start": "2026-03-01 16:00:00 IST",
-    "stop": "2026-03-01 16:30:00 IST",
-    "channel": "jio-503",
-    "title": "Mera Madhyapradesh",
-    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301110000",
-    "stopRaw": "20260301113000",
-    "start": "2026-03-01 16:30:00 IST",
-    "stop": "2026-03-01 17:00:00 IST",
-    "channel": "jio-503",
-    "title": "Chhattisgarh Abhi",
-    "subTitle": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across the state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301113000",
-    "stopRaw": "20260301120000",
-    "start": "2026-03-01 17:00:00 IST",
-    "stop": "2026-03-01 17:30:00 IST",
-    "channel": "jio-503",
-    "title": "5 Anchor 25 Khaberen",
-    "subTitle": "The hosts present the top 25 news stories and significant developments from various fields that impact people around the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301120000",
-    "stopRaw": "20260301123000",
-    "start": "2026-03-01 17:30:00 IST",
-    "stop": "2026-03-01 18:00:00 IST",
-    "channel": "jio-503",
-    "title": "Fast 50",
-    "subTitle": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301123000",
-    "stopRaw": "20260301125500",
-    "start": "2026-03-01 18:00:00 IST",
-    "stop": "2026-03-01 18:25:00 IST",
-    "channel": "jio-503",
-    "title": "Panchayati",
-    "subTitle": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301125500",
-    "stopRaw": "20260301130000",
-    "start": "2026-03-01 18:25:00 IST",
-    "stop": "2026-03-01 18:30:00 IST",
-    "channel": "jio-503",
-    "title": "Salasar Balaji Arti",
-    "subTitle": "Priests offer 'aarti' to the deity of Lord Balaji amid sacred chants and worship him, at the Salasar Balaji temple in Rajasthan.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301130000",
-    "stopRaw": "20260301133000",
-    "start": "2026-03-01 18:30:00 IST",
-    "stop": "2026-03-01 19:00:00 IST",
-    "channel": "jio-503",
-    "title": "Dharohar",
-    "subTitle": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301133000",
-    "stopRaw": "20260301140000",
-    "start": "2026-03-01 19:00:00 IST",
-    "stop": "2026-03-01 19:30:00 IST",
-    "channel": "jio-503",
-    "title": "Madhyapradesh @ 24 Min",
-    "subTitle": "The host sheds light on the various news updates and development related to social, political, economic and cultural topics.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301140000",
-    "stopRaw": "20260301143000",
-    "start": "2026-03-01 19:30:00 IST",
-    "stop": "2026-03-01 20:00:00 IST",
-    "channel": "jio-503",
-    "title": "Hamer Bani Hamer Goth",
-    "subTitle": "The host collates and presents some of the most important news updates and current affairs from the Indian state of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301143000",
-    "stopRaw": "20260301150000",
-    "start": "2026-03-01 20:00:00 IST",
-    "stop": "2026-03-01 20:30:00 IST",
-    "channel": "jio-503",
-    "title": "Chhattisgarh Ki Baat",
-    "subTitle": "The host invites various experts and holds an insightful discussion on the political, social and economic issues of Chhattisgarh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301150000",
-    "stopRaw": "20260301153000",
-    "start": "2026-03-01 20:30:00 IST",
-    "stop": "2026-03-01 21:00:00 IST",
-    "channel": "jio-503",
-    "title": "Face To Face Madhya Pradesh",
-    "subTitle": "The host leads intense political debates, discussing critical issues with expert panellsts offering various perspectives on regional affairs and their broader implications.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301153000",
-    "stopRaw": "20260301160000",
-    "start": "2026-03-01 21:00:00 IST",
-    "stop": "2026-03-01 21:30:00 IST",
-    "channel": "jio-503",
-    "title": "Sarkar",
-    "subTitle": "The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301160000",
-    "stopRaw": "20260301163000",
-    "start": "2026-03-01 21:30:00 IST",
-    "stop": "2026-03-01 22:00:00 IST",
-    "channel": "jio-503",
-    "title": "Ram Kahani",
-    "subTitle": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301163000",
-    "stopRaw": "20260301170000",
-    "start": "2026-03-01 22:00:00 IST",
-    "stop": "2026-03-01 22:30:00 IST",
-    "channel": "jio-503",
-    "title": "10 Baje Raat Pure Din Ki Baat",
-    "subTitle": "The host sheds on the news updates and developments of the day pertaining to politics, social issues, the economy, sports and more.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301170000",
-    "stopRaw": "20260301173000",
-    "start": "2026-03-01 22:30:00 IST",
-    "stop": "2026-03-01 23:00:00 IST",
-    "channel": "jio-503",
-    "title": "Fast100",
-    "subTitle": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from across the nation.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301173000",
-    "stopRaw": "20260301180000",
-    "start": "2026-03-01 23:00:00 IST",
-    "stop": "2026-03-01 23:30:00 IST",
-    "channel": "jio-503",
-    "title": "Citylight",
-    "subTitle": "The host presents the day's major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301180000",
-    "stopRaw": "20260301182959",
-    "start": "2026-03-01 23:30:00 IST",
-    "stop": "2026-03-01 23:59:59 IST",
     "channel": "jio-503",
     "title": "News Roundup",
     "subTitle": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",

@@ -805,8 +805,8 @@
     "start": "2026-03-01 06:30:00 IST",
     "stop": "2026-03-01 07:00:00 IST",
     "channel": "jio-632",
-    "title": "Comedy Corner",
-    "subTitle": "Bringing the best in television.",
+    "title": "Screen Play",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from various film industries.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -875,8 +875,8 @@
     "start": "2026-03-01 10:00:00 IST",
     "stop": "2026-03-01 10:30:00 IST",
     "channel": "jio-632",
-    "title": "News Express / Sakshi News",
-    "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "title": "News Express / Morning Prime Time",
+    "subTitle": "News Express / Morning Prime Time",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -885,28 +885,268 @@
     "start": "2026-03-01 10:30:00 IST",
     "stop": "2026-03-01 11:00:00 IST",
     "channel": "jio-632",
-    "title": "Crime Report",
-    "subTitle": "The host presents the latest crime stories from across the country, offering updates on ongoing criminal cases and providing insights into police investigations and developments.",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260301053000",
-    "stopRaw": "20260301173000",
+    "stopRaw": "20260301060000",
     "start": "2026-03-01 11:00:00 IST",
-    "stop": "2026-03-01 23:00:00 IST",
+    "stop": "2026-03-01 11:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Morning Prime Time",
+    "subTitle": "News Express / Morning Prime Time",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301060000",
+    "stopRaw": "20260301063000",
+    "start": "2026-03-01 11:30:00 IST",
+    "stop": "2026-03-01 12:00:00 IST",
+    "channel": "jio-632",
+    "title": "Political Corridor",
+    "subTitle": "The host provides a detailed report featuring the latest updates, top news stories and key developments surrounding the world of politics.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301063000",
+    "stopRaw": "20260301071500",
+    "start": "2026-03-01 12:00:00 IST",
+    "stop": "2026-03-01 12:45:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Mid Day News",
+    "subTitle": "The host provides an insight into the latest news headlines and key developments across a range of topics; the host presents the day's news and major updates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301071500",
+    "stopRaw": "20260301073000",
+    "start": "2026-03-01 12:45:00 IST",
+    "stop": "2026-03-01 13:00:00 IST",
+    "channel": "jio-632",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301073000",
+    "stopRaw": "20260301080000",
+    "start": "2026-03-01 13:00:00 IST",
+    "stop": "2026-03-01 13:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Mid Day News",
+    "subTitle": "The host provides an insight into the latest news headlines and key developments across a range of topics; the host presents the day's news and major updates.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301080000",
+    "stopRaw": "20260301083000",
+    "start": "2026-03-01 13:30:00 IST",
+    "stop": "2026-03-01 14:00:00 IST",
+    "channel": "jio-632",
+    "title": "Screen Play",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from various film industries.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301083000",
+    "stopRaw": "20260301090000",
+    "start": "2026-03-01 14:00:00 IST",
+    "stop": "2026-03-01 14:30:00 IST",
     "channel": "jio-632",
     "title": "News Express / Sakshi News",
     "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260301173000",
-    "stopRaw": "20260301182959",
-    "start": "2026-03-01 23:00:00 IST",
-    "stop": "2026-03-01 23:59:59 IST",
+    "startRaw": "20260301090000",
+    "stopRaw": "20260301093000",
+    "start": "2026-03-01 14:30:00 IST",
+    "stop": "2026-03-01 15:00:00 IST",
+    "channel": "jio-632",
+    "title": "Commercial",
+    "subTitle": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301093000",
+    "stopRaw": "20260301100000",
+    "start": "2026-03-01 15:00:00 IST",
+    "stop": "2026-03-01 15:30:00 IST",
     "channel": "jio-632",
     "title": "News Express / Sakshi News",
     "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301100000",
+    "stopRaw": "20260301103000",
+    "start": "2026-03-01 15:30:00 IST",
+    "stop": "2026-03-01 16:00:00 IST",
+    "channel": "jio-632",
+    "title": "Spl Edition",
+    "subTitle": "The host presents a detailed report on various social, economic and political issues, highlighting recent developments and current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301103000",
+    "stopRaw": "20260301110000",
+    "start": "2026-03-01 16:00:00 IST",
+    "stop": "2026-03-01 16:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Sakshi News",
+    "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301110000",
+    "stopRaw": "20260301113000",
+    "start": "2026-03-01 16:30:00 IST",
+    "stop": "2026-03-01 17:00:00 IST",
+    "channel": "jio-632",
+    "title": "Spl Edition",
+    "subTitle": "The host presents a detailed report on various social, economic and political issues, highlighting recent developments and current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301113000",
+    "stopRaw": "20260301120000",
+    "start": "2026-03-01 17:00:00 IST",
+    "stop": "2026-03-01 17:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Sakshi News",
+    "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301120000",
+    "stopRaw": "20260301123000",
+    "start": "2026-03-01 17:30:00 IST",
+    "stop": "2026-03-01 18:00:00 IST",
+    "channel": "jio-632",
+    "title": "Spl Edition",
+    "subTitle": "The host presents a detailed report on various social, economic and political issues, highlighting recent developments and current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301123000",
+    "stopRaw": "20260301130000",
+    "start": "2026-03-01 18:00:00 IST",
+    "stop": "2026-03-01 18:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Sakshi News",
+    "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301130000",
+    "stopRaw": "20260301133000",
+    "start": "2026-03-01 18:30:00 IST",
+    "stop": "2026-03-01 19:00:00 IST",
+    "channel": "jio-632",
+    "title": "Spl Edition",
+    "subTitle": "The host presents a detailed report on various social, economic and political issues, highlighting recent developments and current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301133000",
+    "stopRaw": "20260301140000",
+    "start": "2026-03-01 19:00:00 IST",
+    "stop": "2026-03-01 19:30:00 IST",
+    "channel": "jio-632",
+    "title": "News Express / Sakshi News",
+    "subTitle": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301140000",
+    "stopRaw": "20260301143000",
+    "start": "2026-03-01 19:30:00 IST",
+    "stop": "2026-03-01 20:00:00 IST",
+    "channel": "jio-632",
+    "title": "Spl Edition",
+    "subTitle": "The host presents a detailed report on various social, economic and political issues, highlighting recent developments and current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301143000",
+    "stopRaw": "20260301150000",
+    "start": "2026-03-01 20:00:00 IST",
+    "stop": "2026-03-01 20:30:00 IST",
+    "channel": "jio-632",
+    "title": "Prime Time Edition",
+    "subTitle": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301150000",
+    "stopRaw": "20260301153000",
+    "start": "2026-03-01 20:30:00 IST",
+    "stop": "2026-03-01 21:00:00 IST",
+    "channel": "jio-632",
+    "title": "Garam Garam Vartalu",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301153000",
+    "stopRaw": "20260301160000",
+    "start": "2026-03-01 21:00:00 IST",
+    "stop": "2026-03-01 21:30:00 IST",
+    "channel": "jio-632",
+    "title": "Non Stop News",
+    "subTitle": "The host sheds light on the latest news updates while discussing the national development from various spheres including politics, business and social issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301160000",
+    "stopRaw": "20260301163000",
+    "start": "2026-03-01 21:30:00 IST",
+    "stop": "2026-03-01 22:00:00 IST",
+    "channel": "jio-632",
+    "title": "Film Nagar",
+    "subTitle": "The host provides an in-depth account of the most recent and popular news updates and events involving renowned filming locations.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301163000",
+    "stopRaw": "20260301170000",
+    "start": "2026-03-01 22:00:00 IST",
+    "stop": "2026-03-01 22:30:00 IST",
+    "channel": "jio-632",
+    "title": "Metro News",
+    "subTitle": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301170000",
+    "stopRaw": "20260301173000",
+    "start": "2026-03-01 22:30:00 IST",
+    "stop": "2026-03-01 23:00:00 IST",
+    "channel": "jio-632",
+    "title": "Screen Play",
+    "subTitle": "The host presents a comprehensive and detailed coverage of the latest news and developments from various film industries.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301173000",
+    "stopRaw": "20260301180000",
+    "start": "2026-03-01 23:00:00 IST",
+    "stop": "2026-03-01 23:30:00 IST",
+    "channel": "jio-632",
+    "title": "Late Night Edition",
+    "subTitle": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301180000",
+    "stopRaw": "20260301182959",
+    "start": "2026-03-01 23:30:00 IST",
+    "stop": "2026-03-01 23:59:59 IST",
+    "channel": "jio-632",
+    "title": "Special News For Hearing Impaired",
+    "subTitle": "The host presents the latest news on governance, social, economic, and political issues from around the world, effectively communicating them in sign language to ensure inclusivity and accessibility.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

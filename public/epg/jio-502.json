@@ -961,11 +961,21 @@
   },
   {
     "startRaw": "20260301033400",
-    "stopRaw": "20260301043400",
+    "stopRaw": "20260301035500",
     "start": "2026-03-01 09:04:00 IST",
+    "stop": "2026-03-01 09:25:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301035500",
+    "stopRaw": "20260301043400",
+    "start": "2026-03-01 09:25:00 IST",
     "stop": "2026-03-01 10:04:00 IST",
     "channel": "jio-502",
-    "title": "Shubh Samachar",
+    "title": "GNT Special",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -975,8 +985,8 @@
     "start": "2026-03-01 10:04:00 IST",
     "stop": "2026-03-01 10:34:00 IST",
     "channel": "jio-502",
-    "title": "Good Luck Special",
-    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "title": "Kismat Connection",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -991,42 +1001,52 @@
   },
   {
     "startRaw": "20260301053400",
-    "stopRaw": "20260301060400",
-    "start": "2026-03-01 11:04:00 IST",
-    "stop": "2026-03-01 11:34:00 IST",
-    "channel": "jio-502",
-    "title": "GNT Express",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301060400",
     "stopRaw": "20260301063400",
-    "start": "2026-03-01 11:34:00 IST",
+    "start": "2026-03-01 11:04:00 IST",
     "stop": "2026-03-01 12:04:00 IST",
     "channel": "jio-502",
-    "title": "GNT Special",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260301063400",
-    "stopRaw": "20260301073400",
+    "stopRaw": "20260301065800",
     "start": "2026-03-01 12:04:00 IST",
-    "stop": "2026-03-01 13:04:00 IST",
+    "stop": "2026-03-01 12:28:00 IST",
     "channel": "jio-502",
-    "title": "Lunch Time",
-    "subTitle": "The hosts present some of the latest news updates and developments pertaining to various social, political and economic issues.",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260301073400",
-    "stopRaw": "20260301075800",
-    "start": "2026-03-01 13:04:00 IST",
-    "stop": "2026-03-01 13:28:00 IST",
+    "startRaw": "20260301065800",
+    "stopRaw": "20260301073500",
+    "start": "2026-03-01 12:28:00 IST",
+    "stop": "2026-03-01 13:05:00 IST",
+    "channel": "jio-502",
+    "title": "Good Luck Special",
+    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301073500",
+    "stopRaw": "20260301074500",
+    "start": "2026-03-01 13:05:00 IST",
+    "stop": "2026-03-01 13:15:00 IST",
     "channel": "jio-502",
     "title": "GNT Express",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301074500",
+    "stopRaw": "20260301075800",
+    "start": "2026-03-01 13:15:00 IST",
+    "stop": "2026-03-01 13:28:00 IST",
+    "channel": "jio-502",
+    "title": "Advt",
+    "subTitle": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1041,12 +1061,22 @@
   },
   {
     "startRaw": "20260301093400",
-    "stopRaw": "20260301100400",
+    "stopRaw": "20260301094500",
     "start": "2026-03-01 15:04:00 IST",
-    "stop": "2026-03-01 15:34:00 IST",
+    "stop": "2026-03-01 15:15:00 IST",
     "channel": "jio-502",
     "title": "GNT Express",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301094500",
+    "stopRaw": "20260301100400",
+    "start": "2026-03-01 15:15:00 IST",
+    "stop": "2026-03-01 15:34:00 IST",
+    "channel": "jio-502",
+    "title": "Advt",
+    "subTitle": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1061,51 +1091,61 @@
   },
   {
     "startRaw": "20260301103400",
-    "stopRaw": "20260301113400",
+    "stopRaw": "20260301110400",
     "start": "2026-03-01 16:04:00 IST",
-    "stop": "2026-03-01 17:04:00 IST",
-    "channel": "jio-502",
-    "title": "Ye Hui Na Baat",
-    "subTitle": "The host converses with individuals from the world of politics, business, entertainment and more to discuss topics and issues of significance.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301113400",
-    "stopRaw": "20260301123400",
-    "start": "2026-03-01 17:04:00 IST",
-    "stop": "2026-03-01 18:04:00 IST",
-    "channel": "jio-502",
-    "title": "Chai Par Charcha",
-    "subTitle": "The host invites experts from different walks of life to discuss important news stories, major developments and critical updates from across the country.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260301123400",
-    "stopRaw": "20260301125700",
-    "start": "2026-03-01 18:04:00 IST",
-    "stop": "2026-03-01 18:27:00 IST",
+    "stop": "2026-03-01 16:34:00 IST",
     "channel": "jio-502",
     "title": "GNT Special",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260301125700",
-    "stopRaw": "20260301132000",
-    "start": "2026-03-01 18:27:00 IST",
-    "stop": "2026-03-01 18:50:00 IST",
+    "startRaw": "20260301110400",
+    "stopRaw": "20260301113400",
+    "start": "2026-03-01 16:34:00 IST",
+    "stop": "2026-03-01 17:04:00 IST",
     "channel": "jio-502",
     "title": "GNT Express",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260301132000",
+    "startRaw": "20260301113400",
+    "stopRaw": "20260301120400",
+    "start": "2026-03-01 17:04:00 IST",
+    "stop": "2026-03-01 17:34:00 IST",
+    "channel": "jio-502",
+    "title": "Bande Me Hai Dum",
+    "subTitle": "Bringing the best in television.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301120400",
+    "stopRaw": "20260301123400",
+    "start": "2026-03-01 17:34:00 IST",
+    "stop": "2026-03-01 18:04:00 IST",
+    "channel": "jio-502",
+    "title": "GNT Express",
+    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301123400",
+    "stopRaw": "20260301130400",
+    "start": "2026-03-01 18:04:00 IST",
+    "stop": "2026-03-01 18:34:00 IST",
+    "channel": "jio-502",
+    "title": "Good Reporter",
+    "subTitle": "The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain from around the country.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260301130400",
     "stopRaw": "20260301133400",
-    "start": "2026-03-01 18:50:00 IST",
+    "start": "2026-03-01 18:34:00 IST",
     "stop": "2026-03-01 19:04:00 IST",
     "channel": "jio-502",
-    "title": "Good News",
+    "title": "GNT Express",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1115,8 +1155,8 @@
     "start": "2026-03-01 19:04:00 IST",
     "stop": "2026-03-01 19:34:00 IST",
     "channel": "jio-502",
-    "title": "7 Baje 7 Sawal",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Fact Check",
+    "subTitle": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1131,22 +1171,22 @@
   },
   {
     "startRaw": "20260301143400",
-    "stopRaw": "20260301150000",
+    "stopRaw": "20260301150400",
     "start": "2026-03-01 20:04:00 IST",
-    "stop": "2026-03-01 20:30:00 IST",
+    "stop": "2026-03-01 20:34:00 IST",
     "channel": "jio-502",
     "title": "Achchi Khabar Sachchi Khabar",
     "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260301150000",
+    "startRaw": "20260301150400",
     "stopRaw": "20260301153000",
-    "start": "2026-03-01 20:30:00 IST",
+    "start": "2026-03-01 20:34:00 IST",
     "stop": "2026-03-01 21:00:00 IST",
     "channel": "jio-502",
-    "title": "Good Luck Special",
-    "subTitle": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+    "title": "Kismat Connection",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1155,7 +1195,7 @@
     "start": "2026-03-01 21:00:00 IST",
     "stop": "2026-03-01 22:04:00 IST",
     "channel": "jio-502",
-    "title": "News Path",
+    "title": "News Path Weekend Special",
     "subTitle": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -1165,8 +1205,8 @@
     "start": "2026-03-01 22:04:00 IST",
     "stop": "2026-03-01 22:34:00 IST",
     "channel": "jio-502",
-    "title": "Shubh Mangal Sawdhan",
-    "subTitle": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+    "title": "Rankshetra",
+    "subTitle": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

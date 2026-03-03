@@ -291,18 +291,18 @@
   },
   {
     "startRaw": "20260304010000",
-    "stopRaw": "20260304013000",
+    "stopRaw": "20260304012600",
     "start": "2026-03-04 06:30:00 IST",
-    "stop": "2026-03-04 07:00:00 IST",
+    "stop": "2026-03-04 06:56:00 IST",
     "channel": "jio-1363",
     "title": "Just Chill",
     "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260304013000",
+    "startRaw": "20260304012600",
     "stopRaw": "20260304033000",
-    "start": "2026-03-04 07:00:00 IST",
+    "start": "2026-03-04 06:56:00 IST",
     "stop": "2026-03-04 09:00:00 IST",
     "channel": "jio-1363",
     "title": "Mogudu",
@@ -335,8 +335,8 @@
     "start": "2026-03-04 14:30:00 IST",
     "stop": "2026-03-04 15:00:00 IST",
     "channel": "jio-1363",
-    "title": "Zee Cinemalu HD",
-    "subTitle": "Zee Cinemalu HD",
+    "title": "Jayammu Nischayammu Raa With Jagapathi Babu",
+    "subTitle": "The host engages in a candid conversation with popular celebrities from the Telugu entertainment industry and discusses their personal and professional life in a detailed manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -351,22 +351,42 @@
   },
   {
     "startRaw": "20260304123000",
-    "stopRaw": "20260304153000",
+    "stopRaw": "20260304152000",
     "start": "2026-03-04 18:00:00 IST",
-    "stop": "2026-03-04 21:00:00 IST",
+    "stop": "2026-03-04 20:50:00 IST",
     "channel": "jio-1363",
     "title": "Rang De",
     "subTitle": "Arjun, a spoilt young man, is jealous of his neighbour, Anu, as she gets doted on by everyone around him. He finds out that she wishes to move abroad for higher education and decides to ruin her plan.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
+    "startRaw": "20260304152000",
+    "stopRaw": "20260304153000",
+    "start": "2026-03-04 20:50:00 IST",
+    "stop": "2026-03-04 21:00:00 IST",
+    "channel": "jio-1363",
+    "title": "Zee Cinemalu HD",
+    "subTitle": "Zee Cinemalu HD",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
     "startRaw": "20260304153000",
-    "stopRaw": "20260304182959",
+    "stopRaw": "20260304182000",
     "start": "2026-03-04 21:00:00 IST",
-    "stop": "2026-03-04 23:59:59 IST",
+    "stop": "2026-03-04 23:50:00 IST",
     "channel": "jio-1363",
     "title": "Bro",
     "subTitle": "An arrogant young man meets his end in a fatal car accident and meets the god of time. While the god grants him three months to set his life in order, the man realises the error of his previous ways.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260304182000",
+    "stopRaw": "20260304182959",
+    "start": "2026-03-04 23:50:00 IST",
+    "stop": "2026-03-04 23:59:59 IST",
+    "channel": "jio-1363",
+    "title": "Zee Cinemalu HD",
+    "subTitle": "Zee Cinemalu HD",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -1171,18 +1171,18 @@
   },
   {
     "startRaw": "20260304040000",
-    "stopRaw": "20260304044500",
+    "stopRaw": "20260304050000",
     "start": "2026-03-04 09:30:00 IST",
-    "stop": "2026-03-04 10:15:00 IST",
+    "stop": "2026-03-04 10:30:00 IST",
     "channel": "jio-559",
     "title": "Omi No.1",
     "subTitle": "Omi No.1",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"
   },
   {
-    "startRaw": "20260304044500",
+    "startRaw": "20260304050000",
     "stopRaw": "20260304053000",
-    "start": "2026-03-04 10:15:00 IST",
+    "start": "2026-03-04 10:30:00 IST",
     "stop": "2026-03-04 11:00:00 IST",
     "channel": "jio-559",
     "title": "Omi No.1",
@@ -1191,13 +1191,43 @@
   },
   {
     "startRaw": "20260304053000",
-    "stopRaw": "20260304090000",
+    "stopRaw": "20260304063000",
     "start": "2026-03-04 11:00:00 IST",
+    "stop": "2026-03-04 12:00:00 IST",
+    "channel": "jio-559",
+    "title": "Mahashaitaan Pretpuraan",
+    "subTitle": "Mahashaitaan Pretpuraan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"
+  },
+  {
+    "startRaw": "20260304063000",
+    "stopRaw": "20260304070000",
+    "start": "2026-03-04 12:00:00 IST",
+    "stop": "2026-03-04 12:30:00 IST",
+    "channel": "jio-559",
+    "title": "Mahashaitaan Pretpuraan",
+    "subTitle": "Mahashaitaan Pretpuraan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"
+  },
+  {
+    "startRaw": "20260304070000",
+    "stopRaw": "20260304080000",
+    "start": "2026-03-04 12:30:00 IST",
+    "stop": "2026-03-04 13:30:00 IST",
+    "channel": "jio-559",
+    "title": "Mahashaitaan Pretpuraan",
+    "subTitle": "Mahashaitaan Pretpuraan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"
+  },
+  {
+    "startRaw": "20260304080000",
+    "stopRaw": "20260304090000",
+    "start": "2026-03-04 13:30:00 IST",
     "stop": "2026-03-04 14:30:00 IST",
     "channel": "jio-559",
-    "title": "Omi No.1",
-    "subTitle": "Omi No.1",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"
+    "title": "Little Singham - Kaal Ka Mahajaal",
+    "subTitle": "When a formidable monster tries to take over Mirchi Nagar with his demon army, Little Singham must confront him to save the city and its people.",
+    "image": "http://ttpl.tmsimg.com/assets/p28593688_b_h8_aa.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260304090000",
@@ -1205,29 +1235,19 @@
     "start": "2026-03-04 14:30:00 IST",
     "stop": "2026-03-04 15:00:00 IST",
     "channel": "jio-559",
-    "title": "Grizzy and the Lemmings",
-    "subTitle": "Grizzly, a bear, lives in the forest ranger's house every time he leaves and considers it as his own. However, things change when a tribe of lemmings moves into the same house.",
-    "image": "http://ttpl.tmsimg.com/assets/p13330553_b_h10_cj.jpg?lock=1280x720"
+    "title": "Little Singham aur Kathachor Ki Daastan",
+    "subTitle": "Little Singham aur Kathachor Ki Daastan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"
   },
   {
     "startRaw": "20260304093000",
-    "stopRaw": "20260304100000",
-    "start": "2026-03-04 15:00:00 IST",
-    "stop": "2026-03-04 15:30:00 IST",
-    "channel": "jio-559",
-    "title": "Grizzy and the Lemmings",
-    "subTitle": "Grizzly, a bear, lives in the forest ranger's house every time he leaves and considers it as his own. However, things change when a tribe of lemmings moves into the same house.",
-    "image": "http://ttpl.tmsimg.com/assets/p13330553_b_h10_cj.jpg?lock=1280x720"
-  },
-  {
-    "startRaw": "20260304100000",
     "stopRaw": "20260304103000",
-    "start": "2026-03-04 15:30:00 IST",
+    "start": "2026-03-04 15:00:00 IST",
     "stop": "2026-03-04 16:00:00 IST",
     "channel": "jio-559",
-    "title": "Grizzy and the Lemmings",
-    "subTitle": "Grizzly, a bear, lives in the forest ranger's house every time he leaves and considers it as his own. However, things change when a tribe of lemmings moves into the same house.",
-    "image": "http://ttpl.tmsimg.com/assets/p13330553_b_h10_cj.jpg?lock=1280x720"
+    "title": "Ls:Kaal Ki Shatir Chaal",
+    "subTitle": "Kaal Rakshas, the powerful demon, returns to Earth planning to turn people into greedy and angry beings. It is up to Little Singham to stop him and save everyone.",
+    "image": "http://ttpl.tmsimg.com/assets/p28596714_b_h8_aa.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260304103000",
@@ -1255,19 +1275,99 @@
     "start": "2026-03-04 17:00:00 IST",
     "stop": "2026-03-04 17:30:00 IST",
     "channel": "jio-559",
+    "title": "Grizzy and The Lemmings: World Tour",
+    "subTitle": "Grizzy and the Lemmings embark on an exciting adventure across the world, while causing chaos in each other's lives on their tour.",
+    "image": "http://ttpl.tmsimg.com/assets/p27298735_b_h10_ab.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304120000",
+    "stopRaw": "20260304123000",
+    "start": "2026-03-04 17:30:00 IST",
+    "stop": "2026-03-04 18:00:00 IST",
+    "channel": "jio-559",
     "title": "Grizzy and the Lemmings",
     "subTitle": "Grizzly, a bear, lives in the forest ranger's house every time he leaves and considers it as his own. However, things change when a tribe of lemmings moves into the same house.",
     "image": "http://ttpl.tmsimg.com/assets/p13330553_b_h10_cj.jpg?lock=1280x720"
   },
   {
-    "startRaw": "20260304120000",
-    "stopRaw": "20260304170000",
-    "start": "2026-03-04 17:30:00 IST",
-    "stop": "2026-03-04 22:30:00 IST",
+    "startRaw": "20260304123000",
+    "stopRaw": "20260304130000",
+    "start": "2026-03-04 18:00:00 IST",
+    "stop": "2026-03-04 18:30:00 IST",
+    "channel": "jio-559",
+    "title": "Grizzy and the Lemmings",
+    "subTitle": "Grizzly, a bear, lives in the forest ranger's house every time he leaves and considers it as his own. However, things change when a tribe of lemmings moves into the same house.",
+    "image": "http://ttpl.tmsimg.com/assets/p13330553_b_h10_cj.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304130000",
+    "stopRaw": "20260304131500",
+    "start": "2026-03-04 18:30:00 IST",
+    "stop": "2026-03-04 18:45:00 IST",
+    "channel": "jio-559",
+    "title": "Grizzy and The Lemmings: World Tour",
+    "subTitle": "Grizzy and the Lemmings embark on an exciting adventure across the world, while causing chaos in each other's lives on their tour.",
+    "image": "http://ttpl.tmsimg.com/assets/p27298735_b_h10_ab.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304131500",
+    "stopRaw": "20260304141500",
+    "start": "2026-03-04 18:45:00 IST",
+    "stop": "2026-03-04 19:45:00 IST",
     "channel": "jio-559",
     "title": "Omi No.1",
     "subTitle": "Omi No.1",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"
+  },
+  {
+    "startRaw": "20260304141500",
+    "stopRaw": "20260304150000",
+    "start": "2026-03-04 19:45:00 IST",
+    "stop": "2026-03-04 20:30:00 IST",
+    "channel": "jio-559",
+    "title": "Omi No.1",
+    "subTitle": "Omi No.1",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"
+  },
+  {
+    "startRaw": "20260304150000",
+    "stopRaw": "20260304153000",
+    "start": "2026-03-04 20:30:00 IST",
+    "stop": "2026-03-04 21:00:00 IST",
+    "channel": "jio-559",
+    "title": "Mighty Little Bheem",
+    "subTitle": "Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.",
+    "image": "http://ttpl.tmsimg.com/assets/p16715588_b_h8_ah.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304153000",
+    "stopRaw": "20260304160000",
+    "start": "2026-03-04 21:00:00 IST",
+    "stop": "2026-03-04 21:30:00 IST",
+    "channel": "jio-559",
+    "title": "Mighty Little Bheem",
+    "subTitle": "Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.",
+    "image": "http://ttpl.tmsimg.com/assets/p16715588_b_h8_ah.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304160000",
+    "stopRaw": "20260304163000",
+    "start": "2026-03-04 21:30:00 IST",
+    "stop": "2026-03-04 22:00:00 IST",
+    "channel": "jio-559",
+    "title": "Mighty Little Bheem",
+    "subTitle": "Bheem endeavours on a heartfelt quest to pick a flower for his mom in the forest. However, Bheem's simple mission takes a dangerous turn when a famished lion sets its sights on him.",
+    "image": "http://ttpl.tmsimg.com/assets/p16715588_b_h8_ah.jpg?lock=1280x720"
+  },
+  {
+    "startRaw": "20260304163000",
+    "stopRaw": "20260304170000",
+    "start": "2026-03-04 22:00:00 IST",
+    "stop": "2026-03-04 22:30:00 IST",
+    "channel": "jio-559",
+    "title": "Mighty Little Bheem",
+    "subTitle": "Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.",
+    "image": "http://ttpl.tmsimg.com/assets/p16715588_b_h8_ah.jpg?lock=1280x720"
   },
   {
     "startRaw": "20260304170000",

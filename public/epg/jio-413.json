@@ -391,22 +391,12 @@
   },
   {
     "startRaw": "20260305003000",
-    "stopRaw": "20260305010000",
-    "start": "2026-03-05 06:00:00 IST",
-    "stop": "2026-03-05 06:30:00 IST",
-    "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260305010000",
     "stopRaw": "20260305013000",
-    "start": "2026-03-05 06:30:00 IST",
+    "start": "2026-03-05 06:00:00 IST",
     "stop": "2026-03-05 07:00:00 IST",
     "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "title": "Zee Cinemalu",
+    "subTitle": "Zee Cinemalu",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -441,12 +431,22 @@
   },
   {
     "startRaw": "20260305093000",
-    "stopRaw": "20260305123000",
+    "stopRaw": "20260305121700",
     "start": "2026-03-05 15:00:00 IST",
+    "stop": "2026-03-05 17:47:00 IST",
+    "channel": "jio-413",
+    "title": "Baladoor",
+    "subTitle": "Chanti, a young man, is raised by his uncle Rama Krishna and loves him dearly. However, when his uncle's nefarious enemy threatens his life, Chanti decides to put an end to his tyranny.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260305121700",
+    "stopRaw": "20260305123000",
+    "start": "2026-03-05 17:47:00 IST",
     "stop": "2026-03-05 18:00:00 IST",
     "channel": "jio-413",
-    "title": "Baladur",
-    "subTitle": "Chanti, devoted to his uncle Ramakrishna, is expelled from the family due to misunderstandings but continues to protect them from adversaries in secret.",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -461,22 +461,22 @@
   },
   {
     "startRaw": "20260305153000",
-    "stopRaw": "20260305170000",
+    "stopRaw": "20260305181700",
     "start": "2026-03-05 21:00:00 IST",
-    "stop": "2026-03-05 22:30:00 IST",
+    "stop": "2026-03-05 23:47:00 IST",
     "channel": "jio-413",
     "title": "Raahu",
     "subTitle": "A young woman with a rare disorder decides to get married to her beau, despite her father's disapproval due to his belief in astrology.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260305170000",
+    "startRaw": "20260305181700",
     "stopRaw": "20260305182959",
-    "start": "2026-03-05 22:30:00 IST",
+    "start": "2026-03-05 23:47:00 IST",
     "stop": "2026-03-05 23:59:59 IST",
     "channel": "jio-413",
-    "title": "Kanam",
-    "subTitle": "Kanam is a 2018 Telugu horror thriller movie starring Sai Pallavi, Naga Shourya, Veronika Arora, Gandhari Nithin and Santhana Bharathi. When an unmarried Thulasi gets pregnant with Krishna's child, the parents and relatives force Thulasi to abort.",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

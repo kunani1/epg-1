@@ -341,22 +341,372 @@
   },
   {
     "startRaw": "20260305223000",
-    "stopRaw": "20260306103000",
+    "stopRaw": "20260305230000",
     "start": "2026-03-06 04:00:00 IST",
-    "stop": "2026-03-06 16:00:00 IST",
+    "stop": "2026-03-06 04:30:00 IST",
     "channel": "jio-1405",
     "title": "NHK World Japan",
     "subTitle": "NHK World Japan",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260306103000",
-    "stopRaw": "20260306143000",
-    "start": "2026-03-06 16:00:00 IST",
-    "stop": "2026-03-06 20:00:00 IST",
+    "startRaw": "20260305230000",
+    "stopRaw": "20260305233000",
+    "start": "2026-03-06 04:30:00 IST",
+    "stop": "2026-03-06 05:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260305233000",
+    "stopRaw": "20260305235700",
+    "start": "2026-03-06 05:00:00 IST",
+    "stop": "2026-03-06 05:27:00 IST",
+    "channel": "jio-1405",
+    "title": "Grand Sumo Highlights",
+    "subTitle": "Sumo highlights from a range of tournaments that have taken place across the globe. Sumo is one of the most traditional Japanese sports and boasts a history going back more than 1500 years.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260305235700",
+    "stopRaw": "20260306000000",
+    "start": "2026-03-06 05:27:00 IST",
+    "stop": "2026-03-06 05:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Sumopedia",
+    "subTitle": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306000000",
+    "stopRaw": "20260306003000",
+    "start": "2026-03-06 05:30:00 IST",
+    "stop": "2026-03-06 06:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306003000",
+    "stopRaw": "20260306010000",
+    "start": "2026-03-06 06:00:00 IST",
+    "stop": "2026-03-06 06:30:00 IST",
     "channel": "jio-1405",
     "title": "NHK World Japan",
     "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306010000",
+    "stopRaw": "20260306013000",
+    "start": "2026-03-06 06:30:00 IST",
+    "stop": "2026-03-06 07:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306013000",
+    "stopRaw": "20260306020000",
+    "start": "2026-03-06 07:00:00 IST",
+    "stop": "2026-03-06 07:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306020000",
+    "stopRaw": "20260306023000",
+    "start": "2026-03-06 07:30:00 IST",
+    "stop": "2026-03-06 08:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306023000",
+    "stopRaw": "20260306030000",
+    "start": "2026-03-06 08:00:00 IST",
+    "stop": "2026-03-06 08:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Gunma-chan",
+    "subTitle": "A wide range of topics featuring Japanese culture and society are introduced.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306030000",
+    "stopRaw": "20260306033000",
+    "start": "2026-03-06 08:30:00 IST",
+    "stop": "2026-03-06 09:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306033000",
+    "stopRaw": "20260306040000",
+    "start": "2026-03-06 09:00:00 IST",
+    "stop": "2026-03-06 09:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306040000",
+    "stopRaw": "20260306043000",
+    "start": "2026-03-06 09:30:00 IST",
+    "stop": "2026-03-06 10:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306043000",
+    "stopRaw": "20260306045700",
+    "start": "2026-03-06 10:00:00 IST",
+    "stop": "2026-03-06 10:27:00 IST",
+    "channel": "jio-1405",
+    "title": "Seasoning the Seasons",
+    "subTitle": "Visits places across Japan to introduce the charms of daily life, the cultural festivals that embody the nation's long history, and the distinctive culinary offerings that utilise the best ingredients the islands can offer.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306045700",
+    "stopRaw": "20260306050000",
+    "start": "2026-03-06 10:27:00 IST",
+    "stop": "2026-03-06 10:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Sumopedia",
+    "subTitle": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306050000",
+    "stopRaw": "20260306053000",
+    "start": "2026-03-06 10:30:00 IST",
+    "stop": "2026-03-06 11:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306053000",
+    "stopRaw": "20260306060000",
+    "start": "2026-03-06 11:00:00 IST",
+    "stop": "2026-03-06 11:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306060000",
+    "stopRaw": "20260306063000",
+    "start": "2026-03-06 11:30:00 IST",
+    "stop": "2026-03-06 12:00:00 IST",
+    "channel": "jio-1405",
+    "title": "Newsline Asia 24",
+    "subTitle": "Daily news program that picks up the key news stories of the past 24 hours from Japan and around Asia.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306063000",
+    "stopRaw": "20260306070000",
+    "start": "2026-03-06 12:00:00 IST",
+    "stop": "2026-03-06 12:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306070000",
+    "stopRaw": "20260306073000",
+    "start": "2026-03-06 12:30:00 IST",
+    "stop": "2026-03-06 13:00:00 IST",
+    "channel": "jio-1405",
+    "title": "Newsline Asia 24",
+    "subTitle": "Daily news program that picks up the key news stories of the past 24 hours from Japan and around Asia.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306073000",
+    "stopRaw": "20260306080000",
+    "start": "2026-03-06 13:00:00 IST",
+    "stop": "2026-03-06 13:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Gunma-chan",
+    "subTitle": "A wide range of topics featuring Japanese culture and society are introduced.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306080000",
+    "stopRaw": "20260306083000",
+    "start": "2026-03-06 13:30:00 IST",
+    "stop": "2026-03-06 14:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306083000",
+    "stopRaw": "20260306085700",
+    "start": "2026-03-06 14:00:00 IST",
+    "stop": "2026-03-06 14:27:00 IST",
+    "channel": "jio-1405",
+    "title": "Document 72 Hours",
+    "subTitle": "Spends 72 hours at locations including shops, markets, parks, fishing ponds and shrines in Japan that serve as a window into the lives of ordinary people across the country's islands.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306085700",
+    "stopRaw": "20260306090000",
+    "start": "2026-03-06 14:27:00 IST",
+    "stop": "2026-03-06 14:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Sumopedia",
+    "subTitle": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306090000",
+    "stopRaw": "20260306093000",
+    "start": "2026-03-06 14:30:00 IST",
+    "stop": "2026-03-06 15:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306093000",
+    "stopRaw": "20260306100000",
+    "start": "2026-03-06 15:00:00 IST",
+    "stop": "2026-03-06 15:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306100000",
+    "stopRaw": "20260306103000",
+    "start": "2026-03-06 15:30:00 IST",
+    "stop": "2026-03-06 16:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK News 7",
+    "subTitle": "NHK's core news program wrapping up the day's events in an easy-to-understand way.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306103000",
+    "stopRaw": "20260306110000",
+    "start": "2026-03-06 16:00:00 IST",
+    "stop": "2026-03-06 16:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306110000",
+    "stopRaw": "20260306112800",
+    "start": "2026-03-06 16:30:00 IST",
+    "stop": "2026-03-06 16:58:00 IST",
+    "channel": "jio-1405",
+    "title": "Newsroom Tokyo",
+    "subTitle": "Comprehensive coverage of events in Japan and Asia. It explains the day's developments and what is behind them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306112800",
+    "stopRaw": "20260306114300",
+    "start": "2026-03-06 16:58:00 IST",
+    "stop": "2026-03-06 17:13:00 IST",
+    "channel": "jio-1405",
+    "title": "Direct Talk",
+    "subTitle": "Renowned watchmaker Daizo Makihara discusses his works and passion for creating analogue watches in the digital world.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306114300",
+    "stopRaw": "20260306115500",
+    "start": "2026-03-06 17:13:00 IST",
+    "stop": "2026-03-06 17:25:00 IST",
+    "channel": "jio-1405",
+    "title": "IMPACTS:Climates Change the World",
+    "subTitle": "Experts use scientific data and the latest discoveries to analyse the impact of global warming and explore potential solutions.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306115500",
+    "stopRaw": "20260306120000",
+    "start": "2026-03-06 17:25:00 IST",
+    "stop": "2026-03-06 17:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Chatroom Japan",
+    "subTitle": "Xu Quanyi sees it as his mission to promote the charm of Fukushima. Sharing his stories is how he counters the stigma Fukushima continues to suffer following the 2011 disaster.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306120000",
+    "stopRaw": "20260306123000",
+    "start": "2026-03-06 17:30:00 IST",
+    "stop": "2026-03-06 18:00:00 IST",
+    "channel": "jio-1405",
+    "title": "Newsroom Tokyo",
+    "subTitle": "Comprehensive coverage of events in Japan and Asia. It explains the day's developments and what is behind them.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306123000",
+    "stopRaw": "20260306130000",
+    "start": "2026-03-06 18:00:00 IST",
+    "stop": "2026-03-06 18:30:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK World Japan",
+    "subTitle": "NHK World Japan",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306130000",
+    "stopRaw": "20260306133000",
+    "start": "2026-03-06 18:30:00 IST",
+    "stop": "2026-03-06 19:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306133000",
+    "stopRaw": "20260306140000",
+    "start": "2026-03-06 19:00:00 IST",
+    "stop": "2026-03-06 19:30:00 IST",
+    "channel": "jio-1405",
+    "title": "Gunma-chan",
+    "subTitle": "A wide range of topics featuring Japanese culture and society are introduced.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260306140000",
+    "stopRaw": "20260306143000",
+    "start": "2026-03-06 19:30:00 IST",
+    "stop": "2026-03-06 20:00:00 IST",
+    "channel": "jio-1405",
+    "title": "NHK Newsline",
+    "subTitle": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

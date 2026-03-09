@@ -281,32 +281,52 @@
   },
   {
     "startRaw": "20260310003000",
-    "stopRaw": "20260310033000",
+    "stopRaw": "20260310010000",
     "start": "2026-03-10 06:00:00 IST",
+    "stop": "2026-03-10 06:30:00 IST",
+    "channel": "jio-1363",
+    "title": "Just Chill",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260310010000",
+    "stopRaw": "20260310013000",
+    "start": "2026-03-10 06:30:00 IST",
+    "stop": "2026-03-10 07:00:00 IST",
+    "channel": "jio-1363",
+    "title": "Just Chill",
+    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260310013000",
+    "stopRaw": "20260310033000",
+    "start": "2026-03-10 07:00:00 IST",
     "stop": "2026-03-10 09:00:00 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Lakshmi",
+    "subTitle": "Ten-year-old Lakshmi dreams of winning a national-level dance competition, but she hesitates to participate when her single mother, Nandini, detests music and dance.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260310033000",
-    "stopRaw": "20260310063000",
+    "stopRaw": "20260310062600",
     "start": "2026-03-10 09:00:00 IST",
-    "stop": "2026-03-10 12:00:00 IST",
+    "stop": "2026-03-10 11:56:00 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Yuganiki Okkadu",
+    "subTitle": "During a research expedition, a reputed archaeologist goes missing. Later, his daughter teams up with a government official to find him.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260310063000",
+    "startRaw": "20260310062600",
     "stopRaw": "20260310093000",
-    "start": "2026-03-10 12:00:00 IST",
+    "start": "2026-03-10 11:56:00 IST",
     "stop": "2026-03-10 15:00:00 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Bhageeratha",
+    "subTitle": "Bullabbai, the president of an island village, wishes to construct a bridge between his village and the mainland. Having waited 20 years for it, he sends his son, Chandu, to investigate the delay.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -315,8 +335,8 @@
     "start": "2026-03-10 15:00:00 IST",
     "stop": "2026-03-10 18:00:00 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Panchakshari",
+    "subTitle": "After being possessed by Goddess Durga, a devotee predicts her own death. However, the truth of her demise is unravelled when the devotee's look-alike arrives in the village.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -325,8 +345,8 @@
     "start": "2026-03-10 18:00:00 IST",
     "stop": "2026-03-10 21:00:00 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Pooja",
+    "subTitle": "A temple priest gives evidence in court about a murder that he has witnessed. Unfortunately for him, he bears witness against an influential landlord.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -335,8 +355,8 @@
     "start": "2026-03-10 21:00:00 IST",
     "stop": "2026-03-10 23:59:59 IST",
     "channel": "jio-1363",
-    "title": "Movie",
-    "subTitle": "Bringing the best in television.",
+    "title": "Gajakesari",
+    "subTitle": "Krishna protects the tribal people of the Aanegudde forest from Rana, a local thug, who plans to throw them out of their houses to build a resort there.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -755,8 +755,8 @@
     "start": "2026-03-11 06:00:00 IST",
     "stop": "2026-03-11 06:30:00 IST",
     "channel": "jio-203",
-    "title": "To Be Announced",
-    "subTitle": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+    "title": "Science Spark",
+    "subTitle": "Presents an in-depth analysis of the latest fascinating scientific advancements and concepts by using graphics in a simple manner.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -765,8 +765,8 @@
     "start": "2026-03-11 06:30:00 IST",
     "stop": "2026-03-11 06:45:00 IST",
     "channel": "jio-203",
-    "title": "Sanskrit Vaarta",
-    "subTitle": "Presents the latest news updates on politics and the economy in Sanskrit.",
+    "title": "Sanskrit Vaarta Samachar",
+    "subTitle": "Features news in Sanskrit, blending the ancient language with modern events to deliver current affairs and cultural insights.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -861,48 +861,28 @@
   },
   {
     "startRaw": "20260311063000",
-    "stopRaw": "20260311070000",
+    "stopRaw": "20260311080000",
     "start": "2026-03-11 12:00:00 IST",
-    "stop": "2026-03-11 12:30:00 IST",
+    "stop": "2026-03-11 13:30:00 IST",
     "channel": "jio-203",
     "title": "Samachar",
     "subTitle": "Presents recent news, updates and developments from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260311070000",
-    "stopRaw": "20260311073000",
-    "start": "2026-03-11 12:30:00 IST",
-    "stop": "2026-03-11 13:00:00 IST",
-    "channel": "jio-203",
-    "title": "Express 100",
-    "subTitle": "Presents the latest breaking news and updates on various trending topics.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260311073000",
+    "startRaw": "20260311080000",
     "stopRaw": "20260311083000",
-    "start": "2026-03-11 13:00:00 IST",
+    "start": "2026-03-11 13:30:00 IST",
     "stop": "2026-03-11 14:00:00 IST",
     "channel": "jio-203",
-    "title": "Mid Day Prime Hindi",
-    "subTitle": "Presents a detailed report about some of the latest news stories about political, economic, social and cultural topics from all around the nation.",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260311083000",
-    "stopRaw": "20260311090000",
-    "start": "2026-03-11 14:00:00 IST",
-    "stop": "2026-03-11 14:30:00 IST",
-    "channel": "jio-203",
-    "title": "News Punch",
-    "subTitle": "Presents information about the social, economic and political issues of the day and provides updates on current events.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260311090000",
     "stopRaw": "20260311093000",
-    "start": "2026-03-11 14:30:00 IST",
+    "start": "2026-03-11 14:00:00 IST",
     "stop": "2026-03-11 15:00:00 IST",
     "channel": "jio-203",
     "title": "Samachar",
@@ -941,52 +921,42 @@
   },
   {
     "startRaw": "20260311113000",
-    "stopRaw": "20260311123000",
+    "stopRaw": "20260311120000",
     "start": "2026-03-11 17:00:00 IST",
-    "stop": "2026-03-11 18:00:00 IST",
+    "stop": "2026-03-11 17:30:00 IST",
     "channel": "jio-203",
     "title": "Panch Ki Panchayat",
     "subTitle": "Presents the latest quick updates on social, political and economic developments from all over the globe.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260311123000",
-    "stopRaw": "20260311130000",
-    "start": "2026-03-11 18:00:00 IST",
-    "stop": "2026-03-11 18:30:00 IST",
+    "startRaw": "20260311120000",
+    "stopRaw": "20260311123000",
+    "start": "2026-03-11 17:30:00 IST",
+    "stop": "2026-03-11 18:00:00 IST",
     "channel": "jio-203",
     "title": "Charcha Mein",
     "subTitle": "Distinguished guests from various professions and backgrounds convene to explore and debate pressing public issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260311130000",
+    "startRaw": "20260311123000",
     "stopRaw": "20260311133000",
-    "start": "2026-03-11 18:30:00 IST",
+    "start": "2026-03-11 18:00:00 IST",
     "stop": "2026-03-11 19:00:00 IST",
     "channel": "jio-203",
-    "title": "Khabar Duniya Ki",
-    "subTitle": "Explores the latest events, developments, inventions and discoveries from around the world.",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260311133000",
-    "stopRaw": "20260311140000",
-    "start": "2026-03-11 19:00:00 IST",
-    "stop": "2026-03-11 19:30:00 IST",
-    "channel": "jio-203",
-    "title": "Creators Corner",
-    "subTitle": "Creators Corner",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260311140000",
     "stopRaw": "20260311143000",
-    "start": "2026-03-11 19:30:00 IST",
+    "start": "2026-03-11 19:00:00 IST",
     "stop": "2026-03-11 20:00:00 IST",
     "channel": "jio-203",
-    "title": "Pura Sach",
-    "subTitle": "Presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+    "title": "Samachar",
+    "subTitle": "Presents recent news, updates and developments from across the world.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

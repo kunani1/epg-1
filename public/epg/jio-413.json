@@ -361,18 +361,8 @@
   },
   {
     "startRaw": "20260312003000",
-    "stopRaw": "20260312010000",
-    "start": "2026-03-12 06:00:00 IST",
-    "stop": "2026-03-12 06:30:00 IST",
-    "channel": "jio-413",
-    "title": "Just Chill",
-    "subTitle": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260312010000",
     "stopRaw": "20260312013000",
-    "start": "2026-03-12 06:30:00 IST",
+    "start": "2026-03-12 06:00:00 IST",
     "stop": "2026-03-12 07:00:00 IST",
     "channel": "jio-413",
     "title": "Just Chill",
@@ -421,22 +411,32 @@
   },
   {
     "startRaw": "20260312123000",
-    "stopRaw": "20260312153000",
+    "stopRaw": "20260312153100",
     "start": "2026-03-12 18:00:00 IST",
-    "stop": "2026-03-12 21:00:00 IST",
+    "stop": "2026-03-12 21:01:00 IST",
     "channel": "jio-413",
     "title": "Spyder",
     "subTitle": "Shiva, an intelligence officer, develops a phone software that helps him track those in need of help. He sets out to save the people of Hyderabad when he realises that a serial killer is on the loose.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260312153000",
-    "stopRaw": "20260312182959",
-    "start": "2026-03-12 21:00:00 IST",
-    "stop": "2026-03-12 23:59:59 IST",
+    "startRaw": "20260312153100",
+    "stopRaw": "20260312181200",
+    "start": "2026-03-12 21:01:00 IST",
+    "stop": "2026-03-12 23:42:00 IST",
     "channel": "jio-413",
     "title": "Forensic",
     "subTitle": "When a psychotic murderer sets out on a killing spree, Samuel, a medico-legal advisor, uses his forensic skills to unravel the truth behind the heinous deeds.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312181200",
+    "stopRaw": "20260312182959",
+    "start": "2026-03-12 23:42:00 IST",
+    "stop": "2026-03-12 23:59:59 IST",
+    "channel": "jio-413",
+    "title": "Fillers",
+    "subTitle": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

@@ -501,18 +501,18 @@
   },
   {
     "startRaw": "20260312073000",
-    "stopRaw": "20260312100000",
+    "stopRaw": "20260312100200",
     "start": "2026-03-12 13:00:00 IST",
-    "stop": "2026-03-12 15:30:00 IST",
+    "stop": "2026-03-12 15:32:00 IST",
     "channel": "jio-1358",
     "title": "Mokla Shwaas",
     "subTitle": "Eknath is a skilled salesman who is unhappy about having three daughters. His extreme negligence towards them invokes the anger of one of his daughters.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260312100000",
+    "startRaw": "20260312100200",
     "stopRaw": "20260312123000",
-    "start": "2026-03-12 15:30:00 IST",
+    "start": "2026-03-12 15:32:00 IST",
     "stop": "2026-03-12 18:00:00 IST",
     "channel": "jio-1358",
     "title": "Mitwaa",
@@ -541,12 +541,22 @@
   },
   {
     "startRaw": "20260312153000",
-    "stopRaw": "20260312182959",
+    "stopRaw": "20260312181300",
     "start": "2026-03-12 21:00:00 IST",
-    "stop": "2026-03-12 23:59:59 IST",
+    "stop": "2026-03-12 23:43:00 IST",
     "channel": "jio-1358",
     "title": "Comedy Chya Gudgulya",
     "subTitle": "Gifted comics and stand-up sketch artists perform hilarious skits, entertaining both the judges as well as the audience.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312181300",
+    "stopRaw": "20260312182959",
+    "start": "2026-03-12 23:43:00 IST",
+    "stop": "2026-03-12 23:59:59 IST",
+    "channel": "jio-1358",
+    "title": "Filler",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   }
 ]

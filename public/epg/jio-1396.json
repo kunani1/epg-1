@@ -635,7 +635,7 @@
     "start": "2026-03-12 04:40:00 IST",
     "stop": "2026-03-12 06:00:00 IST",
     "channel": "jio-1396",
-    "title": "Best of Crime Patrol - Crime Patrol Satark",
+    "title": "Crime Patrol Satark",
     "subTitle": "A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -645,7 +645,7 @@
     "start": "2026-03-12 06:00:00 IST",
     "stop": "2026-03-12 06:20:00 IST",
     "channel": "jio-1396",
-    "title": "Best of Crime Patrol",
+    "title": "Crime Patrol Satark",
     "subTitle": "Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
@@ -831,9 +831,19 @@
   },
   {
     "startRaw": "20260312173000",
-    "stopRaw": "20260312182959",
+    "stopRaw": "20260312175959",
     "start": "2026-03-12 23:00:00 IST",
-    "stop": "2026-03-12 23:59:59 IST",
+    "stop": "2026-03-12 23:29:59 IST",
+    "channel": "jio-1396",
+    "title": "Best of Crime Patrol - Crime Patrol Satark",
+    "subTitle": "Some of the best cases investigated in 'Crime Patrol' showcase people from different walks of life falling victim to the vices of others or their own.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312175959",
+    "stopRaw": "20260312182958",
+    "start": "2026-03-12 23:29:59 IST",
+    "stop": "2026-03-12 23:59:58 IST",
     "channel": "jio-1396",
     "title": "Best of Crime Patrol - Crime Patrol Satark",
     "subTitle": "Some of the best cases investigated in 'Crime Patrol' showcase people from different walks of life falling victim to the vices of others or their own.",

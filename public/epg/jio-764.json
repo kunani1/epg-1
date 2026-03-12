@@ -1,245 +1,5 @@
 [
   {
-    "startRaw": "20260309183000",
-    "stopRaw": "20260309190000",
-    "start": "2026-03-10 00:00:00 IST",
-    "stop": "2026-03-10 00:30:00 IST",
-    "channel": "jio-764",
-    "title": "Singapore Hour",
-    "subTitle": "From street food to smart tech, traditions to trending lifestyles, featuring your ultimate insider's guide to travel, work, and play in the Lion City.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260309190000",
-    "stopRaw": "20260309200000",
-    "start": "2026-03-10 00:30:00 IST",
-    "stop": "2026-03-10 01:30:00 IST",
-    "channel": "jio-764",
-    "title": "Singapore Tonight",
-    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260309200000",
-    "stopRaw": "20260309210000",
-    "start": "2026-03-10 01:30:00 IST",
-    "stop": "2026-03-10 02:30:00 IST",
-    "channel": "jio-764",
-    "title": "Insight",
-    "subTitle": "An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260309210000",
-    "stopRaw": "20260309220000",
-    "start": "2026-03-10 02:30:00 IST",
-    "stop": "2026-03-10 03:30:00 IST",
-    "channel": "jio-764",
-    "title": "Asia Tonight",
-    "subTitle": "Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260309220000",
-    "stopRaw": "20260309230000",
-    "start": "2026-03-10 03:30:00 IST",
-    "stop": "2026-03-10 04:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260309230000",
-    "stopRaw": "20260310000000",
-    "start": "2026-03-10 04:30:00 IST",
-    "stop": "2026-03-10 05:30:00 IST",
-    "channel": "jio-764",
-    "title": "Singapore Tonight",
-    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310000000",
-    "stopRaw": "20260310030000",
-    "start": "2026-03-10 05:30:00 IST",
-    "stop": "2026-03-10 08:30:00 IST",
-    "channel": "jio-764",
-    "title": "Asia First",
-    "subTitle": "Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310030000",
-    "stopRaw": "20260310040000",
-    "start": "2026-03-10 08:30:00 IST",
-    "stop": "2026-03-10 09:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310040000",
-    "stopRaw": "20260310060000",
-    "start": "2026-03-10 09:30:00 IST",
-    "stop": "2026-03-10 11:30:00 IST",
-    "channel": "jio-764",
-    "title": "Asia Now",
-    "subTitle": "Coverage of what's happening around the world and in the region, with expert analysis of all the news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310060000",
-    "stopRaw": "20260310070000",
-    "start": "2026-03-10 11:30:00 IST",
-    "stop": "2026-03-10 12:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310070000",
-    "stopRaw": "20260310090000",
-    "start": "2026-03-10 12:30:00 IST",
-    "stop": "2026-03-10 14:30:00 IST",
-    "channel": "jio-764",
-    "title": "Asia Now",
-    "subTitle": "Coverage of what's happening around the world and in the region, with expert analysis of all the news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310090000",
-    "stopRaw": "20260310093000",
-    "start": "2026-03-10 14:30:00 IST",
-    "stop": "2026-03-10 15:00:00 IST",
-    "channel": "jio-764",
-    "title": "Money Mind",
-    "subTitle": "An insight into how to make the most of finances, with tips for investors and economic, market, and trend analysis.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310093000",
-    "stopRaw": "20260310100000",
-    "start": "2026-03-10 15:00:00 IST",
-    "stop": "2026-03-10 15:30:00 IST",
-    "channel": "jio-764",
-    "title": "CNA Correspondent",
-    "subTitle": "CNA correspondents from Asia and Europe examine different current affairs, offering their take on the news updates from across the globe.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310100000",
-    "stopRaw": "20260310100200",
-    "start": "2026-03-10 15:30:00 IST",
-    "stop": "2026-03-10 15:32:00 IST",
-    "channel": "jio-764",
-    "title": "Headline News",
-    "subTitle": "An update on news from the local area and around the globe to help keep people informed about what's happening.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310100200",
-    "stopRaw": "20260310110000",
-    "start": "2026-03-10 15:32:00 IST",
-    "stop": "2026-03-10 16:30:00 IST",
-    "channel": "jio-764",
-    "title": "Singapore Hour",
-    "subTitle": "From street food to smart tech, traditions to trending lifestyles, featuring your ultimate insider's guide to travel, work, and play in the Lion City.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310110000",
-    "stopRaw": "20260310120000",
-    "start": "2026-03-10 16:30:00 IST",
-    "stop": "2026-03-10 17:30:00 IST",
-    "channel": "jio-764",
-    "title": "East Asia Tonight",
-    "subTitle": "Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310120000",
-    "stopRaw": "20260310130000",
-    "start": "2026-03-10 17:30:00 IST",
-    "stop": "2026-03-10 18:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310130000",
-    "stopRaw": "20260310140000",
-    "start": "2026-03-10 18:30:00 IST",
-    "stop": "2026-03-10 19:30:00 IST",
-    "channel": "jio-764",
-    "title": "Asia Tonight",
-    "subTitle": "Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310140000",
-    "stopRaw": "20260310150000",
-    "start": "2026-03-10 19:30:00 IST",
-    "stop": "2026-03-10 20:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310150000",
-    "stopRaw": "20260310160000",
-    "start": "2026-03-10 20:30:00 IST",
-    "stop": "2026-03-10 21:30:00 IST",
-    "channel": "jio-764",
-    "title": "Singapore Tonight",
-    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310160000",
-    "stopRaw": "20260310170000",
-    "start": "2026-03-10 21:30:00 IST",
-    "stop": "2026-03-10 22:30:00 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310170000",
-    "stopRaw": "20260310170300",
-    "start": "2026-03-10 22:30:00 IST",
-    "stop": "2026-03-10 22:33:00 IST",
-    "channel": "jio-764",
-    "title": "Headline News",
-    "subTitle": "The newscaster presents current affairs, the latest news, interviews and topical features for the region.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310170300",
-    "stopRaw": "20260310180000",
-    "start": "2026-03-10 22:33:00 IST",
-    "stop": "2026-03-10 23:30:00 IST",
-    "channel": "jio-764",
-    "title": "East Asia Tonight",
-    "subTitle": "Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260310180000",
-    "stopRaw": "20260310182959",
-    "start": "2026-03-10 23:30:00 IST",
-    "stop": "2026-03-10 23:59:59 IST",
-    "channel": "jio-764",
-    "title": "The Long Game",
-    "subTitle": "The Long Game",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260310183000",
     "stopRaw": "20260310190000",
     "start": "2026-03-11 00:00:00 IST",
@@ -744,6 +504,256 @@
     "stopRaw": "20260312182959",
     "start": "2026-03-12 23:30:00 IST",
     "stop": "2026-03-12 23:59:59 IST",
+    "channel": "jio-764",
+    "title": "The Long Game",
+    "subTitle": "The Long Game",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312183000",
+    "stopRaw": "20260312190000",
+    "start": "2026-03-13 00:00:00 IST",
+    "stop": "2026-03-13 00:30:00 IST",
+    "channel": "jio-764",
+    "title": "The Long Game",
+    "subTitle": "The Long Game",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312190000",
+    "stopRaw": "20260312200000",
+    "start": "2026-03-13 00:30:00 IST",
+    "stop": "2026-03-13 01:30:00 IST",
+    "channel": "jio-764",
+    "title": "Singapore Tonight",
+    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312200000",
+    "stopRaw": "20260312210000",
+    "start": "2026-03-13 01:30:00 IST",
+    "stop": "2026-03-13 02:30:00 IST",
+    "channel": "jio-764",
+    "title": "The Long Game",
+    "subTitle": "The Long Game",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312210000",
+    "stopRaw": "20260312220000",
+    "start": "2026-03-13 02:30:00 IST",
+    "stop": "2026-03-13 03:30:00 IST",
+    "channel": "jio-764",
+    "title": "Asia Tonight",
+    "subTitle": "Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312220000",
+    "stopRaw": "20260312230000",
+    "start": "2026-03-13 03:30:00 IST",
+    "stop": "2026-03-13 04:30:00 IST",
+    "channel": "jio-764",
+    "title": "Insight",
+    "subTitle": "An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260312230000",
+    "stopRaw": "20260313000000",
+    "start": "2026-03-13 04:30:00 IST",
+    "stop": "2026-03-13 05:30:00 IST",
+    "channel": "jio-764",
+    "title": "Singapore Tonight",
+    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313000000",
+    "stopRaw": "20260313030000",
+    "start": "2026-03-13 05:30:00 IST",
+    "stop": "2026-03-13 08:30:00 IST",
+    "channel": "jio-764",
+    "title": "Asia First",
+    "subTitle": "Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313030000",
+    "stopRaw": "20260313040000",
+    "start": "2026-03-13 08:30:00 IST",
+    "stop": "2026-03-13 09:30:00 IST",
+    "channel": "jio-764",
+    "title": "Insight",
+    "subTitle": "An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313040000",
+    "stopRaw": "20260313060000",
+    "start": "2026-03-13 09:30:00 IST",
+    "stop": "2026-03-13 11:30:00 IST",
+    "channel": "jio-764",
+    "title": "Asia Now",
+    "subTitle": "Coverage of what's happening around the world and in the region, with expert analysis of all the news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313060000",
+    "stopRaw": "20260313063000",
+    "start": "2026-03-13 11:30:00 IST",
+    "stop": "2026-03-13 12:00:00 IST",
+    "channel": "jio-764",
+    "title": "Channel News Asia International",
+    "subTitle": "Channel News Asia International",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313063000",
+    "stopRaw": "20260313070000",
+    "start": "2026-03-13 12:00:00 IST",
+    "stop": "2026-03-13 12:30:00 IST",
+    "channel": "jio-764",
+    "title": "CNA Correspondent",
+    "subTitle": "CNA correspondents from Asia and Europe examine different current affairs, offering their take on the news updates from across the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313070000",
+    "stopRaw": "20260313090000",
+    "start": "2026-03-13 12:30:00 IST",
+    "stop": "2026-03-13 14:30:00 IST",
+    "channel": "jio-764",
+    "title": "Asia Now",
+    "subTitle": "Coverage of what's happening around the world and in the region, with expert analysis of all the news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313090000",
+    "stopRaw": "20260313100000",
+    "start": "2026-03-13 14:30:00 IST",
+    "stop": "2026-03-13 15:30:00 IST",
+    "channel": "jio-764",
+    "title": "The Long Game",
+    "subTitle": "The Long Game",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313100000",
+    "stopRaw": "20260313100200",
+    "start": "2026-03-13 15:30:00 IST",
+    "stop": "2026-03-13 15:32:00 IST",
+    "channel": "jio-764",
+    "title": "Headline News",
+    "subTitle": "An update on news from the local area and around the globe to help keep people informed about what's happening.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313100200",
+    "stopRaw": "20260313103000",
+    "start": "2026-03-13 15:32:00 IST",
+    "stop": "2026-03-13 16:00:00 IST",
+    "channel": "jio-764",
+    "title": "Talking Point",
+    "subTitle": "Explores current events and their effects on people while presenting different perspectives on the issues.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313103000",
+    "stopRaw": "20260313110000",
+    "start": "2026-03-13 16:00:00 IST",
+    "stop": "2026-03-13 16:30:00 IST",
+    "channel": "jio-764",
+    "title": "Byte The Habit",
+    "subTitle": "Dr Jean Liu embarks on a series of experiments with three families to understand their digital habits and navigate the boundaries with their devices.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313110000",
+    "stopRaw": "20260313120000",
+    "start": "2026-03-13 16:30:00 IST",
+    "stop": "2026-03-13 17:30:00 IST",
+    "channel": "jio-764",
+    "title": "East Asia Tonight",
+    "subTitle": "Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313120000",
+    "stopRaw": "20260313130000",
+    "start": "2026-03-13 17:30:00 IST",
+    "stop": "2026-03-13 18:30:00 IST",
+    "channel": "jio-764",
+    "title": "The Long Game",
+    "subTitle": "The Long Game",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313130000",
+    "stopRaw": "20260313140000",
+    "start": "2026-03-13 18:30:00 IST",
+    "stop": "2026-03-13 19:30:00 IST",
+    "channel": "jio-764",
+    "title": "Asia Tonight",
+    "subTitle": "Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313140000",
+    "stopRaw": "20260313150000",
+    "start": "2026-03-13 19:30:00 IST",
+    "stop": "2026-03-13 20:30:00 IST",
+    "channel": "jio-764",
+    "title": "Japan Hour",
+    "subTitle": "Explores the Aizu region's Fukushima mountains, where autumn's arrival has transformed the landscape into a vibrant tapestry.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313150000",
+    "stopRaw": "20260313160000",
+    "start": "2026-03-13 20:30:00 IST",
+    "stop": "2026-03-13 21:30:00 IST",
+    "channel": "jio-764",
+    "title": "Singapore Tonight",
+    "subTitle": "Provides a round-up of all the day's events in Singapore, while also covering the latest breaking news.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313160000",
+    "stopRaw": "20260313170000",
+    "start": "2026-03-13 21:30:00 IST",
+    "stop": "2026-03-13 22:30:00 IST",
+    "channel": "jio-764",
+    "title": "Channel News Asia International",
+    "subTitle": "Channel News Asia International",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313170000",
+    "stopRaw": "20260313170300",
+    "start": "2026-03-13 22:30:00 IST",
+    "stop": "2026-03-13 22:33:00 IST",
+    "channel": "jio-764",
+    "title": "Headline News",
+    "subTitle": "The newscaster presents current affairs, the latest news, interviews and topical features for the region.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313170300",
+    "stopRaw": "20260313180000",
+    "start": "2026-03-13 22:33:00 IST",
+    "stop": "2026-03-13 23:30:00 IST",
+    "channel": "jio-764",
+    "title": "East Asia Tonight",
+    "subTitle": "Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313180000",
+    "stopRaw": "20260313182959",
+    "start": "2026-03-13 23:30:00 IST",
+    "stop": "2026-03-13 23:59:59 IST",
     "channel": "jio-764",
     "title": "The Long Game",
     "subTitle": "The Long Game",

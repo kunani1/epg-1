@@ -931,22 +931,12 @@
   },
   {
     "startRaw": "20260313000000",
-    "stopRaw": "20260313003000",
+    "stopRaw": "20260313010000",
     "start": "2026-03-13 05:30:00 IST",
-    "stop": "2026-03-13 06:00:00 IST",
+    "stop": "2026-03-13 06:30:00 IST",
     "channel": "jio-695",
     "title": "Yogiyancha Dev",
     "subTitle": "Talented artists from India perform devotional songs, paying tribute to and promoting the nation's cherished heritage of classical light music.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260313003000",
-    "stopRaw": "20260313010000",
-    "start": "2026-03-13 06:00:00 IST",
-    "stop": "2026-03-13 06:30:00 IST",
-    "channel": "jio-695",
-    "title": "Santgatha",
-    "subTitle": "A religious leader recites devotional hymns praising the Almighty and delivers a spiritual discourse on holy scriptures.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -961,12 +951,22 @@
   },
   {
     "startRaw": "20260313013000",
-    "stopRaw": "20260313021500",
+    "stopRaw": "20260313020000",
     "start": "2026-03-13 07:00:00 IST",
+    "stop": "2026-03-13 07:30:00 IST",
+    "channel": "jio-695",
+    "title": "Anandache Vare",
+    "subTitle": "A renowned chef showcases his culinary expertise, crafting mouthwatering dishes by sharing pro tips, techniques and creative ideas.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313020000",
+    "stopRaw": "20260313021500",
+    "start": "2026-03-13 07:30:00 IST",
     "stop": "2026-03-13 07:45:00 IST",
     "channel": "jio-695",
-    "title": "Sukhachi Sanjeevani",
-    "subTitle": "The host interacts with eminent personalities, who provide a comprehensive insight into their personal and professional life.",
+    "title": "Santvasant",
+    "subTitle": "A religious leader addresses the devotees, sings songs and delivers a discourse on the teachings of the deities with reference to the scriptures.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -985,24 +985,24 @@
     "start": "2026-03-13 08:00:00 IST",
     "stop": "2026-03-13 08:30:00 IST",
     "channel": "jio-695",
-    "title": "Good Morning Sahyadri",
-    "subTitle": "The host presents a detailed report about some current events that have taken place all around the country, along with tidbits of information.",
+    "title": "Tarane Purane",
+    "subTitle": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260313030000",
-    "stopRaw": "20260313033500",
+    "stopRaw": "20260313033000",
     "start": "2026-03-13 08:30:00 IST",
-    "stop": "2026-03-13 09:05:00 IST",
+    "stop": "2026-03-13 09:00:00 IST",
     "channel": "jio-695",
     "title": "Batmya",
     "subTitle": "The host presents numerous top stories, latest happenings and significant updates from the national and international front.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
-    "startRaw": "20260313033500",
+    "startRaw": "20260313033000",
     "stopRaw": "20260313040000",
-    "start": "2026-03-13 09:05:00 IST",
+    "start": "2026-03-13 09:00:00 IST",
     "stop": "2026-03-13 09:30:00 IST",
     "channel": "jio-695",
     "title": "Banda Rupaya",
@@ -1025,8 +1025,8 @@
     "start": "2026-03-13 10:30:00 IST",
     "stop": "2026-03-13 11:00:00 IST",
     "channel": "jio-695",
-    "title": "Damini",
-    "subTitle": "Damini, a fearless journalist, strives to overcome various challenges, along with balancing her personal and professional life.",
+    "title": "Vachu Anande",
+    "subTitle": "The host invites distinguished writers and celebrities and engages in insightful conversations surrounding Marathi literature.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1075,8 +1075,8 @@
     "start": "2026-03-13 13:30:00 IST",
     "stop": "2026-03-13 14:00:00 IST",
     "channel": "jio-695",
-    "title": "Manmokale Shabdyatri",
-    "subTitle": "The host engages in an interesting conversation with the guest, discussing various topics and exploring their experiences, insights and perspectives.",
+    "title": "Kumpan",
+    "subTitle": "A newly married woman strives to maintain a blissful marriage life while simultaneously navigating the complexities of living with her in-laws.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1105,8 +1105,8 @@
     "start": "2026-03-13 15:30:00 IST",
     "stop": "2026-03-13 16:00:00 IST",
     "channel": "jio-695",
-    "title": "Damini",
-    "subTitle": "Damini, a fearless journalist, strives to overcome various challenges, along with balancing her personal and professional life.",
+    "title": "Sonpaval",
+    "subTitle": "An anthology of dramatic stories based on the classsical works of revered literary figures of Marathi literature, is presented to entertain the viewers.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1175,28 +1175,18 @@
     "start": "2026-03-13 19:30:00 IST",
     "stop": "2026-03-13 20:00:00 IST",
     "channel": "jio-695",
-    "title": "Damini",
-    "subTitle": "Damini, a fearless journalist, strives to overcome various challenges, along with balancing her personal and professional life.",
+    "title": "Amchi Annanya",
+    "subTitle": "Ananya, a bubbly young woman, lives with her offbeat but endearing family in a traditional Maharashtrian household as they navigate the various ups and downs of life together.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260313143000",
-    "stopRaw": "20260313150000",
-    "start": "2026-03-13 20:00:00 IST",
-    "stop": "2026-03-13 20:30:00 IST",
-    "channel": "jio-695",
-    "title": "Chitrakathi",
-    "subTitle": "Bringing the best in television.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260313150000",
     "stopRaw": "20260313153000",
-    "start": "2026-03-13 20:30:00 IST",
+    "start": "2026-03-13 20:00:00 IST",
     "stop": "2026-03-13 21:00:00 IST",
     "channel": "jio-695",
-    "title": "Shabdanchya Vatevar",
-    "subTitle": "Shabdanchya Vatevar",
+    "title": "Goshti Ganyanchya",
+    "subTitle": "The host engages in insightful conversations with various renowned singers and musicians from the Marathi film industry.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1205,8 +1195,8 @@
     "start": "2026-03-13 21:00:00 IST",
     "stop": "2026-03-13 21:30:00 IST",
     "channel": "jio-695",
-    "title": "Shabdanchya Vatevar",
-    "subTitle": "Shabdanchya Vatevar",
+    "title": "Samidha",
+    "subTitle": "Bringing the best in television.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -1215,28 +1205,18 @@
     "start": "2026-03-13 21:30:00 IST",
     "stop": "2026-03-13 22:00:00 IST",
     "channel": "jio-695",
-    "title": "Vicharanchya Palikade",
-    "subTitle": "The host interviews experts and discusses complex societal issues, exploring philosophical perspectives and potential solutions to current challenges facing communities.",
+    "title": "Sadenauchya Batmya",
+    "subTitle": "The host presents the latest updates and key developments pertaining to political and socio-economic affairs from the state of Maharashtra.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
     "startRaw": "20260313163000",
-    "stopRaw": "20260313170000",
-    "start": "2026-03-13 22:00:00 IST",
-    "stop": "2026-03-13 22:30:00 IST",
-    "channel": "jio-695",
-    "title": "Sindhu Dhara",
-    "subTitle": "The host invites accomplished personalities and engages in insightful conversations surrounding their life journeys and areas of expertise.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260313170000",
     "stopRaw": "20260313173000",
-    "start": "2026-03-13 22:30:00 IST",
+    "start": "2026-03-13 22:00:00 IST",
     "stop": "2026-03-13 23:00:00 IST",
     "channel": "jio-695",
-    "title": "Tarane Purane",
-    "subTitle": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
+    "title": "Aamchi He Aamchi Hi",
+    "subTitle": "The host indulges in a friendly conversation with prominent celebrity couples, of various fields and shares an insight on their lives, achievements and relationships.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

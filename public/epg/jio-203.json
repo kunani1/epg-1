@@ -725,8 +725,8 @@
     "start": "2026-03-13 06:00:00 IST",
     "stop": "2026-03-13 06:30:00 IST",
     "channel": "jio-203",
-    "title": "To Be Announced",
-    "subTitle": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+    "title": "Total Health Pdcast",
+    "subTitle": "Total Health Pdcast",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -735,8 +735,8 @@
     "start": "2026-03-13 06:30:00 IST",
     "stop": "2026-03-13 06:45:00 IST",
     "channel": "jio-203",
-    "title": "Sanskrit Vaarta",
-    "subTitle": "Presents the latest news updates on politics and the economy in Sanskrit.",
+    "title": "Sanskrit Vaarta Samachar",
+    "subTitle": "Features news in Sanskrit, blending the ancient language with modern events to deliver current affairs and cultural insights.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -801,18 +801,8 @@
   },
   {
     "startRaw": "20260313043000",
-    "stopRaw": "20260313050000",
-    "start": "2026-03-13 10:00:00 IST",
-    "stop": "2026-03-13 10:30:00 IST",
-    "channel": "jio-203",
-    "title": "News @ 10",
-    "subTitle": "Explores the latest socio-economic and political updates of the day.",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260313050000",
     "stopRaw": "20260313053000",
-    "start": "2026-03-13 10:30:00 IST",
+    "start": "2026-03-13 10:00:00 IST",
     "stop": "2026-03-13 11:00:00 IST",
     "channel": "jio-203",
     "title": "News Punch",
@@ -911,12 +901,22 @@
   },
   {
     "startRaw": "20260313113000",
-    "stopRaw": "20260313123000",
+    "stopRaw": "20260313120000",
     "start": "2026-03-13 17:00:00 IST",
-    "stop": "2026-03-13 18:00:00 IST",
+    "stop": "2026-03-13 17:30:00 IST",
     "channel": "jio-203",
     "title": "Panch Ki Panchayat",
     "subTitle": "Presents the latest quick updates on social, political and economic developments from all over the globe.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260313120000",
+    "stopRaw": "20260313123000",
+    "start": "2026-03-13 17:30:00 IST",
+    "stop": "2026-03-13 18:00:00 IST",
+    "channel": "jio-203",
+    "title": "Charcha Mein",
+    "subTitle": "Distinguished guests from various professions and backgrounds convene to explore and debate pressing public issues.",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {
@@ -925,8 +925,8 @@
     "start": "2026-03-13 18:00:00 IST",
     "stop": "2026-03-13 18:30:00 IST",
     "channel": "jio-203",
-    "title": "Charcha Mein",
-    "subTitle": "Distinguished guests from various professions and backgrounds convene to explore and debate pressing public issues.",
+    "title": "Next Gen Bharat",
+    "subTitle": "Next Gen Bharat",
     "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
   },
   {

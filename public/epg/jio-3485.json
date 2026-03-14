@@ -1,35 +1,5 @@
 [
   {
-    "startRaw": "20260311183000",
-    "stopRaw": "20260312003000",
-    "start": "2026-03-12 00:00:00 IST",
-    "stop": "2026-03-12 06:00:00 IST",
-    "channel": "jio-3485",
-    "title": "Vidhya Bhakti",
-    "subTitle": "Vidhya Bhakti",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260312003000",
-    "stopRaw": "20260312123000",
-    "start": "2026-03-12 06:00:00 IST",
-    "stop": "2026-03-12 18:00:00 IST",
-    "channel": "jio-3485",
-    "title": "Vidhya Bhakti",
-    "subTitle": "Vidhya Bhakti",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
-    "startRaw": "20260312123000",
-    "stopRaw": "20260312182959",
-    "start": "2026-03-12 18:00:00 IST",
-    "stop": "2026-03-12 23:59:59 IST",
-    "channel": "jio-3485",
-    "title": "Vidhya Bhakti",
-    "subTitle": "Vidhya Bhakti",
-    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
-  },
-  {
     "startRaw": "20260312183000",
     "stopRaw": "20260313003000",
     "start": "2026-03-13 00:00:00 IST",
@@ -134,6 +104,86 @@
     "stopRaw": "20260314182959",
     "start": "2026-03-14 23:00:00 IST",
     "stop": "2026-03-14 23:59:59 IST",
+    "channel": "jio-3485",
+    "title": "Politics Program, Khabar Dinbhar Ki",
+    "subTitle": "Politics Program, Khabar Dinbhar Ki",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260314183000",
+    "stopRaw": "20260315003000",
+    "start": "2026-03-15 00:00:00 IST",
+    "stop": "2026-03-15 06:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Politics Program, Khabar Dinbhar Ki",
+    "subTitle": "Politics Program, Khabar Dinbhar Ki",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315003000",
+    "stopRaw": "20260315013000",
+    "start": "2026-03-15 06:00:00 IST",
+    "stop": "2026-03-15 07:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Vidhya Bhakti",
+    "subTitle": "Vidhya Bhakti",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315013000",
+    "stopRaw": "20260315043000",
+    "start": "2026-03-15 07:00:00 IST",
+    "stop": "2026-03-15 10:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Din Ki Shuruaat",
+    "subTitle": "Din Ki Shuruaat",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315043000",
+    "stopRaw": "20260315113000",
+    "start": "2026-03-15 10:00:00 IST",
+    "stop": "2026-03-15 17:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Politics Program",
+    "subTitle": "Politics Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315113000",
+    "stopRaw": "20260315123000",
+    "start": "2026-03-15 17:00:00 IST",
+    "stop": "2026-03-15 18:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Evening Bulletin",
+    "subTitle": "Evening Bulletin",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315123000",
+    "stopRaw": "20260315143000",
+    "start": "2026-03-15 18:00:00 IST",
+    "stop": "2026-03-15 20:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Politics Program",
+    "subTitle": "Politics Program",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315143000",
+    "stopRaw": "20260315173000",
+    "start": "2026-03-15 20:00:00 IST",
+    "stop": "2026-03-15 23:00:00 IST",
+    "channel": "jio-3485",
+    "title": "Khabar Dinbhar ki",
+    "subTitle": "Khabar Dinbhar ki",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260315173000",
+    "stopRaw": "20260315182959",
+    "start": "2026-03-15 23:00:00 IST",
+    "stop": "2026-03-15 23:59:59 IST",
     "channel": "jio-3485",
     "title": "Politics Program, Khabar Dinbhar Ki",
     "subTitle": "Politics Program, Khabar Dinbhar Ki",

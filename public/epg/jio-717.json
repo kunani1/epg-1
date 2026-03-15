@@ -851,8 +851,18 @@
   },
   {
     "startRaw": "20260316073000",
-    "stopRaw": "20260316083000",
+    "stopRaw": "20260316080000",
     "start": "2026-03-16 13:00:00 IST",
+    "stop": "2026-03-16 13:30:00 IST",
+    "channel": "jio-717",
+    "title": "Khobor Dinbhor",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260316080000",
+    "stopRaw": "20260316083000",
+    "start": "2026-03-16 13:30:00 IST",
     "stop": "2026-03-16 14:00:00 IST",
     "channel": "jio-717",
     "title": "Khobor Dinbhor",
@@ -901,8 +911,18 @@
   },
   {
     "startRaw": "20260316103000",
-    "stopRaw": "20260316113000",
+    "stopRaw": "20260316110000",
     "start": "2026-03-16 16:00:00 IST",
+    "stop": "2026-03-16 16:30:00 IST",
+    "channel": "jio-717",
+    "title": "News18 Prime",
+    "subTitle": "The host sheds light on the latest and most important socio-economic and political news, updates and developments.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260316110000",
+    "stopRaw": "20260316113000",
+    "start": "2026-03-16 16:30:00 IST",
     "stop": "2026-03-16 17:00:00 IST",
     "channel": "jio-717",
     "title": "News18 Prime",
@@ -991,8 +1011,18 @@
   },
   {
     "startRaw": "20260316153000",
-    "stopRaw": "20260316163000",
+    "stopRaw": "20260316160000",
     "start": "2026-03-16 21:00:00 IST",
+    "stop": "2026-03-16 21:30:00 IST",
+    "channel": "jio-717",
+    "title": "Newsroom Live",
+    "subTitle": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+    "image": "http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"
+  },
+  {
+    "startRaw": "20260316160000",
+    "stopRaw": "20260316163000",
+    "start": "2026-03-16 21:30:00 IST",
     "stop": "2026-03-16 22:00:00 IST",
     "channel": "jio-717",
     "title": "Newsroom Live",
